@@ -217,59 +217,40 @@ const HUB = {
 
   /* ── GUARDIA DE LA SEMANA ────────────────────────────── */
   guardia: {
-    semana: "19 – 23 mayo 2026",
+    semana: "19 – 23 mayo 2026",   // ← cambia las fechas
     personas: [
       {
-        nombre: "Angie Oliveros",
+        nombre: "Nombre del agente",  // ← pon el nombre real
         rol: "Guardia principal",
         badge: "Esta semana",
         badgeClass: "badge-green",
         color: "#6366F1"
-      },
-      {
-        nombre: "Jordy Carmona",
-        rol: "Guardia secundaria",
-        badge: "Backup",
-        badgeClass: "badge-blue",
-        color: "#8B5CF6"
       }
+      // Puedes añadir más personas copiando el bloque de arriba
     ]
   },
 
   /* ── AVISOS DEL EQUIPO ───────────────────────────────── */
   avisos: [
-    {
-      titulo: "Support Journey — kick-off esta semana",
-      fecha: "20 may",
-      cuerpo: "Arranca el proceso de identificación de candidatos para Technical Support. Más info en el deck compartido por Ani.",
-      tag: "Importante",
-      tagClass: "tag-action"
-    },
-    {
-      titulo: "Recordatorio: rellenar el campo Location ID en los tickets",
-      fecha: "19 may",
-      cuerpo: "Asegúrate de añadir el Location ID antes de escalar a Back. Sin este dato el equipo de Last Tech no puede gestionar el ticket.",
-      tag: "Proceso",
-      tagClass: "tag-warning"
-    },
-    {
-      titulo: "Añade aquí tu aviso",
-      fecha: "21 may",
-      cuerpo: "Escribe aquí el contenido del aviso. Puedes editar o borrar este ejemplo.",
-      tag: "Info",
-      tagClass: "tag-info"
-    }
+    // Añade tus avisos aquí. Ejemplo:
+    // {
+    //   titulo: "Título del aviso",
+    //   fecha: "21 may",
+    //   cuerpo: "Texto del aviso...",
+    //   tag: "Importante",        // Importante / Proceso / Equipo / Info
+    //   tagClass: "tag-action"    // tag-action / tag-warning / tag-ok / tag-info
+    // },
   ],
 
   /* ── ESTADO DEL DESK ─────────────────────────────────── */
   desk: {
     stats: [
-      { num: "42",  label: "Tickets hoy" },
-      { num: "32",  label: "Cerrados" },
-      { num: "10",  label: "Pendientes" }
+      { num: "—",  label: "Tickets hoy" },   // ← actualiza el número
+      { num: "—",  label: "Cerrados" },
+      { num: "—",  label: "Pendientes" }
     ],
     urlDesk: "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases",
-    ultimaActualizacion: "20 may — 17:00"
+    ultimaActualizacion: "—"   // ← pon la fecha/hora de la última actualización
   },
 
   /* ── RECURSOS Y ENLACES ──────────────────────────────── */
