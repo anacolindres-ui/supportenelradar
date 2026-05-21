@@ -138,6 +138,33 @@
     .badge-blue  { background: #DBEAFE; color: #1E40AF; }
     .badge-purple{ background: #EDE9FE; color: #5B21B6; }
 
+    /* ── SEMIGUARDIA ROTACIÓN ── */
+    .semi-label {
+      font-size: 0.7rem; color: var(--muted); text-transform: uppercase;
+      letter-spacing: 0.5px; margin: 1rem 0 0.4rem;
+    }
+    .semi-table { width: 100%; border-collapse: collapse; }
+    .semi-table td {
+      padding: 5px 6px; font-size: 0.8rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .semi-table tr:last-child td { border-bottom: none; }
+    .semi-day  { color: var(--muted); width: 52px; }
+    .semi-name { font-weight: 600; color: var(--text); }
+    .semi-hoy td { background: #EEF2FF; }
+    .semi-hoy .semi-day { color: var(--accent); font-weight: 700; }
+    .semi-tag {
+      font-size: 0.62rem; background: var(--accent); color: #fff;
+      padding: 1px 6px; border-radius: 10px; margin-left: 6px;
+      vertical-align: middle;
+    }
+    .semi-week-sep td {
+      font-size: 0.67rem; color: var(--accent); font-weight: 700;
+      text-transform: uppercase; letter-spacing: 0.4px;
+      padding-top: 10px; padding-bottom: 3px;
+      border-bottom: 1px solid var(--border);
+    }
+
     /* ── AVISOS ── */
     .aviso {
       padding: 0.9rem 0;
@@ -217,7 +244,7 @@ const HUB = {
 
   /* ── GUARDIA DE LA SEMANA ────────────────────────────── */
   guardia: {
-    semana: "19 – 23 mayo 2026",
+    semana: "18 – 31 mayo 2026",
     personas: [
       {
         nombre: "Alberto",
@@ -225,14 +252,22 @@ const HUB = {
         badge: "Esta semana",
         badgeClass: "badge-green",
         color: "#6366F1"
-      },
-      {
-        nombre: "Jordy",
-        rol: "Semiguardia MX",
-        badge: "Hoy",
-        badgeClass: "badge-blue",
-        color: "#818CF8"
       }
+    ],
+    // Semiguardia MX: quien termina turno a las 17:30 Colombia (00:30 España)
+    // Actualizar cada martes/miércoles con la semana siguiente
+    semiguardia: [
+      { iso: "2026-05-21", dia: "Jue 21", nombre: "Jordy"  },
+      { iso: "2026-05-22", dia: "Vie 22", nombre: "Jordy"  },
+      { iso: "2026-05-23", dia: "Sáb 23", nombre: "Angie"  },
+      { iso: "2026-05-24", dia: "Dom 24", nombre: "Brayan" },
+      { iso: "2026-05-25", dia: "Lun 25", nombre: "Brayan" },
+      { iso: "2026-05-26", dia: "Mar 26", nombre: "Johan"  },
+      { iso: "2026-05-27", dia: "Mié 27", nombre: "Brayan" },
+      { iso: "2026-05-28", dia: "Jue 28", nombre: "Angie"  },
+      { iso: "2026-05-29", dia: "Vie 29", nombre: "Jordy"  },
+      { iso: "2026-05-30", dia: "Sáb 30", nombre: "Harold" },
+      { iso: "2026-05-31", dia: "Dom 31", nombre: "Harold" },
     ]
   },
 
@@ -374,19 +409,58 @@ function initials(name) {
   return name.split(" ").map(w => w[0]).slice(0, 2).join("").toUpperCase();
 }
 
+const todayISO = new Date().toLocaleDateString('sv-SE'); // "2026-05-21"
 const guardiaBody = document.getElementById("guardia-body");
+
+const personasHtml = HUB.guardia.personas.map(p => `
+  <div class="guardia-person">
+    <div class="avatar" style="background:${p.color}">${initials(p.nombre)}</div>
+    <div class="guardia-info">
+      <div class="guardia-name">${p.nombre}</div>
+      <div class="guardia-role">${p.rol}</div>
+    </div>
+    <span class="guardia-badge ${p.badgeClass}">${p.badge}</span>
+  </div>
+`).join("");
+
+let semiHtml = '';
+if (HUB.guardia.semiguardia && HUB.guardia.semiguardia.length) {
+  const isoToDate = iso => new Date(iso + 'T12:00:00');
+  const getMonday = d => {
+    const day = d.getDay();
+    const m = new Date(d);
+    m.setDate(d.getDate() - (day + 6) % 7);
+    return m.toLocaleDateString('sv-SE');
+  };
+  let lastWeek = null;
+  const rows = HUB.guardia.semiguardia.map(s => {
+    const d = isoToDate(s.iso);
+    const weekMon = getMonday(d);
+    let sepRow = '';
+    if (weekMon !== lastWeek) {
+      lastWeek = weekMon;
+      const monD = new Date(d);
+      monD.setDate(d.getDate() - (d.getDay() + 6) % 7);
+      const sunD = new Date(monD);
+      sunD.setDate(monD.getDate() + 6);
+      const fmt = dd => dd.getDate() + '/' + String(dd.getMonth() + 1).padStart(2, '0');
+      sepRow = `<tr class="semi-week-sep"><td colspan="2">Semana ${fmt(monD)} – ${fmt(sunD)}</td></tr>`;
+    }
+    const isHoy = s.iso === todayISO;
+    const tag = isHoy ? '<span class="semi-tag">Hoy</span>' : '';
+    return `${sepRow}<tr class="${isHoy ? 'semi-hoy' : ''}">
+      <td class="semi-day">${s.dia}</td>
+      <td class="semi-name">${s.nombre}${tag}</td>
+    </tr>`;
+  }).join('');
+  semiHtml = `<div class="semi-label">Semiguardia MX · cierre 17:30 Colombia</div>
+    <table class="semi-table">${rows}</table>`;
+}
+
 guardiaBody.innerHTML = `
   <div class="guardia-week">Semana del ${HUB.guardia.semana}</div>
-  ${HUB.guardia.personas.map(p => `
-    <div class="guardia-person">
-      <div class="avatar" style="background:${p.color}">${initials(p.nombre)}</div>
-      <div class="guardia-info">
-        <div class="guardia-name">${p.nombre}</div>
-        <div class="guardia-role">${p.rol}</div>
-      </div>
-      <span class="guardia-badge ${p.badgeClass}">${p.badge}</span>
-    </div>
-  `).join("")}
+  ${personasHtml}
+  ${semiHtml}
 `;
 
 // ── RENDER DESK ─────────────────────────────────────────
