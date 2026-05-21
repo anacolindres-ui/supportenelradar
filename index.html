@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Support Hub — Last.app</title>
+  <style>
+    :root {
+      --bg:       #F8FAFC;
+      --surface:  #FFFFFF;
+      --border:   #E2E8F0;
+      --muted:    #94A3B8;
+      --text:     #1E293B;
+      --subtext:  #475569;
+      --accent:   #6366F1;
+      --accent2:  #818CF8;
+      --green:    #10B981;
+      --yellow:   #F59E0B;
+      --red:      #EF4444;
+      --badge-bg: #EEF2FF;
+      --badge-tx: #4F46E5;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+    }
+
+    /* ── TOPBAR ── */
+    .topbar {
+      background: var(--accent);
+      padding: 0 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 56px;
+    }
+    .topbar-brand {
+      display: flex; align-items: center; gap: 10px;
+      color: #fff; font-weight: 700; font-size: 1rem; text-decoration: none;
+    }
+    .topbar-brand .dot {
+      width: 8px; height: 8px; border-radius: 50%;
+      background: #A5F3FC; display: inline-block;
+    }
+    .topbar-right {
+      color: rgba(255,255,255,0.7);
+      font-size: 0.8rem;
+    }
+
+    /* ── HERO ── */
+    .hero {
+      background: linear-gradient(135deg, #4F46E5 0%, #7C3AED 100%);
+      padding: 3rem 2rem 2.5rem;
+      text-align: center;
+      color: #fff;
+    }
+    .hero h1 {
+      font-size: 2.2rem; font-weight: 800; letter-spacing: -0.5px;
+      margin-bottom: 0.4rem;
+    }
+    .hero p {
+      color: rgba(255,255,255,0.75); font-size: 1rem;
+    }
+    .hero-meta {
+      margin-top: 1rem;
+      font-size: 0.78rem;
+      color: rgba(255,255,255,0.55);
+    }
+
+    /* ── LAYOUT ── */
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 4rem;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem;
+    }
+    @media (max-width: 640px) {
+      .container { grid-template-columns: 1fr; }
+    }
+    .full-width { grid-column: 1 / -1; }
+
+    /* ── CARD ── */
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .card-header {
+      padding: 1rem 1.25rem 0.75rem;
+      border-bottom: 1px solid var(--border);
+      display: flex; align-items: center; gap: 0.6rem;
+    }
+    .card-icon {
+      width: 30px; height: 30px; border-radius: 8px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1rem; flex-shrink: 0;
+    }
+    .card-title {
+      font-size: 0.9rem; font-weight: 700;
+      color: var(--text); text-transform: uppercase; letter-spacing: 0.5px;
+    }
+    .card-body { padding: 1.25rem; }
+
+    /* ── GUARDIA ── */
+    .guardia-week {
+      font-size: 0.72rem; color: var(--muted); margin-bottom: 1rem;
+      text-transform: uppercase; letter-spacing: 0.5px;
+    }
+    .guardia-person {
+      display: flex; align-items: center; gap: 0.9rem;
+      padding: 0.75rem;
+      background: var(--badge-bg);
+      border-radius: 10px;
+      margin-bottom: 0.6rem;
+    }
+    .guardia-person:last-child { margin-bottom: 0; }
+    .avatar {
+      width: 40px; height: 40px; border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      font-weight: 700; font-size: 0.85rem; color: #fff; flex-shrink: 0;
+    }
+    .guardia-info { flex: 1; }
+    .guardia-name { font-weight: 600; font-size: 0.9rem; color: var(--text); }
+    .guardia-role { font-size: 0.75rem; color: var(--subtext); margin-top: 1px; }
+    .guardia-badge {
+      font-size: 0.68rem; font-weight: 600; padding: 3px 8px;
+      border-radius: 20px; white-space: nowrap;
+    }
+    .badge-green { background: #D1FAE5; color: #065F46; }
+    .badge-blue  { background: #DBEAFE; color: #1E40AF; }
+    .badge-purple{ background: #EDE9FE; color: #5B21B6; }
+
+    /* ── AVISOS ── */
+    .aviso {
+      padding: 0.9rem 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .aviso:last-child { border-bottom: none; padding-bottom: 0; }
+    .aviso:first-child { padding-top: 0; }
+    .aviso-top {
+      display: flex; align-items: flex-start; justify-content: space-between;
+      gap: 0.5rem; margin-bottom: 0.35rem;
+    }
+    .aviso-title { font-weight: 600; font-size: 0.9rem; color: var(--text); }
+    .aviso-date  { font-size: 0.72rem; color: var(--muted); white-space: nowrap; flex-shrink: 0; }
+    .aviso-body  { font-size: 0.82rem; color: var(--subtext); line-height: 1.5; }
+    .aviso-tag {
+      display: inline-block; font-size: 0.67rem; font-weight: 600;
+      padding: 2px 7px; border-radius: 20px; margin-top: 6px;
+    }
+    .tag-info    { background: #DBEAFE; color: #1E40AF; }
+    .tag-warning { background: #FEF3C7; color: #92400E; }
+    .tag-action  { background: #FCE7F3; color: #9D174D; }
+    .tag-ok      { background: #D1FAE5; color: #065F46; }
+
+    /* ── ESTADO DESK ── */
+    .desk-stats {
+      display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.75rem;
+      margin-bottom: 1rem;
+    }
+    .stat-box {
+      background: var(--bg); border: 1px solid var(--border);
+      border-radius: 8px; padding: 0.8rem; text-align: center;
+    }
+    .stat-num { font-size: 1.6rem; font-weight: 800; color: var(--accent); line-height: 1; }
+    .stat-label { font-size: 0.7rem; color: var(--muted); margin-top: 4px; text-transform: uppercase; letter-spacing: 0.4px; }
+    .desk-link {
+      display: block; text-align: center; margin-top: 0.5rem;
+      padding: 0.6rem; background: var(--badge-bg);
+      border-radius: 8px; color: var(--accent); font-size: 0.82rem;
+      font-weight: 600; text-decoration: none;
+    }
+    .desk-link:hover { background: #E0E7FF; }
+
+    /* ── RECURSOS ── */
+    .recurso {
+      display: flex; align-items: center; gap: 0.75rem;
+      padding: 0.7rem 0.6rem; border-radius: 8px; text-decoration: none;
+      color: var(--text); transition: background 0.15s;
+    }
+    .recurso:hover { background: var(--bg); }
+    .recurso-icon {
+      width: 34px; height: 34px; border-radius: 8px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1rem; flex-shrink: 0;
+    }
+    .recurso-title { font-size: 0.88rem; font-weight: 600; }
+    .recurso-desc  { font-size: 0.73rem; color: var(--muted); }
+    .recurso-arrow { margin-left: auto; color: var(--muted); font-size: 0.9rem; }
+
+    /* ── FOOTER ── */
+    .footer {
+      text-align: center; padding: 1.5rem;
+      font-size: 0.75rem; color: var(--muted);
+      border-top: 1px solid var(--border);
+    }
+
+    /* ── EMPTY STATE ── */
+    .empty { color: var(--muted); font-size: 0.85rem; text-align: center; padding: 1rem 0; }
+  </style>
+</head>
+<body>
+
+<!-- ═══════════════════════════════════════════════════════
+     ✏️  ZONA DE EDICIÓN — Actualiza aquí el contenido
+     ═══════════════════════════════════════════════════════ -->
+<script>
+const HUB = {
+
+  /* ── GUARDIA DE LA SEMANA ────────────────────────────── */
+  guardia: {
+    semana: "19 – 23 mayo 2026",
+    personas: [
+      {
+        nombre: "Angie Oliveros",
+        rol: "Guardia principal",
+        badge: "Esta semana",
+        badgeClass: "badge-green",
+        color: "#6366F1"
+      },
+      {
+        nombre: "Jordy Carmona",
+        rol: "Guardia secundaria",
+        badge: "Backup",
+        badgeClass: "badge-blue",
+        color: "#8B5CF6"
+      }
+    ]
+  },
+
+  /* ── AVISOS DEL EQUIPO ───────────────────────────────── */
+  avisos: [
+    {
+      titulo: "Support Journey — kick-off esta semana",
+      fecha: "20 may",
+      cuerpo: "Arranca el proceso de identificación de candidatos para Technical Support. Más info en el deck compartido por Ani.",
+      tag: "Importante",
+      tagClass: "tag-action"
+    },
+    {
+      titulo: "Recordatorio: rellenar el campo Location ID en los tickets",
+      fecha: "19 may",
+      cuerpo: "Asegúrate de añadir el Location ID antes de escalar a Back. Sin este dato el equipo de Last Tech no puede gestionar el ticket.",
+      tag: "Proceso",
+      tagClass: "tag-warning"
+    },
+    {
+      titulo: "Novo agente incorporado: Johan Cortissoz (México)",
+      fecha: "19 may",
+      cuerpo: "Johan ya está activo en el desk. Si tenéis casos MX que requieran contexto local, podéis coordinarlo con él.",
+      tag: "Equipo",
+      tagClass: "tag-ok"
+    }
+  ],
+
+  /* ── ESTADO DEL DESK ─────────────────────────────────── */
+  desk: {
+    stats: [
+      { num: "42",  label: "Tickets hoy" },
+      { num: "32",  label: "Cerrados" },
+      { num: "10",  label: "Pendientes" }
+    ],
+    urlDesk: "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases",
+    ultimaActualizacion: "20 may — 17:00"
+  },
+
+  /* ── RECURSOS Y ENLACES ──────────────────────────────── */
+  recursos: [
+    {
+      titulo: "Zoho Desk",
+      desc: "Portal de tickets",
+      url: "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases",
+      icon: "🎫",
+      color: "#EEF2FF"
+    },
+    {
+      titulo: "Base de conocimiento",
+      desc: "Artículos y guías internas",
+      url: "https://desk.last.app/support/lastapp/ShowHomePage.do#Articles",
+      icon: "📚",
+      color: "#FEF3C7"
+    },
+    {
+      titulo: "Care Tools",
+      desc: "Dashboard interno del equipo",
+      url: "https://care.internal-apps.last.app",
+      icon: "🛠️",
+      color: "#D1FAE5"
+    },
+    {
+      titulo: "Slack — #cx-support",
+      desc: "Canal del equipo",
+      url: "https://last-app.slack.com",
+      icon: "💬",
+      color: "#FCE7F3"
+    },
+    {
+      titulo: "Guía de escalamiento",
+      desc: "Cuándo y cómo escalar a Back",
+      url: "#",
+      icon: "📋",
+      color: "#E0F2FE"
+    }
+  ]
+
+};
+</script>
+<!-- ═══════════════════════════════════════════════════════
+     Fin zona de edición
+     ═══════════════════════════════════════════════════════ -->
+
+
+<!-- TOPBAR -->
+<div class="topbar">
+  <a class="topbar-brand" href="#">
+    <span class="dot"></span>
+    Last.app &nbsp;·&nbsp; Support Hub
+  </a>
+  <div class="topbar-right" id="topbar-week"></div>
+</div>
+
+<!-- HERO -->
+<div class="hero">
+  <h1>Support Hub</h1>
+  <p>Todo lo que necesitas saber del equipo de soporte</p>
+  <div class="hero-meta" id="hero-meta"></div>
+</div>
+
+<!-- MAIN GRID -->
+<div class="container">
+
+  <!-- GUARDIA -->
+  <div class="card">
+    <div class="card-header">
+      <div class="card-icon" style="background:#EEF2FF">🛡️</div>
+      <span class="card-title">Guardia de la semana</span>
+    </div>
+    <div class="card-body" id="guardia-body"></div>
+  </div>
+
+  <!-- ESTADO DESK -->
+  <div class="card">
+    <div class="card-header">
+      <div class="card-icon" style="background:#D1FAE5">📊</div>
+      <span class="card-title">Estado del Desk</span>
+    </div>
+    <div class="card-body" id="desk-body"></div>
+  </div>
+
+  <!-- AVISOS -->
+  <div class="card full-width">
+    <div class="card-header">
+      <div class="card-icon" style="background:#FEF3C7">📣</div>
+      <span class="card-title">Avisos del equipo</span>
+    </div>
+    <div class="card-body" id="avisos-body"></div>
+  </div>
+
+  <!-- RECURSOS -->
+  <div class="card full-width">
+    <div class="card-header">
+      <div class="card-icon" style="background:#FCE7F3">🔗</div>
+      <span class="card-title">Recursos y enlaces</span>
+    </div>
+    <div class="card-body" id="recursos-body"></div>
+  </div>
+
+</div>
+
+<!-- FOOTER -->
+<div class="footer">
+  Actualizado por el equipo de Soporte &nbsp;·&nbsp; Last.app 2026
+</div>
+
+
+<script>
+// ── RENDER GUARDIA ──────────────────────────────────────
+function initials(name) {
+  return name.split(" ").map(w => w[0]).slice(0, 2).join("").toUpperCase();
+}
+
+const guardiaBody = document.getElementById("guardia-body");
+guardiaBody.innerHTML = `
+  <div class="guardia-week">Semana del ${HUB.guardia.semana}</div>
+  ${HUB.guardia.personas.map(p => `
+    <div class="guardia-person">
+      <div class="avatar" style="background:${p.color}">${initials(p.nombre)}</div>
+      <div class="guardia-info">
+        <div class="guardia-name">${p.nombre}</div>
+        <div class="guardia-role">${p.rol}</div>
+      </div>
+      <span class="guardia-badge ${p.badgeClass}">${p.badge}</span>
+    </div>
+  `).join("")}
+`;
+
+// ── RENDER DESK ─────────────────────────────────────────
+const deskBody = document.getElementById("desk-body");
+deskBody.innerHTML = `
+  <div class="desk-stats">
+    ${HUB.desk.stats.map(s => `
+      <div class="stat-box">
+        <div class="stat-num">${s.num}</div>
+        <div class="stat-label">${s.label}</div>
+      </div>
+    `).join("")}
+  </div>
+  <div style="font-size:0.72rem;color:var(--muted);margin-bottom:0.6rem;text-align:center">
+    Datos del ${HUB.desk.ultimaActualizacion}
+  </div>
+  <a class="desk-link" href="${HUB.desk.urlDesk}" target="_blank" rel="noopener">
+    Abrir Zoho Desk →
+  </a>
+`;
+
+// ── RENDER AVISOS ───────────────────────────────────────
+const avisosBody = document.getElementById("avisos-body");
+if (HUB.avisos.length === 0) {
+  avisosBody.innerHTML = '<div class="empty">No hay avisos en este momento.</div>';
+} else {
+  avisosBody.innerHTML = HUB.avisos.map(a => `
+    <div class="aviso">
+      <div class="aviso-top">
+        <div class="aviso-title">${a.titulo}</div>
+        <div class="aviso-date">${a.fecha}</div>
+      </div>
+      <div class="aviso-body">${a.cuerpo}</div>
+      <span class="aviso-tag ${a.tagClass}">${a.tag}</span>
+    </div>
+  `).join("");
+}
+
+// ── RENDER RECURSOS ─────────────────────────────────────
+const recursosBody = document.getElementById("recursos-body");
+recursosBody.innerHTML = `
+  <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:0.25rem">
+    ${HUB.recursos.map(r => `
+      <a class="recurso" href="${r.url}" target="_blank" rel="noopener">
+        <div class="recurso-icon" style="background:${r.color}">${r.icon}</div>
+        <div>
+          <div class="recurso-title">${r.titulo}</div>
+          <div class="recurso-desc">${r.desc}</div>
+        </div>
+        <span class="recurso-arrow">↗</span>
+      </a>
+    `).join("")}
+  </div>
+`;
+
+// ── META ────────────────────────────────────────────────
+document.getElementById("topbar-week").textContent = `Semana ${HUB.guardia.semana}`;
+document.getElementById("hero-meta").textContent =
+  `Última actualización: ${HUB.desk.ultimaActualizacion}`;
+</script>
+
+</body>
+</html>
