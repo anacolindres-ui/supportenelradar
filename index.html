@@ -141,7 +141,7 @@
     /* ── SEMIGUARDIA ROTACIÓN ── */
     .semi-label {
       font-size: 0.7rem; color: var(--muted); text-transform: uppercase;
-      letter-spacing: 0.5px; margin: 1rem 0 0.4rem;
+      letter-spacing: 0.5px; margin: 0 0 0.4rem;
     }
     .semi-table { width: 100%; border-collapse: collapse; }
     .semi-table td {
@@ -368,8 +368,17 @@ const HUB = {
     <div class="card-body" id="guardia-body"></div>
   </div>
 
-  <!-- ESTADO DESK -->
+  <!-- SEMIGUARDIA MX -->
   <div class="card">
+    <div class="card-header">
+      <div class="card-icon" style="background:#F0FDF4">🌙</div>
+      <span class="card-title">Semiguardia MX</span>
+    </div>
+    <div class="card-body" id="semiguardia-body"></div>
+  </div>
+
+  <!-- ESTADO DESK -->
+  <div class="card full-width">
     <div class="card-header">
       <div class="card-icon" style="background:#D1FAE5">📊</div>
       <span class="card-title">Estado del Desk</span>
@@ -409,59 +418,56 @@ function initials(name) {
   return name.split(" ").map(w => w[0]).slice(0, 2).join("").toUpperCase();
 }
 
-const todayISO = new Date().toLocaleDateString('sv-SE'); // "2026-05-21"
+const todayISO = new Date().toLocaleDateString('sv-SE');
+const isoToDate = iso => new Date(iso + 'T12:00:00');
+const getMonday = d => {
+  const m = new Date(d);
+  m.setDate(d.getDate() - (d.getDay() + 6) % 7);
+  return m.toLocaleDateString('sv-SE');
+};
+
+// Guardia principal
 const guardiaBody = document.getElementById("guardia-body");
-
-const personasHtml = HUB.guardia.personas.map(p => `
-  <div class="guardia-person">
-    <div class="avatar" style="background:${p.color}">${initials(p.nombre)}</div>
-    <div class="guardia-info">
-      <div class="guardia-name">${p.nombre}</div>
-      <div class="guardia-role">${p.rol}</div>
-    </div>
-    <span class="guardia-badge ${p.badgeClass}">${p.badge}</span>
-  </div>
-`).join("");
-
-let semiHtml = '';
-if (HUB.guardia.semiguardia && HUB.guardia.semiguardia.length) {
-  const isoToDate = iso => new Date(iso + 'T12:00:00');
-  const getMonday = d => {
-    const day = d.getDay();
-    const m = new Date(d);
-    m.setDate(d.getDate() - (day + 6) % 7);
-    return m.toLocaleDateString('sv-SE');
-  };
-  let lastWeek = null;
-  const rows = HUB.guardia.semiguardia.map(s => {
-    const d = isoToDate(s.iso);
-    const weekMon = getMonday(d);
-    let sepRow = '';
-    if (weekMon !== lastWeek) {
-      lastWeek = weekMon;
-      const monD = new Date(d);
-      monD.setDate(d.getDate() - (d.getDay() + 6) % 7);
-      const sunD = new Date(monD);
-      sunD.setDate(monD.getDate() + 6);
-      const fmt = dd => dd.getDate() + '/' + String(dd.getMonth() + 1).padStart(2, '0');
-      sepRow = `<tr class="semi-week-sep"><td colspan="2">Semana ${fmt(monD)} – ${fmt(sunD)}</td></tr>`;
-    }
-    const isHoy = s.iso === todayISO;
-    const tag = isHoy ? '<span class="semi-tag">Hoy</span>' : '';
-    return `${sepRow}<tr class="${isHoy ? 'semi-hoy' : ''}">
-      <td class="semi-day">${s.dia}</td>
-      <td class="semi-name">${s.nombre}${tag}</td>
-    </tr>`;
-  }).join('');
-  semiHtml = `<div class="semi-label">Semiguardia MX · cierre 17:30 Colombia</div>
-    <table class="semi-table">${rows}</table>`;
-}
-
 guardiaBody.innerHTML = `
   <div class="guardia-week">Semana del ${HUB.guardia.semana}</div>
-  ${personasHtml}
-  ${semiHtml}
+  ${HUB.guardia.personas.map(p => `
+    <div class="guardia-person">
+      <div class="avatar" style="background:${p.color}">${initials(p.nombre)}</div>
+      <div class="guardia-info">
+        <div class="guardia-name">${p.nombre}</div>
+        <div class="guardia-role">${p.rol}</div>
+      </div>
+      <span class="guardia-badge ${p.badgeClass}">${p.badge}</span>
+    </div>
+  `).join("")}
 `;
+
+// Semiguardia MX — solo semana actual
+const semiBody = document.getElementById("semiguardia-body");
+if (HUB.guardia.semiguardia && HUB.guardia.semiguardia.length) {
+  const thisWeekMon = getMonday(isoToDate(todayISO));
+  const weekEntries = HUB.guardia.semiguardia.filter(s =>
+    getMonday(isoToDate(s.iso)) === thisWeekMon
+  );
+  if (weekEntries.length) {
+    const rows = weekEntries.map(s => {
+      const isHoy = s.iso === todayISO;
+      const tag = isHoy ? '<span class="semi-tag">Hoy</span>' : '';
+      return `<tr class="${isHoy ? 'semi-hoy' : ''}">
+        <td class="semi-day">${s.dia}</td>
+        <td class="semi-name">${s.nombre}${tag}</td>
+      </tr>`;
+    }).join('');
+    semiBody.innerHTML = `
+      <div class="semi-label" style="margin-top:0">Cierre turno · 17:30 Colombia / 00:30 España</div>
+      <table class="semi-table">${rows}</table>
+    `;
+  } else {
+    semiBody.innerHTML = '<div class="empty">Sin datos para esta semana.</div>';
+  }
+} else {
+  semiBody.innerHTML = '<div class="empty">Sin datos configurados.</div>';
+}
 
 // ── RENDER DESK ─────────────────────────────────────────
 const deskBody = document.getElementById("desk-body");
