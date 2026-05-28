@@ -294,6 +294,18 @@ const HUB = {
     ultimaActualizacion: "27 may — 10:00"
   },
 
+  /* ── DATOS DEL MES (RINGOVER) ───────────────────────── */
+  mesActual: {
+    periodo: "Mayo 2026",
+    stats: [
+      { num: "4.697", label: "Llamadas totales" },
+      { num: "6%",    label: "Llamadas perdidas" },
+      { num: "4,8",   label: "CSAT llamadas ★" }
+    ],
+    nota: "42 encuestas respondidas · escala 1–5",
+    ultimaActualizacion: "27 may — 10:00"
+  },
+
   /* ── RECURSOS Y ENLACES ──────────────────────────────── */
   recursos: [
     {
@@ -380,6 +392,18 @@ const HUB = {
       <span class="card-title">Estado del Desk</span>
     </div>
     <div class="card-body" id="desk-body"></div>
+  </div>
+
+  <!-- DATOS DEL MES -->
+  <div class="card full-width">
+    <div class="card-header">
+      <div class="card-icon" style="background:#FEF3C7">📞</div>
+      <div>
+        <span class="card-title">Datos del mes</span>
+        <div style="font-size:0.72rem;color:var(--muted);margin-top:2px;letter-spacing:0.3px" id="mes-periodo"></div>
+      </div>
+    </div>
+    <div class="card-body" id="mes-body"></div>
   </div>
 
   <!-- AVISOS -->
@@ -481,6 +505,26 @@ deskBody.innerHTML = `
   <a class="desk-link" href="${HUB.desk.urlDesk}" target="_blank" rel="noopener">
     Abrir Zoho Desk →
   </a>
+`;
+
+// ── RENDER DATOS DEL MES ────────────────────────────────
+document.getElementById("mes-periodo").textContent = HUB.mesActual.periodo;
+const mesBody = document.getElementById("mes-body");
+mesBody.innerHTML = `
+  <div class="desk-stats">
+    ${HUB.mesActual.stats.map(s => `
+      <div class="stat-box">
+        <div class="stat-num">${s.num}</div>
+        <div class="stat-label">${s.label}</div>
+      </div>
+    `).join("")}
+  </div>
+  <div style="font-size:0.72rem;color:var(--muted);text-align:center;margin-bottom:0.3rem">
+    ${HUB.mesActual.nota}
+  </div>
+  <div style="font-size:0.72rem;color:var(--muted);text-align:center">
+    Datos del ${HUB.mesActual.ultimaActualizacion}
+  </div>
 `;
 
 // ── RENDER AVISOS ───────────────────────────────────────
