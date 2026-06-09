@@ -232,6 +232,102 @@
 
     /* ── EMPTY STATE ── */
     .empty { color: var(--muted); font-size: 0.85rem; text-align: center; padding: 1rem 0; }
+
+    /* ── TAB NAV ── */
+    .tab-nav-wrap {
+      background: var(--surface);
+      border-bottom: 2px solid var(--border);
+      position: sticky; top: 0; z-index: 10;
+    }
+    .tab-nav {
+      max-width: 960px; margin: 0 auto; padding: 0 1.5rem;
+      display: flex; gap: 0.25rem;
+    }
+    .tab-btn {
+      padding: 0.85rem 1.1rem;
+      font-size: 0.83rem; font-weight: 600; color: var(--muted);
+      border: none; background: none; cursor: pointer;
+      border-bottom: 2px solid transparent; margin-bottom: -2px;
+      transition: color 0.15s, border-color 0.15s;
+      display: flex; align-items: center; gap: 0.4rem;
+    }
+    .tab-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
+    .tab-btn:hover:not(.active) { color: var(--text); }
+
+    /* ── CENTRAL DE TICKETS ── */
+    #tab-ct {
+      max-width: 960px; margin: 0 auto;
+      padding: 2rem 1.5rem 4rem;
+      display: none;
+    }
+    .ct-toolbar {
+      display: flex; align-items: center; justify-content: space-between;
+      margin-bottom: 1.25rem; flex-wrap: wrap; gap: 0.75rem;
+    }
+    .ct-toggle {
+      display: flex; background: var(--bg);
+      border: 1px solid var(--border); border-radius: 8px; padding: 3px; gap: 3px;
+    }
+    .ct-toggle-btn {
+      padding: 0.4rem 0.9rem; font-size: 0.8rem; font-weight: 600;
+      color: var(--muted); border: none; background: none;
+      cursor: pointer; border-radius: 6px; transition: all 0.15s;
+    }
+    .ct-toggle-btn.active {
+      background: var(--surface); color: var(--accent);
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+    .ct-meta { font-size: 0.73rem; color: var(--muted); }
+    .ct-summary {
+      display: flex; gap: 0.75rem; margin-bottom: 1.25rem; flex-wrap: wrap;
+    }
+    .ct-summary-chip {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 8px; padding: 0.55rem 1rem;
+      font-size: 0.78rem; color: var(--subtext);
+    }
+    .ct-summary-chip strong { color: var(--text); }
+    .ct-group {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 12px; margin-bottom: 0.65rem; overflow: hidden;
+    }
+    .ct-group-header {
+      display: flex; align-items: center; gap: 0.75rem;
+      padding: 0.85rem 1.25rem; cursor: pointer; user-select: none;
+    }
+    .ct-group-header:hover { background: var(--bg); }
+    .ct-group-name { font-weight: 600; font-size: 0.9rem; color: var(--text); }
+    .ct-group-sub  { font-size: 0.73rem; color: var(--muted); margin-top: 1px; }
+    .ct-count {
+      font-size: 0.7rem; font-weight: 700;
+      background: #FEE2E2; color: #991B1B;
+      padding: 3px 9px; border-radius: 20px; white-space: nowrap; flex-shrink: 0;
+    }
+    .ct-count.two { background: #FEF3C7; color: #92400E; }
+    .ct-chevron {
+      color: var(--muted); font-size: 0.75rem;
+      transition: transform 0.2s; flex-shrink: 0;
+    }
+    .ct-group.open .ct-chevron { transform: rotate(180deg); }
+    .ct-tickets { display: none; border-top: 1px solid var(--border); }
+    .ct-group.open .ct-tickets { display: block; }
+    .ct-ticket-row {
+      display: flex; align-items: center; gap: 0.6rem;
+      padding: 0.65rem 1.25rem; border-bottom: 1px solid var(--border);
+      font-size: 0.82rem;
+    }
+    .ct-ticket-row:last-child { border-bottom: none; }
+    .ct-num  { color: var(--muted); font-size: 0.7rem; font-weight: 600; min-width: 52px; white-space: nowrap; }
+    .ct-subj { flex: 1; color: var(--text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .ct-ch   { font-size: 0.78rem; flex-shrink: 0; }
+    .ct-age  { font-size: 0.7rem; color: var(--muted); min-width: 28px; text-align: right; white-space: nowrap; flex-shrink: 0; }
+    .ct-link { color: var(--accent); text-decoration: none; font-size: 0.85rem; flex-shrink: 0; }
+    .ct-link:hover { color: var(--accent2); }
+    .ct-empty {
+      text-align: center; padding: 3.5rem 1rem; color: var(--muted); font-size: 0.88rem;
+    }
+    .ct-empty-icon { font-size: 2rem; margin-bottom: 0.5rem; }
+    .ct-empty small { display: block; font-size: 0.75rem; margin-top: 0.4rem; }
   </style>
 </head>
 <body>
@@ -357,8 +453,16 @@ const HUB = {
   <div class="hero-meta" id="hero-meta"></div>
 </div>
 
+<!-- TAB NAV -->
+<div class="tab-nav-wrap">
+  <nav class="tab-nav">
+    <button class="tab-btn active" id="tabBtn-hub" onclick="showTab('hub')">🏠 Support Hub</button>
+    <button class="tab-btn" id="tabBtn-ct" onclick="showTab('ct')">🎫 Central de Tickets</button>
+  </nav>
+</div>
+
 <!-- MAIN GRID -->
-<div class="container">
+<div class="container" id="tab-hub">
 
   <!-- GUARDIA -->
   <div class="card">
@@ -420,6 +524,19 @@ const HUB = {
     <div class="card-body" id="recursos-body"></div>
   </div>
 
+</div>
+
+<!-- CENTRAL DE TICKETS -->
+<div id="tab-ct">
+  <div class="ct-toolbar">
+    <div class="ct-toggle">
+      <button class="ct-toggle-btn active" id="ct-btn-location" onclick="setCTView('location')">Por Location</button>
+      <button class="ct-toggle-btn" id="ct-btn-contact" onclick="setCTView('contact')">Por Contacto</button>
+    </div>
+    <span class="ct-meta" id="ct-updated"></span>
+  </div>
+  <div id="ct-summary" class="ct-summary"></div>
+  <div id="ct-body"><div class="ct-empty"><div class="ct-empty-icon">⏳</div>Cargando...</div></div>
 </div>
 
 <!-- FOOTER -->
@@ -558,6 +675,90 @@ recursosBody.innerHTML = `
 document.getElementById("topbar-week").textContent = `Semana ${HUB.guardia.semana}`;
 document.getElementById("hero-meta").textContent =
   `Última actualización: ${HUB.desk.ultimaActualizacion}`;
+
+// ── TABS ─────────────────────────────────────────────────
+function showTab(tab) {
+  document.getElementById("tab-hub").style.display = tab === "hub" ? "" : "none";
+  document.getElementById("tab-ct").style.display  = tab === "ct"  ? "block" : "none";
+  document.querySelectorAll(".tab-btn").forEach(b => b.classList.remove("active"));
+  document.getElementById("tabBtn-" + tab).classList.add("active");
+  if (tab === "ct" && !ctData) loadCT();
+}
+
+// ── CENTRAL DE TICKETS ───────────────────────────────────
+let ctData = null;
+let ctView = "location";
+
+async function loadCT() {
+  document.getElementById("ct-body").innerHTML =
+    '<div class="ct-empty"><div class="ct-empty-icon">⏳</div>Cargando tickets...</div>';
+  try {
+    const res = await fetch("tickets-data.json?v=" + Date.now());
+    if (!res.ok) throw new Error("no file");
+    ctData = await res.json();
+    const d = new Date(ctData.lastUpdated);
+    document.getElementById("ct-updated").textContent =
+      "Actualizado: " + d.toLocaleString("es-ES", { day: "2-digit", month: "short", hour: "2-digit", minute: "2-digit" });
+    renderCT();
+  } catch {
+    document.getElementById("ct-body").innerHTML = `
+      <div class="ct-empty">
+        <div class="ct-empty-icon">📭</div>
+        Sin datos disponibles todavía.
+        <small>El GitHub Action generará <code>tickets-data.json</code> en la próxima ejecución.</small>
+      </div>`;
+  }
+}
+
+function renderCT() {
+  const items = ctView === "location" ? ctData.byLocation : ctData.byContact;
+  const summary = document.getElementById("ct-summary");
+  summary.innerHTML = `
+    <div class="ct-summary-chip">🗂 Tickets abiertos: <strong>${ctData.totalOpenTickets}</strong></div>
+    <div class="ct-summary-chip">🏪 Locations con 2+: <strong>${ctData.byLocation.length}</strong></div>
+    <div class="ct-summary-chip">👤 Contactos con 2+: <strong>${ctData.byContact.length}</strong></div>
+  `;
+  if (!items || items.length === 0) {
+    document.getElementById("ct-body").innerHTML =
+      '<div class="ct-empty"><div class="ct-empty-icon">✅</div>No hay clientes con más de un ticket abierto.</div>';
+    return;
+  }
+  document.getElementById("ct-body").innerHTML = items.map((g, i) => {
+    const name = ctView === "location" ? g.accountName : (g.contactName || g.email || "Sin nombre");
+    const sub  = ctView === "contact" && g.email && g.contactName !== g.email
+      ? `<div class="ct-group-sub">${g.email}</div>` : "";
+    const countCls = g.ticketCount <= 2 ? "ct-count two" : "ct-count";
+    const rows = g.tickets.map(t => {
+      const age = Math.floor((Date.now() - new Date(t.createdTime)) / 86400000);
+      const ageStr = age === 0 ? "hoy" : age + "d";
+      const ch = { Phone: "📞", Email: "📧", Chat: "💬" }[t.channel] || "·";
+      return `<div class="ct-ticket-row">
+        <span class="ct-num">#${t.number}</span>
+        <span class="ct-subj" title="${t.subject.replace(/"/g,'&quot;')}">${t.subject}</span>
+        <span class="ct-ch">${ch}</span>
+        <span class="ct-age">${ageStr}</span>
+        <a class="ct-link" href="${t.url}" target="_blank" rel="noopener">↗</a>
+      </div>`;
+    }).join("");
+    return `<div class="ct-group" id="ctg-${i}">
+      <div class="ct-group-header" onclick="toggleGroup('ctg-${i}')">
+        <div style="flex:1"><div class="ct-group-name">${name}</div>${sub}</div>
+        <span class="${countCls}">${g.ticketCount} tickets</span>
+        <span class="ct-chevron">▾</span>
+      </div>
+      <div class="ct-tickets">${rows}</div>
+    </div>`;
+  }).join("");
+}
+
+function toggleGroup(id) { document.getElementById(id).classList.toggle("open"); }
+
+function setCTView(view) {
+  ctView = view;
+  document.querySelectorAll(".ct-toggle-btn").forEach(b => b.classList.remove("active"));
+  document.getElementById("ct-btn-" + view).classList.add("active");
+  if (ctData) renderCT();
+}
 </script>
 
 </body>
