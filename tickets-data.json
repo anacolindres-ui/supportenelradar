@@ -1,34 +1,7 @@
 {
-  "lastUpdated": "2026-06-11T13:36:17.924312+00:00",
-  "totalOpenTickets": 75,
+  "lastUpdated": "2026-06-11T15:18:35.153932+00:00",
+  "totalOpenTickets": 82,
   "byLocation": [
-    {
-      "accountId": "45842000068112107",
-      "accountName": "EL BALCÓN DE LA SIERRA",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000125916686",
-          "number": "336950",
-          "subject": "Llamada saliente (00:15:32) de +34937377821 (Soporte) a +34607678658 ( Nacho)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-06-11T13:11:02Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125916686",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000125969044",
-          "number": "336945",
-          "subject": "Llamada entrante (00:34:39) de +34607678658 ( Nacho) a +34937377821 (Soporte)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-06-11T12:37:31Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125969044",
-          "assignee": "Dimitriz Rodriguez"
-        }
-      ]
-    },
     {
       "accountId": "45842000000594001",
       "accountName": "MISS SUSHI S.L.",
@@ -53,33 +26,6 @@
           "createdTime": "2026-06-05T19:17:56Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125783665",
           "assignee": "Alberto Poyato"
-        }
-      ]
-    },
-    {
-      "accountId": "45842000043955459",
-      "accountName": "PIZZERIA TOTO VITORIA SC",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000125962073",
-          "number": "336914",
-          "subject": "Alias en la Gestión de dispositivos",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-06-11T11:10:18Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125962073",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000125738019",
-          "number": "335612",
-          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34677329027 ( Beatriz)",
-          "status": "On Hold",
-          "channel": "Phone",
-          "createdTime": "2026-06-05T08:45:44Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125738019",
-          "assignee": "Javier Landaeta"
         }
       ]
     },
@@ -113,6 +59,38 @@
   ],
   "byContact": [
     {
+      "contactId": "45842000122800827",
+      "contactName": "support",
+      "email": "support@lasta.app",
+      "ticketCount": 3,
+      "tickets": [
+        {
+          "id": "45842000125976095",
+          "number": "336991",
+          "subject": "Thank you for choosing us! Your purchase details inside.",
+          "channel": "Email",
+          "createdTime": "2026-06-11T15:14:15Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125976095"
+        },
+        {
+          "id": "45842000125968639",
+          "number": "336987",
+          "subject": "Thank you for choosing us! Your purchase details inside.",
+          "channel": "Email",
+          "createdTime": "2026-06-11T15:12:35Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125968639"
+        },
+        {
+          "id": "45842000125968567",
+          "number": "336985",
+          "subject": "Thank you for choosing us! Your purchase details inside.",
+          "channel": "Email",
+          "createdTime": "2026-06-11T15:11:48Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125968567"
+        }
+      ]
+    },
+    {
       "contactId": "45842000087740581",
       "contactName": "Andrés",
       "email": "gestion@dulcesjuana.es",
@@ -133,30 +111,6 @@
           "channel": "Phone",
           "createdTime": "2026-06-05T17:10:35Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125754161"
-        }
-      ]
-    },
-    {
-      "contactId": "45842000030678055",
-      "contactName": "Beatriz",
-      "email": "vitoria@pizzeriatoto.es",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000125962073",
-          "number": "336914",
-          "subject": "Alias en la Gestión de dispositivos",
-          "channel": "Email",
-          "createdTime": "2026-06-11T11:10:18Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125962073"
-        },
-        {
-          "id": "45842000125738019",
-          "number": "335612",
-          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34677329027 ( Beatriz)",
-          "channel": "Phone",
-          "createdTime": "2026-06-05T08:45:44Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125738019"
         }
       ]
     },
@@ -205,30 +159,6 @@
           "channel": "Email",
           "createdTime": "2026-06-05T19:17:56Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125783665"
-        }
-      ]
-    },
-    {
-      "contactId": "45842000068101942",
-      "contactName": "Nacho",
-      "email": "",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000125916686",
-          "number": "336950",
-          "subject": "Llamada saliente (00:15:32) de +34937377821 (Soporte) a +34607678658 ( Nacho)",
-          "channel": "Phone",
-          "createdTime": "2026-06-11T13:11:02Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125916686"
-        },
-        {
-          "id": "45842000125969044",
-          "number": "336945",
-          "subject": "Llamada entrante (00:34:39) de +34607678658 ( Nacho) a +34937377821 (Soporte)",
-          "channel": "Phone",
-          "createdTime": "2026-06-11T12:37:31Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125969044"
         }
       ]
     },
