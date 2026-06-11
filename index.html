@@ -389,9 +389,11 @@ const HUB = {
     { nombre: "Fer",    dia: 7,  mes: 6  },
     { nombre: "Angie",  dia: 27, mes: 6  },
     { nombre: "Rai",    dia: 11, mes: 7  },
+    { nombre: "Vero",   dia: 24, mes: 7  },
     { nombre: "Javi",   dia: 5,  mes: 8  },
     { nombre: "Poyato", dia: 25, mes: 9  },
     { nombre: "Harold", dia: 2,  mes: 10 },
+    { nombre: "Ani",    dia: 17, mes: 12 },
   ],
 
   /* ── RECURSOS Y ENLACES ──────────────────────────────── */
@@ -481,15 +483,6 @@ const HUB = {
     <div class="card-body" id="semiguardia-body"></div>
   </div>
 
-  <!-- CUMPLEAÑOS -->
-  <div class="card full-width">
-    <div class="card-header">
-      <div class="card-icon" style="background:#FDF2F8">🎂</div>
-      <span class="card-title">Cumpleaños del equipo</span>
-    </div>
-    <div class="card-body" id="cumple-body"></div>
-  </div>
-
   <!-- ESTADO DESK -->
   <div class="card full-width">
     <div class="card-header">
@@ -518,6 +511,16 @@ const HUB = {
       <span class="card-title">Las Crónicas del Equipo</span>
     </div>
     <div class="card-body" id="avisos-body"></div>
+  </div>
+
+  <!-- CUMPLEAÑOS -->
+  <div class="card full-width">
+    <div class="card-header" id="cumple-header" onclick="toggleCumple()" style="cursor:pointer;user-select:none">
+      <div class="card-icon" style="background:#FDF2F8">🎂</div>
+      <span class="card-title">Prioridad alta: cumpleaños</span>
+      <span id="cumple-arrow" style="margin-left:auto;font-size:0.85rem;color:var(--muted)">▼</span>
+    </div>
+    <div class="card-body" id="cumple-body" style="display:none"></div>
   </div>
 
   <!-- RECURSOS -->
@@ -612,30 +615,21 @@ if (HUB.guardia.semiguardia && HUB.guardia.semiguardia.length) {
   const todayM = today.getMonth() + 1;
   const todayD = today.getDate();
 
-  function nextOccurrence(dia, mes) {
+  function diffDays(dia, mes) {
     const year = today.getFullYear();
-    const d = new Date(year, mes - 1, dia);
-    if (d < today && !(d.getDate() === todayD && d.getMonth() + 1 === todayM)) {
-      d.setFullYear(year + 1);
-    }
-    return d;
-  }
-
-  function diffDays(d) {
     const t = new Date(today.getFullYear(), today.getMonth(), today.getDate());
+    let d = new Date(year, mes - 1, dia);
+    if (d < t) d.setFullYear(year + 1);
     return Math.round((d - t) / 86400000);
   }
 
   const MESES = ["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"];
+  const avatarColors = ["#6366F1","#10B981","#F59E0B","#EF4444","#8B5CF6","#EC4899","#14B8A6","#F97316","#3B82F6","#84CC16","#06B6D4","#DB2777","#0EA5E9"];
 
-  const sorted = [...HUB.cumpleanos]
-    .map(p => ({ ...p, next: nextOccurrence(p.dia, p.mes) }))
-    .sort((a, b) => a.next - b.next);
-
-  const avatarColors = ["#6366F1","#10B981","#F59E0B","#EF4444","#8B5CF6","#EC4899","#14B8A6","#F97316","#3B82F6","#84CC16","#06B6D4"];
+  const sorted = [...HUB.cumpleanos].sort((a, b) => a.mes !== b.mes ? a.mes - b.mes : a.dia - b.dia);
 
   const rows = sorted.map((p, i) => {
-    const days = diffDays(p.next);
+    const days  = diffDays(p.dia, p.mes);
     const isToday = days === 0;
     const isSoon  = days <= 7 && days > 0;
     const fechaStr = `${p.dia} ${MESES[p.mes - 1]}`;
@@ -643,8 +637,8 @@ if (HUB.guardia.semiguardia && HUB.guardia.semiguardia.length) {
     const ini = p.nombre[0].toUpperCase();
 
     let badge = "";
-    if (isToday)      badge = `<span style="background:#FDF2F8;color:#DB2777;font-size:0.7rem;font-weight:600;padding:2px 8px;border-radius:99px;margin-left:8px">🎉 ¡Hoy!</span>`;
-    else if (isSoon)  badge = `<span style="background:#FEF3C7;color:#92400E;font-size:0.7rem;font-weight:600;padding:2px 8px;border-radius:99px;margin-left:8px">en ${days}d</span>`;
+    if (isToday)     badge = `<span style="background:#FDF2F8;color:#DB2777;font-size:0.7rem;font-weight:600;padding:2px 8px;border-radius:99px;margin-left:8px">🎉 ¡Hoy!</span>`;
+    else if (isSoon) badge = `<span style="background:#FEF3C7;color:#92400E;font-size:0.7rem;font-weight:600;padding:2px 8px;border-radius:99px;margin-left:8px">en ${days}d</span>`;
 
     return `
       <div style="display:flex;align-items:center;padding:0.55rem 0;border-bottom:1px solid var(--border);gap:0.75rem">
@@ -657,6 +651,14 @@ if (HUB.guardia.semiguardia && HUB.guardia.semiguardia.length) {
   document.getElementById("cumple-body").innerHTML =
     `<div style="padding:0 0.25rem">${rows}</div>`;
 })();
+
+function toggleCumple() {
+  const body  = document.getElementById("cumple-body");
+  const arrow = document.getElementById("cumple-arrow");
+  const open  = body.style.display !== "none";
+  body.style.display  = open ? "none" : "";
+  arrow.textContent   = open ? "▼" : "▲";
+}
 
 // ── RENDER DESK (dinámico desde hub-data.json) ──────────
 const deskBody = document.getElementById("desk-body");
