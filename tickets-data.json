@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-06-11T12:47:06.752250+00:00",
-  "totalOpenTickets": 76,
+  "lastUpdated": "2026-06-11T13:36:17.924312+00:00",
+  "totalOpenTickets": 75,
   "byLocation": [
+    {
+      "accountId": "45842000068112107",
+      "accountName": "EL BALCÓN DE LA SIERRA",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000125916686",
+          "number": "336950",
+          "subject": "Llamada saliente (00:15:32) de +34937377821 (Soporte) a +34607678658 ( Nacho)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-06-11T13:11:02Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125916686",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000125969044",
+          "number": "336945",
+          "subject": "Llamada entrante (00:34:39) de +34607678658 ( Nacho) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-06-11T12:37:31Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125969044",
+          "assignee": "Dimitriz Rodriguez"
+        }
+      ]
+    },
     {
       "accountId": "45842000000594001",
       "accountName": "MISS SUSHI S.L.",
@@ -85,38 +112,6 @@
     }
   ],
   "byContact": [
-    {
-      "contactId": "45842000106722466",
-      "contactName": "Yurest Solutions (Soporte Técnico)",
-      "email": "sat@yurest.com",
-      "ticketCount": 3,
-      "tickets": [
-        {
-          "id": "45842000125945622",
-          "number": "336734",
-          "subject": "Yurest Soporte Técnico: Solicitud Integración TPV Last App - Yurest (Padthaiwok)",
-          "channel": "Email",
-          "createdTime": "2026-06-10T16:06:43Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125945622"
-        },
-        {
-          "id": "45842000125864242",
-          "number": "336400",
-          "subject": "Yurest Soporte Técnico: Integración Yurest - Last App (Machaka Burger): Incidencia Productos sin OrganizationProductID",
-          "channel": "Email",
-          "createdTime": "2026-06-09T13:06:31Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125864242"
-        },
-        {
-          "id": "45842000125020642",
-          "number": "331376",
-          "subject": "[Yurest] Asunto: Solicitud Integración SUMUP - Yurest (Alto Nivel)",
-          "channel": "Email",
-          "createdTime": "2026-05-18T15:12:36Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125020642"
-        }
-      ]
-    },
     {
       "contactId": "45842000087740581",
       "contactName": "Andrés",
@@ -214,6 +209,30 @@
       ]
     },
     {
+      "contactId": "45842000068101942",
+      "contactName": "Nacho",
+      "email": "",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000125916686",
+          "number": "336950",
+          "subject": "Llamada saliente (00:15:32) de +34937377821 (Soporte) a +34607678658 ( Nacho)",
+          "channel": "Phone",
+          "createdTime": "2026-06-11T13:11:02Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125916686"
+        },
+        {
+          "id": "45842000125969044",
+          "number": "336945",
+          "subject": "Llamada entrante (00:34:39) de +34607678658 ( Nacho) a +34937377821 (Soporte)",
+          "channel": "Phone",
+          "createdTime": "2026-06-11T12:37:31Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125969044"
+        }
+      ]
+    },
+    {
       "contactId": "45842000023882997",
       "contactName": "Sebastian",
       "email": "info@wonderfoodibiza.com",
@@ -234,6 +253,30 @@
           "channel": "Phone",
           "createdTime": "2026-06-10T13:37:32Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125885530"
+        }
+      ]
+    },
+    {
+      "contactId": "45842000106722466",
+      "contactName": "Yurest Solutions (Soporte Técnico)",
+      "email": "sat@yurest.com",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000125945622",
+          "number": "336734",
+          "subject": "Yurest Soporte Técnico: Solicitud Integración TPV Last App - Yurest (Padthaiwok)",
+          "channel": "Email",
+          "createdTime": "2026-06-10T16:06:43Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125945622"
+        },
+        {
+          "id": "45842000125864242",
+          "number": "336400",
+          "subject": "Yurest Soporte Técnico: Integración Yurest - Last App (Machaka Burger): Incidencia Productos sin OrganizationProductID",
+          "channel": "Email",
+          "createdTime": "2026-06-09T13:06:31Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125864242"
         }
       ]
     }
