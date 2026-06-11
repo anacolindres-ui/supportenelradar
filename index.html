@@ -379,29 +379,6 @@ const HUB = {
     // },
   ],
 
-  /* ── ESTADO DEL DESK ─────────────────────────────────── */
-  desk: {
-    stats: [
-      { num: "83",  label: "Tickets hoy" },
-      { num: "78", label: "Cerrados" },
-      { num: "40", label: "Pendientes" }
-    ],
-    urlDesk: "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases",
-    ultimaActualizacion: "2 jun — 15:32"
-  },
-
-  /* ── DATOS DEL MES (RINGOVER) ───────────────────────── */
-  mesActual: {
-    periodo: "Mayo 2026",
-    stats: [
-      { num: "4.697", label: "Llamadas totales" },
-      { num: "6%",    label: "Llamadas perdidas" },
-      { num: "4,8",   label: "CSAT llamadas ★" }
-    ],
-    nota: "42 encuestas respondidas · escala 1–5",
-    ultimaActualizacion: "27 may — 10:00"
-  },
-
   /* ── RECURSOS Y ENLACES ──────────────────────────────── */
   recursos: [
     {
@@ -605,41 +582,69 @@ if (HUB.guardia.semiguardia && HUB.guardia.semiguardia.length) {
   semiBody.innerHTML = '<div class="empty">Sin datos configurados.</div>';
 }
 
-// ── RENDER DESK ─────────────────────────────────────────
+// ── RENDER DESK (dinámico desde hub-data.json) ──────────
 const deskBody = document.getElementById("desk-body");
-deskBody.innerHTML = `
-  <div class="desk-stats">
-    ${HUB.desk.stats.map(s => `
-      <div class="stat-box">
-        <div class="stat-num">${s.num}</div>
-        <div class="stat-label">${s.label}</div>
-      </div>
-    `).join("")}
-  </div>
-  <div style="font-size:0.72rem;color:var(--muted);margin-bottom:0.6rem;text-align:center">
-    Datos del ${HUB.desk.ultimaActualizacion}
-  </div>
-  <a class="desk-link" href="${HUB.desk.urlDesk}" target="_blank" rel="noopener">
-    Abrir Zoho Desk →
-  </a>
-`;
+deskBody.innerHTML = '<div class="empty">⏳ Cargando...</div>';
 
-// ── RENDER DATOS DEL MES ────────────────────────────────
-document.getElementById("mes-periodo").textContent = HUB.mesActual.periodo;
-const mesBody = document.getElementById("mes-body");
-mesBody.innerHTML = `
-  <div class="desk-stats">
-    ${HUB.mesActual.stats.map(s => `
-      <div class="stat-box">
-        <div class="stat-num">${s.num}</div>
-        <div class="stat-label">${s.label}</div>
+async function loadDesk() {
+  try {
+    const res = await fetch("hub-data.json?v=" + Date.now());
+    if (!res.ok) throw new Error();
+    const data = await res.json();
+    const d = data.desk;
+    deskBody.innerHTML = `
+      <div class="desk-stats">
+        ${d.stats.map(s => `
+          <div class="stat-box">
+            <div class="stat-num">${s.num}</div>
+            <div class="stat-label">${s.label}</div>
+          </div>
+        `).join("")}
       </div>
-    `).join("")}
-  </div>
-  <div style="font-size:0.72rem;color:var(--muted);text-align:center">
-    Datos del ${HUB.mesActual.ultimaActualizacion}
-  </div>
-`;
+      <div style="font-size:0.72rem;color:var(--muted);margin-bottom:0.6rem;text-align:center">
+        Datos del ${d.ultimaActualizacion}
+      </div>
+      <a class="desk-link" href="${d.urlDesk}" target="_blank" rel="noopener">
+        Abrir Zoho Desk →
+      </a>
+    `;
+    document.getElementById("hero-meta").textContent =
+      "Última actualización: " + d.ultimaActualizacion;
+  } catch {
+    deskBody.innerHTML = '<div class="empty">Sin datos disponibles.</div>';
+  }
+}
+loadDesk();
+
+// ── RENDER DATOS DEL MES (dinámico desde ringover-data.json) ──
+const mesBody = document.getElementById("mes-body");
+mesBody.innerHTML = '<div class="empty">⏳ Cargando...</div>';
+
+async function loadMes() {
+  try {
+    const res = await fetch("ringover-data.json?v=" + Date.now());
+    if (!res.ok) throw new Error();
+    const m = await res.json();
+    document.getElementById("mes-periodo").textContent = m.periodo;
+    mesBody.innerHTML = `
+      <div class="desk-stats">
+        ${m.stats.map(s => `
+          <div class="stat-box">
+            <div class="stat-num">${s.num}</div>
+            <div class="stat-label">${s.label}</div>
+          </div>
+        `).join("")}
+      </div>
+      <div style="font-size:0.72rem;color:var(--muted);text-align:center">
+        ${m.nota ? `<div style="margin-bottom:0.2rem">${m.nota}</div>` : ""}
+        Datos del ${m.ultimaActualizacion}
+      </div>
+    `;
+  } catch {
+    mesBody.innerHTML = '<div class="empty">Sin datos disponibles.</div>';
+  }
+}
+loadMes();
 
 // ── RENDER AVISOS ───────────────────────────────────────
 const avisosBody = document.getElementById("avisos-body");
@@ -677,8 +682,6 @@ recursosBody.innerHTML = `
 
 // ── META ────────────────────────────────────────────────
 document.getElementById("topbar-week").textContent = `Semana ${HUB.guardia.semana}`;
-document.getElementById("hero-meta").textContent =
-  `Última actualización: ${HUB.desk.ultimaActualizacion}`;
 
 // ── TABS ─────────────────────────────────────────────────
 function showTab(tab) {
