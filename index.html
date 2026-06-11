@@ -379,6 +379,21 @@ const HUB = {
     // },
   ],
 
+  /* ── CUMPLEAÑOS DEL EQUIPO ──────────────────────────── */
+  cumpleanos: [
+    { nombre: "Trini",  dia: 17, mes: 1  },
+    { nombre: "Brayan", dia: 31, mes: 1  },
+    { nombre: "Johan",  dia: 17, mes: 4  },
+    { nombre: "Jordy",  dia: 25, mes: 4  },
+    { nombre: "Dimi",   dia: 28, mes: 4  },
+    { nombre: "Fer",    dia: 7,  mes: 6  },
+    { nombre: "Angie",  dia: 27, mes: 6  },
+    { nombre: "Rai",    dia: 11, mes: 7  },
+    { nombre: "Javi",   dia: 5,  mes: 8  },
+    { nombre: "Poyato", dia: 25, mes: 9  },
+    { nombre: "Harold", dia: 2,  mes: 10 },
+  ],
+
   /* ── RECURSOS Y ENLACES ──────────────────────────────── */
   recursos: [
     {
@@ -464,6 +479,15 @@ const HUB = {
       <span class="card-title">Semiguardia MX</span>
     </div>
     <div class="card-body" id="semiguardia-body"></div>
+  </div>
+
+  <!-- CUMPLEAÑOS -->
+  <div class="card full-width">
+    <div class="card-header">
+      <div class="card-icon" style="background:#FDF2F8">🎂</div>
+      <span class="card-title">Cumpleaños del equipo</span>
+    </div>
+    <div class="card-body" id="cumple-body"></div>
   </div>
 
   <!-- ESTADO DESK -->
@@ -581,6 +605,58 @@ if (HUB.guardia.semiguardia && HUB.guardia.semiguardia.length) {
 } else {
   semiBody.innerHTML = '<div class="empty">Sin datos configurados.</div>';
 }
+
+// ── RENDER CUMPLEAÑOS ───────────────────────────────────
+(function() {
+  const today = new Date();
+  const todayM = today.getMonth() + 1;
+  const todayD = today.getDate();
+
+  function nextOccurrence(dia, mes) {
+    const year = today.getFullYear();
+    const d = new Date(year, mes - 1, dia);
+    if (d < today && !(d.getDate() === todayD && d.getMonth() + 1 === todayM)) {
+      d.setFullYear(year + 1);
+    }
+    return d;
+  }
+
+  function diffDays(d) {
+    const t = new Date(today.getFullYear(), today.getMonth(), today.getDate());
+    return Math.round((d - t) / 86400000);
+  }
+
+  const MESES = ["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"];
+
+  const sorted = [...HUB.cumpleanos]
+    .map(p => ({ ...p, next: nextOccurrence(p.dia, p.mes) }))
+    .sort((a, b) => a.next - b.next);
+
+  const avatarColors = ["#6366F1","#10B981","#F59E0B","#EF4444","#8B5CF6","#EC4899","#14B8A6","#F97316","#3B82F6","#84CC16","#06B6D4"];
+
+  const rows = sorted.map((p, i) => {
+    const days = diffDays(p.next);
+    const isToday = days === 0;
+    const isSoon  = days <= 7 && days > 0;
+    const fechaStr = `${p.dia} ${MESES[p.mes - 1]}`;
+    const color = avatarColors[i % avatarColors.length];
+    const ini = p.nombre[0].toUpperCase();
+
+    let badge = "";
+    if (isToday)      badge = `<span style="background:#FDF2F8;color:#DB2777;font-size:0.7rem;font-weight:600;padding:2px 8px;border-radius:99px;margin-left:8px">🎉 ¡Hoy!</span>`;
+    else if (isSoon)  badge = `<span style="background:#FEF3C7;color:#92400E;font-size:0.7rem;font-weight:600;padding:2px 8px;border-radius:99px;margin-left:8px">en ${days}d</span>`;
+
+    return `
+      <div style="display:flex;align-items:center;padding:0.55rem 0;border-bottom:1px solid var(--border);gap:0.75rem">
+        <div style="width:34px;height:34px;border-radius:50%;background:${color};color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:0.85rem;flex-shrink:0">${ini}</div>
+        <div style="flex:1;font-weight:500">${p.nombre}${badge}</div>
+        <div style="font-size:0.8rem;color:var(--subtext)">${fechaStr}</div>
+      </div>`;
+  }).join("");
+
+  document.getElementById("cumple-body").innerHTML =
+    `<div style="padding:0 0.25rem">${rows}</div>`;
+})();
 
 // ── RENDER DESK (dinámico desde hub-data.json) ──────────
 const deskBody = document.getElementById("desk-body");
