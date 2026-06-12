@@ -1,7 +1,44 @@
 {
-  "lastUpdated": "2026-06-12T18:50:51.056593+00:00",
-  "totalOpenTickets": 70,
+  "lastUpdated": "2026-06-12T19:45:22.282888+00:00",
+  "totalOpenTickets": 81,
   "byLocation": [
+    {
+      "accountId": "45842000123841878",
+      "accountName": "LOS CRUSTACEOS",
+      "ticketCount": 3,
+      "tickets": [
+        {
+          "id": "45842000126014419",
+          "number": "337280",
+          "subject": "Llamada saliente (00:00:00) de +525597219950 (Mexico) a +525568002157 ( Rodrigo Osvaldo Suarez)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-06-12T19:10:51Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126014419",
+          "assignee": "Javier Landaeta"
+        },
+        {
+          "id": "45842000126022395",
+          "number": "337279",
+          "subject": "Llamada saliente (00:00:00) de +525597219950 (Mexico) a +525568002157 ( Rodrigo Osvaldo Suarez)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-06-12T19:09:08Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126022395",
+          "assignee": "Javier Landaeta"
+        },
+        {
+          "id": "45842000125832492",
+          "number": "336501",
+          "subject": "LOS CRUSTACEOS //  no imprime ticket",
+          "status": "On Hold",
+          "channel": "Phone",
+          "createdTime": "2026-06-09T21:11:00Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125832492",
+          "assignee": "Javier Landaeta"
+        }
+      ]
+    },
     {
       "accountId": "45842000074321423",
       "accountName": "Trinidad Last",
@@ -68,6 +105,38 @@
     }
   ],
   "byContact": [
+    {
+      "contactId": "45842000123841938",
+      "contactName": "Rodrigo Osvaldo Suarez",
+      "email": "rodrigo-nio@hotmail.com",
+      "ticketCount": 3,
+      "tickets": [
+        {
+          "id": "45842000126014419",
+          "number": "337280",
+          "subject": "Llamada saliente (00:00:00) de +525597219950 (Mexico) a +525568002157 ( Rodrigo Osvaldo Suarez)",
+          "channel": "Phone",
+          "createdTime": "2026-06-12T19:10:51Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126014419"
+        },
+        {
+          "id": "45842000126022395",
+          "number": "337279",
+          "subject": "Llamada saliente (00:00:00) de +525597219950 (Mexico) a +525568002157 ( Rodrigo Osvaldo Suarez)",
+          "channel": "Phone",
+          "createdTime": "2026-06-12T19:09:08Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126022395"
+        },
+        {
+          "id": "45842000125832492",
+          "number": "336501",
+          "subject": "LOS CRUSTACEOS //  no imprime ticket",
+          "channel": "Phone",
+          "createdTime": "2026-06-09T21:11:00Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125832492"
+        }
+      ]
+    },
     {
       "contactId": "45842000087740581",
       "contactName": "Andrés",
