@@ -1,7 +1,44 @@
 {
-  "lastUpdated": "2026-06-12T13:23:38.124834+00:00",
-  "totalOpenTickets": 71,
+  "lastUpdated": "2026-06-12T15:12:25.482829+00:00",
+  "totalOpenTickets": 76,
   "byLocation": [
+    {
+      "accountId": "45842000074321423",
+      "accountName": "Trinidad Last",
+      "ticketCount": 3,
+      "tickets": [
+        {
+          "id": "45842000126025270",
+          "number": "337224",
+          "subject": "Llamada saliente (00:00:19) de +34937377821 (Soporte) a +34633168558 ( prueba trini)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-06-12T14:02:41Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126025270",
+          "assignee": "Ana Colindres"
+        },
+        {
+          "id": "45842000125968857",
+          "number": "337014",
+          "subject": "Yin Yang problema con tablet",
+          "status": "On Hold",
+          "channel": "Email",
+          "createdTime": "2026-06-11T16:41:17Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125968857",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000125906210",
+          "number": "336639",
+          "subject": "Miku Poke: Pedidos de Rappi no entran",
+          "status": "On Hold",
+          "channel": "Phone",
+          "createdTime": "2026-06-10T11:29:30Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125906210",
+          "assignee": "Trinidad Larrain Punti"
+        }
+      ]
+    },
     {
       "accountId": "45842000099598578",
       "accountName": "Pablo Ruiz Rebollo LAST",
@@ -30,29 +67,29 @@
       ]
     },
     {
-      "accountId": "45842000074321423",
-      "accountName": "Trinidad Last",
+      "accountId": "45842000023882971",
+      "accountName": "WONDERFOOD IBIZA",
       "ticketCount": 2,
       "tickets": [
         {
-          "id": "45842000125968857",
-          "number": "337014",
-          "subject": "Yin Yang problema con tablet",
-          "status": "On Hold",
-          "channel": "Email",
-          "createdTime": "2026-06-11T16:41:17Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125968857",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000125906210",
-          "number": "336639",
-          "subject": "Miku Poke: Pedidos de Rappi no entran",
+          "id": "45842000126016148",
+          "number": "337230",
+          "subject": "WONDERFOOD IBIZA // División automática de tickets en integración Honei",
           "status": "On Hold",
           "channel": "Phone",
-          "createdTime": "2026-06-10T11:29:30Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125906210",
+          "createdTime": "2026-06-12T14:25:11Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126016148",
           "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000125923203",
+          "number": "336732",
+          "subject": "WONDERFOOD IBIZA // posible error en el ticket con modificadores",
+          "status": "On Hold",
+          "channel": "Phone",
+          "createdTime": "2026-06-10T16:03:10Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125923203",
+          "assignee": "Javier Landaeta"
         }
       ]
     }
@@ -79,6 +116,54 @@
           "channel": "Phone",
           "createdTime": "2026-06-05T17:10:35Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125754161"
+        }
+      ]
+    },
+    {
+      "contactId": "45842000044206482",
+      "contactName": "Karen",
+      "email": "saboresdelamama22@gmail.com",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000126022271",
+          "number": "337228",
+          "subject": "Llamada saliente (00:02:28) de +34937377821 (Soporte) a +34698703679 ( Karen)",
+          "channel": "Phone",
+          "createdTime": "2026-06-12T14:19:04Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126022271"
+        },
+        {
+          "id": "45842000126016082",
+          "number": "337227",
+          "subject": "Llamada entrante (00:05:19) de +34698703679 ( Karen) a +34937377821 (Soporte)",
+          "channel": "Phone",
+          "createdTime": "2026-06-12T14:17:05Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126016082"
+        }
+      ]
+    },
+    {
+      "contactId": "45842000023882997",
+      "contactName": "Sebastian",
+      "email": "info@wonderfoodibiza.com",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000126016148",
+          "number": "337230",
+          "subject": "WONDERFOOD IBIZA // División automática de tickets en integración Honei",
+          "channel": "Phone",
+          "createdTime": "2026-06-12T14:25:11Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126016148"
+        },
+        {
+          "id": "45842000125923203",
+          "number": "336732",
+          "subject": "WONDERFOOD IBIZA // posible error en el ticket con modificadores",
+          "channel": "Phone",
+          "createdTime": "2026-06-10T16:03:10Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125923203"
         }
       ]
     },
