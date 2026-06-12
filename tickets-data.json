@@ -1,34 +1,7 @@
 {
-  "lastUpdated": "2026-06-12T07:52:04.990257+00:00",
-  "totalOpenTickets": 85,
+  "lastUpdated": "2026-06-12T09:35:41.928208+00:00",
+  "totalOpenTickets": 74,
   "byLocation": [
-    {
-      "accountId": "45842000000855121",
-      "accountName": "Miss Sushi Pozuelo",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000126026001",
-          "number": "337083",
-          "subject": "Llamada saliente (00:00:06) de +34937377821 (Soporte) a +34661626129 ( Arcangel)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-06-12T07:39:19Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126026001",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000126015003",
-          "number": "337080",
-          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34661626129 ( Arcangel)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-06-12T07:37:37Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126015003",
-          "assignee": "Alberto Poyato"
-        }
-      ]
-    },
     {
       "accountId": "45842000000594001",
       "accountName": "MISS SUSHI S.L.",
@@ -57,6 +30,33 @@
       ]
     },
     {
+      "accountId": "45842000099598578",
+      "accountName": "Pablo Ruiz Rebollo LAST",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000125992536",
+          "number": "337111",
+          "subject": "Reporte en tiempo real Wurlitzer",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-06-12T09:00:51Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125992536",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000125891763",
+          "number": "336660",
+          "subject": "Wurlitzer Ballroom dudas tecnicas",
+          "status": "On Hold",
+          "channel": "Email",
+          "createdTime": "2026-06-10T12:27:37Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125891763",
+          "assignee": "Raimundo Garcia"
+        }
+      ]
+    },
+    {
       "accountId": "45842000074321423",
       "accountName": "Trinidad Last",
       "ticketCount": 2,
@@ -65,7 +65,7 @@
           "id": "45842000125968857",
           "number": "337014",
           "subject": "Yin Yang problema con tablet",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Email",
           "createdTime": "2026-06-11T16:41:17Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125968857",
@@ -86,50 +86,34 @@
   ],
   "byContact": [
     {
-      "contactId": "45842000032723843",
-      "contactName": "+34675946031",
-      "email": "",
-      "ticketCount": 2,
+      "contactId": "45842000106722466",
+      "contactName": "Yurest Solutions (Soporte Técnico)",
+      "email": "sat@yurest.com",
+      "ticketCount": 3,
       "tickets": [
         {
-          "id": "45842000126021009",
-          "number": "337082",
-          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34675946031 ( +34675946031)",
-          "channel": "Phone",
-          "createdTime": "2026-06-12T07:38:35Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126021009"
+          "id": "45842000125992666",
+          "number": "337114",
+          "subject": "Yurest Soporte Técnico: Activar Webhooks - Cliente Roost Chicken (Macaroni operaciones SL)",
+          "channel": "Email",
+          "createdTime": "2026-06-12T09:08:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125992666"
         },
         {
-          "id": "45842000126022001",
-          "number": "337081",
-          "subject": "Llamada saliente (00:00:06) de +34937377821 (Soporte) a +34675946031 ( +34675946031)",
-          "channel": "Phone",
-          "createdTime": "2026-06-12T07:38:08Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126022001"
-        }
-      ]
-    },
-    {
-      "contactId": "45842000125236231",
-      "contactName": "Alvaro",
-      "email": "info@malvadasushi.com",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000126013022",
-          "number": "337085",
-          "subject": "Llamada saliente (00:00:01) de +34937377821 (Soporte) a +34854711505 ( Alvaro)",
-          "channel": "Phone",
-          "createdTime": "2026-06-12T07:40:15Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126013022"
+          "id": "45842000125945622",
+          "number": "336734",
+          "subject": "Yurest Soporte Técnico: Solicitud Integración TPV Last App - Yurest (Padthaiwok)",
+          "channel": "Email",
+          "createdTime": "2026-06-10T16:06:43Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125945622"
         },
         {
-          "id": "45842000126029001",
-          "number": "337084",
-          "subject": "Llamada saliente de +34937377821 (Soporte) a +34854711505 ( Alvaro)",
-          "channel": "Phone",
-          "createdTime": "2026-06-12T07:40:13Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126029001"
+          "id": "45842000125864242",
+          "number": "336400",
+          "subject": "Yurest Soporte Técnico: Integración Yurest - Last App (Machaka Burger): Incidencia Productos sin OrganizationProductID",
+          "channel": "Email",
+          "createdTime": "2026-06-09T13:06:31Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125864242"
         }
       ]
     },
@@ -158,30 +142,6 @@
       ]
     },
     {
-      "contactId": "45842000020700513",
-      "contactName": "Arcangel",
-      "email": "reservas.pozuelo@misssushi.es",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000126026001",
-          "number": "337083",
-          "subject": "Llamada saliente (00:00:06) de +34937377821 (Soporte) a +34661626129 ( Arcangel)",
-          "channel": "Phone",
-          "createdTime": "2026-06-12T07:39:19Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126026001"
-        },
-        {
-          "id": "45842000126015003",
-          "number": "337080",
-          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34661626129 ( Arcangel)",
-          "channel": "Phone",
-          "createdTime": "2026-06-12T07:37:37Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126015003"
-        }
-      ]
-    },
-    {
       "contactId": "45842000032294756",
       "contactName": "Javier Avendaño",
       "email": "javier.it@misssushi.es",
@@ -202,30 +162,6 @@
           "channel": "Email",
           "createdTime": "2026-06-05T19:17:56Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125783665"
-        }
-      ]
-    },
-    {
-      "contactId": "45842000106722466",
-      "contactName": "Yurest Solutions (Soporte Técnico)",
-      "email": "sat@yurest.com",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000125945622",
-          "number": "336734",
-          "subject": "Yurest Soporte Técnico: Solicitud Integración TPV Last App - Yurest (Padthaiwok)",
-          "channel": "Email",
-          "createdTime": "2026-06-10T16:06:43Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125945622"
-        },
-        {
-          "id": "45842000125864242",
-          "number": "336400",
-          "subject": "Yurest Soporte Técnico: Integración Yurest - Last App (Machaka Burger): Incidencia Productos sin OrganizationProductID",
-          "channel": "Email",
-          "createdTime": "2026-06-09T13:06:31Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125864242"
         }
       ]
     }
