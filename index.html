@@ -510,6 +510,18 @@ const HUB = {
     <div class="card-body" id="mes-body"></div>
   </div>
 
+  <!-- MES EN CURSO -->
+  <div class="card full-width">
+    <div class="card-header">
+      <div class="card-icon" style="background:#ECFDF5">📈</div>
+      <div>
+        <span class="card-title">Mes en curso</span>
+        <div style="font-size:0.72rem;color:var(--muted);margin-top:2px;letter-spacing:0.3px" id="mes-actual-periodo"></div>
+      </div>
+    </div>
+    <div class="card-body" id="mes-actual-body"></div>
+  </div>
+
   <!-- AVISOS -->
   <div class="card full-width">
     <div class="card-header">
@@ -729,6 +741,36 @@ async function loadMes() {
   }
 }
 loadMes();
+
+// ── RENDER MES EN CURSO (ringover-mes-actual.json) ──────
+const mesActualBody = document.getElementById("mes-actual-body");
+mesActualBody.innerHTML = '<div class="empty">⏳ Cargando...</div>';
+
+async function loadMesActual() {
+  try {
+    const res = await fetch("ringover-mes-actual.json?v=" + Date.now());
+    if (!res.ok) throw new Error();
+    const m = await res.json();
+    document.getElementById("mes-actual-periodo").textContent = m.periodo;
+    mesActualBody.innerHTML = `
+      <div class="desk-stats">
+        ${m.stats.map(s => `
+          <div class="stat-box">
+            <div class="stat-num">${s.num}</div>
+            <div class="stat-label">${s.label}</div>
+          </div>
+        `).join("")}
+      </div>
+      <div style="font-size:0.72rem;color:var(--muted);text-align:center">
+        ${m.nota ? `<div style="margin-bottom:0.2rem">${m.nota}</div>` : ""}
+        ${m.ultimaActualizacion !== "pendiente" ? `Datos del ${m.ultimaActualizacion}` : "Aún sin datos este mes"}
+      </div>
+    `;
+  } catch {
+    mesActualBody.innerHTML = '<div class="empty">Sin datos disponibles.</div>';
+  }
+}
+loadMesActual();
 
 // ── RENDER AVISOS ───────────────────────────────────────
 const avisosBody = document.getElementById("avisos-body");
