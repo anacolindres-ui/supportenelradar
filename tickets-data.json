@@ -1,58 +1,41 @@
 {
-  "lastUpdated": "2026-06-16T12:41:41.741092+00:00",
-  "totalOpenTickets": 85,
+  "lastUpdated": "2026-06-16T14:46:23.686093+00:00",
+  "totalOpenTickets": 71,
   "byLocation": [
     {
-      "accountId": "45842000126028191",
-      "accountName": "Fresora 1 - Carrer de Pelai",
-      "ticketCount": 2,
+      "accountId": "45842000023882971",
+      "accountName": "WONDERFOOD IBIZA",
+      "ticketCount": 3,
       "tickets": [
         {
-          "id": "45842000126129071",
-          "number": "337522",
-          "subject": "Fresora 1 -Carrer de Pelai // Pedido de Waitry no se integra en LastApp",
-          "status": "On Hold",
-          "channel": "Phone",
-          "createdTime": "2026-06-15T09:05:55Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126129071",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000126094001",
-          "number": "337485",
-          "subject": "Fresora - Vita Core SL",
-          "status": "On Hold",
-          "channel": "Email",
-          "createdTime": "2026-06-15T07:13:25Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126094001",
-          "assignee": "Fernando Poza"
-        }
-      ]
-    },
-    {
-      "accountId": "45842000125567129",
-      "accountName": "ORIGIN A_A_",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000126116547",
-          "number": "337860",
-          "subject": "Llamada saliente (00:05:42) de +34937377821 (Soporte) a +34635085228 ( Luis Martinez)",
+          "id": "45842000126120366",
+          "number": "337892",
+          "subject": "Llamada saliente (00:02:52) de +34937377821 (Soporte) a +34645579138 ( Sebastian)",
           "status": "Open",
           "channel": "Phone",
-          "createdTime": "2026-06-16T12:35:16Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126116547",
+          "createdTime": "2026-06-16T14:11:28Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126120366",
           "assignee": "Fernando Poza"
         },
         {
-          "id": "45842000126102863",
-          "number": "337853",
-          "subject": "Llamada saliente (00:01:20) de +34937377821 (Soporte) a +34635085228 ( Luis Martinez)",
+          "id": "45842000126016148",
+          "number": "337230",
+          "subject": "WONDERFOOD IBIZA // División automática de tickets en integración Honei",
+          "status": "On Hold",
+          "channel": "Phone",
+          "createdTime": "2026-06-12T14:25:11Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126016148",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000125923203",
+          "number": "336732",
+          "subject": "WONDERFOOD IBIZA // posible error en el ticket con modificadores",
           "status": "Open",
           "channel": "Phone",
-          "createdTime": "2026-06-16T12:07:15Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126102863",
-          "assignee": "Fernando Poza"
+          "createdTime": "2026-06-10T16:03:10Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125923203",
+          "assignee": "Javier Landaeta"
         }
       ]
     },
@@ -109,12 +92,25 @@
           "assignee": "Raimundo Garcia"
         }
       ]
-    },
+    }
+  ],
+  "byContact": [
     {
-      "accountId": "45842000023882971",
-      "accountName": "WONDERFOOD IBIZA",
-      "ticketCount": 2,
+      "contactId": "45842000023882997",
+      "contactName": "Sebastian",
+      "email": "info@wonderfoodibiza.com",
+      "ticketCount": 3,
       "tickets": [
+        {
+          "id": "45842000126120366",
+          "number": "337892",
+          "subject": "Llamada saliente (00:02:52) de +34937377821 (Soporte) a +34645579138 ( Sebastian)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-06-16T14:11:28Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126120366",
+          "assignee": "Fernando Poza"
+        },
         {
           "id": "45842000126016148",
           "number": "337230",
@@ -129,16 +125,14 @@
           "id": "45842000125923203",
           "number": "336732",
           "subject": "WONDERFOOD IBIZA // posible error en el ticket con modificadores",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Phone",
           "createdTime": "2026-06-10T16:03:10Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125923203",
           "assignee": "Javier Landaeta"
         }
       ]
-    }
-  ],
-  "byContact": [
+    },
     {
       "contactId": "45842000087740581",
       "contactName": "Andrés",
@@ -149,7 +143,7 @@
           "id": "45842000125921466",
           "number": "336946",
           "subject": "Dulces Juana CC La Villa 2 // Verificar promoción con comeback",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Phone",
           "createdTime": "2026-06-11T12:44:34Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125921466",
@@ -164,90 +158,6 @@
           "createdTime": "2026-06-05T17:10:35Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125754161",
           "assignee": "Trinidad Larrain Punti"
-        }
-      ]
-    },
-    {
-      "contactId": "45842000126022350",
-      "contactName": "Leila Sandrigo",
-      "email": "leila.sgo@gmail.com",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000126129071",
-          "number": "337522",
-          "subject": "Fresora 1 -Carrer de Pelai // Pedido de Waitry no se integra en LastApp",
-          "status": "On Hold",
-          "channel": "Phone",
-          "createdTime": "2026-06-15T09:05:55Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126129071",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000126094001",
-          "number": "337485",
-          "subject": "Fresora - Vita Core SL",
-          "status": "On Hold",
-          "channel": "Email",
-          "createdTime": "2026-06-15T07:13:25Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126094001",
-          "assignee": "Fernando Poza"
-        }
-      ]
-    },
-    {
-      "contactId": "45842000125567150",
-      "contactName": "Luis Martinez",
-      "email": "acaiorigin@gmail.com",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000126116547",
-          "number": "337860",
-          "subject": "Llamada saliente (00:05:42) de +34937377821 (Soporte) a +34635085228 ( Luis Martinez)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-06-16T12:35:16Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126116547",
-          "assignee": "Fernando Poza"
-        },
-        {
-          "id": "45842000126102863",
-          "number": "337853",
-          "subject": "Llamada saliente (00:01:20) de +34937377821 (Soporte) a +34635085228 ( Luis Martinez)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-06-16T12:07:15Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126102863",
-          "assignee": "Fernando Poza"
-        }
-      ]
-    },
-    {
-      "contactId": "45842000023882997",
-      "contactName": "Sebastian",
-      "email": "info@wonderfoodibiza.com",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000126016148",
-          "number": "337230",
-          "subject": "WONDERFOOD IBIZA // División automática de tickets en integración Honei",
-          "status": "On Hold",
-          "channel": "Phone",
-          "createdTime": "2026-06-12T14:25:11Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126016148",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
-          "id": "45842000125923203",
-          "number": "336732",
-          "subject": "WONDERFOOD IBIZA // posible error en el ticket con modificadores",
-          "status": "On Hold",
-          "channel": "Phone",
-          "createdTime": "2026-06-10T16:03:10Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125923203",
-          "assignee": "Javier Landaeta"
         }
       ]
     }
