@@ -1,12 +1,22 @@
 {
-  "lastUpdated": "2026-06-17T21:44:52.716345+00:00",
-  "totalOpenTickets": 69,
+  "lastUpdated": "2026-06-17T22:40:11.142562+00:00",
+  "totalOpenTickets": 68,
   "byLocation": [
     {
       "accountId": "45842000043955459",
       "accountName": "PIZZERIA TOTO VITORIA SC",
-      "ticketCount": 2,
+      "ticketCount": 3,
       "tickets": [
+        {
+          "id": "45842000126254239",
+          "number": "338205",
+          "subject": "ABONAR PEDIDOS PAGADOS CON TARJETA NO MOSTRADOS EN TPV POR FALLOS CON LA SHOP",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-06-17T22:21:03Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126254239",
+          "assignee": ""
+        },
         {
           "id": "45842000126201533",
           "number": "338191",
@@ -59,6 +69,44 @@
   ],
   "byContact": [
     {
+      "contactId": "45842000030678055",
+      "contactName": "Beatriz",
+      "email": "vitoria@pizzeriatoto.es",
+      "ticketCount": 3,
+      "tickets": [
+        {
+          "id": "45842000126254239",
+          "number": "338205",
+          "subject": "ABONAR PEDIDOS PAGADOS CON TARJETA NO MOSTRADOS EN TPV POR FALLOS CON LA SHOP",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-06-17T22:21:03Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126254239",
+          "assignee": ""
+        },
+        {
+          "id": "45842000126201533",
+          "number": "338191",
+          "subject": "Pizzeria trovo // Posibles cobros en Shop sin generación de pedidos tras migración a nueva Shop. ",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-06-17T19:10:49Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126201533",
+          "assignee": ""
+        },
+        {
+          "id": "45842000125738019",
+          "number": "335612",
+          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34677329027 ( Beatriz)",
+          "status": "On Hold",
+          "channel": "Phone",
+          "createdTime": "2026-06-05T08:45:44Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125738019",
+          "assignee": "Javier Landaeta"
+        }
+      ]
+    },
+    {
       "contactId": "45842000087740581",
       "contactName": "Andrés",
       "email": "gestion@dulcesjuana.es",
@@ -83,34 +131,6 @@
           "createdTime": "2026-06-05T17:10:35Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125754161",
           "assignee": "Trinidad Larrain Punti"
-        }
-      ]
-    },
-    {
-      "contactId": "45842000030678055",
-      "contactName": "Beatriz",
-      "email": "vitoria@pizzeriatoto.es",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000126201533",
-          "number": "338191",
-          "subject": "Pizzeria trovo // Posibles cobros en Shop sin generación de pedidos tras migración a nueva Shop. ",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-06-17T19:10:49Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126201533",
-          "assignee": ""
-        },
-        {
-          "id": "45842000125738019",
-          "number": "335612",
-          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34677329027 ( Beatriz)",
-          "status": "On Hold",
-          "channel": "Phone",
-          "createdTime": "2026-06-05T08:45:44Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125738019",
-          "assignee": "Javier Landaeta"
         }
       ]
     },
