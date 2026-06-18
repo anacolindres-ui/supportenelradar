@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-06-18T18:58:38.916417+00:00",
-  "totalOpenTickets": 62,
-  "byLocation": [],
+  "lastUpdated": "2026-06-18T19:50:56.318731+00:00",
+  "totalOpenTickets": 63,
+  "byLocation": [
+    {
+      "accountId": "45842000125934738",
+      "accountName": "Mostoles",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000126306205",
+          "number": "338426",
+          "subject": "Llamada saliente (00:01:01) de +34937377821 (Soporte) a +34624074196 ( Jose)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-06-18T19:33:28Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126306205",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000126300282",
+          "number": "338400",
+          "subject": "Mostoles // Pedidos no se integran a Last ",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-06-18T16:20:58Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126300282",
+          "assignee": "Raimundo Garcia"
+        }
+      ]
+    }
+  ],
   "byContact": [
     {
       "contactId": "45842000087740581",
@@ -28,6 +56,34 @@
           "createdTime": "2026-06-05T17:10:35Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125754161",
           "assignee": "Trinidad Larrain Punti"
+        }
+      ]
+    },
+    {
+      "contactId": "45842000125934766",
+      "contactName": "Jose",
+      "email": "mariamojitorestobar@gmail.com",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000126306205",
+          "number": "338426",
+          "subject": "Llamada saliente (00:01:01) de +34937377821 (Soporte) a +34624074196 ( Jose)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-06-18T19:33:28Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126306205",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000126300282",
+          "number": "338400",
+          "subject": "Mostoles // Pedidos no se integran a Last ",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-06-18T16:20:58Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126300282",
+          "assignee": "Raimundo Garcia"
         }
       ]
     },
