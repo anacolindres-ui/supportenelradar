@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-06-20T09:13:15.183312+00:00",
-  "totalOpenTickets": 46,
+  "lastUpdated": "2026-06-20T10:54:55.083123+00:00",
+  "totalOpenTickets": 52,
   "byLocation": [
+    {
+      "accountId": "45842000043886971",
+      "accountName": "Mangiapane",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000126386271",
+          "number": "338680",
+          "subject": "Llamada entrante (00:06:29) de +34646888296 ( David) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-06-20T10:23:57Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126386271",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000126367333",
+          "number": "338678",
+          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34646888296 ( David)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-06-20T10:05:16Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126367333",
+          "assignee": "Dimitriz Rodriguez"
+        }
+      ]
+    },
     {
       "accountId": "45842000059282869",
       "accountName": "Piparra",
@@ -58,6 +85,62 @@
     }
   ],
   "byContact": [
+    {
+      "contactId": "45842000125281252",
+      "contactName": "Comercial Manubel, S.L. .",
+      "email": "comercial_manubel@hotmail.es",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000126404043",
+          "number": "338674",
+          "subject": "reportes",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-06-20T09:22:26Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126404043",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000126355242",
+          "number": "338629",
+          "subject": "Bug en cierre Z: incumplimiento normativa asiento resumen F4",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-06-19T18:02:27Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126355242",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        }
+      ]
+    },
+    {
+      "contactId": "45842000029554219",
+      "contactName": "David",
+      "email": "laportadimensionale@gmail.com",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000126386271",
+          "number": "338680",
+          "subject": "Llamada entrante (00:06:29) de +34646888296 ( David) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-06-20T10:23:57Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126386271",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000126367333",
+          "number": "338678",
+          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34646888296 ( David)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-06-20T10:05:16Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126367333",
+          "assignee": "Dimitriz Rodriguez"
+        }
+      ]
+    },
     {
       "contactId": "45842000058642002",
       "contactName": "Pablo",
