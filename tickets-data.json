@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-23T07:28:35.204234+00:00",
-  "totalOpenTickets": 79,
+  "lastUpdated": "2026-06-23T09:20:01.047119+00:00",
+  "totalOpenTickets": 81,
   "byLocation": [
     {
       "accountId": "45842000114228163",
@@ -28,9 +28,92 @@
           "assignee": "Javier Landaeta"
         }
       ]
+    },
+    {
+      "accountId": "45842000125750878",
+      "accountName": "Pocardy Centro",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000126391869",
+          "number": "339088",
+          "subject": "Llamada saliente (00:00:34) de +34937377821 (Soporte) a +34600886880 ( Enrique)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-06-23T09:01:44Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126391869",
+          "assignee": "Raimundo Garcia"
+        },
+        {
+          "id": "45842000126425628",
+          "number": "339087",
+          "subject": "Llamada saliente (00:00:21) de +34937377821 (Soporte) a +34600886880 ( Enrique)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-06-23T09:01:10Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126425628",
+          "assignee": "Raimundo Garcia"
+        }
+      ]
     }
   ],
   "byContact": [
+    {
+      "contactId": "45842000125750908",
+      "contactName": "Enrique",
+      "email": "eaznar@hotelalmirante.com",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000126391869",
+          "number": "339088",
+          "subject": "Llamada saliente (00:00:34) de +34937377821 (Soporte) a +34600886880 ( Enrique)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-06-23T09:01:44Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126391869",
+          "assignee": "Raimundo Garcia"
+        },
+        {
+          "id": "45842000126425628",
+          "number": "339087",
+          "subject": "Llamada saliente (00:00:21) de +34937377821 (Soporte) a +34600886880 ( Enrique)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-06-23T09:01:10Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126425628",
+          "assignee": "Raimundo Garcia"
+        }
+      ]
+    },
+    {
+      "contactId": "45842000043334542",
+      "contactName": "javier.martinez",
+      "email": "javier.martinez@justeattakeaway.com",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000126447438",
+          "number": "339075",
+          "subject": "Integration with LAST ID 208335",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-06-23T08:15:22Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126447438",
+          "assignee": "Fernando Poza"
+        },
+        {
+          "id": "45842000125954830",
+          "number": "336882",
+          "subject": "Integración Id Kutoshi - LAST",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-06-11T09:59:49Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125954830",
+          "assignee": "Trinidad Larrain Punti"
+        }
+      ]
+    },
     {
       "contactId": "45842000114228223",
       "contactName": "Renato",
