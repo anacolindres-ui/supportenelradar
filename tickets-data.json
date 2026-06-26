@@ -1,34 +1,7 @@
 {
-  "lastUpdated": "2026-06-26T15:02:02.598337+00:00",
-  "totalOpenTickets": 86,
+  "lastUpdated": "2026-06-26T17:39:58.471863+00:00",
+  "totalOpenTickets": 74,
   "byLocation": [
-    {
-      "accountId": "45842000048414261",
-      "accountName": "ARMONIIA",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000126624250",
-          "number": "339957",
-          "subject": "Llamada saliente (00:01:56) de +34937377821 (Soporte) a +34672980611 ( Ruben)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-06-26T14:07:58Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126624250",
-          "assignee": "Jordy Carmona"
-        },
-        {
-          "id": "45842000126627410",
-          "number": "339953",
-          "subject": "Llamada entrante (00:12:56) de +34672980611 ( Ruben) a +34937377821 (Soporte)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-06-26T13:57:22Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126627410",
-          "assignee": "Jordy Carmona"
-        }
-      ]
-    },
     {
       "accountId": "45842000022977149",
       "accountName": "Cloudtown (Florencio-Madrid)",
@@ -86,6 +59,34 @@
   ],
   "byContact": [
     {
+      "contactId": "45842000125369100",
+      "contactName": "Frank",
+      "email": "",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000126590507",
+          "number": "340008",
+          "subject": "Okay dame un segundo y te paso los datos",
+          "status": "Open",
+          "channel": "Last.app México",
+          "createdTime": "2026-06-26T16:11:09Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126590507",
+          "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000126572006",
+          "number": "339714",
+          "subject": "Hola",
+          "status": "On Hold",
+          "channel": "Last.app México",
+          "createdTime": "2026-06-25T18:11:25Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126572006",
+          "assignee": "Fernando Poza"
+        }
+      ]
+    },
+    {
       "contactId": "45842000053962363",
       "contactName": "Juan Juan Osorio",
       "email": "juan.central@padthaiwok.com",
@@ -110,34 +111,6 @@
           "createdTime": "2026-06-26T08:02:32Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126584165",
           "assignee": "Trinidad Larrain Punti"
-        }
-      ]
-    },
-    {
-      "contactId": "45842000048414287",
-      "contactName": "Ruben",
-      "email": "armoniia22@gmail.com",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000126624250",
-          "number": "339957",
-          "subject": "Llamada saliente (00:01:56) de +34937377821 (Soporte) a +34672980611 ( Ruben)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-06-26T14:07:58Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126624250",
-          "assignee": "Jordy Carmona"
-        },
-        {
-          "id": "45842000126627410",
-          "number": "339953",
-          "subject": "Llamada entrante (00:12:56) de +34672980611 ( Ruben) a +34937377821 (Soporte)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-06-26T13:57:22Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126627410",
-          "assignee": "Jordy Carmona"
         }
       ]
     }
