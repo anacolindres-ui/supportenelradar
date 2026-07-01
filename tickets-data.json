@@ -1,33 +1,81 @@
 {
-  "lastUpdated": "2026-07-01T07:44:39.838759+00:00",
-  "totalOpenTickets": 105,
-  "byLocation": [],
-  "byContact": [
+  "lastUpdated": "2026-07-01T09:19:39.302980+00:00",
+  "totalOpenTickets": 115,
+  "byLocation": [
     {
-      "contactId": "45842000006459263",
-      "contactName": "Flipdish Support",
-      "email": "help@flipdish.com",
-      "ticketCount": 2,
+      "accountId": "45842000101608301",
+      "accountName": "Fisch Pauli",
+      "ticketCount": 3,
       "tickets": [
         {
-          "id": "45842000126840013",
-          "number": "340757",
-          "subject": "[Acción necesaria] Se necesita información adicional para las compensaciones y los pagos",
+          "id": "45842000126852056",
+          "number": "340864",
+          "subject": "Llamada entrante (00:05:30) de +4915560059658 (Ferhat Cantürk) a +34930482251 (Raimundo Garcia)",
           "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-06-30T18:33:46Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126840013",
-          "assignee": ""
+          "channel": "Phone",
+          "createdTime": "2026-07-01T08:23:06Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126852056",
+          "assignee": "Raimundo Garcia"
         },
         {
-          "id": "45842000125463227",
-          "number": "334130",
-          "subject": "[Flipdish] Has sido invitado a la cuenta Lab '84 de Flipdish",
+          "id": "45842000126848053",
+          "number": "340843",
+          "subject": "Llamada saliente (00:00:05) de +34937377821 (Soporte) a +4915560059658 (Ferhat Cantürk)",
           "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-01T07:57:47Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126848053",
+          "assignee": "Raimundo Garcia"
+        },
+        {
+          "id": "45842000126325969",
+          "number": "338443",
+          "subject": "Request to check May payouts – Fisch Pauli",
+          "status": "On Hold",
           "channel": "Email",
-          "createdTime": "2026-05-29T12:35:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125463227",
-          "assignee": "Trinidad Larrain Punti"
+          "createdTime": "2026-06-18T23:16:04Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126325969",
+          "assignee": "Javier Landaeta"
+        }
+      ]
+    }
+  ],
+  "byContact": [
+    {
+      "contactId": "45842000101608363",
+      "contactName": "Ferhat Cantürk",
+      "email": "cantuerk.f@gmail.com",
+      "ticketCount": 3,
+      "tickets": [
+        {
+          "id": "45842000126852056",
+          "number": "340864",
+          "subject": "Llamada entrante (00:05:30) de +4915560059658 (Ferhat Cantürk) a +34930482251 (Raimundo Garcia)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-01T08:23:06Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126852056",
+          "assignee": "Raimundo Garcia"
+        },
+        {
+          "id": "45842000126848053",
+          "number": "340843",
+          "subject": "Llamada saliente (00:00:05) de +34937377821 (Soporte) a +4915560059658 (Ferhat Cantürk)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-01T07:57:47Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126848053",
+          "assignee": "Raimundo Garcia"
+        },
+        {
+          "id": "45842000126325969",
+          "number": "338443",
+          "subject": "Request to check May payouts – Fisch Pauli",
+          "status": "On Hold",
+          "channel": "Email",
+          "createdTime": "2026-06-18T23:16:04Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126325969",
+          "assignee": "Javier Landaeta"
         }
       ]
     },
