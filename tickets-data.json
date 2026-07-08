@@ -1,16 +1,26 @@
 {
-  "lastUpdated": "2026-07-08T09:55:30.030536+00:00",
-  "totalOpenTickets": 101,
+  "lastUpdated": "2026-07-08T10:46:58.617432+00:00",
+  "totalOpenTickets": 105,
   "byLocation": [
     {
       "accountId": "45842000126863714",
       "accountName": "El Provisional",
-      "ticketCount": 5,
+      "ticketCount": 6,
       "tickets": [
+        {
+          "id": "45842000127097401",
+          "number": "342440",
+          "subject": "Llamada saliente (00:03:14) de +34937377821 (Soporte) a +34620474855 ( Sergi marques)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-08T10:29:32Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127097401",
+          "assignee": "Dimitriz Rodriguez"
+        },
         {
           "id": "45842000127090362",
           "number": "342419",
-          "subject": "Llamada entrante de +34620474855 ( Sergi marques) a +34930482248 (Dimitriz Rodriguez)",
+          "subject": "Llamada entrante (00:33:52) de +34620474855 ( Sergi marques) a +34930482248 (Dimitriz Rodriguez)",
           "status": "Open",
           "channel": "Phone",
           "createdTime": "2026-07-08T09:38:40Z",
@@ -30,7 +40,7 @@
         {
           "id": "45842000127083515",
           "number": "342416",
-          "subject": "Llamada entrante (00:02:30) de +34620474855 ( Sergi marques) a +34937377821 (Soporte)",
+          "subject": "Llamada entrante (00:03:01) de +34620474855 ( Sergi marques) a +34937377821 (Soporte)",
           "status": "Open",
           "channel": "Phone",
           "createdTime": "2026-07-08T09:36:01Z",
@@ -193,6 +203,33 @@
           "assignee": "Raimundo Garcia"
         }
       ]
+    },
+    {
+      "accountId": "45842000109657471",
+      "accountName": "PadthaiWok",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000127086492",
+          "number": "342442",
+          "subject": "PadthaiWok | Pza. Fortuny: Nuevo ticket gestionando tardanza Glovo",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-08T10:32:09Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127086492",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000126931511",
+          "number": "341663",
+          "subject": "PadthaiWok | Pza. Fortuny //\nPedidos se asignan a Glovo On Demand ",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-04T11:32:00Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126931511",
+          "assignee": "Trinidad Larrain Punti"
+        }
+      ]
     }
   ],
   "byContact": [
@@ -200,12 +237,22 @@
       "contactId": "45842000126863745",
       "contactName": "Sergi marques",
       "email": "info@elprovisional.com",
-      "ticketCount": 5,
+      "ticketCount": 6,
       "tickets": [
+        {
+          "id": "45842000127097401",
+          "number": "342440",
+          "subject": "Llamada saliente (00:03:14) de +34937377821 (Soporte) a +34620474855 ( Sergi marques)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-08T10:29:32Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127097401",
+          "assignee": "Dimitriz Rodriguez"
+        },
         {
           "id": "45842000127090362",
           "number": "342419",
-          "subject": "Llamada entrante de +34620474855 ( Sergi marques) a +34930482248 (Dimitriz Rodriguez)",
+          "subject": "Llamada entrante (00:33:52) de +34620474855 ( Sergi marques) a +34930482248 (Dimitriz Rodriguez)",
           "status": "Open",
           "channel": "Phone",
           "createdTime": "2026-07-08T09:38:40Z",
@@ -225,7 +272,7 @@
         {
           "id": "45842000127083515",
           "number": "342416",
-          "subject": "Llamada entrante (00:02:30) de +34620474855 ( Sergi marques) a +34937377821 (Soporte)",
+          "subject": "Llamada entrante (00:03:01) de +34620474855 ( Sergi marques) a +34937377821 (Soporte)",
           "status": "Open",
           "channel": "Phone",
           "createdTime": "2026-07-08T09:36:01Z",
@@ -362,6 +409,34 @@
           "channel": "Phone",
           "createdTime": "2026-07-02T18:13:32Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126849965",
+          "assignee": "Trinidad Larrain Punti"
+        }
+      ]
+    },
+    {
+      "contactId": "45842000009784826",
+      "contactName": "Tomas Martinez",
+      "email": "takeawaypadthaigranada@gmail.com",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000127086492",
+          "number": "342442",
+          "subject": "PadthaiWok | Pza. Fortuny: Nuevo ticket gestionando tardanza Glovo",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-08T10:32:09Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127086492",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000126931511",
+          "number": "341663",
+          "subject": "PadthaiWok | Pza. Fortuny //\nPedidos se asignan a Glovo On Demand ",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-04T11:32:00Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126931511",
           "assignee": "Trinidad Larrain Punti"
         }
       ]
