@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-13T11:08:03.615980+00:00",
-  "totalOpenTickets": 96,
+  "lastUpdated": "2026-07-13T12:57:50.469777+00:00",
+  "totalOpenTickets": 98,
   "byLocation": [
     {
       "accountId": "45842000095732528",
@@ -31,7 +31,7 @@
           "id": "45842000126889234",
           "number": "340935",
           "subject": "BrunchIT <> Errores con correo de recuperacion de password",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-07-01T12:15:41Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126889234",
@@ -48,7 +48,7 @@
           "id": "45842000127301177",
           "number": "343356",
           "subject": "Baritim (coffee rules) - Impresora no funciona",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Email",
           "createdTime": "2026-07-13T10:46:43Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127301177",
@@ -85,11 +85,38 @@
           "id": "45842000126849965",
           "number": "341284",
           "subject": "Fuji Sushi Bar // Promoción especifica para un día, aparece activa en otro día",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Phone",
           "createdTime": "2026-07-02T18:13:32Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126849965",
           "assignee": "Trinidad Larrain Punti"
+        }
+      ]
+    },
+    {
+      "accountId": "45842000058095421",
+      "accountName": "Malvada Geisha",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000127254953",
+          "number": "343365",
+          "subject": "Llamada saliente de +34937377821 (Soporte) a +34664156709 ( Alvaro)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-13T12:27:40Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127254953",
+          "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000127242865",
+          "number": "343364",
+          "subject": "Llamada entrante (00:05:07) de +34664156709 ( Alvaro) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-13T12:25:31Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127242865",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
         }
       ]
     },
@@ -150,6 +177,34 @@
   ],
   "byContact": [
     {
+      "contactId": "45842000058095439",
+      "contactName": "Alvaro",
+      "email": "Alvarogreter91@gmail.com",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000127254953",
+          "number": "343365",
+          "subject": "Llamada saliente de +34937377821 (Soporte) a +34664156709 ( Alvaro)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-13T12:27:40Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127254953",
+          "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000127242865",
+          "number": "343364",
+          "subject": "Llamada entrante (00:05:07) de +34664156709 ( Alvaro) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-13T12:25:31Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127242865",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        }
+      ]
+    },
+    {
       "contactId": "45842000091305263",
       "contactName": "Fuji Sushi Bar Gómez Martín",
       "email": "facturas.amarena@gmail.com",
@@ -169,7 +224,7 @@
           "id": "45842000126849965",
           "number": "341284",
           "subject": "Fuji Sushi Bar // Promoción especifica para un día, aparece activa en otro día",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Phone",
           "createdTime": "2026-07-02T18:13:32Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126849965",
