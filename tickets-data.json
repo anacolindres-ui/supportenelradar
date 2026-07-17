@@ -1,7 +1,54 @@
 {
-  "lastUpdated": "2026-07-17T18:28:44.512227+00:00",
-  "totalOpenTickets": 88,
+  "lastUpdated": "2026-07-17T19:30:11.735783+00:00",
+  "totalOpenTickets": 94,
   "byLocation": [
+    {
+      "accountId": "45842000122851033",
+      "accountName": "Taberna Cervantes",
+      "ticketCount": 4,
+      "tickets": [
+        {
+          "id": "45842000127480712",
+          "number": "344597",
+          "subject": "Llamada entrante de +34653660485 ( Jaime) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-17T19:29:18Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127480712",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000127483761",
+          "number": "344585",
+          "subject": "Llamada entrante (00:42:30) de +34653660485 ( Jaime) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-17T18:43:53Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127483761",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000127495262",
+          "number": "344582",
+          "subject": "Llamada entrante (00:11:39) de +34653660485 ( Jaime) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-17T18:32:39Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127495262",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000127479557",
+          "number": "344580",
+          "subject": "Llamada entrante (00:15:17) de +34653660485 ( Jaime) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-17T18:17:24Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127479557",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        }
+      ]
+    },
     {
       "accountId": "45842000022977149",
       "accountName": "Cloudtown (Florencio-Madrid)",
@@ -57,6 +104,33 @@
       ]
     },
     {
+      "accountId": "45842000127415172",
+      "accountName": "TIC TAC NOODLES",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000127480569",
+          "number": "344581",
+          "subject": "TIC TAC NOODLES  // Pedido de JE no se ven en el pos",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-17T18:27:26Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127480569",
+          "assignee": ""
+        },
+        {
+          "id": "45842000127404369",
+          "number": "343932",
+          "subject": "TIC TAC NOODLES // Pedidos por QR",
+          "status": "On Hold",
+          "channel": "Phone",
+          "createdTime": "2026-07-15T14:01:25Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127404369",
+          "assignee": "Alberto Poyato"
+        }
+      ]
+    },
+    {
       "accountId": "45842000074321423",
       "accountName": "Trinidad Last",
       "ticketCount": 2,
@@ -86,6 +160,54 @@
   ],
   "byContact": [
     {
+      "contactId": "45842000122851075",
+      "contactName": "Jaime",
+      "email": "cervantestaberna@gmail.com",
+      "ticketCount": 4,
+      "tickets": [
+        {
+          "id": "45842000127480712",
+          "number": "344597",
+          "subject": "Llamada entrante de +34653660485 ( Jaime) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-17T19:29:18Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127480712",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000127483761",
+          "number": "344585",
+          "subject": "Llamada entrante (00:42:30) de +34653660485 ( Jaime) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-17T18:43:53Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127483761",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000127495262",
+          "number": "344582",
+          "subject": "Llamada entrante (00:11:39) de +34653660485 ( Jaime) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-17T18:32:39Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127495262",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000127479557",
+          "number": "344580",
+          "subject": "Llamada entrante (00:15:17) de +34653660485 ( Jaime) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-17T18:17:24Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127479557",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        }
+      ]
+    },
+    {
       "contactId": "45842000076945056",
       "contactName": "Aitana",
       "email": "administracion@vibraburger.com",
@@ -110,6 +232,34 @@
           "createdTime": "2026-07-14T09:04:12Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127329953",
           "assignee": "Trinidad Larrain Punti"
+        }
+      ]
+    },
+    {
+      "contactId": "45842000094576511",
+      "contactName": "Francisco Lozano",
+      "email": "tictacnoodlesjerez@gmail.com",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000127480569",
+          "number": "344581",
+          "subject": "TIC TAC NOODLES  // Pedido de JE no se ven en el pos",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-17T18:27:26Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127480569",
+          "assignee": ""
+        },
+        {
+          "id": "45842000127404369",
+          "number": "343932",
+          "subject": "TIC TAC NOODLES // Pedidos por QR",
+          "status": "On Hold",
+          "channel": "Phone",
+          "createdTime": "2026-07-15T14:01:25Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127404369",
+          "assignee": "Alberto Poyato"
         }
       ]
     }
