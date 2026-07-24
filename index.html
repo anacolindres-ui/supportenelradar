@@ -399,6 +399,18 @@
       text-align: center; padding: 0.6rem; font-size: 0.75rem; color: var(--muted);
       border-top: 1px solid var(--border);
     }
+    .ct-loc-issue-item { border-bottom: 1px solid var(--border); }
+    .ct-loc-issue-item:last-child { border-bottom: none; }
+    .ct-loc-issue-item .ct-ticket-row { border-bottom: none; padding-bottom: 0.2rem; }
+    .ct-loc-id-row {
+      font-size: 0.72rem; color: var(--subtext); padding: 0 1.25rem 0.65rem 1.25rem;
+    }
+    .ct-loc-id {
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      background: var(--badge-bg); color: var(--badge-tx);
+      padding: 1px 6px; border-radius: 5px;
+    }
+    .ct-loc-id-empty { background: #FEE2E2; color: #991B1B; font-family: inherit; font-style: italic; }
     .ct-empty small { display: block; font-size: 0.75rem; margin-top: 0.4rem; }
   </style>
 </head>
@@ -608,9 +620,9 @@ const HUB = {
 <div id="tab-ct">
   <div class="ct-toolbar">
     <div class="ct-toggle">
-      <button class="ct-toggle-btn active" id="ct-btn-location" onclick="setCTView('location')">Por Location</button>
-      <button class="ct-toggle-btn" id="ct-btn-contact" onclick="setCTView('contact')">Por Contacto</button>
-      <button class="ct-toggle-btn" id="ct-btn-classification" onclick="setCTView('classification')">Por Clasificación</button>
+      <button class="ct-toggle-btn active" id="ct-btn-location" onclick="setCTView('location')">Location</button>
+      <button class="ct-toggle-btn" id="ct-btn-contact" onclick="setCTView('contact')">Contacto</button>
+      <button class="ct-toggle-btn" id="ct-btn-classification" onclick="setCTView('classification')">Clasificación</button>
     </div>
     <div class="ct-status-filter" id="ct-status-filter" style="display:none">
       <button class="ct-status-filter-btn active" id="ct-status-btn-all" onclick="setCTStatusFilter('all')">Todos</button>
@@ -922,14 +934,16 @@ function renderCT() {
     <div class="ct-summary-chip">🗂 Tickets abiertos: <strong>${ctData.totalOpenTickets}</strong></div>
     <div class="ct-summary-chip">🏪 Locations con 2+: <strong>${ctData.byLocation.length}</strong></div>
     <div class="ct-summary-chip">👤 Contactos con 2+: <strong>${ctData.byContact.length}</strong></div>
+    ${ctView === "location" ? `<div class="ct-summary-chip">⚠️ Sin Location ID válido: <strong>${(ctData.locationIdIssues || []).length}</strong></div>` : ""}
   `;
   const items = ctView === "location" ? ctData.byLocation : ctData.byContact;
+  const issuesHtml = ctView === "location" ? renderLocationIssuesSection() : "";
   if (!items || items.length === 0) {
     document.getElementById("ct-body").innerHTML =
-      '<div class="ct-empty"><div class="ct-empty-icon">✅</div>No hay clientes con más de un ticket abierto.</div>';
+      '<div class="ct-empty"><div class="ct-empty-icon">✅</div>No hay clientes con más de un ticket abierto.</div>' + issuesHtml;
     return;
   }
-  document.getElementById("ct-body").innerHTML = items.map((g, i) => {
+  const itemsHtml = items.map((g, i) => {
     const name = ctView === "location" ? g.accountName : (g.contactName || g.email || "Sin nombre");
     const sub  = ctView === "contact" && g.email && g.contactName !== g.email
       ? `<div class="ct-group-sub">${g.email}</div>` : "";
@@ -944,6 +958,32 @@ function renderCT() {
       <div class="ct-tickets">${rows}</div>
     </div>`;
   }).join("");
+  document.getElementById("ct-body").innerHTML = itemsHtml + issuesHtml;
+}
+
+function renderLocationIssuesSection() {
+  const issues = ctData.locationIdIssues || [];
+  const rows = issues.map(t => {
+    const idLabel = t.locationId
+      ? `<span class="ct-loc-id" title="${t.locationId}">${t.locationId}</span>`
+      : `<span class="ct-loc-id ct-loc-id-empty">(vacío)</span>`;
+    return `<div class="ct-loc-issue-item">
+      ${renderTicketRow(t)}
+      <div class="ct-loc-id-row">${t.accountName ? t.accountName + ' · ' : ''}Location ID: ${idLabel}</div>
+    </div>`;
+  }).join("");
+  return `
+    <div class="ct-group" id="ctg-locissues" style="margin-top:1.25rem;border-color:#FCA5A5">
+      <div class="ct-group-header" onclick="toggleGroup('ctg-locissues')">
+        <div style="flex:1">
+          <div class="ct-group-name">⚠️ Sin Location ID válido</div>
+          <div class="ct-group-sub">Tickets abiertos/en espera con Location ID vacío o con formato distinto al esperado (UUID)</div>
+        </div>
+        <span class="ct-count">${issues.length} tickets</span>
+        <span class="ct-chevron">▾</span>
+      </div>
+      <div class="ct-tickets">${issues.length ? rows : '<div class="ct-empty" style="padding:1.5rem 1rem">Todos los tickets tienen Location ID con formato válido.</div>'}</div>
+    </div>`;
 }
 
 function renderTicketRow(t) {
