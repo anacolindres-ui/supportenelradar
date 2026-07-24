@@ -322,6 +322,7 @@
     .ct-status   { font-size: 0.68rem; font-weight: 600; padding: 2px 7px; border-radius: 10px; white-space: nowrap; flex-shrink: 0; }
     .ct-status-open   { background: #D1FAE5; color: #065F46; }
     .ct-status-hold   { background: #FEF3C7; color: #92400E; }
+    .ct-status-closed { background: #F1F5F9; color: #475569; }
     .ct-ch       { font-size: 0.78rem; flex-shrink: 0; }
     .ct-date     { font-size: 0.7rem; color: var(--muted); white-space: nowrap; flex-shrink: 0; min-width: 52px; text-align: right; }
     .ct-owner    { font-size: 0.72rem; color: var(--subtext); white-space: nowrap; flex-shrink: 0; max-width: 90px; overflow: hidden; text-overflow: ellipsis; }
@@ -331,6 +332,73 @@
       text-align: center; padding: 3.5rem 1rem; color: var(--muted); font-size: 0.88rem;
     }
     .ct-empty-icon { font-size: 2rem; margin-bottom: 0.5rem; }
+
+    /* ── POR CLASIFICACIÓN: ranking con barras ── */
+    .ct-rank-list {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 12px; overflow: hidden;
+    }
+    .ct-rank-row {
+      display: flex; align-items: center; gap: 1rem;
+      padding: 0.85rem 1.25rem; cursor: pointer; user-select: none;
+      border-bottom: 1px solid var(--border);
+    }
+    .ct-rank-row:last-child { border-bottom: none; }
+    .ct-rank-row:hover { background: var(--bg); }
+    .ct-rank-num {
+      font-size: 0.8rem; font-weight: 700; color: var(--accent);
+      width: 20px; flex-shrink: 0; text-align: center;
+    }
+    .ct-rank-main { flex: 1; min-width: 0; }
+    .ct-rank-name {
+      font-weight: 600; font-size: 0.88rem; color: var(--text);
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    }
+    .ct-rank-bar-track {
+      height: 5px; background: var(--border); border-radius: 3px;
+      margin-top: 0.45rem; overflow: hidden;
+    }
+    .ct-rank-bar-fill { height: 100%; border-radius: 3px; }
+    .ct-rank-right {
+      display: flex; align-items: center; gap: 0.6rem; flex-shrink: 0;
+    }
+    .ct-rank-count {
+      font-size: 0.95rem; font-weight: 800; color: var(--text);
+      min-width: 26px; text-align: right;
+    }
+    .ct-rank-badge {
+      font-size: 0.68rem; font-weight: 700; padding: 3px 9px;
+      border-radius: 20px; white-space: nowrap;
+      background: var(--badge-bg); color: var(--badge-tx);
+    }
+    .ct-rank-chevron {
+      color: var(--muted); font-size: 0.72rem; flex-shrink: 0;
+      transition: transform 0.2s;
+    }
+    .ct-rank-row.open .ct-rank-chevron { transform: rotate(180deg); }
+    .ct-rank-expand { display: none; background: var(--bg); border-bottom: 1px solid var(--border); }
+    .ct-rank-row.open + .ct-rank-expand { display: block; }
+    .ct-rank-expand:last-child { border-bottom: none; }
+    .ct-rank-expand-label {
+      font-size: 0.72rem; color: var(--muted); padding: 0.75rem 1.25rem 0.25rem;
+    }
+    .ct-status-filter {
+      display: flex; background: var(--bg);
+      border: 1px solid var(--border); border-radius: 8px; padding: 3px; gap: 3px;
+    }
+    .ct-status-filter-btn {
+      padding: 0.35rem 0.75rem; font-size: 0.76rem; font-weight: 600;
+      color: var(--muted); border: none; background: none;
+      cursor: pointer; border-radius: 6px; transition: all 0.15s;
+    }
+    .ct-status-filter-btn.active {
+      background: var(--surface); color: var(--accent);
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+    .ct-more-note {
+      text-align: center; padding: 0.6rem; font-size: 0.75rem; color: var(--muted);
+      border-top: 1px solid var(--border);
+    }
     .ct-empty small { display: block; font-size: 0.75rem; margin-top: 0.4rem; }
   </style>
 </head>
@@ -542,6 +610,13 @@ const HUB = {
     <div class="ct-toggle">
       <button class="ct-toggle-btn active" id="ct-btn-location" onclick="setCTView('location')">Por Location</button>
       <button class="ct-toggle-btn" id="ct-btn-contact" onclick="setCTView('contact')">Por Contacto</button>
+      <button class="ct-toggle-btn" id="ct-btn-classification" onclick="setCTView('classification')">Por Clasificación</button>
+    </div>
+    <div class="ct-status-filter" id="ct-status-filter" style="display:none">
+      <button class="ct-status-filter-btn active" id="ct-status-btn-all" onclick="setCTStatusFilter('all')">Todos</button>
+      <button class="ct-status-filter-btn" id="ct-status-btn-open" onclick="setCTStatusFilter('Open')">Open</button>
+      <button class="ct-status-filter-btn" id="ct-status-btn-hold" onclick="setCTStatusFilter('On Hold')">On Hold</button>
+      <button class="ct-status-filter-btn" id="ct-status-btn-closed" onclick="setCTStatusFilter('Closed')">Closed</button>
     </div>
     <span class="ct-meta" id="ct-updated"></span>
   </div>
@@ -805,6 +880,8 @@ function showTab(tab) {
 // ── CENTRAL DE TICKETS ───────────────────────────────────
 let ctData = null;
 let ctView = "location";
+let ctStatusFilter = "all";
+const CT_MAX_TICKETS_SHOWN = 50;
 
 async function loadCT() {
   document.getElementById("ct-body").innerHTML =
@@ -828,13 +905,25 @@ async function loadCT() {
 }
 
 function renderCT() {
-  const items = ctView === "location" ? ctData.byLocation : ctData.byContact;
+  document.getElementById("ct-status-filter").style.display = ctView === "classification" ? "flex" : "none";
+
   const summary = document.getElementById("ct-summary");
+  if (ctView === "classification") {
+    summary.innerHTML = `
+      <div class="ct-summary-chip">🗂 Tickets abiertos: <strong>${ctData.totalOpenTickets}</strong></div>
+      <div class="ct-summary-chip">✅ Cerrados (últimos ${ctData.closedWindowDays || 30}d): <strong>${ctData.totalClosedTickets ?? 0}</strong></div>
+      <div class="ct-summary-chip">🏷️ Clasificaciones: <strong>${(ctData.byClassification || []).length}</strong></div>
+    `;
+    renderCTClassification();
+    return;
+  }
+
   summary.innerHTML = `
     <div class="ct-summary-chip">🗂 Tickets abiertos: <strong>${ctData.totalOpenTickets}</strong></div>
     <div class="ct-summary-chip">🏪 Locations con 2+: <strong>${ctData.byLocation.length}</strong></div>
     <div class="ct-summary-chip">👤 Contactos con 2+: <strong>${ctData.byContact.length}</strong></div>
   `;
+  const items = ctView === "location" ? ctData.byLocation : ctData.byContact;
   if (!items || items.length === 0) {
     document.getElementById("ct-body").innerHTML =
       '<div class="ct-empty"><div class="ct-empty-icon">✅</div>No hay clientes con más de un ticket abierto.</div>';
@@ -845,24 +934,7 @@ function renderCT() {
     const sub  = ctView === "contact" && g.email && g.contactName !== g.email
       ? `<div class="ct-group-sub">${g.email}</div>` : "";
     const countCls = g.ticketCount <= 2 ? "ct-count two" : "ct-count";
-    const rows = g.tickets.map(t => {
-      const d = new Date(t.createdTime);
-      const dateStr = d.toLocaleDateString("es-ES", { day: "2-digit", month: "short" });
-      const ch = { Phone: "📞", Email: "📧", Chat: "💬" }[t.channel] || "·";
-      const isHold = t.status === "On Hold";
-      const statusCls = isHold ? "ct-status ct-status-hold" : "ct-status ct-status-open";
-      const statusLbl = isHold ? "On Hold" : "Open";
-      const owner = t.assignee || "—";
-      return `<div class="ct-ticket-row">
-        <span class="ct-num">#${t.number}</span>
-        <span class="ct-subj" title="${t.subject.replace(/"/g,'&quot;')}">${t.subject}</span>
-        <span class="${statusCls}">${statusLbl}</span>
-        <span class="ct-ch">${ch}</span>
-        <span class="ct-date">${dateStr}</span>
-        <span class="ct-owner" title="${owner}">${owner}</span>
-        <a class="ct-link" href="${t.url}" target="_blank" rel="noopener">↗</a>
-      </div>`;
-    }).join("");
+    const rows = g.tickets.map(renderTicketRow).join("");
     return `<div class="ct-group" id="ctg-${i}">
       <div class="ct-group-header" onclick="toggleGroup('ctg-${i}')">
         <div style="flex:1"><div class="ct-group-name">${name}</div>${sub}</div>
@@ -874,7 +946,86 @@ function renderCT() {
   }).join("");
 }
 
-function toggleGroup(id) { document.getElementById(id).classList.toggle("open"); }
+function renderTicketRow(t) {
+  const d = new Date(t.createdTime);
+  const dateStr = d.toLocaleDateString("es-ES", { day: "2-digit", month: "short" });
+  const ch = { Phone: "📞", Email: "📧", Chat: "💬" }[t.channel] || "·";
+  const statusMap = {
+    "Open":    ["ct-status ct-status-open",   "Open"],
+    "On Hold": ["ct-status ct-status-hold",   "On Hold"],
+    "Closed":  ["ct-status ct-status-closed", "Closed"],
+  };
+  const [statusCls, statusLbl] = statusMap[t.status] || ["ct-status ct-status-open", t.status];
+  const owner = t.assignee || "—";
+  return `<div class="ct-ticket-row">
+    <span class="ct-num">#${t.number}</span>
+    <span class="ct-subj" title="${t.subject.replace(/"/g,'&quot;')}">${t.subject}</span>
+    <span class="${statusCls}">${statusLbl}</span>
+    <span class="ct-ch">${ch}</span>
+    <span class="ct-date">${dateStr}</span>
+    <span class="ct-owner" title="${owner}">${owner}</span>
+    <a class="ct-link" href="${t.url}" target="_blank" rel="noopener">↗</a>
+  </div>`;
+}
+
+const CT_RANK_COLORS = ["#6366F1","#3B82F6","#10B981","#F59E0B","#EF4444","#06B6D4","#EC4899","#8B5CF6","#F97316","#84CC16","#0EA5E9","#DB2777"];
+
+function renderCTClassification() {
+  const items = ctData.byClassification || [];
+  if (items.length === 0) {
+    document.getElementById("ct-body").innerHTML =
+      '<div class="ct-empty"><div class="ct-empty-icon">🏷️</div>Sin datos de clasificación todavía.</div>';
+    return;
+  }
+  const sorted = [...items].sort((a, b) => b.totalCount - a.totalCount);
+  const maxCount = sorted[0].totalCount || 1;
+
+  document.getElementById("ct-body").innerHTML = `<div class="ct-rank-list">` +
+    sorted.map((g, i) => {
+      const filtered = ctStatusFilter === "all"
+        ? g.tickets
+        : g.tickets.filter(t => t.status === ctStatusFilter);
+      const shown = filtered.slice(0, CT_MAX_TICKETS_SHOWN);
+      const rows = shown.map(renderTicketRow).join("");
+      const moreNote = filtered.length > shown.length
+        ? `<div class="ct-more-note">+${filtered.length - shown.length} más — abre Zoho Desk para ver el resto</div>`
+        : "";
+      const empty = filtered.length === 0
+        ? '<div class="ct-empty" style="padding:1.5rem 1rem">Sin tickets con este filtro en esta clasificación.</div>' : "";
+      const activeCount = g.openCount + g.onHoldCount;
+      const openBadge = activeCount > 0 ? `<span class="ct-rank-badge">${activeCount} OPEN</span>` : "";
+      const barPct = Math.max(2, Math.round((g.totalCount / maxCount) * 100));
+      const color = CT_RANK_COLORS[i % CT_RANK_COLORS.length];
+      return `
+      <div class="ct-rank-row" id="ctr-${i}" onclick="toggleRankRow('ctr-${i}')">
+        <span class="ct-rank-num">${i + 1}</span>
+        <div class="ct-rank-main">
+          <div class="ct-rank-name" title="${g.classification}">${g.classification}</div>
+          <div class="ct-rank-bar-track"><div class="ct-rank-bar-fill" style="width:${barPct}%;background:${color}"></div></div>
+        </div>
+        <div class="ct-rank-right">
+          <span class="ct-rank-count">${g.totalCount}</span>
+          ${openBadge}
+          <span class="ct-rank-chevron">▾</span>
+        </div>
+      </div>
+      <div class="ct-rank-expand">
+        <div class="ct-rank-expand-label">Tickets en <strong>${g.classification}</strong></div>
+        ${rows}${moreNote}${empty}
+      </div>`;
+    }).join("") +
+    `</div>`;
+}
+
+function toggleRankRow(id) { document.getElementById(id).classList.toggle("open"); }
+
+function setCTStatusFilter(status) {
+  ctStatusFilter = status;
+  document.querySelectorAll(".ct-status-filter-btn").forEach(b => b.classList.remove("active"));
+  const idMap = { all: "ct-status-btn-all", "Open": "ct-status-btn-open", "On Hold": "ct-status-btn-hold", "Closed": "ct-status-btn-closed" };
+  document.getElementById(idMap[status]).classList.add("active");
+  if (ctData) renderCTClassification();
+}
 
 function setCTView(view) {
   ctView = view;
