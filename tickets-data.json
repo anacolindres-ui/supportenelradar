@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-25T19:30:44.232549+00:00",
+  "lastUpdated": "2026-07-25T20:23:50.018865+00:00",
   "totalOpenTickets": 75,
-  "totalClosedTickets": 2625,
+  "totalClosedTickets": 2626,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -155,15 +155,15 @@
   ],
   "locationIdIssues": [
     {
-      "id": "45842000127945123",
-      "number": "346305",
-      "subject": "Llamada entrante (00:03:17) de +34694244827 ( nicolle) a +34937377821 (Soporte)",
+      "id": "45842000127972170",
+      "number": "346306",
+      "subject": "Errores con la SHOP",
       "status": "Open",
-      "channel": "Phone",
-      "createdTime": "2026-07-25T19:19:27Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127945123",
-      "assignee": "Harold Diaz",
-      "accountName": "El trébol bar",
+      "channel": "Email",
+      "createdTime": "2026-07-25T19:56:42Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127972170",
+      "assignee": "",
+      "accountName": "The original fries",
       "locationId": ""
     },
     {
@@ -1775,6 +1775,18 @@
       "locationId": ""
     },
     {
+      "id": "45842000127708119",
+      "number": "345760",
+      "subject": "LastApp - glovo integration deleted",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-07-23T05:30:11Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127708119",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
       "id": "45842000127707065",
       "number": "345758",
       "subject": "LastApp - glovo integration deleted",
@@ -1794,18 +1806,6 @@
       "channel": "Email",
       "createdTime": "2026-07-23T05:30:11Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127707119",
-      "assignee": "",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000127708119",
-      "number": "345760",
-      "subject": "LastApp - glovo integration deleted",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-07-23T05:30:11Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127708119",
       "assignee": "",
       "accountName": "",
       "locationId": ""
@@ -2675,11 +2675,21 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 8,
+      "openCount": 9,
       "onHoldCount": 0,
       "closedCount": 1061,
-      "totalCount": 1069,
+      "totalCount": 1070,
       "tickets": [
+        {
+          "id": "45842000127972170",
+          "number": "346306",
+          "subject": "Errores con la SHOP",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-07-25T19:56:42Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127972170",
+          "assignee": ""
+        },
         {
           "id": "45842000127916981",
           "number": "346299",
@@ -2751,16 +2761,6 @@
           "assignee": "Brayan Ricardo Fuentes Herrera"
         },
         {
-          "id": "45842000127916622",
-          "number": "346262",
-          "subject": "¡Gracias por contactarnos! ¡Hemos recibido su correo !",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-25T12:28:31Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127916622",
-          "assignee": "Jordy Carmona"
-        },
-        {
           "id": "45842000127917633",
           "number": "346261",
           "subject": "Last.app | Last: Tu Ticket [##346260##] ha sido creado",
@@ -2769,6 +2769,16 @@
           "createdTime": "2026-07-25T12:28:31Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127917633",
           "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000127916622",
+          "number": "346262",
+          "subject": "¡Gracias por contactarnos! ¡Hemos recibido su correo !",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-25T12:28:31Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127916622",
+          "assignee": "Jordy Carmona"
         },
         {
           "id": "45842000127923411",
@@ -3365,21 +3375,11 @@
     },
     {
       "classification": "Calls",
-      "openCount": 2,
+      "openCount": 1,
       "onHoldCount": 0,
       "closedCount": 409,
-      "totalCount": 411,
+      "totalCount": 410,
       "tickets": [
-        {
-          "id": "45842000127945123",
-          "number": "346305",
-          "subject": "Llamada entrante (00:03:17) de +34694244827 ( nicolle) a +34937377821 (Soporte)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-07-25T19:19:27Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127945123",
-          "assignee": "Harold Diaz"
-        },
         {
           "id": "45842000127962052",
           "number": "346281",
@@ -10424,6 +10424,76 @@
       "inMasterList": false
     },
     {
+      "classification": "QRs",
+      "openCount": 0,
+      "onHoldCount": 2,
+      "closedCount": 4,
+      "totalCount": 6,
+      "tickets": [
+        {
+          "id": "45842000127945123",
+          "number": "346305",
+          "subject": "Llamada entrante (00:03:17) de +34694244827 ( nicolle) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-07-25T19:19:27Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127945123",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000127682268",
+          "number": "345698",
+          "subject": "UNDERSTREET MARKET // QR para generar la factura carga con error",
+          "status": "On Hold",
+          "channel": "Phone",
+          "createdTime": "2026-07-22T17:29:54Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127682268",
+          "assignee": "Javier Landaeta"
+        },
+        {
+          "id": "45842000127588781",
+          "number": "345470",
+          "subject": "Saborearte // Pedido diferente solicitado desde QR",
+          "status": "On Hold",
+          "channel": "Phone",
+          "createdTime": "2026-07-22T08:05:10Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127588781",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000127634028",
+          "number": "345219",
+          "subject": "pregunta sobre enlace qr y link shop",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-21T09:05:41Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127634028",
+          "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000127570125",
+          "number": "345040",
+          "subject": "AFLAMA // Consulta de comisiones QR/ApplePay",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-07-20T13:07:30Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127570125",
+          "assignee": "Raimundo Garcia"
+        },
+        {
+          "id": "45842000127600001",
+          "number": "344895",
+          "subject": "La Solana Café Restaurant 7 Promoción se ve en el QR del restaurante.",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-07-20T08:48:28Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127600001",
+          "assignee": "Jordy Carmona"
+        }
+      ],
+      "inMasterList": true
+    },
+    {
       "classification": "Integraciones",
       "openCount": 1,
       "onHoldCount": 4,
@@ -10542,66 +10612,6 @@
         }
       ],
       "inMasterList": false
-    },
-    {
-      "classification": "QRs",
-      "openCount": 0,
-      "onHoldCount": 2,
-      "closedCount": 3,
-      "totalCount": 5,
-      "tickets": [
-        {
-          "id": "45842000127682268",
-          "number": "345698",
-          "subject": "UNDERSTREET MARKET // QR para generar la factura carga con error",
-          "status": "On Hold",
-          "channel": "Phone",
-          "createdTime": "2026-07-22T17:29:54Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127682268",
-          "assignee": "Javier Landaeta"
-        },
-        {
-          "id": "45842000127588781",
-          "number": "345470",
-          "subject": "Saborearte // Pedido diferente solicitado desde QR",
-          "status": "On Hold",
-          "channel": "Phone",
-          "createdTime": "2026-07-22T08:05:10Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127588781",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000127634028",
-          "number": "345219",
-          "subject": "pregunta sobre enlace qr y link shop",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-21T09:05:41Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127634028",
-          "assignee": "Angie Oliveros"
-        },
-        {
-          "id": "45842000127570125",
-          "number": "345040",
-          "subject": "AFLAMA // Consulta de comisiones QR/ApplePay",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-20T13:07:30Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127570125",
-          "assignee": "Raimundo Garcia"
-        },
-        {
-          "id": "45842000127600001",
-          "number": "344895",
-          "subject": "La Solana Café Restaurant 7 Promoción se ve en el QR del restaurante.",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-20T08:48:28Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127600001",
-          "assignee": "Jordy Carmona"
-        }
-      ],
-      "inMasterList": true
     },
     {
       "classification": "Admin :: Agregar/Eliminar Dispositivo",
