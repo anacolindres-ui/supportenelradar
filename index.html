@@ -312,21 +312,23 @@
     .ct-tickets { display: none; border-top: 1px solid var(--border); }
     .ct-group.open .ct-tickets { display: block; }
     .ct-ticket-row {
-      display: flex; align-items: center; gap: 0.6rem;
+      display: grid;
+      grid-template-columns: 54px 1fr 68px 22px 50px 100px 20px;
+      align-items: center; gap: 0.6rem;
       padding: 0.65rem 1.25rem; border-bottom: 1px solid var(--border);
       font-size: 0.82rem;
     }
     .ct-ticket-row:last-child { border-bottom: none; }
-    .ct-num      { color: var(--muted); font-size: 0.7rem; font-weight: 600; min-width: 52px; white-space: nowrap; }
-    .ct-subj     { flex: 1; color: var(--text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0; }
-    .ct-status   { font-size: 0.68rem; font-weight: 600; padding: 2px 7px; border-radius: 10px; white-space: nowrap; flex-shrink: 0; }
+    .ct-num      { color: var(--muted); font-size: 0.7rem; font-weight: 600; white-space: nowrap; }
+    .ct-subj     { color: var(--text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0; }
+    .ct-status   { font-size: 0.68rem; font-weight: 600; padding: 2px 7px; border-radius: 10px; white-space: nowrap; text-align: center; justify-self: start; }
     .ct-status-open   { background: #D1FAE5; color: #065F46; }
     .ct-status-hold   { background: #FEF3C7; color: #92400E; }
     .ct-status-closed { background: #F1F5F9; color: #475569; }
-    .ct-ch       { font-size: 0.78rem; flex-shrink: 0; }
-    .ct-date     { font-size: 0.7rem; color: var(--muted); white-space: nowrap; flex-shrink: 0; min-width: 52px; text-align: right; }
-    .ct-owner    { font-size: 0.72rem; color: var(--subtext); white-space: nowrap; flex-shrink: 0; max-width: 90px; overflow: hidden; text-overflow: ellipsis; }
-    .ct-link     { color: var(--accent); text-decoration: none; font-size: 0.85rem; flex-shrink: 0; }
+    .ct-ch       { font-size: 0.78rem; text-align: center; }
+    .ct-date     { font-size: 0.7rem; color: var(--muted); white-space: nowrap; text-align: right; }
+    .ct-owner    { font-size: 0.72rem; color: var(--subtext); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .ct-link     { color: var(--accent); text-decoration: none; font-size: 0.85rem; text-align: center; }
     .ct-link:hover { color: var(--accent2); }
     .ct-empty {
       text-align: center; padding: 3.5rem 1rem; color: var(--muted); font-size: 0.88rem;
@@ -893,6 +895,7 @@ function showTab(tab) {
 let ctData = null;
 let ctView = "location";
 let ctStatusFilter = "all";
+let ctOpenClassifications = new Set();
 const CT_MAX_TICKETS_SHOWN = 50;
 
 async function loadCT() {
@@ -934,7 +937,7 @@ function renderCT() {
     <div class="ct-summary-chip">🗂 Tickets abiertos: <strong>${ctData.totalOpenTickets}</strong></div>
     <div class="ct-summary-chip">🏪 Locations con 2+: <strong>${ctData.byLocation.length}</strong></div>
     <div class="ct-summary-chip">👤 Contactos con 2+: <strong>${ctData.byContact.length}</strong></div>
-    ${ctView === "location" ? `<div class="ct-summary-chip">⚠️ Sin Location ID válido: <strong>${(ctData.locationIdIssues || []).length}</strong></div>` : ""}
+    ${ctView === "location" ? `<div class="ct-summary-chip">⚠️ Sin Location ID válido: <strong>${ctData.locationIdIssuesTotal ?? (ctData.locationIdIssues || []).length}</strong></div>` : ""}
   `;
   const items = ctView === "location" ? ctData.byLocation : ctData.byContact;
   const issuesHtml = ctView === "location" ? renderLocationIssuesSection() : "";
@@ -963,6 +966,7 @@ function renderCT() {
 
 function renderLocationIssuesSection() {
   const issues = ctData.locationIdIssues || [];
+  const total = ctData.locationIdIssuesTotal ?? issues.length;
   const rows = issues.map(t => {
     const idLabel = t.locationId
       ? `<span class="ct-loc-id" title="${t.locationId}">${t.locationId}</span>`
@@ -972,17 +976,20 @@ function renderLocationIssuesSection() {
       <div class="ct-loc-id-row">${t.accountName ? t.accountName + ' · ' : ''}Location ID: ${idLabel}</div>
     </div>`;
   }).join("");
+  const moreNote = total > issues.length
+    ? `<div class="ct-more-note">Mostrando los ${issues.length} más recientes de ${total} — abre Zoho Desk para ver el resto</div>`
+    : "";
   return `
     <div class="ct-group" id="ctg-locissues" style="margin-top:1.25rem;border-color:#FCA5A5">
       <div class="ct-group-header" onclick="toggleGroup('ctg-locissues')">
         <div style="flex:1">
           <div class="ct-group-name">⚠️ Sin Location ID válido</div>
-          <div class="ct-group-sub">Tickets abiertos/en espera con Location ID vacío o con formato distinto al esperado (UUID)</div>
+          <div class="ct-group-sub">Tickets abiertos, en espera y cerrados (últimos 30 días) con Location ID vacío o con formato distinto al esperado (UUID)</div>
         </div>
-        <span class="ct-count">${issues.length} tickets</span>
+        <span class="ct-count">${total} tickets</span>
         <span class="ct-chevron">▾</span>
       </div>
-      <div class="ct-tickets">${issues.length ? rows : '<div class="ct-empty" style="padding:1.5rem 1rem">Todos los tickets tienen Location ID con formato válido.</div>'}</div>
+      <div class="ct-tickets">${issues.length ? rows + moreNote : '<div class="ct-empty" style="padding:1.5rem 1rem">Todos los tickets tienen Location ID con formato válido.</div>'}</div>
     </div>`;
 }
 
@@ -1036,8 +1043,13 @@ function renderCTClassification() {
       const openBadge = activeCount > 0 ? `<span class="ct-rank-badge">${activeCount} OPEN</span>` : "";
       const barPct = Math.max(2, Math.round((g.totalCount / maxCount) * 100));
       const color = CT_RANK_COLORS[i % CT_RANK_COLORS.length];
+      // Preserva qué clasificaciones quedaron expandidas al cambiar el filtro
+      // de estado (Todos/Open/On Hold/Closed) — sin esto, cada clic en el
+      // filtro reconstruye la lista entera y cierra todo lo que estaba abierto.
+      const isOpen = ctOpenClassifications.has(g.classification);
+      const keyAttr = g.classification.replace(/"/g, "&quot;");
       return `
-      <div class="ct-rank-row" id="ctr-${i}" onclick="toggleRankRow('ctr-${i}')">
+      <div class="ct-rank-row${isOpen ? ' open' : ''}" id="ctr-${i}" data-key="${keyAttr}" onclick="toggleRankRow('ctr-${i}')">
         <span class="ct-rank-num">${i + 1}</span>
         <div class="ct-rank-main">
           <div class="ct-rank-name" title="${g.classification}">${g.classification}</div>
@@ -1059,7 +1071,13 @@ function renderCTClassification() {
 
 function toggleGroup(id) { document.getElementById(id).classList.toggle("open"); }
 
-function toggleRankRow(id) { document.getElementById(id).classList.toggle("open"); }
+function toggleRankRow(id) {
+  const row = document.getElementById(id);
+  row.classList.toggle("open");
+  const key = row.dataset.key;
+  if (row.classList.contains("open")) ctOpenClassifications.add(key);
+  else ctOpenClassifications.delete(key);
+}
 
 function setCTStatusFilter(status) {
   ctStatusFilter = status;
