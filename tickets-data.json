@@ -1,9 +1,46 @@
 {
-  "lastUpdated": "2026-07-27T17:36:46.482055+00:00",
-  "totalOpenTickets": 67,
-  "totalClosedTickets": 2562,
+  "lastUpdated": "2026-07-27T18:39:16.437323+00:00",
+  "totalOpenTickets": 66,
+  "totalClosedTickets": 2563,
   "closedWindowDays": 30,
   "byLocation": [
+    {
+      "accountId": "45842000022977149",
+      "accountName": "Cloudtown (Florencio-Madrid)",
+      "ticketCount": 3,
+      "tickets": [
+        {
+          "id": "45842000128019271",
+          "number": "346630",
+          "subject": "Pedido de Uber 308A2 no integrado en Last",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-27T18:38:07Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128019271",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000127746094",
+          "number": "345911",
+          "subject": " CloudTown (Kitchen Grill LstQ-Madrid Ensanche Vallecas) PD // Pedido de Glovo 101721887304 no integrado en Last",
+          "status": "On Hold",
+          "channel": "Phone",
+          "createdTime": "2026-07-23T15:52:27Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127746094",
+          "assignee": "Raimundo Garcia"
+        },
+        {
+          "id": "45842000127734278",
+          "number": "345893",
+          "subject": "CloudTown (Rambla Poblenou) // Pedido de uber  no integrado",
+          "status": "On Hold",
+          "channel": "Phone",
+          "createdTime": "2026-07-23T14:32:31Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127734278",
+          "assignee": "Raimundo Garcia"
+        }
+      ]
+    },
     {
       "accountId": "45842000076998599",
       "accountName": "CHIRINGUITO CARTUCHO",
@@ -28,33 +65,6 @@
           "createdTime": "2026-07-21T14:46:12Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127587901",
           "assignee": "Javier Landaeta"
-        }
-      ]
-    },
-    {
-      "accountId": "45842000022977149",
-      "accountName": "Cloudtown (Florencio-Madrid)",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000127746094",
-          "number": "345911",
-          "subject": " CloudTown (Kitchen Grill LstQ-Madrid Ensanche Vallecas) PD // Pedido de Glovo 101721887304 no integrado en Last",
-          "status": "On Hold",
-          "channel": "Phone",
-          "createdTime": "2026-07-23T15:52:27Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127746094",
-          "assignee": "Raimundo Garcia"
-        },
-        {
-          "id": "45842000127734278",
-          "number": "345893",
-          "subject": "CloudTown (Rambla Poblenou) // Pedido de uber  no integrado",
-          "status": "On Hold",
-          "channel": "Phone",
-          "createdTime": "2026-07-23T14:32:31Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127734278",
-          "assignee": "Raimundo Garcia"
         }
       ]
     },
@@ -115,18 +125,6 @@
   ],
   "locationIdIssues": [
     {
-      "id": "45842000128033415",
-      "number": "346622",
-      "subject": "Llamada saliente (00:01:12) de +34937377821 (Soporte) a +34644504725 ( Samuel)",
-      "status": "Open",
-      "channel": "Phone",
-      "createdTime": "2026-07-27T17:29:40Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128033415",
-      "assignee": "Fernando Poza",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000128021139",
       "number": "346621",
       "subject": "Llamada entrante (00:00:57) de +34644504725 ( Samuel) a +34937377821 (Soporte)",
@@ -142,7 +140,7 @@
       "id": "45842000128013330",
       "number": "346619",
       "subject": "Llamada saliente (00:35:48) de +34937377821 (Soporte) a +34644504725 ( Samuel)",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Phone",
       "createdTime": "2026-07-27T16:50:58Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128013330",
@@ -2407,18 +2405,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000127707199",
-      "number": "345762",
-      "subject": "LastApp - glovo integration deleted",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-07-23T05:30:13Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127707199",
-      "assignee": "",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000127713134",
       "number": "345763",
       "subject": "LastApp - glovo integration deleted",
@@ -2431,13 +2417,13 @@
       "locationId": ""
     },
     {
-      "id": "45842000127707119",
-      "number": "345759",
+      "id": "45842000127707199",
+      "number": "345762",
       "subject": "LastApp - glovo integration deleted",
       "status": "Closed",
       "channel": "Email",
-      "createdTime": "2026-07-23T05:30:11Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127707119",
+      "createdTime": "2026-07-23T05:30:13Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127707199",
       "assignee": "",
       "accountName": "",
       "locationId": ""
@@ -2479,13 +2465,13 @@
       "locationId": ""
     },
     {
-      "id": "45842000127707001",
-      "number": "345757",
+      "id": "45842000127707119",
+      "number": "345759",
       "subject": "LastApp - glovo integration deleted",
       "status": "Closed",
       "channel": "Email",
-      "createdTime": "2026-07-23T05:30:09Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127707001",
+      "createdTime": "2026-07-23T05:30:11Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127707119",
       "assignee": "",
       "accountName": "",
       "locationId": ""
@@ -2503,6 +2489,18 @@
       "locationId": ""
     },
     {
+      "id": "45842000127707001",
+      "number": "345757",
+      "subject": "LastApp - glovo integration deleted",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-07-23T05:30:09Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127707001",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
       "id": "45842000127713001",
       "number": "345754",
       "subject": "RE: [##345753##] Your ticket has been created - Reply e-mail category: Unknown",
@@ -2513,45 +2511,47 @@
       "assignee": "",
       "accountName": "",
       "locationId": ""
+    },
+    {
+      "id": "45842000127702146",
+      "number": "345751",
+      "subject": "(No Subject)",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-07-23T04:03:26Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127702146",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1731,
+  "locationIdIssuesTotal": 1730,
   "byContact": [
     {
-      "contactId": "45842000079039554",
-      "contactName": "Samuel",
-      "email": "calidad.franquicia@natur.es",
-      "ticketCount": 3,
+      "contactId": "45842000006490704",
+      "contactName": "Alberto Alberto Vazquez",
+      "email": "alberto@cloudtownbrands.com",
+      "ticketCount": 2,
       "tickets": [
         {
-          "id": "45842000128033415",
-          "number": "346622",
-          "subject": "Llamada saliente (00:01:12) de +34937377821 (Soporte) a +34644504725 ( Samuel)",
+          "id": "45842000128019271",
+          "number": "346630",
+          "subject": "Pedido de Uber 308A2 no integrado en Last",
           "status": "Open",
           "channel": "Phone",
-          "createdTime": "2026-07-27T17:29:40Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128033415",
-          "assignee": "Fernando Poza"
+          "createdTime": "2026-07-27T18:38:07Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128019271",
+          "assignee": "Harold Diaz"
         },
         {
-          "id": "45842000128021139",
-          "number": "346621",
-          "subject": "Llamada entrante (00:00:57) de +34644504725 ( Samuel) a +34937377821 (Soporte)",
-          "status": "Open",
+          "id": "45842000127734278",
+          "number": "345893",
+          "subject": "CloudTown (Rambla Poblenou) // Pedido de uber  no integrado",
+          "status": "On Hold",
           "channel": "Phone",
-          "createdTime": "2026-07-27T17:27:01Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128021139",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000128013330",
-          "number": "346619",
-          "subject": "Llamada saliente (00:35:48) de +34937377821 (Soporte) a +34644504725 ( Samuel)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-07-27T16:50:58Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128013330",
-          "assignee": "Fernando Poza"
+          "createdTime": "2026-07-23T14:32:31Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127734278",
+          "assignee": "Raimundo Garcia"
         }
       ]
     },
@@ -2603,7 +2603,7 @@
           "id": "45842000127586821",
           "number": "345507",
           "subject": "La Payesa // Cierre Z sin información \"Total recaudado\"",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Phone",
           "createdTime": "2026-07-22T08:38:29Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127586821",
@@ -2615,26 +2615,16 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 8,
+      "openCount": 6,
       "onHoldCount": 0,
-      "closedCount": 1017,
-      "totalCount": 1025,
+      "closedCount": 1018,
+      "totalCount": 1024,
       "tickets": [
-        {
-          "id": "45842000128033415",
-          "number": "346622",
-          "subject": "Llamada saliente (00:01:12) de +34937377821 (Soporte) a +34644504725 ( Samuel)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-07-27T17:29:40Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128033415",
-          "assignee": "Fernando Poza"
-        },
         {
           "id": "45842000128013330",
           "number": "346619",
           "subject": "Llamada saliente (00:35:48) de +34937377821 (Soporte) a +34644504725 ( Samuel)",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Phone",
           "createdTime": "2026-07-27T16:50:58Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128013330",
@@ -2961,16 +2951,6 @@
           "assignee": "Harold Diaz"
         },
         {
-          "id": "45842000127975440",
-          "number": "346376",
-          "subject": "Last.app | Last: Tu Ticket [##346375##] ha sido creado",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-26T14:02:05Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127975440",
-          "assignee": "Jordy Carmona"
-        },
-        {
           "id": "45842000127976488",
           "number": "346377",
           "subject": "¡Gracias por contactarnos! ¡Hemos recibido su correo !",
@@ -2978,6 +2958,16 @@
           "channel": "Email",
           "createdTime": "2026-07-26T14:02:05Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127976488",
+          "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000127975440",
+          "number": "346376",
+          "subject": "Last.app | Last: Tu Ticket [##346375##] ha sido creado",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-26T14:02:05Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127975440",
           "assignee": "Jordy Carmona"
         },
         {
@@ -3288,16 +3278,6 @@
           "channel": "Email",
           "createdTime": "2026-07-24T18:06:26Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127849247",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000127849182",
-          "number": "346166",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-24T18:06:24Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127849182",
           "assignee": "Brayan Ricardo Fuentes Herrera"
         }
       ],
@@ -5245,11 +5225,21 @@
     },
     {
       "classification": "Admin :: Integraciones",
-      "openCount": 0,
+      "openCount": 1,
       "onHoldCount": 16,
       "closedCount": 175,
-      "totalCount": 191,
+      "totalCount": 192,
       "tickets": [
+        {
+          "id": "45842000128019271",
+          "number": "346630",
+          "subject": "Pedido de Uber 308A2 no integrado en Last",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-27T18:38:07Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128019271",
+          "assignee": "Harold Diaz"
+        },
         {
           "id": "45842000128007898",
           "number": "346525",
@@ -7835,8 +7825,8 @@
     },
     {
       "classification": "POS :: uso general",
-      "openCount": 0,
-      "onHoldCount": 3,
+      "openCount": 1,
+      "onHoldCount": 2,
       "closedCount": 45,
       "totalCount": 48,
       "tickets": [
@@ -8314,7 +8304,7 @@
           "id": "45842000124982898",
           "number": "331098",
           "subject": "Printer already several times not worked",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-05-16T20:57:32Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000124982898",
@@ -9295,8 +9285,8 @@
     },
     {
       "classification": "POS :: Cierres Z o X",
-      "openCount": 1,
-      "onHoldCount": 0,
+      "openCount": 0,
+      "onHoldCount": 1,
       "closedCount": 16,
       "totalCount": 17,
       "tickets": [
@@ -9304,7 +9294,7 @@
           "id": "45842000127586821",
           "number": "345507",
           "subject": "La Payesa // Cierre Z sin información \"Total recaudado\"",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Phone",
           "createdTime": "2026-07-22T08:38:29Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127586821",
