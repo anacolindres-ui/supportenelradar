@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-28T18:36:11.685329+00:00",
-  "totalOpenTickets": 79,
+  "lastUpdated": "2026-07-28T19:36:19.324221+00:00",
+  "totalOpenTickets": 81,
   "totalClosedTickets": 2697,
   "closedWindowDays": 30,
   "byLocation": [
@@ -55,6 +55,33 @@
           "createdTime": "2026-07-23T14:32:31Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127734278",
           "assignee": "Raimundo Garcia"
+        }
+      ]
+    },
+    {
+      "accountId": "45842000046290427",
+      "accountName": "Isla Sicilia Pio XII",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000128120042",
+          "number": "346931",
+          "subject": "Llamada saliente (00:02:42) de +34937377821 (Soporte) a +34603821383 ( Gorka)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-28T19:11:13Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128120042",
+          "assignee": "Fernando Poza"
+        },
+        {
+          "id": "45842000128102111",
+          "number": "346930",
+          "subject": "Llamada entrante (00:08:48) de +34603821383 ( Gorka) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-28T18:43:31Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128102111",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
         }
       ]
     },
@@ -115,6 +142,30 @@
   ],
   "locationIdIssues": [
     {
+      "id": "45842000128120042",
+      "number": "346931",
+      "subject": "Llamada saliente (00:02:42) de +34937377821 (Soporte) a +34603821383 ( Gorka)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-07-28T19:11:13Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128120042",
+      "assignee": "Fernando Poza",
+      "accountName": "Isla Sicilia Pio XII",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128102111",
+      "number": "346930",
+      "subject": "Llamada entrante (00:08:48) de +34603821383 ( Gorka) a +34937377821 (Soporte)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-07-28T18:43:31Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128102111",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "Isla Sicilia Pio XII",
+      "locationId": ""
+    },
+    {
       "id": "45842000128127118",
       "number": "346928",
       "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34614147839 ( Sr Hudaisa)",
@@ -146,7 +197,7 @@
       "channel": "Email",
       "createdTime": "2026-07-28T18:14:57Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128088870",
-      "assignee": "",
+      "assignee": "Fernando Poza",
       "accountName": "",
       "locationId": ""
     },
@@ -170,7 +221,7 @@
       "channel": "Email",
       "createdTime": "2026-07-28T17:24:18Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128088610",
-      "assignee": "",
+      "assignee": "Fernando Poza",
       "accountName": "",
       "locationId": ""
     },
@@ -307,18 +358,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000128094452",
-      "number": "346871",
-      "subject": "Last.app | Last: Tu Ticket [##346870##] ha sido creado",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-07-28T12:42:14Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094452",
-      "assignee": "Jordy Carmona",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000128132166",
       "number": "346872",
       "subject": "¡Gracias por contactarnos! ¡Hemos recibido su correo !",
@@ -329,6 +368,18 @@
       "assignee": "Harold Diaz",
       "accountName": "",
       "locationId": "346870"
+    },
+    {
+      "id": "45842000128094452",
+      "number": "346871",
+      "subject": "Last.app | Last: Tu Ticket [##346870##] ha sido creado",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-07-28T12:42:14Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094452",
+      "assignee": "Jordy Carmona",
+      "accountName": "",
+      "locationId": ""
     },
     {
       "id": "45842000128132074",
@@ -523,18 +574,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000128074751",
-      "number": "346829",
-      "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-07-28T10:42:13Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128074751",
-      "assignee": "Alberto Poyato",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000128074753",
       "number": "346830",
       "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
@@ -542,6 +581,18 @@
       "channel": "Email",
       "createdTime": "2026-07-28T10:42:13Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128074753",
+      "assignee": "Alberto Poyato",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128074751",
+      "number": "346829",
+      "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-07-28T10:42:13Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128074751",
       "assignee": "Alberto Poyato",
       "accountName": "",
       "locationId": ""
@@ -2489,33 +2540,9 @@
       "assignee": "Javier Landaeta",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000127916231",
-      "number": "346229",
-      "subject": "Uber Case# 58744003-LastApp - uber integration request",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-07-25T09:20:15Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127916231",
-      "assignee": "Alberto Poyato",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000127867274",
-      "number": "346212",
-      "subject": "**AUSENCIA POR VACACIONES***",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-07-25T02:36:02Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127867274",
-      "assignee": "Brayan Ricardo Fuentes Herrera",
-      "accountName": "Lola Si Mola",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1833,
+  "locationIdIssuesTotal": 1835,
   "byContact": [
     {
       "contactId": "45842000073755691",
@@ -2542,6 +2569,34 @@
           "createdTime": "2026-07-21T14:46:12Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127587901",
           "assignee": "Javier Landaeta"
+        }
+      ]
+    },
+    {
+      "contactId": "45842000079004234",
+      "contactName": "Gorka",
+      "email": "supervicion@pallapizza.com",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000128120042",
+          "number": "346931",
+          "subject": "Llamada saliente (00:02:42) de +34937377821 (Soporte) a +34603821383 ( Gorka)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-28T19:11:13Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128120042",
+          "assignee": "Fernando Poza"
+        },
+        {
+          "id": "45842000128102111",
+          "number": "346930",
+          "subject": "Llamada entrante (00:08:48) de +34603821383 ( Gorka) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-28T18:43:31Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128102111",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
         }
       ]
     },
@@ -2577,11 +2632,21 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 6,
+      "openCount": 7,
       "onHoldCount": 0,
       "closedCount": 1049,
-      "totalCount": 1055,
+      "totalCount": 1056,
       "tickets": [
+        {
+          "id": "45842000128120042",
+          "number": "346931",
+          "subject": "Llamada saliente (00:02:42) de +34937377821 (Soporte) a +34603821383 ( Gorka)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-28T19:11:13Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128120042",
+          "assignee": "Fernando Poza"
+        },
         {
           "id": "45842000128127118",
           "number": "346928",
@@ -2610,7 +2675,7 @@
           "channel": "Email",
           "createdTime": "2026-07-28T18:14:57Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128088870",
-          "assignee": ""
+          "assignee": "Fernando Poza"
         },
         {
           "id": "45842000128130831",
@@ -3247,11 +3312,21 @@
     },
     {
       "classification": "Calls",
-      "openCount": 0,
+      "openCount": 1,
       "onHoldCount": 0,
       "closedCount": 413,
-      "totalCount": 413,
+      "totalCount": 414,
       "tickets": [
+        {
+          "id": "45842000128102111",
+          "number": "346930",
+          "subject": "Llamada entrante (00:08:48) de +34603821383 ( Gorka) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-28T18:43:31Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128102111",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
         {
           "id": "45842000128103023",
           "number": "346883",
@@ -3880,7 +3955,7 @@
           "channel": "Email",
           "createdTime": "2026-07-28T17:24:18Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128088610",
-          "assignee": ""
+          "assignee": "Fernando Poza"
         },
         {
           "id": "45842000128088530",
@@ -3933,16 +4008,6 @@
           "assignee": "Javier Landaeta"
         },
         {
-          "id": "45842000128076556",
-          "number": "346832",
-          "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-28T10:42:14Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128076556",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000128074855",
           "number": "346831",
           "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
@@ -3953,13 +4018,13 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000128074753",
-          "number": "346830",
+          "id": "45842000128076556",
+          "number": "346832",
           "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
           "status": "Closed",
           "channel": "Email",
-          "createdTime": "2026-07-28T10:42:13Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128074753",
+          "createdTime": "2026-07-28T10:42:14Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128076556",
           "assignee": "Alberto Poyato"
         },
         {
@@ -3970,6 +4035,16 @@
           "channel": "Email",
           "createdTime": "2026-07-28T10:42:13Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128074751",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000128074753",
+          "number": "346830",
+          "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-28T10:42:13Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128074753",
           "assignee": "Alberto Poyato"
         },
         {
