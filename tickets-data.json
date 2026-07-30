@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-30T01:39:55.824983+00:00",
-  "totalOpenTickets": 60,
+  "lastUpdated": "2026-07-30T03:10:54.588070+00:00",
+  "totalOpenTickets": 62,
   "totalClosedTickets": 2575,
   "closedWindowDays": 30,
   "byLocation": [
@@ -87,6 +87,30 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000128174066",
+      "number": "347249",
+      "subject": "Respuesta automática: - Reporte diario de facturación",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-07-30T02:33:22Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128174066",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128165901",
+      "number": "347246",
+      "subject": "LastApp - glovo integration request",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-07-30T02:18:15Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128165901",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000128165778",
       "number": "347242",
@@ -292,18 +316,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000128155920",
-      "number": "347190",
-      "subject": "Alerta de seguridad crítica",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-07-29T16:16:57Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128155920",
-      "assignee": "Alberto Poyato",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000128164201",
       "number": "347189",
       "subject": "Alerta de seguridad crítica",
@@ -311,6 +323,18 @@
       "channel": "Email",
       "createdTime": "2026-07-29T16:16:57Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128164201",
+      "assignee": "Alberto Poyato",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128155920",
+      "number": "347190",
+      "subject": "Alerta de seguridad crítica",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-07-29T16:16:57Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128155920",
       "assignee": "Alberto Poyato",
       "accountName": "",
       "locationId": ""
@@ -2462,33 +2486,9 @@
       "assignee": "Alberto Poyato",
       "accountName": "CARMELA",
       "locationId": ""
-    },
-    {
-      "id": "45842000128029185",
-      "number": "346575",
-      "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34613041586 ( Bruno)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-07-27T12:56:40Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128029185",
-      "assignee": "Alberto Poyato",
-      "accountName": "CARMELA",
-      "locationId": ""
-    },
-    {
-      "id": "45842000128050773",
-      "number": "346570",
-      "subject": "Last.app | Last: Tu Ticket [##346568##] ha sido creado",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-07-27T12:40:05Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128050773",
-      "assignee": "Brayan Ricardo Fuentes Herrera",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1710,
+  "locationIdIssuesTotal": 1712,
   "byContact": [
     {
       "contactId": "45842000032294756",
@@ -2550,11 +2550,21 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 5,
+      "openCount": 6,
       "onHoldCount": 0,
       "closedCount": 981,
-      "totalCount": 986,
+      "totalCount": 987,
       "tickets": [
+        {
+          "id": "45842000128174066",
+          "number": "347249",
+          "subject": "Respuesta automática: - Reporte diario de facturación",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-07-30T02:33:22Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128174066",
+          "assignee": ""
+        },
         {
           "id": "45842000128165778",
           "number": "347242",
@@ -2726,16 +2736,6 @@
           "assignee": "Raimundo Garcia"
         },
         {
-          "id": "45842000128155920",
-          "number": "347190",
-          "subject": "Alerta de seguridad crítica",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-29T16:16:57Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128155920",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000128164201",
           "number": "347189",
           "subject": "Alerta de seguridad crítica",
@@ -2743,6 +2743,16 @@
           "channel": "Email",
           "createdTime": "2026-07-29T16:16:57Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128164201",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000128155920",
+          "number": "347190",
+          "subject": "Alerta de seguridad crítica",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-29T16:16:57Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128155920",
           "assignee": "Alberto Poyato"
         },
         {
@@ -3830,11 +3840,21 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 2,
+      "openCount": 3,
       "onHoldCount": 8,
       "closedCount": 287,
-      "totalCount": 297,
+      "totalCount": 298,
       "tickets": [
+        {
+          "id": "45842000128165901",
+          "number": "347246",
+          "subject": "LastApp - glovo integration request",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-07-30T02:18:15Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128165901",
+          "assignee": ""
+        },
         {
           "id": "45842000128153566",
           "number": "347077",
@@ -3956,16 +3976,6 @@
           "assignee": "Javier Landaeta"
         },
         {
-          "id": "45842000128076556",
-          "number": "346832",
-          "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-28T10:42:14Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128076556",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000128074855",
           "number": "346831",
           "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
@@ -3976,13 +3986,13 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000128074753",
-          "number": "346830",
+          "id": "45842000128076556",
+          "number": "346832",
           "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
           "status": "Closed",
           "channel": "Email",
-          "createdTime": "2026-07-28T10:42:13Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128074753",
+          "createdTime": "2026-07-28T10:42:14Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128076556",
           "assignee": "Alberto Poyato"
         },
         {
@@ -3993,6 +4003,16 @@
           "channel": "Email",
           "createdTime": "2026-07-28T10:42:13Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128074751",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000128074753",
+          "number": "346830",
+          "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-28T10:42:13Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128074753",
           "assignee": "Alberto Poyato"
         },
         {
@@ -9216,16 +9236,6 @@
           "assignee": "Javier Landaeta"
         },
         {
-          "id": "45842000128094076",
-          "number": "346860",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-28T12:06:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094076",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
           "id": "45842000128132001",
           "number": "346859",
           "subject": "Help us improve",
@@ -9234,6 +9244,16 @@
           "createdTime": "2026-07-28T12:06:33Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132001",
           "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000128094076",
+          "number": "346860",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-28T12:06:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094076",
+          "assignee": "Trinidad Larrain Punti"
         },
         {
           "id": "45842000128067604",
