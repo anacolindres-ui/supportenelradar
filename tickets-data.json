@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-31T19:35:40.641409+00:00",
-  "totalOpenTickets": 84,
-  "totalClosedTickets": 2595,
+  "lastUpdated": "2026-07-31T20:33:53.270350+00:00",
+  "totalOpenTickets": 83,
+  "totalClosedTickets": 2599,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -61,14 +61,38 @@
   ],
   "locationIdIssues": [
     {
-      "id": "45842000128272909",
-      "number": "347630",
-      "subject": "Detalles de tu pedido",
-      "status": "Open",
+      "id": "45842000128264104",
+      "number": "347641",
+      "subject": "Llamada entrante (00:06:04) de +34622400308 ( Gilmar) a +34937377821 (Soporte)",
+      "status": "Closed",
+      "channel": "Phone",
+      "createdTime": "2026-07-31T20:08:30Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128264104",
+      "assignee": "Jordy Carmona",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128279479",
+      "number": "347636",
+      "subject": "¡Gracias por contactarnos! ¡Hemos recibido su correo !",
+      "status": "Closed",
       "channel": "Email",
-      "createdTime": "2026-07-31T19:24:41Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128272909",
+      "createdTime": "2026-07-31T19:51:33Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128279479",
       "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "",
+      "locationId": "1234"
+    },
+    {
+      "id": "45842000128269061",
+      "number": "347633",
+      "subject": "Llamada entrante (00:26:27) de +34644158361 ( +34644158361) a +34937377821 (Soporte)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-07-31T19:50:01Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128269061",
+      "assignee": "",
       "accountName": "",
       "locationId": ""
     },
@@ -76,13 +100,13 @@
       "id": "45842000128282531",
       "number": "347629",
       "subject": "Detalles de tu pedido",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Email",
       "createdTime": "2026-07-31T19:17:09Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128282531",
       "assignee": "Johan Manuel Cortissoz Posada",
       "accountName": "",
-      "locationId": ""
+      "locationId": "1234"
     },
     {
       "id": "45842000128250121",
@@ -1633,18 +1657,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000128164201",
-      "number": "347189",
-      "subject": "Alerta de seguridad crítica",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-07-29T16:16:57Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128164201",
-      "assignee": "Alberto Poyato",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000128155920",
       "number": "347190",
       "subject": "Alerta de seguridad crítica",
@@ -1652,6 +1664,18 @@
       "channel": "Email",
       "createdTime": "2026-07-29T16:16:57Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128155920",
+      "assignee": "Alberto Poyato",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128164201",
+      "number": "347189",
+      "subject": "Alerta de seguridad crítica",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-07-29T16:16:57Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128164201",
       "assignee": "Alberto Poyato",
       "accountName": "",
       "locationId": ""
@@ -2435,33 +2459,9 @@
       "assignee": "Jordy Carmona",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000128094452",
-      "number": "346871",
-      "subject": "Last.app | Last: Tu Ticket [##346870##] ha sido creado",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-07-28T12:42:14Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094452",
-      "assignee": "Jordy Carmona",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000128132166",
-      "number": "346872",
-      "subject": "¡Gracias por contactarnos! ¡Hemos recibido su correo !",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-07-28T12:42:14Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132166",
-      "assignee": "Harold Diaz",
-      "accountName": "",
-      "locationId": "346870"
     }
   ],
-  "locationIdIssuesTotal": 1735,
+  "locationIdIssuesTotal": 1737,
   "byContact": [
     {
       "contactId": "45842000022748544",
@@ -2523,31 +2523,11 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 11,
+      "openCount": 9,
       "onHoldCount": 0,
       "closedCount": 997,
-      "totalCount": 1008,
+      "totalCount": 1006,
       "tickets": [
-        {
-          "id": "45842000128272909",
-          "number": "347630",
-          "subject": "Detalles de tu pedido",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-07-31T19:24:41Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128272909",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
-          "id": "45842000128282531",
-          "number": "347629",
-          "subject": "Detalles de tu pedido",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-07-31T19:17:09Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128282531",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
         {
           "id": "45842000128222196",
           "number": "347611",
@@ -3243,11 +3223,31 @@
     },
     {
       "classification": "Calls",
-      "openCount": 0,
+      "openCount": 1,
       "onHoldCount": 0,
-      "closedCount": 400,
-      "totalCount": 400,
+      "closedCount": 401,
+      "totalCount": 402,
       "tickets": [
+        {
+          "id": "45842000128264104",
+          "number": "347641",
+          "subject": "Llamada entrante (00:06:04) de +34622400308 ( Gilmar) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-07-31T20:08:30Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128264104",
+          "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000128269061",
+          "number": "347633",
+          "subject": "Llamada entrante (00:26:27) de +34644158361 ( +34644158361) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-07-31T19:50:01Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128269061",
+          "assignee": ""
+        },
         {
           "id": "45842000128250121",
           "number": "347628",
@@ -3837,16 +3837,6 @@
           "createdTime": "2026-07-25T11:59:15Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127944072",
           "assignee": "Jordy Carmona"
-        },
-        {
-          "id": "45842000127956016",
-          "number": "346253",
-          "subject": "Llamada entrante (00:07:28) de +34685497735 (Óscar, Dominguez Córdoba) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-25T11:47:54Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127956016",
-          "assignee": "Jordy Carmona"
         }
       ],
       "inMasterList": false
@@ -4219,16 +4209,6 @@
           "assignee": "Javier Landaeta"
         },
         {
-          "id": "45842000128076556",
-          "number": "346832",
-          "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-28T10:42:14Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128076556",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000128074855",
           "number": "346831",
           "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
@@ -4236,6 +4216,16 @@
           "channel": "Email",
           "createdTime": "2026-07-28T10:42:14Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128074855",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000128076556",
+          "number": "346832",
+          "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-28T10:42:14Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128076556",
           "assignee": "Alberto Poyato"
         },
         {
@@ -6065,8 +6055,8 @@
       "classification": "Instalación/Formación",
       "openCount": 1,
       "onHoldCount": 0,
-      "closedCount": 90,
-      "totalCount": 91,
+      "closedCount": 91,
+      "totalCount": 92,
       "tickets": [
         {
           "id": "45842000128134882",
@@ -6117,6 +6107,16 @@
           "createdTime": "2026-07-29T09:08:02Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128124125",
           "assignee": "Javier Landaeta"
+        },
+        {
+          "id": "45842000128102210",
+          "number": "347014",
+          "subject": "Llamada saliente (00:00:32) de +34937377821 (Soporte) a +34677051560 ( Marianella Albertini)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-07-29T08:24:34Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128102210",
+          "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
           "id": "45842000128028324",
@@ -6666,16 +6666,6 @@
           "channel": "Phone",
           "createdTime": "2026-07-14T13:00:25Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127333133",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000127300252",
-          "number": "343625",
-          "subject": "Llamada saliente (00:00:55) de +34937377821 (Soporte) a +34722775124 ( Richard Angulo)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-14T12:04:59Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127300252",
           "assignee": "Dimitriz Rodriguez"
         }
       ],
@@ -7365,9 +7355,19 @@
       "classification": "Otro",
       "openCount": 0,
       "onHoldCount": 0,
-      "closedCount": 62,
-      "totalCount": 62,
+      "closedCount": 63,
+      "totalCount": 63,
       "tickets": [
+        {
+          "id": "45842000128279479",
+          "number": "347636",
+          "subject": "¡Gracias por contactarnos! ¡Hemos recibido su correo !",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-31T19:51:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128279479",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000128279349",
           "number": "347608",
@@ -7957,16 +7957,6 @@
           "createdTime": "2026-07-16T15:40:13Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127471146",
           "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000127424807",
-          "number": "343967",
-          "subject": "Este verano, las mejores OFERTAS están aquí",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-15T15:56:19Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127424807",
-          "assignee": "Johan Manuel Cortissoz Posada"
         }
       ],
       "inMasterList": true
@@ -11442,6 +11432,56 @@
       "inMasterList": true
     },
     {
+      "classification": "SPAM",
+      "openCount": 0,
+      "onHoldCount": 0,
+      "closedCount": 4,
+      "totalCount": 4,
+      "tickets": [
+        {
+          "id": "45842000128282531",
+          "number": "347629",
+          "subject": "Detalles de tu pedido",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-31T19:17:09Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128282531",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000128203334",
+          "number": "347441",
+          "subject": "¿Cómo estuvo tu experiencia? ⭐",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-30T17:14:43Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128203334",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000128186403",
+          "number": "347365",
+          "subject": "[Solicitud recibida]",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-30T12:53:15Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128186403",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000128186194",
+          "number": "347339",
+          "subject": "Apple Days con hasta -12% en Fnac",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-30T11:21:01Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128186194",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        }
+      ],
+      "inMasterList": true
+    },
+    {
       "classification": "Admin :: Empleados",
       "openCount": 0,
       "onHoldCount": 0,
@@ -11640,46 +11680,6 @@
         }
       ],
       "inMasterList": false
-    },
-    {
-      "classification": "SPAM",
-      "openCount": 0,
-      "onHoldCount": 0,
-      "closedCount": 3,
-      "totalCount": 3,
-      "tickets": [
-        {
-          "id": "45842000128203334",
-          "number": "347441",
-          "subject": "¿Cómo estuvo tu experiencia? ⭐",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-30T17:14:43Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128203334",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
-          "id": "45842000128186403",
-          "number": "347365",
-          "subject": "[Solicitud recibida]",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-30T12:53:15Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128186403",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
-          "id": "45842000128186194",
-          "number": "347339",
-          "subject": "Apple Days con hasta -12% en Fnac",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-30T11:21:01Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128186194",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        }
-      ],
-      "inMasterList": true
     },
     {
       "classification": "Admin ::  Dispositivos",
