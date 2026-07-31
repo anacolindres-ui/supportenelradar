@@ -1,46 +1,9 @@
 {
-  "lastUpdated": "2026-07-31T05:16:23.957777+00:00",
-  "totalOpenTickets": 72,
-  "totalClosedTickets": 2562,
+  "lastUpdated": "2026-07-31T07:09:28.975949+00:00",
+  "totalOpenTickets": 71,
+  "totalClosedTickets": 2563,
   "closedWindowDays": 30,
   "byLocation": [
-    {
-      "accountId": "45842000022919085",
-      "accountName": "Technological Body Nutrition SL",
-      "ticketCount": 3,
-      "tickets": [
-        {
-          "id": "45842000128197140",
-          "number": "347406",
-          "subject": "TEKE FACTORY SANTS // Pedido de la SHOP con la dirección incompleta",
-          "status": "On Hold",
-          "channel": "Phone",
-          "createdTime": "2026-07-30T14:54:57Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128197140",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000128134882",
-          "number": "347386",
-          "subject": "Llamada saliente (00:17:39) de +34937377821 (Soporte) a +34675360347 ( Fran Sánchez)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-07-30T13:58:05Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128134882",
-          "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000128118064",
-          "number": "347020",
-          "subject": "TEKE FACTORY ARIBAU // Error en pedido de la shop por número de teléfono",
-          "status": "On Hold",
-          "channel": "Phone",
-          "createdTime": "2026-07-29T08:44:50Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128118064",
-          "assignee": "Javier Landaeta"
-        }
-      ]
-    },
     {
       "accountId": "45842000002770305",
       "accountName": "TAPEATE ALIMENTOS INTERNACIONALES S.L.",
@@ -67,9 +30,48 @@
           "assignee": "Raimundo Garcia"
         }
       ]
+    },
+    {
+      "accountId": "45842000022919085",
+      "accountName": "Technological Body Nutrition SL",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000128197140",
+          "number": "347406",
+          "subject": "TEKE FACTORY SANTS // Pedido de la SHOP con la dirección incompleta",
+          "status": "On Hold",
+          "channel": "Phone",
+          "createdTime": "2026-07-30T14:54:57Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128197140",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000128118064",
+          "number": "347020",
+          "subject": "TEKE FACTORY ARIBAU // Error en pedido de la shop por número de teléfono",
+          "status": "On Hold",
+          "channel": "Phone",
+          "createdTime": "2026-07-29T08:44:50Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128118064",
+          "assignee": "Javier Landaeta"
+        }
+      ]
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000128220001",
+      "number": "347514",
+      "subject": "LastApp - glovo integration request",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-07-31T06:35:12Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128220001",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000128216163",
       "number": "347511",
@@ -587,18 +589,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000128134882",
-      "number": "347386",
-      "subject": "Llamada saliente (00:17:39) de +34937377821 (Soporte) a +34675360347 ( Fran Sánchez)",
-      "status": "Open",
-      "channel": "Phone",
-      "createdTime": "2026-07-30T13:58:05Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128134882",
-      "assignee": "Harold Diaz",
-      "accountName": "Technological Body Nutrition SL",
-      "locationId": ""
-    },
-    {
       "id": "45842000128128863",
       "number": "347380",
       "subject": "Llamada entrante (00:01:55) de +34602552510 ( CARLOS MARTINEZ) a +34937377821 (Soporte)",
@@ -659,18 +649,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000128186403",
-      "number": "347365",
-      "subject": "[Solicitud recibida]",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-07-30T12:53:15Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128186403",
-      "assignee": "Johan Manuel Cortissoz Posada",
-      "accountName": "",
-      "locationId": "1234"
-    },
-    {
       "id": "45842000128185320",
       "number": "347366",
       "subject": "Integración Padthaiwok Sta Paula",
@@ -681,6 +659,18 @@
       "assignee": "Trinidad Larrain Punti",
       "accountName": "",
       "locationId": ""
+    },
+    {
+      "id": "45842000128186403",
+      "number": "347365",
+      "subject": "[Solicitud recibida]",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-07-30T12:53:15Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128186403",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "",
+      "locationId": "1234"
     },
     {
       "id": "45842000128186275",
@@ -698,7 +688,7 @@
       "id": "45842000128180440",
       "number": "347355",
       "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
-      "status": "On Hold",
+      "status": "Open",
       "channel": "Email",
       "createdTime": "2026-07-30T11:57:06Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128180440",
@@ -2171,18 +2161,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000128094076",
-      "number": "346860",
-      "subject": "Help us improve",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-07-28T12:06:33Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094076",
-      "assignee": "Trinidad Larrain Punti",
-      "accountName": "",
-      "locationId": "1234"
-    },
-    {
       "id": "45842000128130019",
       "number": "346858",
       "subject": "Help us improve",
@@ -2193,6 +2171,18 @@
       "assignee": "Trinidad Larrain Punti",
       "accountName": "",
       "locationId": ""
+    },
+    {
+      "id": "45842000128094076",
+      "number": "346860",
+      "subject": "Help us improve",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-07-28T12:06:33Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094076",
+      "assignee": "Trinidad Larrain Punti",
+      "accountName": "",
+      "locationId": "1234"
     },
     {
       "id": "45842000128132001",
@@ -2515,7 +2505,7 @@
       "contactId": "45842000022748544",
       "contactName": "Fran Sánchez",
       "email": "Tekefactory@gmail.com",
-      "ticketCount": 3,
+      "ticketCount": 2,
       "tickets": [
         {
           "id": "45842000128197140",
@@ -2526,16 +2516,6 @@
           "createdTime": "2026-07-30T14:54:57Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128197140",
           "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000128134882",
-          "number": "347386",
-          "subject": "Llamada saliente (00:17:39) de +34937377821 (Soporte) a +34675360347 ( Fran Sánchez)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-07-30T13:58:05Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128134882",
-          "assignee": "Harold Diaz"
         },
         {
           "id": "45842000128118064",
@@ -2581,10 +2561,10 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 9,
+      "openCount": 8,
       "onHoldCount": 0,
       "closedCount": 994,
-      "totalCount": 1003,
+      "totalCount": 1002,
       "tickets": [
         {
           "id": "45842000128216163",
@@ -2865,16 +2845,6 @@
           "createdTime": "2026-07-30T14:30:33Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128196014",
           "assignee": "Jordy Carmona"
-        },
-        {
-          "id": "45842000128134882",
-          "number": "347386",
-          "subject": "Llamada saliente (00:17:39) de +34937377821 (Soporte) a +34675360347 ( Fran Sánchez)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-07-30T13:58:05Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128134882",
-          "assignee": "Harold Diaz"
         },
         {
           "id": "45842000128185525",
@@ -3891,11 +3861,21 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 7,
+      "openCount": 8,
       "onHoldCount": 9,
       "closedCount": 275,
-      "totalCount": 291,
+      "totalCount": 292,
       "tickets": [
+        {
+          "id": "45842000128220001",
+          "number": "347514",
+          "subject": "LastApp - glovo integration request",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-07-31T06:35:12Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128220001",
+          "assignee": ""
+        },
         {
           "id": "45842000128216088",
           "number": "347507",
@@ -4661,9 +4641,9 @@
     },
     {
       "classification": "Admin :: General",
-      "openCount": 1,
+      "openCount": 0,
       "onHoldCount": 1,
-      "closedCount": 206,
+      "closedCount": 207,
       "totalCount": 208,
       "tickets": [
         {
@@ -5275,24 +5255,14 @@
           "createdTime": "2026-07-20T12:34:36Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127612036",
           "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000127290473",
-          "number": "343296",
-          "subject": "Last​ & Hubspot - ¿Hablamos?",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-07-13T08:49:03Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127290473",
-          "assignee": "Harold Diaz"
         }
       ],
       "inMasterList": true
     },
     {
       "classification": "Admin :: Integraciones",
-      "openCount": 3,
-      "onHoldCount": 10,
+      "openCount": 4,
+      "onHoldCount": 9,
       "closedCount": 148,
       "totalCount": 161,
       "tickets": [
@@ -5310,7 +5280,7 @@
           "id": "45842000128180440",
           "number": "347355",
           "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-07-30T11:57:06Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128180440",
@@ -8937,16 +8907,6 @@
           "assignee": "Javier Landaeta"
         },
         {
-          "id": "45842000128132001",
-          "number": "346859",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-28T12:06:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132001",
-          "assignee": "Harold Diaz"
-        },
-        {
           "id": "45842000128094076",
           "number": "346860",
           "subject": "Help us improve",
@@ -8955,6 +8915,16 @@
           "createdTime": "2026-07-28T12:06:33Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094076",
           "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000128132001",
+          "number": "346859",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-28T12:06:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132001",
+          "assignee": "Harold Diaz"
         },
         {
           "id": "45842000128067604",
@@ -10881,8 +10851,8 @@
     },
     {
       "classification": "Módulos Reserva",
-      "openCount": 0,
-      "onHoldCount": 1,
+      "openCount": 1,
+      "onHoldCount": 0,
       "closedCount": 6,
       "totalCount": 7,
       "tickets": [
@@ -10890,7 +10860,7 @@
           "id": "45842000128114995",
           "number": "347395",
           "subject": "Brunchit Plaza Mayor / Ingreso de reservas en last, donde no esta activa esta opción.",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Phone",
           "createdTime": "2026-07-30T14:22:22Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128114995",
