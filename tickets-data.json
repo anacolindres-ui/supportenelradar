@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-31T22:26:12.883296+00:00",
+  "lastUpdated": "2026-07-31T23:26:02.314695+00:00",
   "totalOpenTickets": 86,
-  "totalClosedTickets": 2480,
+  "totalClosedTickets": 2481,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -61,6 +61,18 @@
   ],
   "locationIdIssues": [
     {
+      "id": "45842000128240464",
+      "number": "347656",
+      "subject": "Amigo, hice el procedimiento de esa manera pero no me aparece ligado al SAT la factura que mande a pesar de que ya está configurado",
+      "status": "Open",
+      "channel": "Last.app Mexico",
+      "createdTime": "2026-07-31T23:23:20Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128240464",
+      "assignee": "",
+      "accountName": "Hoke Poke House",
+      "locationId": ""
+    },
+    {
       "id": "45842000128277425",
       "number": "347651",
       "subject": "Railway plugin for ChatGPT, dev.new preview, new observability panels",
@@ -76,7 +88,7 @@
       "id": "45842000128240317",
       "number": "347650",
       "subject": "Hola! Buen día!",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Last.app Mexico",
       "createdTime": "2026-07-31T21:35:16Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128240317",
@@ -2447,21 +2459,9 @@
       "assignee": "Harold Diaz",
       "accountName": "",
       "locationId": "346904"
-    },
-    {
-      "id": "45842000128093032",
-      "number": "346888",
-      "subject": "Llamada saliente (00:21:09) de +34937377821 (Soporte) a +34613041586 ( Bruno)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-07-28T13:42:32Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128093032",
-      "assignee": "Alberto Poyato",
-      "accountName": "CARMELA",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1654,
+  "locationIdIssuesTotal": 1655,
   "byContact": [
     {
       "contactId": "45842000022748544",
@@ -2525,9 +2525,19 @@
       "classification": "Sin clasificar",
       "openCount": 11,
       "onHoldCount": 0,
-      "closedCount": 946,
-      "totalCount": 957,
+      "closedCount": 947,
+      "totalCount": 958,
       "tickets": [
+        {
+          "id": "45842000128240464",
+          "number": "347656",
+          "subject": "Amigo, hice el procedimiento de esa manera pero no me aparece ligado al SAT la factura que mande a pesar de que ya está configurado",
+          "status": "Open",
+          "channel": "Last.app Mexico",
+          "createdTime": "2026-07-31T23:23:20Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128240464",
+          "assignee": ""
+        },
         {
           "id": "45842000128277425",
           "number": "347651",
@@ -2542,7 +2552,7 @@
           "id": "45842000128240317",
           "number": "347650",
           "subject": "Hola! Buen día!",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Last.app Mexico",
           "createdTime": "2026-07-31T21:35:16Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128240317",
@@ -3216,16 +3226,6 @@
           "channel": "Phone",
           "createdTime": "2026-07-29T19:00:46Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128116504",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000128113687",
-          "number": "347222",
-          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34618560544 ( Twin Bros Burger)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-29T18:48:25Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128113687",
           "assignee": "Brayan Ricardo Fuentes Herrera"
         },
         {
@@ -4229,16 +4229,6 @@
           "assignee": "Javier Landaeta"
         },
         {
-          "id": "45842000128076556",
-          "number": "346832",
-          "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-28T10:42:14Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128076556",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000128074855",
           "number": "346831",
           "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
@@ -4246,6 +4236,16 @@
           "channel": "Email",
           "createdTime": "2026-07-28T10:42:14Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128074855",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000128076556",
+          "number": "346832",
+          "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-28T10:42:14Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128076556",
           "assignee": "Alberto Poyato"
         },
         {
@@ -8969,16 +8969,6 @@
           "assignee": "Trinidad Larrain Punti"
         },
         {
-          "id": "45842000128157367",
-          "number": "347135",
-          "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-29T13:15:39Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128157367",
-          "assignee": "Raimundo Garcia"
-        },
-        {
           "id": "45842000128154683",
           "number": "347134",
           "subject": "[Just Eat UK] Update: LastApp - flyt integration deleted",
@@ -8987,6 +8977,16 @@
           "createdTime": "2026-07-29T13:15:39Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128154683",
           "assignee": "Javier Landaeta"
+        },
+        {
+          "id": "45842000128157367",
+          "number": "347135",
+          "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-29T13:15:39Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128157367",
+          "assignee": "Raimundo Garcia"
         },
         {
           "id": "45842000128119055",
@@ -10886,7 +10886,7 @@
           "channel": "Phone",
           "createdTime": "2026-07-31T11:58:40Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128276001",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
+          "assignee": ""
         },
         {
           "id": "45842000128114995",
