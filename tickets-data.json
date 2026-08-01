@@ -1,14 +1,34 @@
 {
-  "lastUpdated": "2026-08-01T16:26:18.557691+00:00",
-  "totalOpenTickets": 138,
+  "lastUpdated": "2026-08-01T17:25:11.697825+00:00",
+  "totalOpenTickets": 141,
   "totalClosedTickets": 2498,
   "closedWindowDays": 30,
   "byLocation": [
     {
       "accountId": "45842000114090187",
       "accountName": "Grupo Los Panchos",
-      "ticketCount": 2,
+      "ticketCount": 4,
       "tickets": [
+        {
+          "id": "45842000128276345",
+          "number": "347791",
+          "subject": "Llamada saliente de +525597219950 (Mexico) a +525535760054 ( Ricardo Paredes Gómez)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-08-01T17:18:45Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128276345",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000128289822",
+          "number": "347789",
+          "subject": "Problema de Recepción de Pedidos",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-01T16:35:45Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128289822",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000128284217",
           "number": "347678",
@@ -114,6 +134,42 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000128276345",
+      "number": "347791",
+      "subject": "Llamada saliente de +525597219950 (Mexico) a +525535760054 ( Ricardo Paredes Gómez)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-08-01T17:18:45Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128276345",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "Grupo Los Panchos",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128258271",
+      "number": "347790",
+      "subject": "Llamada entrante (00:01:04) de +34645451064 ( juan cruz malinverno) a +34937377821 (Soporte)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-08-01T16:55:31Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128258271",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "PIZZAPIZZA",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128289822",
+      "number": "347789",
+      "subject": "Problema de Recepción de Pedidos",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-08-01T16:35:45Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128289822",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "Grupo Los Panchos",
+      "locationId": ""
+    },
     {
       "id": "45842000128286000",
       "number": "347784",
@@ -403,6 +459,18 @@
       "locationId": ""
     },
     {
+      "id": "45842000128279918",
+      "number": "347703",
+      "subject": "Request Received",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-08-01T05:30:18Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128279918",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
       "id": "45842000128286449",
       "number": "347704",
       "subject": "LastApp - glovo integration deleted",
@@ -427,30 +495,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000128279918",
-      "number": "347703",
-      "subject": "Request Received",
-      "status": "Open",
-      "channel": "Email",
-      "createdTime": "2026-08-01T05:30:18Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128279918",
-      "assignee": "",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000128284641",
-      "number": "347699",
-      "subject": "LastApp - glovo integration deleted",
-      "status": "Open",
-      "channel": "Email",
-      "createdTime": "2026-08-01T05:30:16Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128284641",
-      "assignee": "",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000128284631",
       "number": "347696",
       "subject": "LastApp - glovo integration deleted",
@@ -458,18 +502,6 @@
       "channel": "Email",
       "createdTime": "2026-08-01T05:30:16Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128284631",
-      "assignee": "",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000128286251",
-      "number": "347702",
-      "subject": "Request Received",
-      "status": "Open",
-      "channel": "Email",
-      "createdTime": "2026-08-01T05:30:16Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128286251",
       "assignee": "",
       "accountName": "",
       "locationId": ""
@@ -487,6 +519,18 @@
       "locationId": ""
     },
     {
+      "id": "45842000128286251",
+      "number": "347702",
+      "subject": "Request Received",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-08-01T05:30:16Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128286251",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
       "id": "45842000128285152",
       "number": "347698",
       "subject": "LastApp - glovo integration deleted",
@@ -494,6 +538,18 @@
       "channel": "Email",
       "createdTime": "2026-08-01T05:30:16Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128285152",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128284641",
+      "number": "347699",
+      "subject": "LastApp - glovo integration deleted",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-08-01T05:30:16Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128284641",
       "assignee": "",
       "accountName": "",
       "locationId": ""
@@ -547,18 +603,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000128284421",
-      "number": "347688",
-      "subject": "LastApp - glovo integration deleted",
-      "status": "Open",
-      "channel": "Email",
-      "createdTime": "2026-08-01T05:30:14Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128284421",
-      "assignee": "Jordy Carmona",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000128284431",
       "number": "347691",
       "subject": "LastApp - glovo integration deleted",
@@ -566,18 +610,6 @@
       "channel": "Email",
       "createdTime": "2026-08-01T05:30:14Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128284431",
-      "assignee": "",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000128286113",
-      "number": "347692",
-      "subject": "LastApp - glovo integration deleted",
-      "status": "Open",
-      "channel": "Email",
-      "createdTime": "2026-08-01T05:30:14Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128286113",
       "assignee": "",
       "accountName": "",
       "locationId": ""
@@ -595,6 +627,30 @@
       "locationId": ""
     },
     {
+      "id": "45842000128284421",
+      "number": "347688",
+      "subject": "LastApp - glovo integration deleted",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-08-01T05:30:14Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128284421",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128286113",
+      "number": "347692",
+      "subject": "LastApp - glovo integration deleted",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-08-01T05:30:14Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128286113",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
       "id": "45842000128285022",
       "number": "347689",
       "subject": "LastApp - glovo integration deleted",
@@ -602,7 +658,7 @@
       "channel": "Email",
       "createdTime": "2026-08-01T05:30:14Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128285022",
-      "assignee": "Jordy Carmona",
+      "assignee": "",
       "accountName": "",
       "locationId": ""
     },
@@ -631,18 +687,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000128284289",
-      "number": "347685",
-      "subject": "LastApp - glovo integration deleted",
-      "status": "Open",
-      "channel": "Email",
-      "createdTime": "2026-08-01T05:30:12Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128284289",
-      "assignee": "",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000128286043",
       "number": "347686",
       "subject": "LastApp - glovo integration deleted",
@@ -655,13 +699,13 @@
       "locationId": ""
     },
     {
-      "id": "45842000128277952",
-      "number": "347683",
+      "id": "45842000128284289",
+      "number": "347685",
       "subject": "LastApp - glovo integration deleted",
       "status": "Open",
       "channel": "Email",
-      "createdTime": "2026-08-01T05:30:10Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128277952",
+      "createdTime": "2026-08-01T05:30:12Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128284289",
       "assignee": "",
       "accountName": "",
       "locationId": ""
@@ -674,6 +718,18 @@
       "channel": "Email",
       "createdTime": "2026-08-01T05:30:10Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128283973",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128277952",
+      "number": "347683",
+      "subject": "LastApp - glovo integration deleted",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-08-01T05:30:10Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128277952",
       "assignee": "",
       "accountName": "",
       "locationId": ""
@@ -2477,46 +2533,58 @@
       "assignee": "Alberto Poyato",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000128165215",
-      "number": "347194",
-      "subject": "Alerta de seguridad crítica",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-07-29T16:18:31Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128165215",
-      "assignee": "Alberto Poyato",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000128155995",
-      "number": "347193",
-      "subject": "Código de verificación de Google",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-07-29T16:17:55Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128155995",
-      "assignee": "Alberto Poyato",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000128128436",
-      "number": "347192",
-      "subject": "Llamada saliente (00:00:02) de +34937377821 (Soporte) a +34722775124 ( Richard Angulo)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-07-29T16:17:54Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128128436",
-      "assignee": "Raimundo Garcia",
-      "accountName": "Mr. Majo_s",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1718,
+  "locationIdIssuesTotal": 1721,
   "byContact": [
+    {
+      "contactId": "45842000114090243",
+      "contactName": "Ricardo Paredes Gómez",
+      "email": "ricardo.r.paredes@gmail.com",
+      "ticketCount": 4,
+      "tickets": [
+        {
+          "id": "45842000128276345",
+          "number": "347791",
+          "subject": "Llamada saliente de +525597219950 (Mexico) a +525535760054 ( Ricardo Paredes Gómez)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-08-01T17:18:45Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128276345",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000128289822",
+          "number": "347789",
+          "subject": "Problema de Recepción de Pedidos",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-01T16:35:45Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128289822",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000128284217",
+          "number": "347678",
+          "subject": "BLOQUE 4 , 5 TIENDAS A INTEGRAR",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-01T04:02:32Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128284217",
+          "assignee": ""
+        },
+        {
+          "id": "45842000127769638",
+          "number": "345975",
+          "subject": "Tiendas no adoptan el catálogo asignado",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-07-24T01:03:12Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127769638",
+          "assignee": "Javier Landaeta"
+        }
+      ]
+    },
     {
       "contactId": "45842000022748544",
       "contactName": "Fran Sánchez",
@@ -2574,34 +2642,6 @@
       ]
     },
     {
-      "contactId": "45842000114090243",
-      "contactName": "Ricardo Paredes Gómez",
-      "email": "ricardo.r.paredes@gmail.com",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000128284217",
-          "number": "347678",
-          "subject": "BLOQUE 4 , 5 TIENDAS A INTEGRAR",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-01T04:02:32Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128284217",
-          "assignee": ""
-        },
-        {
-          "id": "45842000127769638",
-          "number": "345975",
-          "subject": "Tiendas no adoptan el catálogo asignado",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-07-24T01:03:12Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127769638",
-          "assignee": "Javier Landaeta"
-        }
-      ]
-    },
-    {
       "contactId": "45842000109365797",
       "contactName": "sami",
       "email": "Sami@shawermeria.es",
@@ -2633,11 +2673,31 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 47,
+      "openCount": 49,
       "onHoldCount": 0,
       "closedCount": 954,
-      "totalCount": 1001,
+      "totalCount": 1003,
       "tickets": [
+        {
+          "id": "45842000128276345",
+          "number": "347791",
+          "subject": "Llamada saliente de +525597219950 (Mexico) a +525535760054 ( Ricardo Paredes Gómez)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-08-01T17:18:45Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128276345",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000128289822",
+          "number": "347789",
+          "subject": "Problema de Recepción de Pedidos",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-01T16:35:45Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128289822",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000128286000",
           "number": "347784",
@@ -2719,16 +2779,6 @@
           "assignee": ""
         },
         {
-          "id": "45842000128285290",
-          "number": "347709",
-          "subject": "Request Received",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-01T05:30:22Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128285290",
-          "assignee": ""
-        },
-        {
           "id": "45842000128286757",
           "number": "347710",
           "subject": "Request Received",
@@ -2739,13 +2789,23 @@
           "assignee": ""
         },
         {
-          "id": "45842000128286587",
-          "number": "347706",
-          "subject": "LastApp - glovo integration deleted",
+          "id": "45842000128285290",
+          "number": "347709",
+          "subject": "Request Received",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-01T05:30:22Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128285290",
+          "assignee": ""
+        },
+        {
+          "id": "45842000128279994",
+          "number": "347708",
+          "subject": "Request Received",
           "status": "Open",
           "channel": "Email",
           "createdTime": "2026-08-01T05:30:20Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128286587",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128279994",
           "assignee": ""
         },
         {
@@ -2759,13 +2819,23 @@
           "assignee": ""
         },
         {
-          "id": "45842000128279994",
-          "number": "347708",
-          "subject": "Request Received",
+          "id": "45842000128286587",
+          "number": "347706",
+          "subject": "LastApp - glovo integration deleted",
           "status": "Open",
           "channel": "Email",
           "createdTime": "2026-08-01T05:30:20Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128279994",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128286587",
+          "assignee": ""
+        },
+        {
+          "id": "45842000128286451",
+          "number": "347705",
+          "subject": "Request Received",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-01T05:30:18Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128286451",
           "assignee": ""
         },
         {
@@ -2789,43 +2859,13 @@
           "assignee": ""
         },
         {
-          "id": "45842000128286451",
-          "number": "347705",
-          "subject": "Request Received",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-01T05:30:18Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128286451",
-          "assignee": ""
-        },
-        {
-          "id": "45842000128286251",
-          "number": "347702",
-          "subject": "Request Received",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-01T05:30:16Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128286251",
-          "assignee": ""
-        },
-        {
-          "id": "45842000128285150",
-          "number": "347697",
+          "id": "45842000128284631",
+          "number": "347696",
           "subject": "LastApp - glovo integration deleted",
           "status": "Open",
           "channel": "Email",
           "createdTime": "2026-08-01T05:30:16Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128285150",
-          "assignee": ""
-        },
-        {
-          "id": "45842000128285152",
-          "number": "347698",
-          "subject": "LastApp - glovo integration deleted",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-01T05:30:16Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128285152",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128284631",
           "assignee": ""
         },
         {
@@ -2839,13 +2879,23 @@
           "assignee": ""
         },
         {
-          "id": "45842000128284631",
-          "number": "347696",
+          "id": "45842000128286247",
+          "number": "347700",
           "subject": "LastApp - glovo integration deleted",
           "status": "Open",
           "channel": "Email",
           "createdTime": "2026-08-01T05:30:16Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128284631",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128286247",
+          "assignee": ""
+        },
+        {
+          "id": "45842000128285150",
+          "number": "347697",
+          "subject": "LastApp - glovo integration deleted",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-01T05:30:16Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128285150",
           "assignee": ""
         },
         {
@@ -2859,23 +2909,23 @@
           "assignee": ""
         },
         {
-          "id": "45842000128286247",
-          "number": "347700",
+          "id": "45842000128286251",
+          "number": "347702",
+          "subject": "Request Received",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-01T05:30:16Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128286251",
+          "assignee": ""
+        },
+        {
+          "id": "45842000128285152",
+          "number": "347698",
           "subject": "LastApp - glovo integration deleted",
           "status": "Open",
           "channel": "Email",
           "createdTime": "2026-08-01T05:30:16Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128286247",
-          "assignee": ""
-        },
-        {
-          "id": "45842000128284561",
-          "number": "347695",
-          "subject": "LastApp - glovo integration deleted",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-01T05:30:15Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128284561",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128285152",
           "assignee": ""
         },
         {
@@ -2889,6 +2939,26 @@
           "assignee": ""
         },
         {
+          "id": "45842000128284561",
+          "number": "347695",
+          "subject": "LastApp - glovo integration deleted",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-01T05:30:15Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128284561",
+          "assignee": ""
+        },
+        {
+          "id": "45842000128284421",
+          "number": "347688",
+          "subject": "LastApp - glovo integration deleted",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-01T05:30:14Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128284421",
+          "assignee": ""
+        },
+        {
           "id": "45842000128284431",
           "number": "347691",
           "subject": "LastApp - glovo integration deleted",
@@ -2897,26 +2967,6 @@
           "createdTime": "2026-08-01T05:30:14Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128284431",
           "assignee": ""
-        },
-        {
-          "id": "45842000128286115",
-          "number": "347693",
-          "subject": "LastApp - glovo integration deleted",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-01T05:30:14Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128286115",
-          "assignee": ""
-        },
-        {
-          "id": "45842000128285022",
-          "number": "347689",
-          "subject": "LastApp - glovo integration deleted",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-01T05:30:14Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128285022",
-          "assignee": "Jordy Carmona"
         },
         {
           "id": "45842000128279848",
@@ -2929,14 +2979,24 @@
           "assignee": ""
         },
         {
-          "id": "45842000128284421",
-          "number": "347688",
+          "id": "45842000128285022",
+          "number": "347689",
           "subject": "LastApp - glovo integration deleted",
           "status": "Open",
           "channel": "Email",
           "createdTime": "2026-08-01T05:30:14Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128284421",
-          "assignee": "Jordy Carmona"
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128285022",
+          "assignee": ""
+        },
+        {
+          "id": "45842000128286115",
+          "number": "347693",
+          "subject": "LastApp - glovo integration deleted",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-01T05:30:14Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128286115",
+          "assignee": ""
         },
         {
           "id": "45842000128286113",
@@ -3009,16 +3069,6 @@
           "assignee": ""
         },
         {
-          "id": "45842000128277882",
-          "number": "347680",
-          "subject": "LastApp - glovo integration deleted",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-01T05:30:08Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128277882",
-          "assignee": ""
-        },
-        {
           "id": "45842000128283903",
           "number": "347682",
           "subject": "LastApp - glovo integration deleted",
@@ -3026,6 +3076,16 @@
           "channel": "Email",
           "createdTime": "2026-08-01T05:30:08Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128283903",
+          "assignee": ""
+        },
+        {
+          "id": "45842000128277882",
+          "number": "347680",
+          "subject": "LastApp - glovo integration deleted",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-01T05:30:08Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128277882",
           "assignee": ""
         },
         {
@@ -3713,11 +3773,21 @@
     },
     {
       "classification": "Calls",
-      "openCount": 1,
+      "openCount": 2,
       "onHoldCount": 0,
       "closedCount": 383,
-      "totalCount": 384,
+      "totalCount": 385,
       "tickets": [
+        {
+          "id": "45842000128258271",
+          "number": "347790",
+          "subject": "Llamada entrante (00:01:04) de +34645451064 ( juan cruz malinverno) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-08-01T16:55:31Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128258271",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000128276275",
           "number": "347769",
@@ -4829,16 +4899,6 @@
           "assignee": "Javier Landaeta"
         },
         {
-          "id": "45842000128074855",
-          "number": "346831",
-          "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-28T10:42:14Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128074855",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000128076556",
           "number": "346832",
           "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
@@ -4846,6 +4906,16 @@
           "channel": "Email",
           "createdTime": "2026-07-28T10:42:14Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128076556",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000128074855",
+          "number": "346831",
+          "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-28T10:42:14Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128074855",
           "assignee": "Alberto Poyato"
         },
         {
@@ -9639,16 +9709,6 @@
           "assignee": "Javier Landaeta"
         },
         {
-          "id": "45842000128132001",
-          "number": "346859",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-28T12:06:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132001",
-          "assignee": "Harold Diaz"
-        },
-        {
           "id": "45842000128094076",
           "number": "346860",
           "subject": "Help us improve",
@@ -9657,6 +9717,16 @@
           "createdTime": "2026-07-28T12:06:33Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094076",
           "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000128132001",
+          "number": "346859",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-28T12:06:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132001",
+          "assignee": "Harold Diaz"
         },
         {
           "id": "45842000128067604",
