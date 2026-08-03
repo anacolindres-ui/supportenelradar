@@ -138,7 +138,7 @@
     .badge-blue  { background: #DBEAFE; color: #1E40AF; }
     .badge-purple{ background: #EDE9FE; color: #5B21B6; }
 
-    /* ── SEMIGUARDIA ROTACIÓN ── */
+    /* ── GUARDIA FRONT ── */
     .semi-label {
       font-size: 0.7rem; color: var(--muted); text-transform: uppercase;
       letter-spacing: 0.5px; margin: 0 0 0.4rem;
@@ -426,26 +426,24 @@ const HUB = {
 
   /* ── GUARDIA DE LA SEMANA ────────────────────────────── */
   guardia: {
-    semana: "27 jul – 2 ago 2026",
+    semana: "3 – 7 ago 2026",
     personas: [
       {
-        nombre: "Fer",
+        nombre: "Alberto",
         rol: "Guardia principal · 17h – 01h (Lun–Vie)",
-        badge: "27-31 jul",
+        badge: "3-7 ago",
         badgeClass: "badge-green",
         color: "#0EA5E9"
       }
     ],
-    // Semiguardia MX: quien termina turno a las 17:30 Colombia (00:30 España)
-    semiguardia: [
-      { iso: "2026-07-27", dia: "Lun 27", nombre: "Harold" },
-      { iso: "2026-07-28", dia: "Mar 28", nombre: "Brayan" },
-      { iso: "2026-07-29", dia: "Mié 29", nombre: "Brayan" },
-      { iso: "2026-07-30", dia: "Jue 30", nombre: "Jordy"  },
-      { iso: "2026-07-31", dia: "Vie 31", nombre: "Jordy"  },
-      { iso: "2026-08-01", dia: "Sáb 1",  nombre: "Johan"  },
-      { iso: "2026-08-02", dia: "Dom 2",  nombre: "Johan"  },
-    ]
+    // Guardia Front: fuente = hoja "Rotación", turno 5 = Lun-Vie, turno 6 = Sáb-Dom
+    guardiaFront: {
+      semana: "3 – 9 ago 2026",
+      personas: [
+        { nombre: "Dimi",  rol: "Guardia Front · Lunes a viernes", dias: [1,2,3,4,5], badge: "L-V", badgeClass: "badge-green", color: "#10B981" },
+        { nombre: "Jordy", rol: "Guardia Front · Sábado y domingo", dias: [6,0], badge: "Finde", badgeClass: "badge-blue", color: "#6366F1" }
+      ]
+    }
   },
 
   /* ── AVISOS DEL EQUIPO ───────────────────────────────── */
@@ -555,13 +553,13 @@ const HUB = {
     <div class="card-body" id="guardia-body"></div>
   </div>
 
-  <!-- SEMIGUARDIA MX -->
+  <!-- GUARDIA FRONT -->
   <div class="card">
     <div class="card-header">
-      <div class="card-icon" style="background:#F0FDF4">🌙</div>
-      <span class="card-title">Semiguardia MX</span>
+      <div class="card-icon" style="background:#F0FDF4">🎧</div>
+      <span class="card-title">Guardia Front</span>
     </div>
-    <div class="card-body" id="semiguardia-body"></div>
+    <div class="card-body" id="guardiafront-body"></div>
   </div>
 
   <!-- ESTADO DESK -->
@@ -674,30 +672,28 @@ guardiaBody.innerHTML = `
   `).join("")}
 `;
 
-// Semiguardia MX — solo semana actual
-const semiBody = document.getElementById("semiguardia-body");
-if (HUB.guardia.semiguardia && HUB.guardia.semiguardia.length) {
-  const thisWeekMon = getMonday(isoToDate(todayISO));
-  const weekEntries = HUB.guardia.semiguardia.filter(s =>
-    getMonday(isoToDate(s.iso)) === thisWeekMon
-  );
-  if (weekEntries.length) {
-    const rows = weekEntries.map(s => {
-      const isHoy = s.iso === todayISO;
-      const tag = isHoy ? '<span class="semi-tag">Hoy</span>' : '';
-      return `<tr class="${isHoy ? 'semi-hoy' : ''}">
-        <td class="semi-day">${s.dia}</td>
-        <td class="semi-name">${s.nombre}${tag}</td>
-      </tr>`;
-    }).join('');
-    semiBody.innerHTML = `
-      <table class="semi-table">${rows}</table>
-    `;
-  } else {
-    semiBody.innerHTML = '<div class="empty">Sin datos para esta semana.</div>';
-  }
+// Guardia Front
+const gfBody = document.getElementById("guardiafront-body");
+if (HUB.guardia.guardiaFront && HUB.guardia.guardiaFront.personas.length) {
+  const gf = HUB.guardia.guardiaFront;
+  const todayDow = new Date().getDay(); // 0=Dom ... 6=Sáb
+  gfBody.innerHTML = `
+    <div class="guardia-week">Semana del ${gf.semana}</div>
+    ${gf.personas.map(p => {
+      const isHoy = p.dias.includes(todayDow);
+      return `
+    <div class="guardia-person">
+      <div class="avatar" style="background:${p.color}">${initials(p.nombre)}</div>
+      <div class="guardia-info">
+        <div class="guardia-name">${p.nombre}</div>
+        <div class="guardia-role">${p.rol}</div>
+      </div>
+      <span class="guardia-badge ${isHoy ? 'badge-green' : p.badgeClass}">${isHoy ? 'Hoy' : p.badge}</span>
+    </div>`;
+    }).join("")}
+  `;
 } else {
-  semiBody.innerHTML = '<div class="empty">Sin datos configurados.</div>';
+  gfBody.innerHTML = '<div class="empty">Sin datos configurados.</div>';
 }
 
 // ── RENDER CUMPLEAÑOS ───────────────────────────────────
