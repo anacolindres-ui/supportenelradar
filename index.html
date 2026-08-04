@@ -458,6 +458,43 @@ const HUB = {
     // },
   ],
 
+  /* ── VACACIONES DEL EQUIPO ───────────────────────────── */
+  // Añade un registro por cada periodo de vacaciones. Fechas en formato YYYY-MM-DD.
+  vacaciones: [
+    { nombre: "Javi",   inicio: "2026-08-03", fin: "2026-08-14" },
+    { nombre: "Angie",  inicio: "2026-08-07", fin: "2026-08-09" },
+    { nombre: "Trini",  inicio: "2026-08-10", fin: "2026-08-14" },
+    { nombre: "Brayan", inicio: "2026-08-15", fin: "2026-08-18" },
+    { nombre: "Poyato", inicio: "2026-08-17", fin: "2026-08-21" },
+    { nombre: "Fer",    inicio: "2026-08-21", fin: "2026-08-21" },
+    { nombre: "Ani",    inicio: "2026-08-24", fin: "2026-08-24" },
+    { nombre: "Poyato", inicio: "2026-08-24", fin: "2026-08-28" },
+    { nombre: "Trini",  inicio: "2026-08-28", fin: "2026-08-28" },
+    { nombre: "Ani",    inicio: "2026-08-28", fin: "2026-08-28" },
+    { nombre: "Angie",  inicio: "2026-08-28", fin: "2026-08-29" },
+
+    { nombre: "Angie",  inicio: "2026-09-01", fin: "2026-09-04" },
+    { nombre: "Johan",  inicio: "2026-09-02", fin: "2026-09-08" },
+    { nombre: "Rai",    inicio: "2026-09-16", fin: "2026-09-18" },
+    { nombre: "Poyato", inicio: "2026-09-21", fin: "2026-09-23" },
+    { nombre: "Poyato", inicio: "2026-09-25", fin: "2026-09-25" },
+
+    { nombre: "Rai",    inicio: "2026-10-08", fin: "2026-10-09" },
+    { nombre: "Rai",    inicio: "2026-10-29", fin: "2026-10-30" },
+
+    { nombre: "Fer",    inicio: "2026-11-03", fin: "2026-11-06" },
+    { nombre: "Poyato", inicio: "2026-11-16", fin: "2026-11-18" },
+    { nombre: "Trini",  inicio: "2026-11-20", fin: "2026-11-20" },
+    { nombre: "Trini",  inicio: "2026-11-24", fin: "2026-11-27" },
+
+    { nombre: "Rai",    inicio: "2026-12-07", fin: "2026-12-07" },
+    { nombre: "Rai",    inicio: "2026-12-09", fin: "2026-12-09" },
+    { nombre: "Fer",    inicio: "2026-12-09", fin: "2026-12-11" },
+    { nombre: "Javi",   inicio: "2026-12-18", fin: "2026-12-18" },
+    { nombre: "Javi",   inicio: "2026-12-21", fin: "2026-12-24" },
+    { nombre: "Javi",   inicio: "2026-12-28", fin: "2026-12-31" },
+  ],
+
   /* ── CUMPLEAÑOS DEL EQUIPO ──────────────────────────── */
   cumpleanos: [
     { nombre: "Trini",  dia: 17, mes: 1  },
@@ -593,6 +630,13 @@ const HUB = {
       <span class="card-title">Las Crónicas del Equipo</span>
     </div>
     <div class="card-body" id="avisos-body"></div>
+
+    <div class="card-header" id="vacaciones-header" onclick="toggleVacaciones()" style="cursor:pointer;user-select:none;border-top:1px solid var(--border)">
+      <div class="card-icon" style="background:#DBEAFE">🏖️</div>
+      <span class="card-title" style="font-size:0.95rem">Vacaciones del equipo</span>
+      <span id="vacaciones-arrow" style="margin-left:auto;font-size:0.85rem;color:var(--muted)">▼</span>
+    </div>
+    <div class="card-body" id="vacaciones-body" style="display:none"></div>
   </div>
 
   <!-- CUMPLEAÑOS -->
@@ -742,6 +786,60 @@ if (HUB.guardia.guardiaFront && HUB.guardia.guardiaFront.personas.length) {
 function toggleCumple() {
   const body  = document.getElementById("cumple-body");
   const arrow = document.getElementById("cumple-arrow");
+  const open  = body.style.display !== "none";
+  body.style.display  = open ? "none" : "";
+  arrow.textContent   = open ? "▼" : "▲";
+}
+
+// ── RENDER VACACIONES (agrupado por mes) ────────────────
+(function() {
+  const MESES_CORTO = ["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"];
+  const MESES_LARGO = ["Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre"];
+  const avatarColors = ["#6366F1","#10B981","#F59E0B","#EF4444","#8B5CF6","#EC4899","#14B8A6","#F97316","#3B82F6","#84CC16","#06B6D4","#DB2777","#0EA5E9"];
+
+  function fmtRango(inicio, fin) {
+    const [ , mi, di ] = inicio.split("-").map(Number);
+    const [ , mf, df ] = fin.split("-").map(Number);
+    if (inicio === fin) return `${di} ${MESES_CORTO[mi - 1]}`;
+    if (mi === mf) return `${di}–${df} ${MESES_CORTO[mi - 1]}`;
+    return `${di} ${MESES_CORTO[mi - 1]} – ${df} ${MESES_CORTO[mf - 1]}`;
+  }
+
+  const vacaciones = HUB.vacaciones || [];
+  const groups = {};
+  vacaciones.forEach(v => {
+    const key = v.inicio.slice(0, 7); // YYYY-MM
+    (groups[key] = groups[key] || []).push(v);
+  });
+
+  const html = Object.keys(groups).sort().map(key => {
+    const [y, m] = key.split("-").map(Number);
+    const items = [...groups[key]].sort((a, b) => a.inicio.localeCompare(b.inicio));
+    const rows = items.map((v, i) => {
+      const color = avatarColors[i % avatarColors.length];
+      const ini = v.nombre[0].toUpperCase();
+      return `
+        <div style="display:flex;align-items:center;padding:0.5rem 0;border-bottom:1px solid var(--border);gap:0.75rem">
+          <div style="width:30px;height:30px;border-radius:50%;background:${color};color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:0.78rem;flex-shrink:0">${ini}</div>
+          <div style="flex:1;font-weight:500">${v.nombre}</div>
+          <div style="font-size:0.8rem;color:var(--subtext)">${fmtRango(v.inicio, v.fin)}</div>
+        </div>`;
+    }).join("");
+    return `
+      <div style="margin-bottom:0.5rem">
+        <div style="font-size:0.72rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.5px;margin:0.5rem 0 0.25rem">${MESES_LARGO[m - 1]} ${y}</div>
+        ${rows}
+      </div>`;
+  }).join("");
+
+  document.getElementById("vacaciones-body").innerHTML = vacaciones.length
+    ? `<div style="padding:0 0.25rem">${html}</div>`
+    : '<div class="empty">No hay vacaciones registradas.</div>';
+})();
+
+function toggleVacaciones() {
+  const body  = document.getElementById("vacaciones-body");
+  const arrow = document.getElementById("vacaciones-arrow");
   const open  = body.style.display !== "none";
   body.style.display  = open ? "none" : "";
   arrow.textContent   = open ? "▼" : "▲";
