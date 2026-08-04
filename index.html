@@ -233,6 +233,67 @@
     /* ── EMPTY STATE ── */
     .empty { color: var(--muted); font-size: 0.85rem; text-align: center; padding: 1rem 0; }
 
+    /* ── CALENDARIO DE VACACIONES ── */
+    .vac-cal-header {
+      display: flex; align-items: center; justify-content: center;
+      gap: 0.9rem; margin-bottom: 0.9rem;
+    }
+    .vac-cal-nav {
+      width: 28px; height: 28px; border-radius: 50%;
+      border: 1px solid var(--border); background: var(--surface);
+      color: var(--accent); font-size: 0.85rem; font-weight: 700;
+      cursor: pointer; display: flex; align-items: center; justify-content: center;
+      transition: background 0.15s;
+    }
+    .vac-cal-nav:hover { background: var(--badge-bg); }
+    .vac-cal-title { font-size: 0.95rem; font-weight: 700; min-width: 130px; text-align: center; }
+    .vac-cal-grid {
+      display: grid; grid-template-columns: repeat(7, 1fr);
+      border: 1px solid var(--border); border-radius: 10px;
+      overflow: hidden;
+    }
+    .vac-cal-daylabel {
+      background: var(--surface); color: var(--muted);
+      font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.4px;
+      text-align: center; padding: 0.45rem 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .vac-cal-cell {
+      min-height: 74px; border-right: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+      padding: 4px 4px 6px; background: var(--surface);
+    }
+    .vac-cal-cell.weekend { background: #FFFBEB; }
+    .vac-cal-cell.blank   { background: var(--bg); }
+    .vac-cal-cell:nth-child(7n) { border-right: none; }
+    .vac-cal-daynum {
+      font-size: 0.7rem; color: var(--muted); margin-bottom: 3px;
+    }
+    .vac-cal-daynum.today {
+      display: inline-flex; align-items: center; justify-content: center;
+      width: 18px; height: 18px; border-radius: 50%;
+      background: var(--accent); color: #fff; font-weight: 700;
+    }
+    .vac-cal-pill {
+      display: flex; align-items: center; gap: 3px;
+      background: #FEF3C7; border: 1px solid #FDE68A;
+      border-radius: 5px; padding: 1px 4px 1px 2px;
+      margin-bottom: 2px; overflow: hidden;
+    }
+    .vac-cal-pill-avatar {
+      width: 13px; height: 13px; border-radius: 50%; flex-shrink: 0;
+      color: #fff; font-size: 0.55rem; font-weight: 700;
+      display: flex; align-items: center; justify-content: center;
+    }
+    .vac-cal-pill-name {
+      font-size: 0.63rem; font-weight: 600; color: #78350F;
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    }
+    @media (max-width: 640px) {
+      .vac-cal-pill-name { display: none; }
+      .vac-cal-cell { min-height: 46px; }
+    }
+
     /* ── TAB NAV ── */
     .tab-nav-wrap {
       background: var(--surface);
@@ -791,50 +852,105 @@ function toggleCumple() {
   arrow.textContent   = open ? "▼" : "▲";
 }
 
-// ── RENDER VACACIONES (agrupado por mes) ────────────────
+// ── RENDER VACACIONES (calendario visual por mes) ───────
 (function() {
-  const MESES_CORTO = ["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"];
-  const MESES_LARGO = ["Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre"];
-  const avatarColors = ["#6366F1","#10B981","#F59E0B","#EF4444","#8B5CF6","#EC4899","#14B8A6","#F97316","#3B82F6","#84CC16","#06B6D4","#DB2777","#0EA5E9"];
-
-  function fmtRango(inicio, fin) {
-    const [ , mi, di ] = inicio.split("-").map(Number);
-    const [ , mf, df ] = fin.split("-").map(Number);
-    if (inicio === fin) return `${di} ${MESES_CORTO[mi - 1]}`;
-    if (mi === mf) return `${di}–${df} ${MESES_CORTO[mi - 1]}`;
-    return `${di} ${MESES_CORTO[mi - 1]} – ${df} ${MESES_CORTO[mf - 1]}`;
+  const vacaciones = HUB.vacaciones || [];
+  if (!vacaciones.length) {
+    document.getElementById("vacaciones-body").innerHTML = '<div class="empty">No hay vacaciones registradas.</div>';
+    return;
   }
 
-  const vacaciones = HUB.vacaciones || [];
-  const groups = {};
-  vacaciones.forEach(v => {
-    const key = v.inicio.slice(0, 7); // YYYY-MM
-    (groups[key] = groups[key] || []).push(v);
+  const MESES_LARGO = ["Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre"];
+  const DIAS = ["Lun","Mar","Mié","Jue","Vie","Sáb","Dom"];
+  const avatarColors = ["#6366F1","#10B981","#F59E0B","#EF4444","#8B5CF6","#EC4899","#14B8A6","#F97316","#3B82F6","#84CC16","#06B6D4","#DB2777","#0EA5E9"];
+
+  const nameColor = {};
+  [...new Set(vacaciones.map(v => v.nombre))].forEach((n, i) => {
+    nameColor[n] = avatarColors[i % avatarColors.length];
   });
 
-  const html = Object.keys(groups).sort().map(key => {
-    const [y, m] = key.split("-").map(Number);
-    const items = [...groups[key]].sort((a, b) => a.inicio.localeCompare(b.inicio));
-    const rows = items.map((v, i) => {
-      const color = avatarColors[i % avatarColors.length];
-      const ini = v.nombre[0].toUpperCase();
-      return `
-        <div style="display:flex;align-items:center;padding:0.5rem 0;border-bottom:1px solid var(--border);gap:0.75rem">
-          <div style="width:30px;height:30px;border-radius:50%;background:${color};color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:0.78rem;flex-shrink:0">${ini}</div>
-          <div style="flex:1;font-weight:500">${v.nombre}</div>
-          <div style="font-size:0.8rem;color:var(--subtext)">${fmtRango(v.inicio, v.fin)}</div>
-        </div>`;
-    }).join("");
-    return `
-      <div style="margin-bottom:0.5rem">
-        <div style="font-size:0.72rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.5px;margin:0.5rem 0 0.25rem">${MESES_LARGO[m - 1]} ${y}</div>
-        ${rows}
-      </div>`;
-  }).join("");
+  function parseYMD(s) {
+    const [y, m, d] = s.split("-").map(Number);
+    return new Date(y, m - 1, d);
+  }
+  function keyOf(dt) {
+    return `${dt.getFullYear()}-${String(dt.getMonth() + 1).padStart(2, "0")}-${String(dt.getDate()).padStart(2, "0")}`;
+  }
 
-  document.getElementById("vacaciones-body").innerHTML = vacaciones.length
-    ? `<div style="padding:0 0.25rem">${html}</div>`
-    : '<div class="empty">No hay vacaciones registradas.</div>';
+  const vacMap = {};
+  vacaciones.forEach(v => {
+    let d = parseYMD(v.inicio);
+    const end = parseYMD(v.fin);
+    while (d <= end) {
+      const k = keyOf(d);
+      (vacMap[k] = vacMap[k] || []).push(v.nombre);
+      d = new Date(d.getFullYear(), d.getMonth(), d.getDate() + 1);
+    }
+  });
+
+  const today = new Date();
+  const todayKey = keyOf(today);
+
+  let viewYear = today.getFullYear();
+  let viewMonth = today.getMonth();
+  const monthHasData = k => Object.keys(vacMap).some(key => key.startsWith(k));
+  if (!monthHasData(`${viewYear}-${String(viewMonth + 1).padStart(2, "0")}`)) {
+    const [fy, fm] = Object.keys(vacMap).sort()[0].split("-").map(Number);
+    viewYear = fy; viewMonth = fm - 1;
+  }
+
+  document.getElementById("vacaciones-body").innerHTML = `
+    <div class="vac-cal-header">
+      <button class="vac-cal-nav" id="vac-cal-prev" aria-label="Mes anterior">‹</button>
+      <div class="vac-cal-title" id="vacaciones-cal-title"></div>
+      <button class="vac-cal-nav" id="vac-cal-next" aria-label="Mes siguiente">›</button>
+    </div>
+    <div class="vac-cal-grid" id="vacaciones-cal-grid"></div>
+  `;
+
+  function render() {
+    const daysInMonth = new Date(viewYear, viewMonth + 1, 0).getDate();
+    const leading = (new Date(viewYear, viewMonth, 1).getDay() + 6) % 7; // Lun = 0
+    const totalCells = Math.ceil((leading + daysInMonth) / 7) * 7;
+
+    let cellsHtml = DIAS.map(d => `<div class="vac-cal-daylabel">${d}</div>`).join("");
+
+    for (let i = 0; i < totalCells; i++) {
+      const dayNum = i - leading + 1;
+      const col = i % 7;
+      const isWeekend = col === 5 || col === 6;
+      if (dayNum < 1 || dayNum > daysInMonth) {
+        cellsHtml += `<div class="vac-cal-cell blank"></div>`;
+        continue;
+      }
+      const k = keyOf(new Date(viewYear, viewMonth, dayNum));
+      const isToday = k === todayKey;
+      const pills = (vacMap[k] || []).map(n => `
+        <div class="vac-cal-pill">
+          <div class="vac-cal-pill-avatar" style="background:${nameColor[n]}">${n[0].toUpperCase()}</div>
+          <div class="vac-cal-pill-name">${n}</div>
+        </div>`).join("");
+      cellsHtml += `
+        <div class="vac-cal-cell${isWeekend ? " weekend" : ""}">
+          <div class="vac-cal-daynum${isToday ? " today" : ""}">${dayNum}</div>
+          ${pills}
+        </div>`;
+    }
+
+    document.getElementById("vacaciones-cal-title").textContent = `${MESES_LARGO[viewMonth]} ${viewYear}`;
+    document.getElementById("vacaciones-cal-grid").innerHTML = cellsHtml;
+  }
+
+  document.getElementById("vac-cal-prev").onclick = () => {
+    viewMonth--; if (viewMonth < 0) { viewMonth = 11; viewYear--; }
+    render();
+  };
+  document.getElementById("vac-cal-next").onclick = () => {
+    viewMonth++; if (viewMonth > 11) { viewMonth = 0; viewYear++; }
+    render();
+  };
+
+  render();
 })();
 
 function toggleVacaciones() {
