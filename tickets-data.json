@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-05T00:44:50.381859+00:00",
-  "totalOpenTickets": 115,
-  "totalClosedTickets": 2577,
+  "lastUpdated": "2026-08-05T01:39:02.932293+00:00",
+  "totalOpenTickets": 116,
+  "totalClosedTickets": 2578,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -107,6 +107,30 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000128322984",
+      "number": "348397",
+      "subject": "Hola",
+      "status": "Closed",
+      "channel": "Last.app México",
+      "createdTime": "2026-08-05T00:49:41Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128322984",
+      "assignee": "Dimitriz Rodriguez",
+      "accountName": "",
+      "locationId": "#348397"
+    },
+    {
+      "id": "45842000128386181",
+      "number": "348396",
+      "subject": "Thank you for choosing us! Your purchase details inside.",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-08-05T00:45:47Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128386181",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000128386069",
       "number": "348395",
@@ -1464,18 +1488,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000128312816",
-      "number": "348028",
-      "subject": "Help us improve",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-03T10:07:18Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128312816",
-      "assignee": "Brayan Ricardo Fuentes Herrera",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000128312814",
       "number": "348027",
       "subject": "Help us improve",
@@ -1483,6 +1495,18 @@
       "channel": "Email",
       "createdTime": "2026-08-03T10:07:18Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128312814",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128312816",
+      "number": "348028",
+      "subject": "Help us improve",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-08-03T10:07:18Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128312816",
       "assignee": "Brayan Ricardo Fuentes Herrera",
       "accountName": "",
       "locationId": ""
@@ -1923,7 +1947,7 @@
       "id": "45842000128301948",
       "number": "347918",
       "subject": "Uber Case# 58972535-LastApp - uber integration request",
-      "status": "On Hold",
+      "status": "Open",
       "channel": "Email",
       "createdTime": "2026-08-03T05:20:25Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128301948",
@@ -2482,33 +2506,9 @@
       "assignee": "Trinidad Larrain Punti",
       "accountName": "Grupo Los Panchos",
       "locationId": ""
-    },
-    {
-      "id": "45842000128286000",
-      "number": "347784",
-      "subject": "Sakari - Verify your email",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-01T14:53:23Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128286000",
-      "assignee": "Raimundo Garcia",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000128287648",
-      "number": "347779",
-      "subject": "¿Cómo ha sido tu experiencia?",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-01T13:41:45Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128287648",
-      "assignee": "Jordy Carmona",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1735,
+  "locationIdIssuesTotal": 1737,
   "byContact": [
     {
       "contactId": "45842000126926091",
@@ -2674,11 +2674,21 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 6,
+      "openCount": 7,
       "onHoldCount": 0,
       "closedCount": 987,
-      "totalCount": 993,
+      "totalCount": 994,
       "tickets": [
+        {
+          "id": "45842000128386181",
+          "number": "348396",
+          "subject": "Thank you for choosing us! Your purchase details inside.",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-05T00:45:47Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128386181",
+          "assignee": ""
+        },
         {
           "id": "45842000128355290",
           "number": "348387",
@@ -3974,8 +3984,8 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 22,
-      "onHoldCount": 19,
+      "openCount": 23,
+      "onHoldCount": 18,
       "closedCount": 292,
       "totalCount": 333,
       "tickets": [
@@ -4333,7 +4343,7 @@
           "id": "45842000128301948",
           "number": "347918",
           "subject": "Uber Case# 58972535-LastApp - uber integration request",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-08-03T05:20:25Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128301948",
@@ -4996,9 +5006,19 @@
       "classification": "Admin :: General",
       "openCount": 1,
       "onHoldCount": 2,
-      "closedCount": 204,
-      "totalCount": 207,
+      "closedCount": 205,
+      "totalCount": 208,
       "tickets": [
+        {
+          "id": "45842000128322984",
+          "number": "348397",
+          "subject": "Hola",
+          "status": "Closed",
+          "channel": "Last.app México",
+          "createdTime": "2026-08-05T00:49:41Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128322984",
+          "assignee": "Dimitriz Rodriguez"
+        },
         {
           "id": "45842000128218841",
           "number": "348388",
@@ -5618,16 +5638,6 @@
           "createdTime": "2026-07-22T16:51:59Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127650679",
           "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
-          "id": "45842000127652456",
-          "number": "345640",
-          "subject": "La Churuata // Tap to pay no logra completarse",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-22T13:44:53Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127652456",
-          "assignee": "Alberto Poyato"
         }
       ],
       "inMasterList": true
@@ -9500,16 +9510,6 @@
           "assignee": "Trinidad Larrain Punti"
         },
         {
-          "id": "45842000128157367",
-          "number": "347135",
-          "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-29T13:15:39Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128157367",
-          "assignee": "Raimundo Garcia"
-        },
-        {
           "id": "45842000128154683",
           "number": "347134",
           "subject": "[Just Eat UK] Update: LastApp - flyt integration deleted",
@@ -9518,6 +9518,16 @@
           "createdTime": "2026-07-29T13:15:39Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128154683",
           "assignee": "Javier Landaeta"
+        },
+        {
+          "id": "45842000128157367",
+          "number": "347135",
+          "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-29T13:15:39Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128157367",
+          "assignee": "Raimundo Garcia"
         },
         {
           "id": "45842000128119055",
