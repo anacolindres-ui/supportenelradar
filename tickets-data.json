@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-08T17:12:35.680354+00:00",
-  "totalOpenTickets": 87,
-  "totalClosedTickets": 2623,
+  "lastUpdated": "2026-08-08T18:12:25.637415+00:00",
+  "totalOpenTickets": 89,
+  "totalClosedTickets": 2624,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -52,6 +52,33 @@
       ]
     },
     {
+      "accountId": "45842000109365481",
+      "accountName": "La Shawermeria",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000128557611",
+          "number": "349302",
+          "subject": "Evento Purchase (Meta Pixel + CAPI) en last.shop — falta value y order_id, y se dispara duplicado",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-08T17:25:20Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128557611",
+          "assignee": ""
+        },
+        {
+          "id": "45842000128175055",
+          "number": "347291",
+          "subject": "Purchase / ecommerce event not reaching dataLayer reliably on our order-confirmation page",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-07-30T09:01:55Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128175055",
+          "assignee": "Trinidad Larrain Punti"
+        }
+      ]
+    },
+    {
       "accountId": "45842000074321423",
       "accountName": "Trinidad Last",
       "ticketCount": 2,
@@ -81,6 +108,30 @@
   ],
   "locationIdIssues": [
     {
+      "id": "45842000128525195",
+      "number": "349303",
+      "subject": "Llamada entrante (00:02:49) de +34631867429 ( Alex) a +34937377821 (Soporte)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-08-08T18:02:18Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128525195",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128534438",
+      "number": "349301",
+      "subject": "Llamada entrante (00:01:18) de +34698754478 ( Jefry Rodr_guez) a +34937377821 (Soporte)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-08-08T17:18:14Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128534438",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "COMBO KING",
+      "locationId": ""
+    },
+    {
       "id": "45842000128538285",
       "number": "349300",
       "subject": "Llamada entrante (00:03:48) de +34693570328 ( 34693570328) a +34937377821 (Soporte)",
@@ -96,13 +147,13 @@
       "id": "45842000128514797",
       "number": "349297",
       "subject": "Buenos días!",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Last.app Mexico",
       "createdTime": "2026-08-08T16:44:36Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128514797",
       "assignee": "Harold Diaz",
-      "accountName": "",
-      "locationId": ""
+      "accountName": "El buey Encarbonado Neza",
+      "locationId": "349297"
     },
     {
       "id": "45842000128560075",
@@ -513,18 +564,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000128551554",
-      "number": "349197",
-      "subject": "Evento cancelado: Street ,Inbound Impact Review: Performance & Wins! vie 14 ago 2026 6pm - 6:30pm (CEST) (melicarina.leon@last.app)",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-07T17:02:16Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128551554",
-      "assignee": "Jordy Carmona",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000128546901",
       "number": "349196",
       "subject": "Evento cancelado: Street ,Inbound Impact Review: Performance & Wins! vie 14 ago 2026 6pm - 6:30pm (CEST) (carolina.sepulveda@last.app)",
@@ -533,6 +572,18 @@
       "createdTime": "2026-08-07T17:02:16Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128546901",
       "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128551554",
+      "number": "349197",
+      "subject": "Evento cancelado: Street ,Inbound Impact Review: Performance & Wins! vie 14 ago 2026 6pm - 6:30pm (CEST) (melicarina.leon@last.app)",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-08-07T17:02:16Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128551554",
+      "assignee": "Jordy Carmona",
       "accountName": "",
       "locationId": ""
     },
@@ -789,18 +840,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000128494365",
-      "number": "349110",
-      "subject": "[Just Eat UK] Update: LastApp - flyt integration deleted",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-07T10:13:53Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128494365",
-      "assignee": "Raimundo Garcia",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000128494363",
       "number": "349109",
       "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
@@ -808,6 +847,18 @@
       "channel": "Email",
       "createdTime": "2026-08-07T10:13:53Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128494363",
+      "assignee": "Raimundo Garcia",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128494365",
+      "number": "349110",
+      "subject": "[Just Eat UK] Update: LastApp - flyt integration deleted",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-08-07T10:13:53Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128494365",
       "assignee": "Raimundo Garcia",
       "accountName": "",
       "locationId": ""
@@ -1965,18 +2016,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000128439760",
-      "number": "348833",
-      "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-06T08:25:21Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128439760",
-      "assignee": "Johan Manuel Cortissoz Posada",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000128440743",
       "number": "348832",
       "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
@@ -1984,6 +2023,18 @@
       "channel": "Email",
       "createdTime": "2026-08-06T08:25:21Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128440743",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128439760",
+      "number": "348833",
+      "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-08-06T08:25:21Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128439760",
       "assignee": "Johan Manuel Cortissoz Posada",
       "accountName": "",
       "locationId": ""
@@ -2361,18 +2412,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000128438588",
-      "number": "348776",
-      "subject": "LastApp - rappi integration deleted",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-06T05:32:59Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128438588",
-      "assignee": "Raimundo Garcia",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000128433840",
       "number": "348775",
       "subject": "LastApp - rappi integration deleted",
@@ -2380,6 +2419,18 @@
       "channel": "Email",
       "createdTime": "2026-08-06T05:32:59Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128433840",
+      "assignee": "Raimundo Garcia",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128438588",
+      "number": "348776",
+      "subject": "LastApp - rappi integration deleted",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-08-06T05:32:59Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128438588",
       "assignee": "Raimundo Garcia",
       "accountName": "",
       "locationId": ""
@@ -2455,33 +2506,9 @@
       "assignee": "Angie Oliveros",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000128436634",
-      "number": "348767",
-      "subject": "Request Received",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-06T05:32:45Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128436634",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000128438377",
-      "number": "348768",
-      "subject": "Request Received",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-06T05:32:45Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128438377",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1788,
+  "locationIdIssuesTotal": 1790,
   "byContact": [
     {
       "contactId": "45842000114090243",
@@ -2558,26 +2585,44 @@
           "assignee": "Trinidad Larrain Punti"
         }
       ]
+    },
+    {
+      "contactId": "45842000109365797",
+      "contactName": "sami",
+      "email": "Sami@shawermeria.es",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000128557611",
+          "number": "349302",
+          "subject": "Evento Purchase (Meta Pixel + CAPI) en last.shop — falta value y order_id, y se dispara duplicado",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-08T17:25:20Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128557611",
+          "assignee": ""
+        },
+        {
+          "id": "45842000128175055",
+          "number": "347291",
+          "subject": "Purchase / ecommerce event not reaching dataLayer reliably on our order-confirmation page",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-07-30T09:01:55Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128175055",
+          "assignee": "Trinidad Larrain Punti"
+        }
+      ]
     }
   ],
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 6,
+      "openCount": 5,
       "onHoldCount": 0,
       "closedCount": 1031,
-      "totalCount": 1037,
+      "totalCount": 1036,
       "tickets": [
-        {
-          "id": "45842000128514797",
-          "number": "349297",
-          "subject": "Buenos días!",
-          "status": "Open",
-          "channel": "Last.app Mexico",
-          "createdTime": "2026-08-08T16:44:36Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128514797",
-          "assignee": "Harold Diaz"
-        },
         {
           "id": "45842000128560075",
           "number": "349295",
@@ -3233,11 +3278,31 @@
     },
     {
       "classification": "Calls",
-      "openCount": 1,
+      "openCount": 3,
       "onHoldCount": 1,
       "closedCount": 341,
-      "totalCount": 343,
+      "totalCount": 345,
       "tickets": [
+        {
+          "id": "45842000128525195",
+          "number": "349303",
+          "subject": "Llamada entrante (00:02:49) de +34631867429 ( Alex) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-08-08T18:02:18Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128525195",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000128534438",
+          "number": "349301",
+          "subject": "Llamada entrante (00:01:18) de +34698754478 ( Jefry Rodr_guez) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-08-08T17:18:14Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128534438",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
         {
           "id": "45842000128538285",
           "number": "349300",
@@ -4169,16 +4234,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000128420257",
-          "number": "348651",
-          "subject": "[Just Eat UK] Update: LastApp - flyt integration request",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-05T16:41:46Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128420257",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000128419619",
           "number": "348650",
           "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
@@ -4186,6 +4241,16 @@
           "channel": "Email",
           "createdTime": "2026-08-05T16:41:46Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128419619",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000128420257",
+          "number": "348651",
+          "subject": "[Just Eat UK] Update: LastApp - flyt integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-05T16:41:46Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128420257",
           "assignee": "Alberto Poyato"
         },
         {
@@ -4705,9 +4770,19 @@
       "classification": "Admin :: General",
       "openCount": 0,
       "onHoldCount": 4,
-      "closedCount": 188,
-      "totalCount": 192,
+      "closedCount": 189,
+      "totalCount": 193,
       "tickets": [
+        {
+          "id": "45842000128514797",
+          "number": "349297",
+          "subject": "Buenos días!",
+          "status": "Closed",
+          "channel": "Last.app Mexico",
+          "createdTime": "2026-08-08T16:44:36Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128514797",
+          "assignee": "Harold Diaz"
+        },
         {
           "id": "45842000128557233",
           "number": "349259",
@@ -5337,16 +5412,6 @@
           "createdTime": "2026-07-25T18:51:14Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127917931",
           "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000127794324",
-          "number": "346193",
-          "subject": "Hoka",
-          "status": "Closed",
-          "channel": "Last.app México",
-          "createdTime": "2026-07-24T21:14:31Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127794324",
-          "assignee": "Johan Manuel Cortissoz Posada"
         }
       ],
       "inMasterList": true
@@ -9073,11 +9138,21 @@
     },
     {
       "classification": "Integraciones",
-      "openCount": 0,
+      "openCount": 1,
       "onHoldCount": 2,
       "closedCount": 38,
-      "totalCount": 40,
+      "totalCount": 41,
       "tickets": [
+        {
+          "id": "45842000128557611",
+          "number": "349302",
+          "subject": "Evento Purchase (Meta Pixel + CAPI) en last.shop — falta value y order_id, y se dispara duplicado",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-08T17:25:20Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128557611",
+          "assignee": ""
+        },
         {
           "id": "45842000128474491",
           "number": "349033",
