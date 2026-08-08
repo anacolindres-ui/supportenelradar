@@ -1,51 +1,24 @@
 {
-  "lastUpdated": "2026-08-08T14:16:34.563054+00:00",
-  "totalOpenTickets": 84,
+  "lastUpdated": "2026-08-08T15:11:13.934718+00:00",
+  "totalOpenTickets": 86,
   "totalClosedTickets": 2621,
   "closedWindowDays": 30,
   "byLocation": [
     {
-      "accountId": "45842000093029741",
-      "accountName": "Bistro aroma de india",
-      "ticketCount": 3,
-      "tickets": [
-        {
-          "id": "45842000128535431",
-          "number": "349268",
-          "subject": "Llamada saliente (00:18:44) de +34937377821 (Soporte) a +34611651742 (El mamoune lahmaidi)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-08-08T11:05:51Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128535431",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
-          "id": "45842000128539235",
-          "number": "349265",
-          "subject": "Sabor Atlas // Impresora por USB no funciona (Unica impresora)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-08-08T10:49:18Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128539235",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000128493332",
-          "number": "349263",
-          "subject": "Llamada entrante (00:31:01) de +34611651742 (El mamoune lahmaidi) a +34937377821 (Soporte)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-08-08T10:21:35Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128493332",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        }
-      ]
-    },
-    {
       "accountId": "45842000114090187",
       "accountName": "Grupo Los Panchos",
-      "ticketCount": 3,
+      "ticketCount": 4,
       "tickets": [
+        {
+          "id": "45842000128556743",
+          "number": "349288",
+          "subject": "Incidencia con ticket y panel - Tortería la Especial (Corregidora)",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-08T15:01:02Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128556743",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
         {
           "id": "45842000128551165",
           "number": "349180",
@@ -79,6 +52,33 @@
       ]
     },
     {
+      "accountId": "45842000093029741",
+      "accountName": "Bistro aroma de india",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000128535431",
+          "number": "349268",
+          "subject": "Llamada saliente (00:18:44) de +34937377821 (Soporte) a +34611651742 (El mamoune lahmaidi)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-08-08T11:05:51Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128535431",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000128493332",
+          "number": "349263",
+          "subject": "Llamada entrante (00:31:01) de +34611651742 (El mamoune lahmaidi) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-08-08T10:21:35Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128493332",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        }
+      ]
+    },
+    {
       "accountId": "45842000074321423",
       "accountName": "Trinidad Last",
       "ticketCount": 2,
@@ -107,6 +107,42 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000128556743",
+      "number": "349288",
+      "subject": "Incidencia con ticket y panel - Tortería la Especial (Corregidora)",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-08-08T15:01:02Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128556743",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "Grupo Los Panchos",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128558235",
+      "number": "349283",
+      "subject": "Uber Case# 59134382-LastApp - uber integration request",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-08-08T14:27:29Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128558235",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128520425",
+      "number": "349282",
+      "subject": "Llamada entrante (00:11:57) de +34600693978 ( Rossy) a +34937377821 (Soporte)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-08-08T14:26:03Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128520425",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000128536298",
       "number": "349276",
@@ -187,7 +223,7 @@
       "channel": "Email",
       "createdTime": "2026-08-08T09:17:14Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128557233",
-      "assignee": "",
+      "assignee": "Harold Diaz",
       "accountName": "",
       "locationId": ""
     },
@@ -744,18 +780,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000128494365",
-      "number": "349110",
-      "subject": "[Just Eat UK] Update: LastApp - flyt integration deleted",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-07T10:13:53Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128494365",
-      "assignee": "Raimundo Garcia",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000128494363",
       "number": "349109",
       "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
@@ -763,6 +787,18 @@
       "channel": "Email",
       "createdTime": "2026-08-07T10:13:53Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128494363",
+      "assignee": "Raimundo Garcia",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128494365",
+      "number": "349110",
+      "subject": "[Just Eat UK] Update: LastApp - flyt integration deleted",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-08-07T10:13:53Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128494365",
       "assignee": "Raimundo Garcia",
       "accountName": "",
       "locationId": ""
@@ -2232,18 +2268,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000128442074",
-      "number": "348804",
-      "subject": "Synced invitation: Team Retro! @ Every 4 weeks from 11am to 11:45am on Monday from Mon Jun 22 to Sun Aug 16 (CEST) (xavier.xiques@last.app)",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-06T08:08:59Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128442074",
-      "assignee": "",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000128440309",
       "number": "348803",
       "subject": "Canceled event: Team Retro! @ Every 4 weeks from 11am to 11:45am on Monday (CEST) (xavier.xiques@last.app)",
@@ -2251,6 +2275,18 @@
       "channel": "Email",
       "createdTime": "2026-08-06T08:08:59Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128440309",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128442074",
+      "number": "348804",
+      "subject": "Synced invitation: Team Retro! @ Every 4 weeks from 11am to 11:45am on Monday from Mon Jun 22 to Sun Aug 16 (CEST) (xavier.xiques@last.app)",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-08-06T08:08:59Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128442074",
       "assignee": "",
       "accountName": "",
       "locationId": ""
@@ -2316,18 +2352,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000128438588",
-      "number": "348776",
-      "subject": "LastApp - rappi integration deleted",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-06T05:32:59Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128438588",
-      "assignee": "Raimundo Garcia",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000128433840",
       "number": "348775",
       "subject": "LastApp - rappi integration deleted",
@@ -2335,6 +2359,18 @@
       "channel": "Email",
       "createdTime": "2026-08-06T05:32:59Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128433840",
+      "assignee": "Raimundo Garcia",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128438588",
+      "number": "348776",
+      "subject": "LastApp - rappi integration deleted",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-08-06T05:32:59Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128438588",
       "assignee": "Raimundo Garcia",
       "accountName": "",
       "locationId": ""
@@ -2460,30 +2496,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000128438184",
-      "number": "348765",
-      "subject": "LastApp - glovo integration deleted",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-06T05:32:43Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128438184",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000128436562",
-      "number": "348762",
-      "subject": "LastApp - glovo integration deleted",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-06T05:32:43Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128436562",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000128438179",
       "number": "348763",
       "subject": "LastApp - glovo integration deleted",
@@ -2494,66 +2506,26 @@
       "assignee": "Angie Oliveros",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000128433674",
-      "number": "348760",
-      "subject": "LastApp - glovo integration deleted",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-06T05:32:43Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128433674",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1782,
+  "locationIdIssuesTotal": 1785,
   "byContact": [
-    {
-      "contactId": "45842000106396571",
-      "contactName": "El mamoune lahmaidi",
-      "email": "mamunlahmaidi3@gmail.com",
-      "ticketCount": 3,
-      "tickets": [
-        {
-          "id": "45842000128535431",
-          "number": "349268",
-          "subject": "Llamada saliente (00:18:44) de +34937377821 (Soporte) a +34611651742 (El mamoune lahmaidi)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-08-08T11:05:51Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128535431",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
-          "id": "45842000128539235",
-          "number": "349265",
-          "subject": "Sabor Atlas // Impresora por USB no funciona (Unica impresora)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-08-08T10:49:18Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128539235",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000128493332",
-          "number": "349263",
-          "subject": "Llamada entrante (00:31:01) de +34611651742 (El mamoune lahmaidi) a +34937377821 (Soporte)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-08-08T10:21:35Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128493332",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        }
-      ]
-    },
     {
       "contactId": "45842000114090243",
       "contactName": "Ricardo Paredes Gómez",
       "email": "ricardo.r.paredes@gmail.com",
-      "ticketCount": 3,
+      "ticketCount": 4,
       "tickets": [
+        {
+          "id": "45842000128556743",
+          "number": "349288",
+          "subject": "Incidencia con ticket y panel - Tortería la Especial (Corregidora)",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-08T15:01:02Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128556743",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
         {
           "id": "45842000128551165",
           "number": "349180",
@@ -2583,6 +2555,34 @@
           "createdTime": "2026-07-24T01:03:12Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127769638",
           "assignee": "Trinidad Larrain Punti"
+        }
+      ]
+    },
+    {
+      "contactId": "45842000106396571",
+      "contactName": "El mamoune lahmaidi",
+      "email": "mamunlahmaidi3@gmail.com",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000128535431",
+          "number": "349268",
+          "subject": "Llamada saliente (00:18:44) de +34937377821 (Soporte) a +34611651742 (El mamoune lahmaidi)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-08-08T11:05:51Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128535431",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000128493332",
+          "number": "349263",
+          "subject": "Llamada entrante (00:31:01) de +34611651742 (El mamoune lahmaidi) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-08-08T10:21:35Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128493332",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
         }
       ]
     },
@@ -2618,11 +2618,21 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 5,
+      "openCount": 6,
       "onHoldCount": 0,
       "closedCount": 1030,
-      "totalCount": 1035,
+      "totalCount": 1036,
       "tickets": [
+        {
+          "id": "45842000128556743",
+          "number": "349288",
+          "subject": "Incidencia con ticket y panel - Tortería la Especial (Corregidora)",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-08T15:01:02Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128556743",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
         {
           "id": "45842000128536298",
           "number": "349276",
@@ -2661,7 +2671,7 @@
           "channel": "Email",
           "createdTime": "2026-08-08T09:17:14Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128557233",
-          "assignee": ""
+          "assignee": "Harold Diaz"
         },
         {
           "id": "45842000128557165",
@@ -3278,11 +3288,21 @@
     },
     {
       "classification": "Calls",
-      "openCount": 2,
+      "openCount": 3,
       "onHoldCount": 1,
       "closedCount": 341,
-      "totalCount": 344,
+      "totalCount": 345,
       "tickets": [
+        {
+          "id": "45842000128520425",
+          "number": "349282",
+          "subject": "Llamada entrante (00:11:57) de +34600693978 ( Rossy) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-08-08T14:26:03Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128520425",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
         {
           "id": "45842000128518306",
           "number": "349271",
@@ -3918,11 +3938,21 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 13,
+      "openCount": 14,
       "onHoldCount": 6,
       "closedCount": 319,
-      "totalCount": 338,
+      "totalCount": 339,
       "tickets": [
+        {
+          "id": "45842000128558235",
+          "number": "349283",
+          "subject": "Uber Case# 59134382-LastApp - uber integration request",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-08T14:27:29Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128558235",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
         {
           "id": "45842000128558155",
           "number": "349273",
@@ -7288,10 +7318,10 @@
     },
     {
       "classification": "Admin :: Impresoras",
-      "openCount": 3,
+      "openCount": 2,
       "onHoldCount": 5,
       "closedCount": 63,
-      "totalCount": 71,
+      "totalCount": 70,
       "tickets": [
         {
           "id": "45842000128520358",
@@ -7312,16 +7342,6 @@
           "createdTime": "2026-08-08T12:47:12Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128527136",
           "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000128539235",
-          "number": "349265",
-          "subject": "Sabor Atlas // Impresora por USB no funciona (Unica impresora)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-08-08T10:49:18Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128539235",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
         },
         {
           "id": "45842000128526177",
@@ -9254,16 +9274,6 @@
           "assignee": "Trinidad Larrain Punti"
         },
         {
-          "id": "45842000128157367",
-          "number": "347135",
-          "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-29T13:15:39Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128157367",
-          "assignee": "Raimundo Garcia"
-        },
-        {
           "id": "45842000128154683",
           "number": "347134",
           "subject": "[Just Eat UK] Update: LastApp - flyt integration deleted",
@@ -9272,6 +9282,16 @@
           "createdTime": "2026-07-29T13:15:39Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128154683",
           "assignee": "Javier Landaeta"
+        },
+        {
+          "id": "45842000128157367",
+          "number": "347135",
+          "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-29T13:15:39Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128157367",
+          "assignee": "Raimundo Garcia"
         },
         {
           "id": "45842000128146456",
