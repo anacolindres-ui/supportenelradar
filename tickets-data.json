@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-10T19:25:13.359974+00:00",
+  "lastUpdated": "2026-08-10T20:17:59.569568+00:00",
   "totalOpenTickets": 67,
-  "totalClosedTickets": 2596,
+  "totalClosedTickets": 2597,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -115,16 +115,28 @@
   ],
   "locationIdIssues": [
     {
+      "id": "45842000128597346",
+      "number": "349605",
+      "subject": "Miei pagamenti",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-08-10T19:54:10Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128597346",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "",
+      "locationId": "1234"
+    },
+    {
       "id": "45842000128592391",
       "number": "349604",
       "subject": "cancel subscription",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Email",
       "createdTime": "2026-08-10T19:23:32Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128592391",
       "assignee": "Johan Manuel Cortissoz Posada",
       "accountName": "",
-      "locationId": ""
+      "locationId": "1234"
     },
     {
       "id": "45842000128587135",
@@ -2501,21 +2513,9 @@
       "assignee": "Angie Oliveros",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000128442717",
-      "number": "348838",
-      "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-06T08:27:56Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128442717",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1749,
+  "locationIdIssuesTotal": 1750,
   "byContact": [
     {
       "contactId": "45842000032294756",
@@ -2661,21 +2661,11 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 4,
+      "openCount": 3,
       "onHoldCount": 0,
       "closedCount": 1024,
-      "totalCount": 1028,
+      "totalCount": 1027,
       "tickets": [
-        {
-          "id": "45842000128592391",
-          "number": "349604",
-          "subject": "cancel subscription",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-10T19:23:32Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128592391",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
         {
           "id": "45842000128587135",
           "number": "349603",
@@ -3137,16 +3127,6 @@
           "assignee": "Brayan Ricardo Fuentes Herrera"
         },
         {
-          "id": "45842000128551554",
-          "number": "349197",
-          "subject": "Evento cancelado: Street ,Inbound Impact Review: Performance & Wins! vie 14 ago 2026 6pm - 6:30pm (CEST) (melicarina.leon@last.app)",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-07T17:02:16Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128551554",
-          "assignee": "Jordy Carmona"
-        },
-        {
           "id": "45842000128546901",
           "number": "349196",
           "subject": "Evento cancelado: Street ,Inbound Impact Review: Performance & Wins! vie 14 ago 2026 6pm - 6:30pm (CEST) (carolina.sepulveda@last.app)",
@@ -3155,6 +3135,16 @@
           "createdTime": "2026-08-07T17:02:16Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128546901",
           "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000128551554",
+          "number": "349197",
+          "subject": "Evento cancelado: Street ,Inbound Impact Review: Performance & Wins! vie 14 ago 2026 6pm - 6:30pm (CEST) (melicarina.leon@last.app)",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-07T17:02:16Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128551554",
+          "assignee": "Jordy Carmona"
         },
         {
           "id": "45842000128553037",
@@ -4257,16 +4247,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000128420257",
-          "number": "348651",
-          "subject": "[Just Eat UK] Update: LastApp - flyt integration request",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-05T16:41:46Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128420257",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000128419619",
           "number": "348650",
           "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
@@ -4274,6 +4254,16 @@
           "channel": "Email",
           "createdTime": "2026-08-05T16:41:46Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128419619",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000128420257",
+          "number": "348651",
+          "subject": "[Just Eat UK] Update: LastApp - flyt integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-05T16:41:46Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128420257",
           "assignee": "Alberto Poyato"
         },
         {
@@ -5981,11 +5971,31 @@
     },
     {
       "classification": "Otro",
-      "openCount": 0,
+      "openCount": 1,
       "onHoldCount": 1,
-      "closedCount": 95,
-      "totalCount": 96,
+      "closedCount": 96,
+      "totalCount": 98,
       "tickets": [
+        {
+          "id": "45842000128597346",
+          "number": "349605",
+          "subject": "Miei pagamenti",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-10T19:54:10Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128597346",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000128592391",
+          "number": "349604",
+          "subject": "cancel subscription",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-10T19:23:32Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128592391",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000128538358",
           "number": "349313",
@@ -6584,16 +6594,6 @@
           "channel": "Email",
           "createdTime": "2026-07-20T18:16:39Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127612986",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
-          "id": "45842000127616615",
-          "number": "345103",
-          "subject": "Refund",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-20T16:43:14Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127616615",
           "assignee": "Johan Manuel Cortissoz Posada"
         }
       ],
@@ -8797,16 +8797,6 @@
           "assignee": "Javier Landaeta"
         },
         {
-          "id": "45842000128094076",
-          "number": "346860",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-28T12:06:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094076",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
           "id": "45842000128132001",
           "number": "346859",
           "subject": "Help us improve",
@@ -8815,6 +8805,16 @@
           "createdTime": "2026-07-28T12:06:33Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132001",
           "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000128094076",
+          "number": "346860",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-28T12:06:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094076",
+          "assignee": "Trinidad Larrain Punti"
         },
         {
           "id": "45842000128067604",
