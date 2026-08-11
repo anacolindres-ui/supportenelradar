@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-11T19:26:49.121749+00:00",
-  "totalOpenTickets": 72,
+  "lastUpdated": "2026-08-11T20:18:50.360603+00:00",
+  "totalOpenTickets": 73,
   "totalClosedTickets": 2659,
   "closedWindowDays": 30,
   "byLocation": [
@@ -55,6 +55,33 @@
           "createdTime": "2026-07-24T01:03:12Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127769638",
           "assignee": "Trinidad Larrain Punti"
+        }
+      ]
+    },
+    {
+      "accountId": "45842000122351195",
+      "accountName": "Happy Food Universidad",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000128669952",
+          "number": "349828",
+          "subject": "integracion",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-11T19:27:08Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128669952",
+          "assignee": ""
+        },
+        {
+          "id": "45842000128661001",
+          "number": "349652",
+          "subject": "Revisar desintegración",
+          "status": "On Hold",
+          "channel": "Phone",
+          "createdTime": "2026-08-11T08:11:59Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128661001",
+          "assignee": "Angie Oliveros"
         }
       ]
     },
@@ -142,15 +169,15 @@
   ],
   "locationIdIssues": [
     {
-      "id": "45842000128627321",
-      "number": "349821",
-      "subject": "Llamada entrante (00:06:05) de +34662476629 ( Sebastian Sebastian Borgeaud) a +34937377821 (Soporte)",
+      "id": "45842000128669952",
+      "number": "349828",
+      "subject": "integracion",
       "status": "Open",
-      "channel": "Phone",
-      "createdTime": "2026-08-11T18:49:08Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128627321",
-      "assignee": "Johan Manuel Cortissoz Posada",
-      "accountName": "LA BRASER_A DEL PASSEIG",
+      "channel": "Email",
+      "createdTime": "2026-08-11T19:27:08Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128669952",
+      "assignee": "",
+      "accountName": "Happy Food Universidad",
       "locationId": ""
     },
     {
@@ -2573,6 +2600,34 @@
       ]
     },
     {
+      "contactId": "45842000122351255",
+      "contactName": "Javier Reyna",
+      "email": "javier.reyna@happyfood.mx",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000128669952",
+          "number": "349828",
+          "subject": "integracion",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-11T19:27:08Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128669952",
+          "assignee": ""
+        },
+        {
+          "id": "45842000128661001",
+          "number": "349652",
+          "subject": "Revisar desintegración",
+          "status": "On Hold",
+          "channel": "Phone",
+          "createdTime": "2026-08-11T08:11:59Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128661001",
+          "assignee": "Angie Oliveros"
+        }
+      ]
+    },
+    {
       "contactId": "45842000109318158",
       "contactName": "maria",
       "email": "maria@bronze.vision",
@@ -2716,11 +2771,21 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 2,
+      "openCount": 3,
       "onHoldCount": 0,
       "closedCount": 1054,
-      "totalCount": 1056,
+      "totalCount": 1057,
       "tickets": [
+        {
+          "id": "45842000128669952",
+          "number": "349828",
+          "subject": "integracion",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-11T19:27:08Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128669952",
+          "assignee": ""
+        },
         {
           "id": "45842000128627192",
           "number": "349809",
@@ -3346,21 +3411,11 @@
     },
     {
       "classification": "Calls",
-      "openCount": 1,
+      "openCount": 0,
       "onHoldCount": 0,
       "closedCount": 336,
-      "totalCount": 337,
+      "totalCount": 336,
       "tickets": [
-        {
-          "id": "45842000128627321",
-          "number": "349821",
-          "subject": "Llamada entrante (00:06:05) de +34662476629 ( Sebastian Sebastian Borgeaud) a +34937377821 (Soporte)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-08-11T18:49:08Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128627321",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
         {
           "id": "45842000128635174",
           "number": "349818",
@@ -4676,11 +4731,21 @@
     },
     {
       "classification": "Admin :: General",
-      "openCount": 2,
+      "openCount": 3,
       "onHoldCount": 5,
       "closedCount": 191,
-      "totalCount": 198,
+      "totalCount": 199,
       "tickets": [
+        {
+          "id": "45842000128618417",
+          "number": "349829",
+          "subject": "BUNNERS // Apk de KDS no disponible en dispositivo android.",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-08-11T19:29:51Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128618417",
+          "assignee": ""
+        },
         {
           "id": "45842000128632163",
           "number": "349775",
@@ -8842,16 +8907,6 @@
           "assignee": "Trinidad Larrain Punti"
         },
         {
-          "id": "45842000128157367",
-          "number": "347135",
-          "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-29T13:15:39Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128157367",
-          "assignee": "Raimundo Garcia"
-        },
-        {
           "id": "45842000128154683",
           "number": "347134",
           "subject": "[Just Eat UK] Update: LastApp - flyt integration deleted",
@@ -8860,6 +8915,16 @@
           "createdTime": "2026-07-29T13:15:39Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128154683",
           "assignee": "Javier Landaeta"
+        },
+        {
+          "id": "45842000128157367",
+          "number": "347135",
+          "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-29T13:15:39Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128157367",
+          "assignee": "Raimundo Garcia"
         },
         {
           "id": "45842000128119055",
@@ -8922,16 +8987,6 @@
           "assignee": "Javier Landaeta"
         },
         {
-          "id": "45842000128132001",
-          "number": "346859",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-28T12:06:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132001",
-          "assignee": "Harold Diaz"
-        },
-        {
           "id": "45842000128094076",
           "number": "346860",
           "subject": "Help us improve",
@@ -8940,6 +8995,16 @@
           "createdTime": "2026-07-28T12:06:33Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094076",
           "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000128132001",
+          "number": "346859",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-28T12:06:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132001",
+          "assignee": "Harold Diaz"
         },
         {
           "id": "45842000128067604",
