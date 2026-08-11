@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T04:34:28.534428+00:00",
+  "lastUpdated": "2026-08-11T05:29:06.649106+00:00",
   "totalOpenTickets": 71,
   "totalClosedTickets": 2582,
   "closedWindowDays": 30,
@@ -799,18 +799,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000128568033",
-      "number": "349353",
-      "subject": "Verify your email",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-09T11:30:32Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128568033",
-      "assignee": "Brayan Ricardo Fuentes Herrera",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000128566483",
       "number": "349352",
       "subject": "Paddle: Tu solicitud está en marcha – [##349351##] | Last.app",
@@ -818,6 +806,18 @@
       "channel": "Email",
       "createdTime": "2026-08-09T11:30:32Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128566483",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128568033",
+      "number": "349353",
+      "subject": "Verify your email",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-08-09T11:30:32Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128568033",
       "assignee": "Brayan Ricardo Fuentes Herrera",
       "accountName": "",
       "locationId": ""
@@ -1162,7 +1162,7 @@
       "id": "45842000128556067",
       "number": "349227",
       "subject": "Uber Case# 59134382-LastApp - uber integration request",
-      "status": "On Hold",
+      "status": "Open",
       "channel": "Email",
       "createdTime": "2026-08-08T01:20:14Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128556067",
@@ -3187,16 +3187,6 @@
           "assignee": "Brayan Ricardo Fuentes Herrera"
         },
         {
-          "id": "45842000128546901",
-          "number": "349196",
-          "subject": "Evento cancelado: Street ,Inbound Impact Review: Performance & Wins! vie 14 ago 2026 6pm - 6:30pm (CEST) (carolina.sepulveda@last.app)",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-07T17:02:16Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128546901",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
           "id": "45842000128551554",
           "number": "349197",
           "subject": "Evento cancelado: Street ,Inbound Impact Review: Performance & Wins! vie 14 ago 2026 6pm - 6:30pm (CEST) (melicarina.leon@last.app)",
@@ -3205,6 +3195,16 @@
           "createdTime": "2026-08-07T17:02:16Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128551554",
           "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000128546901",
+          "number": "349196",
+          "subject": "Evento cancelado: Street ,Inbound Impact Review: Performance & Wins! vie 14 ago 2026 6pm - 6:30pm (CEST) (carolina.sepulveda@last.app)",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-07T17:02:16Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128546901",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
         },
         {
           "id": "45842000128553037",
@@ -3911,8 +3911,8 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 6,
-      "onHoldCount": 8,
+      "openCount": 7,
+      "onHoldCount": 7,
       "closedCount": 311,
       "totalCount": 325,
       "tickets": [
@@ -4120,7 +4120,7 @@
           "id": "45842000128556067",
           "number": "349227",
           "subject": "Uber Case# 59134382-LastApp - uber integration request",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-08-08T01:20:14Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128556067",
@@ -8827,16 +8827,6 @@
           "assignee": "Javier Landaeta"
         },
         {
-          "id": "45842000128132001",
-          "number": "346859",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-28T12:06:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132001",
-          "assignee": "Harold Diaz"
-        },
-        {
           "id": "45842000128094076",
           "number": "346860",
           "subject": "Help us improve",
@@ -8845,6 +8835,16 @@
           "createdTime": "2026-07-28T12:06:33Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094076",
           "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000128132001",
+          "number": "346859",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-28T12:06:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132001",
+          "assignee": "Harold Diaz"
         },
         {
           "id": "45842000128067604",
