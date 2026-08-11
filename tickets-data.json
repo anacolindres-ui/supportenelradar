@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-11T05:29:06.649106+00:00",
-  "totalOpenTickets": 71,
-  "totalClosedTickets": 2582,
+  "lastUpdated": "2026-08-11T06:25:55.118345+00:00",
+  "totalOpenTickets": 74,
+  "totalClosedTickets": 2580,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -114,6 +114,18 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000128638131",
+      "number": "349637",
+      "subject": "Error en la impresora Café Bar guaca",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-08-11T05:36:26Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128638131",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000128588852",
       "number": "349627",
@@ -2501,21 +2513,9 @@
       "assignee": "Angie Oliveros",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000128442926",
-      "number": "348855",
-      "subject": "You're invited to join a development team.",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-06T08:54:46Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128442926",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1744,
+  "locationIdIssuesTotal": 1745,
   "byContact": [
     {
       "contactId": "45842000032294756",
@@ -2661,11 +2661,21 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 3,
+      "openCount": 4,
       "onHoldCount": 0,
       "closedCount": 1021,
-      "totalCount": 1024,
+      "totalCount": 1025,
       "tickets": [
+        {
+          "id": "45842000128638131",
+          "number": "349637",
+          "subject": "Error en la impresora Café Bar guaca",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-11T05:36:26Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128638131",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
         {
           "id": "45842000128588852",
           "number": "349627",
@@ -3037,16 +3047,6 @@
           "assignee": "Fernando Poza"
         },
         {
-          "id": "45842000128568033",
-          "number": "349353",
-          "subject": "Verify your email",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-09T11:30:32Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128568033",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
           "id": "45842000128566483",
           "number": "349352",
           "subject": "Paddle: Tu solicitud está en marcha – [##349351##] | Last.app",
@@ -3054,6 +3054,16 @@
           "channel": "Email",
           "createdTime": "2026-08-09T11:30:32Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128566483",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000128568033",
+          "number": "349353",
+          "subject": "Verify your email",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-09T11:30:32Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128568033",
           "assignee": "Brayan Ricardo Fuentes Herrera"
         },
         {
@@ -3187,16 +3197,6 @@
           "assignee": "Brayan Ricardo Fuentes Herrera"
         },
         {
-          "id": "45842000128551554",
-          "number": "349197",
-          "subject": "Evento cancelado: Street ,Inbound Impact Review: Performance & Wins! vie 14 ago 2026 6pm - 6:30pm (CEST) (melicarina.leon@last.app)",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-07T17:02:16Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128551554",
-          "assignee": "Jordy Carmona"
-        },
-        {
           "id": "45842000128546901",
           "number": "349196",
           "subject": "Evento cancelado: Street ,Inbound Impact Review: Performance & Wins! vie 14 ago 2026 6pm - 6:30pm (CEST) (carolina.sepulveda@last.app)",
@@ -3205,6 +3205,16 @@
           "createdTime": "2026-08-07T17:02:16Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128546901",
           "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000128551554",
+          "number": "349197",
+          "subject": "Evento cancelado: Street ,Inbound Impact Review: Performance & Wins! vie 14 ago 2026 6pm - 6:30pm (CEST) (melicarina.leon@last.app)",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-07T17:02:16Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128551554",
+          "assignee": "Jordy Carmona"
         },
         {
           "id": "45842000128553037",
@@ -3911,9 +3921,9 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 7,
+      "openCount": 9,
       "onHoldCount": 7,
-      "closedCount": 311,
+      "closedCount": 309,
       "totalCount": 325,
       "tickets": [
         {
@@ -4277,16 +4287,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000128420257",
-          "number": "348651",
-          "subject": "[Just Eat UK] Update: LastApp - flyt integration request",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-05T16:41:46Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128420257",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000128419619",
           "number": "348650",
           "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
@@ -4294,6 +4294,16 @@
           "channel": "Email",
           "createdTime": "2026-08-05T16:41:46Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128419619",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000128420257",
+          "number": "348651",
+          "subject": "[Just Eat UK] Update: LastApp - flyt integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-05T16:41:46Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128420257",
           "assignee": "Alberto Poyato"
         },
         {
@@ -4655,6 +4665,26 @@
           "createdTime": "2026-08-03T05:40:15Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128302453",
           "assignee": "Raimundo Garcia"
+        },
+        {
+          "id": "45842000128295579",
+          "number": "347827",
+          "subject": "Uber Case# 58951199-LastApp - uber integration request",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-02T05:16:54Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128295579",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000128284069",
+          "number": "347672",
+          "subject": "Uber Case# 58938327-LastApp - uber integration request",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-01T03:40:18Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128284069",
+          "assignee": "Trinidad Larrain Punti"
         }
       ],
       "inMasterList": false
