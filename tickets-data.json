@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-12T22:19:23.539759+00:00",
-  "totalOpenTickets": 102,
-  "totalClosedTickets": 2576,
+  "lastUpdated": "2026-08-12T23:19:01.213009+00:00",
+  "totalOpenTickets": 101,
+  "totalClosedTickets": 2578,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -142,10 +142,22 @@
   ],
   "locationIdIssues": [
     {
+      "id": "45842000128698331",
+      "number": "350039",
+      "subject": "Seguimiento de integraciones pendientes",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-08-12T23:18:48Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128698331",
+      "assignee": "Jordy Carmona",
+      "accountName": "Grupo Los Panchos",
+      "locationId": ""
+    },
+    {
       "id": "45842000128687325",
       "number": "350037",
       "subject": "Hola",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Last.app Mexico",
       "createdTime": "2026-08-12T22:10:31Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128687325",
@@ -169,7 +181,7 @@
       "id": "45842000128684296",
       "number": "350028",
       "subject": "hi",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Last.app México",
       "createdTime": "2026-08-12T20:43:06Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128684296",
@@ -2528,50 +2540,10 @@
       "assignee": "Harold Diaz",
       "accountName": "El buey Encarbonado Neza",
       "locationId": "349297"
-    },
-    {
-      "id": "45842000128560075",
-      "number": "349295",
-      "subject": "Necesito un reporte",
-      "status": "Open",
-      "channel": "Email",
-      "createdTime": "2026-08-08T16:04:56Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128560075",
-      "assignee": "Fernando Poza",
-      "accountName": "Marchando Cocina",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1753,
+  "locationIdIssuesTotal": 1754,
   "byContact": [
-    {
-      "contactId": "45842000124878161",
-      "contactName": "Angie Talamas",
-      "email": "",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000128687325",
-          "number": "350037",
-          "subject": "Hola",
-          "status": "Open",
-          "channel": "Last.app Mexico",
-          "createdTime": "2026-08-12T22:10:31Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128687325",
-          "assignee": "Jordy Carmona"
-        },
-        {
-          "id": "45842000128642621",
-          "number": "349856",
-          "subject": "Hola",
-          "status": "Open",
-          "channel": "Last.app Mexico",
-          "createdTime": "2026-08-12T03:40:25Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128642621",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        }
-      ]
-    },
     {
       "contactId": "45842000073441376",
       "contactName": "Inés Gallarde",
@@ -2744,16 +2716,26 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 6,
+      "openCount": 5,
       "onHoldCount": 0,
-      "closedCount": 1022,
-      "totalCount": 1028,
+      "closedCount": 1024,
+      "totalCount": 1029,
       "tickets": [
+        {
+          "id": "45842000128698331",
+          "number": "350039",
+          "subject": "Seguimiento de integraciones pendientes",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-12T23:18:48Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128698331",
+          "assignee": "Jordy Carmona"
+        },
         {
           "id": "45842000128687325",
           "number": "350037",
           "subject": "Hola",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Last.app Mexico",
           "createdTime": "2026-08-12T22:10:31Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128687325",
@@ -2763,7 +2745,7 @@
           "id": "45842000128684296",
           "number": "350028",
           "subject": "hi",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Last.app México",
           "createdTime": "2026-08-12T20:43:06Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128684296",
@@ -3388,26 +3370,6 @@
           "createdTime": "2026-08-11T09:02:33Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128626085",
           "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000128627017",
-          "number": "349669",
-          "subject": "Llamada saliente (00:38:17) de +34937377821 (Soporte) a +34674905580 ( Rosabel)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-11T08:36:27Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128627017",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000128636313",
-          "number": "349650",
-          "subject": "Respuesta automática: SALY SONA SL te ha enviado una factura",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-11T07:54:47Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128636313",
-          "assignee": "Angie Oliveros"
         }
       ],
       "inMasterList": false
@@ -9260,16 +9222,6 @@
           "assignee": "Javier Landaeta"
         },
         {
-          "id": "45842000128094076",
-          "number": "346860",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-28T12:06:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094076",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
           "id": "45842000128132001",
           "number": "346859",
           "subject": "Help us improve",
@@ -9278,6 +9230,16 @@
           "createdTime": "2026-07-28T12:06:33Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132001",
           "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000128094076",
+          "number": "346860",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-28T12:06:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094076",
+          "assignee": "Trinidad Larrain Punti"
         },
         {
           "id": "45842000128067604",
