@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-12T02:59:27.678553+00:00",
-  "totalOpenTickets": 76,
+  "lastUpdated": "2026-08-12T03:50:18.868948+00:00",
+  "totalOpenTickets": 77,
   "totalClosedTickets": 2551,
   "closedWindowDays": 30,
   "byLocation": [
@@ -168,6 +168,18 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000128642621",
+      "number": "349856",
+      "subject": "Hola",
+      "status": "Open",
+      "channel": "Last.app Mexico",
+      "createdTime": "2026-08-12T03:40:25Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128642621",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000128673785",
       "number": "349852",
@@ -1588,7 +1600,7 @@
       "id": "45842000128556878",
       "number": "349291",
       "subject": "Uber Case# 59135060-LastApp - uber integration request",
-      "status": "On Hold",
+      "status": "Open",
       "channel": "Email",
       "createdTime": "2026-08-08T15:45:42Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128556878",
@@ -1816,7 +1828,7 @@
       "id": "45842000128553455",
       "number": "349221",
       "subject": "Uber Case# 59134188-LastApp - uber integration request",
-      "status": "On Hold",
+      "status": "Open",
       "channel": "Email",
       "createdTime": "2026-08-08T01:00:21Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128553455",
@@ -2555,21 +2567,9 @@
       "assignee": "Alberto Poyato",
       "accountName": "Grupo Los Panchos",
       "locationId": ""
-    },
-    {
-      "id": "45842000128394822",
-      "number": "349005",
-      "subject": "Llamada entrante (00:01:46) de +34602552510 ( CARLOS MARTINEZ) a +34937377821 (Soporte)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-08-06T17:12:10Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128394822",
-      "assignee": "Jordy Carmona",
-      "accountName": "El saz_n Maracucho las ventas",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1720,
+  "locationIdIssuesTotal": 1721,
   "byContact": [
     {
       "contactId": "45842000032294756",
@@ -2771,11 +2771,21 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 3,
+      "openCount": 4,
       "onHoldCount": 0,
       "closedCount": 1025,
-      "totalCount": 1028,
+      "totalCount": 1029,
       "tickets": [
+        {
+          "id": "45842000128642621",
+          "number": "349856",
+          "subject": "Hola",
+          "status": "Open",
+          "channel": "Last.app Mexico",
+          "createdTime": "2026-08-12T03:40:25Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128642621",
+          "assignee": ""
+        },
         {
           "id": "45842000128647508",
           "number": "349849",
@@ -4021,8 +4031,8 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 5,
-      "onHoldCount": 6,
+      "openCount": 7,
+      "onHoldCount": 4,
       "closedCount": 289,
       "totalCount": 300,
       "tickets": [
@@ -4120,7 +4130,7 @@
           "id": "45842000128556878",
           "number": "349291",
           "subject": "Uber Case# 59135060-LastApp - uber integration request",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-08-08T15:45:42Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128556878",
@@ -4250,7 +4260,7 @@
           "id": "45842000128553455",
           "number": "349221",
           "subject": "Uber Case# 59134188-LastApp - uber integration request",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-08-08T01:00:21Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128553455",
