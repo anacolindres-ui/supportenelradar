@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-13T05:36:50.214646+00:00",
-  "totalOpenTickets": 116,
+  "lastUpdated": "2026-08-13T06:38:33.875177+00:00",
+  "totalOpenTickets": 117,
   "totalClosedTickets": 2578,
   "closedWindowDays": 30,
   "byLocation": [
@@ -168,6 +168,18 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000128711061",
+      "number": "350066",
+      "subject": "Uber Case# 59250651-LastApp - uber integration request",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-08-13T05:39:25Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128711061",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000128709009",
       "number": "350064",
@@ -496,7 +508,7 @@
       "id": "45842000128698048",
       "number": "350013",
       "subject": "Uber Case# 59250742-LastApp - uber integration request",
-      "status": "On Hold",
+      "status": "Open",
       "channel": "Email",
       "createdTime": "2026-08-12T17:38:20Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128698048",
@@ -544,7 +556,7 @@
       "id": "45842000128688968",
       "number": "350009",
       "subject": "Uber Case# 59250525-LastApp - uber integration request",
-      "status": "On Hold",
+      "status": "Open",
       "channel": "Email",
       "createdTime": "2026-08-12T17:28:50Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128688968",
@@ -2555,21 +2567,9 @@
       "assignee": "Alberto Poyato",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000128566789",
-      "number": "349386",
-      "subject": "LastApp - glovo integration deleted",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-09T20:20:57Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128566789",
-      "assignee": "Alberto Poyato",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1769,
+  "locationIdIssuesTotal": 1770,
   "byContact": [
     {
       "contactId": "45842000073441376",
@@ -3441,11 +3441,21 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 42,
-      "onHoldCount": 17,
+      "openCount": 45,
+      "onHoldCount": 15,
       "closedCount": 288,
-      "totalCount": 347,
+      "totalCount": 348,
       "tickets": [
+        {
+          "id": "45842000128711061",
+          "number": "350066",
+          "subject": "Uber Case# 59250651-LastApp - uber integration request",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-13T05:39:25Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128711061",
+          "assignee": ""
+        },
         {
           "id": "45842000128709009",
           "number": "350064",
@@ -3620,7 +3630,7 @@
           "id": "45842000128698048",
           "number": "350013",
           "subject": "Uber Case# 59250742-LastApp - uber integration request",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-08-12T17:38:20Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128698048",
@@ -3660,7 +3670,7 @@
           "id": "45842000128688968",
           "number": "350009",
           "subject": "Uber Case# 59250525-LastApp - uber integration request",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-08-12T17:28:50Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128688968",
@@ -9427,16 +9437,6 @@
           "assignee": "Javier Landaeta"
         },
         {
-          "id": "45842000128132001",
-          "number": "346859",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-28T12:06:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132001",
-          "assignee": "Harold Diaz"
-        },
-        {
           "id": "45842000128094076",
           "number": "346860",
           "subject": "Help us improve",
@@ -9445,6 +9445,16 @@
           "createdTime": "2026-07-28T12:06:33Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094076",
           "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000128132001",
+          "number": "346859",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-28T12:06:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132001",
+          "assignee": "Harold Diaz"
         },
         {
           "id": "45842000128067604",
