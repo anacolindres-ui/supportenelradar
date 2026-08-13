@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-13T03:00:56.114973+00:00",
-  "totalOpenTickets": 110,
+  "lastUpdated": "2026-08-13T03:53:35.865878+00:00",
+  "totalOpenTickets": 111,
   "totalClosedTickets": 2578,
   "closedWindowDays": 30,
   "byLocation": [
@@ -168,6 +168,18 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000128701218",
+      "number": "350055",
+      "subject": "Uber Case# 59249083-LastApp - uber integration request",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-08-13T03:45:37Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128701218",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000128704002",
       "number": "350054",
@@ -436,7 +448,7 @@
       "id": "45842000128695513",
       "number": "350012",
       "subject": "Uber Case# 59249294-LastApp - uber integration request",
-      "status": "On Hold",
+      "status": "Open",
       "channel": "Email",
       "createdTime": "2026-08-12T17:36:45Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128695513",
@@ -2555,21 +2567,9 @@
       "assignee": "Brayan Ricardo Fuentes Herrera",
       "accountName": "Wakame Ibiza",
       "locationId": ""
-    },
-    {
-      "id": "45842000128561789",
-      "number": "349355",
-      "subject": "Revisar promoción “CLUB DE PUNTOS ARMONIIA” – Los canjes de 500 puntos no parecen descontarse",
-      "status": "On Hold",
-      "channel": "Email",
-      "createdTime": "2026-08-09T11:42:15Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128561789",
-      "assignee": "Fernando Poza",
-      "accountName": "ARMONIIA",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1763,
+  "locationIdIssuesTotal": 1764,
   "byContact": [
     {
       "contactId": "45842000073441376",
@@ -3441,11 +3441,21 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 30,
-      "onHoldCount": 23,
+      "openCount": 32,
+      "onHoldCount": 22,
       "closedCount": 288,
-      "totalCount": 341,
+      "totalCount": 342,
       "tickets": [
+        {
+          "id": "45842000128701218",
+          "number": "350055",
+          "subject": "Uber Case# 59249083-LastApp - uber integration request",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-13T03:45:37Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128701218",
+          "assignee": ""
+        },
         {
           "id": "45842000128704002",
           "number": "350054",
@@ -3570,7 +3580,7 @@
           "id": "45842000128695513",
           "number": "350012",
           "subject": "Uber Case# 59249294-LastApp - uber integration request",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-08-12T17:36:45Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128695513",
@@ -4337,16 +4347,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000128420257",
-          "number": "348651",
-          "subject": "[Just Eat UK] Update: LastApp - flyt integration request",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-05T16:41:46Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128420257",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000128419619",
           "number": "348650",
           "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
@@ -4354,6 +4354,16 @@
           "channel": "Email",
           "createdTime": "2026-08-05T16:41:46Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128419619",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000128420257",
+          "number": "348651",
+          "subject": "[Just Eat UK] Update: LastApp - flyt integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-05T16:41:46Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128420257",
           "assignee": "Alberto Poyato"
         },
         {
@@ -9367,16 +9377,6 @@
           "assignee": "Javier Landaeta"
         },
         {
-          "id": "45842000128094076",
-          "number": "346860",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-28T12:06:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094076",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
           "id": "45842000128132001",
           "number": "346859",
           "subject": "Help us improve",
@@ -9385,6 +9385,16 @@
           "createdTime": "2026-07-28T12:06:33Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132001",
           "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000128094076",
+          "number": "346860",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-28T12:06:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094076",
+          "assignee": "Trinidad Larrain Punti"
         },
         {
           "id": "45842000128067604",
