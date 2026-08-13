@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-13T03:53:35.865878+00:00",
-  "totalOpenTickets": 111,
+  "lastUpdated": "2026-08-13T04:41:25.248813+00:00",
+  "totalOpenTickets": 114,
   "totalClosedTickets": 2578,
   "closedWindowDays": 30,
   "byLocation": [
@@ -168,6 +168,42 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000128710074",
+      "number": "350062",
+      "subject": "Uber Case# 59250436-Re:[## 349952 ##] Uber Case# 59249853-LastApp - uber integration request",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-08-13T04:40:59Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128710074",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128710001",
+      "number": "350061",
+      "subject": "Uber Case# 59250436-Re:[## 349952 ##] Uber Case# 59249853-LastApp - uber integration request",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-08-13T04:40:56Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128710001",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128703073",
+      "number": "350060",
+      "subject": "Uber Case# 59249853-LastApp - uber integration request",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-08-13T04:26:47Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128703073",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000128701218",
       "number": "350055",
@@ -520,7 +556,7 @@
       "id": "45842000128693455",
       "number": "350004",
       "subject": "Uber Case# 59250073-LastApp - uber integration request",
-      "status": "On Hold",
+      "status": "Open",
       "channel": "Email",
       "createdTime": "2026-08-12T17:08:04Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128693455",
@@ -592,7 +628,7 @@
       "id": "45842000128695124",
       "number": "349995",
       "subject": "Uber Case# 59250722-LastApp - uber integration request",
-      "status": "On Hold",
+      "status": "Open",
       "channel": "Email",
       "createdTime": "2026-08-12T16:20:40Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128695124",
@@ -820,7 +856,7 @@
       "id": "45842000128688339",
       "number": "349970",
       "subject": "Uber Case# 59250297-LastApp - uber integration request",
-      "status": "On Hold",
+      "status": "Open",
       "channel": "Email",
       "createdTime": "2026-08-12T15:21:16Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128688339",
@@ -916,7 +952,7 @@
       "id": "45842000128683473",
       "number": "349955",
       "subject": "Uber Case# 59249990-LastApp - uber integration request",
-      "status": "On Hold",
+      "status": "Open",
       "channel": "Email",
       "createdTime": "2026-08-12T15:00:41Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128683473",
@@ -2531,45 +2567,9 @@
       "assignee": "Brayan Ricardo Fuentes Herrera",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000128493608",
-      "number": "349366",
-      "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34674416395 ( 34674416395)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-08-09T14:40:17Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128493608",
-      "assignee": "Brayan Ricardo Fuentes Herrera",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000128527378",
-      "number": "349365",
-      "subject": "El usuario (Angel Martín Candela) solicita contactar con soporte desde el panel de administración de Last.app. No se ha proporcionado más contexto o incidencia específica.\norganization: Panchito\nlocation: undefined",
-      "status": "Closed",
-      "channel": "Chat",
-      "createdTime": "2026-08-09T14:37:36Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128527378",
-      "assignee": "Brayan Ricardo Fuentes Herrera",
-      "accountName": "PANCHITO SERVICIOS GENERALES SL",
-      "locationId": ""
-    },
-    {
-      "id": "45842000128534607",
-      "number": "349357",
-      "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34663609242 ( Wakame Ibiza)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-08-09T12:28:26Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128534607",
-      "assignee": "Brayan Ricardo Fuentes Herrera",
-      "accountName": "Wakame Ibiza",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1764,
+  "locationIdIssuesTotal": 1767,
   "byContact": [
     {
       "contactId": "45842000073441376",
@@ -3441,11 +3441,41 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 32,
-      "onHoldCount": 22,
+      "openCount": 39,
+      "onHoldCount": 18,
       "closedCount": 288,
-      "totalCount": 342,
+      "totalCount": 345,
       "tickets": [
+        {
+          "id": "45842000128710074",
+          "number": "350062",
+          "subject": "Uber Case# 59250436-Re:[## 349952 ##] Uber Case# 59249853-LastApp - uber integration request",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-13T04:40:59Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128710074",
+          "assignee": ""
+        },
+        {
+          "id": "45842000128710001",
+          "number": "350061",
+          "subject": "Uber Case# 59250436-Re:[## 349952 ##] Uber Case# 59249853-LastApp - uber integration request",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-13T04:40:56Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128710001",
+          "assignee": ""
+        },
+        {
+          "id": "45842000128703073",
+          "number": "350060",
+          "subject": "Uber Case# 59249853-LastApp - uber integration request",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-13T04:26:47Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128703073",
+          "assignee": ""
+        },
         {
           "id": "45842000128701218",
           "number": "350055",
@@ -3640,7 +3670,7 @@
           "id": "45842000128693455",
           "number": "350004",
           "subject": "Uber Case# 59250073-LastApp - uber integration request",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-08-12T17:08:04Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128693455",
@@ -3690,7 +3720,7 @@
           "id": "45842000128695124",
           "number": "349995",
           "subject": "Uber Case# 59250722-LastApp - uber integration request",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-08-12T16:20:40Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128695124",
@@ -3850,7 +3880,7 @@
           "id": "45842000128688339",
           "number": "349970",
           "subject": "Uber Case# 59250297-LastApp - uber integration request",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-08-12T15:21:16Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128688339",
@@ -3910,7 +3940,7 @@
           "id": "45842000128683473",
           "number": "349955",
           "subject": "Uber Case# 59249990-LastApp - uber integration request",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-08-12T15:00:41Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128683473",
@@ -4347,16 +4377,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000128419619",
-          "number": "348650",
-          "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-05T16:41:46Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128419619",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000128420257",
           "number": "348651",
           "subject": "[Just Eat UK] Update: LastApp - flyt integration request",
@@ -4364,6 +4384,16 @@
           "channel": "Email",
           "createdTime": "2026-08-05T16:41:46Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128420257",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000128419619",
+          "number": "348650",
+          "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-05T16:41:46Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128419619",
           "assignee": "Alberto Poyato"
         },
         {
