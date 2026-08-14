@@ -1,14 +1,24 @@
 {
-  "lastUpdated": "2026-08-14T13:33:06.594792+00:00",
+  "lastUpdated": "2026-08-14T14:27:00.402773+00:00",
   "totalOpenTickets": 61,
-  "totalClosedTickets": 2691,
+  "totalClosedTickets": 2693,
   "closedWindowDays": 30,
   "byLocation": [
     {
       "accountId": "45842000126310225",
       "accountName": "DENVER BURGER",
-      "ticketCount": 2,
+      "ticketCount": 3,
       "tickets": [
+        {
+          "id": "45842000128846613",
+          "number": "350377",
+          "subject": "Integración Uber Eats",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-14T11:59:27Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128846613",
+          "assignee": "Dimitriz Rodriguez"
+        },
         {
           "id": "45842000128846426",
           "number": "350364",
@@ -32,6 +42,33 @@
       ]
     },
     {
+      "accountId": "45842000121191480",
+      "accountName": "Casa Roja Cocina",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000128799824",
+          "number": "350400",
+          "subject": "HOLA QUIERO ABRIR VIERNES Y SABADO DE 8 A 10:30. COMO ABRO PARA ABRIR LA SHOP Y GLOVO, UBER A ESAS HORA",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-14T13:55:58Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128799824",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000128782052",
+          "number": "350180",
+          "subject": "Casa Roja Cocina // Stock agotado permite realizar pedidos - (Producto berenjenas)",
+          "status": "On Hold",
+          "channel": "Phone",
+          "createdTime": "2026-08-13T13:02:03Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128782052",
+          "assignee": "Fernando Poza"
+        }
+      ]
+    },
+    {
       "accountId": "45842000000594001",
       "accountName": "MISS SUSHI S.L.",
       "ticketCount": 2,
@@ -40,11 +77,11 @@
           "id": "45842000128850150",
           "number": "350373",
           "subject": "Fallos Tienda Miss Poke",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Email",
           "createdTime": "2026-08-14T11:51:52Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128850150",
-          "assignee": ""
+          "assignee": "Alberto Poyato"
         },
         {
           "id": "45842000128398326",
@@ -88,10 +125,34 @@
   ],
   "locationIdIssues": [
     {
+      "id": "45842000128799824",
+      "number": "350400",
+      "subject": "HOLA QUIERO ABRIR VIERNES Y SABADO DE 8 A 10:30. COMO ABRO PARA ABRIR LA SHOP Y GLOVO, UBER A ESAS HORA",
+      "status": "Open",
+      "channel": "Last.app España",
+      "createdTime": "2026-08-14T13:55:58Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128799824",
+      "assignee": "Harold Diaz",
+      "accountName": "Casa Roja Cocina",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128845674",
+      "number": "350398",
+      "subject": "Your secure link to the Claude Console is here | 2026-08-14 15:53:12",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-08-14T13:53:18Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128845674",
+      "assignee": "Alberto Poyato",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
       "id": "45842000128780519",
       "number": "350393",
       "subject": "Hola! Hay alguna manera d q las letras y numeros d los tickets salga en tamaño mas pequeño? \n\nResulta q cuando imprime, no salen los numeros de un extremo",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Last.app España",
       "createdTime": "2026-08-14T13:21:32Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128780519",
@@ -139,11 +200,11 @@
       "id": "45842000128850150",
       "number": "350373",
       "subject": "Fallos Tienda Miss Poke",
-      "status": "Open",
+      "status": "On Hold",
       "channel": "Email",
       "createdTime": "2026-08-14T11:51:52Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128850150",
-      "assignee": "",
+      "assignee": "Alberto Poyato",
       "accountName": "MISS SUSHI S.L.",
       "locationId": ""
     },
@@ -2462,40 +2523,26 @@
       "assignee": "Angie Oliveros",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000128664489",
-      "number": "349756",
-      "subject": "GLV-79981 Padthaiwok Sta Paula: Integración con Glovo no está activa desde su lado",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-11T12:56:17Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128664489",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000128622250",
-      "number": "349752",
-      "subject": "Llamada saliente (00:00:05) de +34937377821 (Soporte) a +34662476629 ( RESTAURANT L'AMFORA)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-08-11T12:37:10Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128622250",
-      "assignee": "Fernando Poza",
-      "accountName": "RESTAURANT L'AMFORA",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1758,
+  "locationIdIssuesTotal": 1760,
   "byContact": [
     {
       "contactId": "45842000126310258",
       "contactName": "DENVER BURGER Nacho",
       "email": "info@denver-burger.com",
-      "ticketCount": 2,
+      "ticketCount": 3,
       "tickets": [
+        {
+          "id": "45842000128846613",
+          "number": "350377",
+          "subject": "Integración Uber Eats",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-14T11:59:27Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128846613",
+          "assignee": "Dimitriz Rodriguez"
+        },
         {
           "id": "45842000128846426",
           "number": "350364",
@@ -2528,11 +2575,11 @@
           "id": "45842000128850150",
           "number": "350373",
           "subject": "Fallos Tienda Miss Poke",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Email",
           "createdTime": "2026-08-14T11:51:52Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128850150",
-          "assignee": ""
+          "assignee": "Alberto Poyato"
         },
         {
           "id": "45842000128398326",
@@ -2573,21 +2620,69 @@
           "assignee": "Raimundo Garcia"
         }
       ]
+    },
+    {
+      "contactId": "45842000068121168",
+      "contactName": "Saulo",
+      "email": "saulo-leal@hotmail.com",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000128799824",
+          "number": "350400",
+          "subject": "HOLA QUIERO ABRIR VIERNES Y SABADO DE 8 A 10:30. COMO ABRO PARA ABRIR LA SHOP Y GLOVO, UBER A ESAS HORA",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-14T13:55:58Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128799824",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000128782052",
+          "number": "350180",
+          "subject": "Casa Roja Cocina // Stock agotado permite realizar pedidos - (Producto berenjenas)",
+          "status": "On Hold",
+          "channel": "Phone",
+          "createdTime": "2026-08-13T13:02:03Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128782052",
+          "assignee": "Fernando Poza"
+        }
+      ]
     }
   ],
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 5,
+      "openCount": 4,
       "onHoldCount": 0,
-      "closedCount": 1019,
-      "totalCount": 1024,
+      "closedCount": 1021,
+      "totalCount": 1025,
       "tickets": [
+        {
+          "id": "45842000128799824",
+          "number": "350400",
+          "subject": "HOLA QUIERO ABRIR VIERNES Y SABADO DE 8 A 10:30. COMO ABRO PARA ABRIR LA SHOP Y GLOVO, UBER A ESAS HORA",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-14T13:55:58Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128799824",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000128845674",
+          "number": "350398",
+          "subject": "Your secure link to the Claude Console is here | 2026-08-14 15:53:12",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-14T13:53:18Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128845674",
+          "assignee": "Alberto Poyato"
+        },
         {
           "id": "45842000128780519",
           "number": "350393",
           "subject": "Hola! Hay alguna manera d q las letras y numeros d los tickets salga en tamaño mas pequeño? \n\nResulta q cuando imprime, no salen los numeros de un extremo",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Last.app España",
           "createdTime": "2026-08-14T13:21:32Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128780519",
@@ -2602,16 +2697,6 @@
           "createdTime": "2026-08-14T13:14:10Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128799626",
           "assignee": "Angie Oliveros"
-        },
-        {
-          "id": "45842000128850150",
-          "number": "350373",
-          "subject": "Fallos Tienda Miss Poke",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-14T11:51:52Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128850150",
-          "assignee": ""
         },
         {
           "id": "45842000128850075",
@@ -3211,26 +3296,6 @@
           "channel": "Chat",
           "createdTime": "2026-08-12T12:55:44Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128630495",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000128622564",
-          "number": "349931",
-          "subject": "[Cliq] maceta",
-          "status": "Closed",
-          "channel": "Chat",
-          "createdTime": "2026-08-12T12:55:07Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128622564",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000128616546",
-          "number": "349928",
-          "subject": "[Cliq] jajaja maceta",
-          "status": "Closed",
-          "channel": "Chat",
-          "createdTime": "2026-08-12T12:47:53Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128616546",
           "assignee": "Alberto Poyato"
         }
       ],
@@ -4718,9 +4783,9 @@
     },
     {
       "classification": "Admin :: General",
-      "openCount": 2,
-      "onHoldCount": 3,
-      "closedCount": 177,
+      "openCount": 0,
+      "onHoldCount": 4,
+      "closedCount": 178,
       "totalCount": 182,
       "tickets": [
         {
@@ -4747,7 +4812,7 @@
           "id": "45842000128816472",
           "number": "350384",
           "subject": "Muy buenas, te escribo desde padthai Wok 4 caminos en coruña",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Last.app España",
           "createdTime": "2026-08-14T12:49:47Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128816472",
@@ -4887,7 +4952,7 @@
           "id": "45842000128690305",
           "number": "349961",
           "subject": "Incidencia: comandera desde datáfono honei no funciona en todas las categorías",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Email",
           "createdTime": "2026-08-12T15:10:33Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128690305",
@@ -5361,16 +5426,6 @@
           "channel": "Phone",
           "createdTime": "2026-07-30T12:34:34Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128126785",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
-          "id": "45842000128179593",
-          "number": "347351",
-          "subject": "URGE!! INCIDENCIA CRITICA: TPV deja de ser compatible sin previo aviso",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-30T11:49:37Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128179593",
           "assignee": "Johan Manuel Cortissoz Posada"
         }
       ],
@@ -8684,16 +8739,6 @@
           "assignee": "Trinidad Larrain Punti"
         },
         {
-          "id": "45842000128154683",
-          "number": "347134",
-          "subject": "[Just Eat UK] Update: LastApp - flyt integration deleted",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-29T13:15:39Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128154683",
-          "assignee": "Javier Landaeta"
-        },
-        {
           "id": "45842000128157367",
           "number": "347135",
           "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
@@ -8702,6 +8747,16 @@
           "createdTime": "2026-07-29T13:15:39Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128157367",
           "assignee": "Raimundo Garcia"
+        },
+        {
+          "id": "45842000128154683",
+          "number": "347134",
+          "subject": "[Just Eat UK] Update: LastApp - flyt integration deleted",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-29T13:15:39Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128154683",
+          "assignee": "Javier Landaeta"
         },
         {
           "id": "45842000128119055",
@@ -9439,10 +9494,20 @@
     {
       "classification": "LastSHOP",
       "openCount": 1,
-      "onHoldCount": 1,
+      "onHoldCount": 2,
       "closedCount": 32,
-      "totalCount": 34,
+      "totalCount": 35,
       "tickets": [
+        {
+          "id": "45842000128850150",
+          "number": "350373",
+          "subject": "Fallos Tienda Miss Poke",
+          "status": "On Hold",
+          "channel": "Email",
+          "createdTime": "2026-08-14T11:51:52Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128850150",
+          "assignee": "Alberto Poyato"
+        },
         {
           "id": "45842000128846426",
           "number": "350364",
@@ -12318,16 +12383,16 @@
     },
     {
       "classification": "KDS",
-      "openCount": 0,
+      "openCount": 1,
       "onHoldCount": 0,
-      "closedCount": 1,
+      "closedCount": 0,
       "totalCount": 1,
       "tickets": [
         {
           "id": "45842000128846613",
           "number": "350377",
           "subject": "Integración Uber Eats",
-          "status": "Closed",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-08-14T11:59:27Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128846613",
