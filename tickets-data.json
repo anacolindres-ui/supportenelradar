@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-14T06:37:04.970911+00:00",
-  "totalOpenTickets": 100,
-  "totalClosedTickets": 2612,
+  "lastUpdated": "2026-08-14T07:35:47.469593+00:00",
+  "totalOpenTickets": 101,
+  "totalClosedTickets": 2613,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -2461,7 +2461,7 @@
       "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1746,
+  "locationIdIssuesTotal": 1747,
   "byContact": [
     {
       "contactId": "45842000076893562",
@@ -4983,8 +4983,8 @@
       "classification": "Admin :: General",
       "openCount": 2,
       "onHoldCount": 1,
-      "closedCount": 169,
-      "totalCount": 172,
+      "closedCount": 170,
+      "totalCount": 173,
       "tickets": [
         {
           "id": "45842000128796295",
@@ -5104,6 +5104,16 @@
           "channel": "Phone",
           "createdTime": "2026-08-11T08:39:24Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128619091",
+          "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000128579255",
+          "number": "349492",
+          "subject": "Facturas de Canje HULA POKE S.L. 10/08/2026 (312623)",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-10T10:37:29Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128579255",
           "assignee": "Angie Oliveros"
         },
         {
@@ -5605,16 +5615,6 @@
           "createdTime": "2026-07-29T10:28:52Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128151643",
           "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000128141788",
-          "number": "346949",
-          "subject": "Membership Cancelation",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-28T21:43:31Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128141788",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
         }
       ],
       "inMasterList": true
@@ -6951,8 +6951,8 @@
     },
     {
       "classification": "Admin :: Impresoras",
-      "openCount": 0,
-      "onHoldCount": 1,
+      "openCount": 1,
+      "onHoldCount": 0,
       "closedCount": 89,
       "totalCount": 90,
       "tickets": [
@@ -7260,7 +7260,7 @@
           "id": "45842000128243838",
           "number": "348221",
           "subject": "SPICE BCN // Pagos con tarjetas fraudulentas",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Phone",
           "createdTime": "2026-08-04T09:08:14Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128243838",
@@ -8547,16 +8547,6 @@
           "assignee": "Javier Landaeta"
         },
         {
-          "id": "45842000128094076",
-          "number": "346860",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-28T12:06:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094076",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
           "id": "45842000128132001",
           "number": "346859",
           "subject": "Help us improve",
@@ -8565,6 +8555,16 @@
           "createdTime": "2026-07-28T12:06:33Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132001",
           "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000128094076",
+          "number": "346860",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-28T12:06:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094076",
+          "assignee": "Trinidad Larrain Punti"
         },
         {
           "id": "45842000128067604",
@@ -9291,11 +9291,21 @@
     },
     {
       "classification": "POS :: uso general",
-      "openCount": 0,
+      "openCount": 1,
       "onHoldCount": 1,
       "closedCount": 44,
-      "totalCount": 45,
+      "totalCount": 46,
       "tickets": [
+        {
+          "id": "45842000128789237",
+          "number": "350305",
+          "subject": "ADRIANA MX // Al pagar una cuenta pide PIN de manager aun con permisos",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-08-14T07:29:55Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128789237",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
         {
           "id": "45842000128803415",
           "number": "350261",
@@ -10391,8 +10401,8 @@
     },
     {
       "classification": "Admin :: Promociones",
-      "openCount": 0,
-      "onHoldCount": 3,
+      "openCount": 1,
+      "onHoldCount": 2,
       "closedCount": 21,
       "totalCount": 24,
       "tickets": [
@@ -10490,7 +10500,7 @@
           "id": "45842000128258019",
           "number": "347562",
           "subject": "Pastelería Casamayor 3.0 Carretería // Puntos de promocion",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Chat",
           "createdTime": "2026-07-31T10:38:16Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128258019",
