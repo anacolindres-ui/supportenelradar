@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-15T18:08:13.207341+00:00",
-  "totalOpenTickets": 67,
-  "totalClosedTickets": 2627,
+  "lastUpdated": "2026-08-15T19:09:39.633408+00:00",
+  "totalOpenTickets": 66,
+  "totalClosedTickets": 2629,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -154,18 +154,6 @@
     }
   ],
   "locationIdIssues": [
-    {
-      "id": "45842000128856982",
-      "number": "350586",
-      "subject": "Buen día",
-      "status": "Open",
-      "channel": "Last.app España",
-      "createdTime": "2026-08-15T18:05:23Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128856982",
-      "assignee": "Jordy Carmona",
-      "accountName": "TAYTA",
-      "locationId": ""
-    },
     {
       "id": "45842000128868938",
       "number": "350578",
@@ -1022,7 +1010,7 @@
       "id": "45842000128792777",
       "number": "350254",
       "subject": "RECLAMACIÓN FORMAL POR INCIDENCIAS EN EL SERVICIO DE RESERVAS",
-      "status": "On Hold",
+      "status": "Open",
       "channel": "Email",
       "createdTime": "2026-08-13T18:24:49Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128792777",
@@ -2553,9 +2541,21 @@
       "assignee": "Alberto Poyato",
       "accountName": "",
       "locationId": ""
+    },
+    {
+      "id": "45842000128679523",
+      "number": "349918",
+      "subject": "PereDogII ha comenzado a seguirte",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-08-12T12:15:04Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128679523",
+      "assignee": "Harold Diaz",
+      "accountName": "",
+      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1711,
+  "locationIdIssuesTotal": 1710,
   "byContact": [
     {
       "contactId": "45842000066012243",
@@ -2741,21 +2741,11 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 11,
+      "openCount": 10,
       "onHoldCount": 0,
       "closedCount": 984,
-      "totalCount": 995,
+      "totalCount": 994,
       "tickets": [
-        {
-          "id": "45842000128856982",
-          "number": "350586",
-          "subject": "Buen día",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-15T18:05:23Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128856982",
-          "assignee": "Jordy Carmona"
-        },
         {
           "id": "45842000128871222",
           "number": "350560",
@@ -4971,16 +4961,26 @@
     },
     {
       "classification": "Admin :: General",
-      "openCount": 2,
+      "openCount": 1,
       "onHoldCount": 2,
-      "closedCount": 170,
-      "totalCount": 174,
+      "closedCount": 172,
+      "totalCount": 175,
       "tickets": [
+        {
+          "id": "45842000128874175",
+          "number": "350587",
+          "subject": "Hola buenas tardes  es posible configurar  los  segundos  que  dura  activa  la pantalla  de la app no recuerdo  donde  tenemos esa  opción",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-15T18:47:32Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128874175",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000128863556",
           "number": "350585",
           "subject": "Hola",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Last.app España",
           "createdTime": "2026-08-15T17:40:32Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128863556",
@@ -5595,26 +5595,6 @@
           "createdTime": "2026-08-01T19:12:30Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128251148",
           "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
-          "id": "45842000128258271",
-          "number": "347790",
-          "subject": "Llamada entrante (00:01:04) de +34645451064 ( juan cruz malinverno) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-01T16:55:31Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128258271",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
-          "id": "45842000128247154",
-          "number": "347622",
-          "subject": "Hola buenas tardes",
-          "status": "Closed",
-          "channel": "Last.app México",
-          "createdTime": "2026-07-31T18:28:46Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128247154",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
         }
       ],
       "inMasterList": true
@@ -10771,16 +10751,26 @@
     },
     {
       "classification": "Módulos Reserva",
-      "openCount": 1,
-      "onHoldCount": 1,
+      "openCount": 3,
+      "onHoldCount": 0,
       "closedCount": 15,
-      "totalCount": 17,
+      "totalCount": 18,
       "tickets": [
+        {
+          "id": "45842000128856982",
+          "number": "350586",
+          "subject": "Buen día",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-15T18:05:23Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128856982",
+          "assignee": "Jordy Carmona"
+        },
         {
           "id": "45842000128792777",
           "number": "350254",
           "subject": "RECLAMACIÓN FORMAL POR INCIDENCIAS EN EL SERVICIO DE RESERVAS",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-08-13T18:24:49Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128792777",
