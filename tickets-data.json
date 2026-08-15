@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-15T09:10:49.766151+00:00",
-  "totalOpenTickets": 62,
-  "totalClosedTickets": 2605,
+  "lastUpdated": "2026-08-15T10:08:29.035148+00:00",
+  "totalOpenTickets": 60,
+  "totalClosedTickets": 2606,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -87,30 +87,6 @@
     }
   ],
   "locationIdIssues": [
-    {
-      "id": "45842000128822690",
-      "number": "350522",
-      "subject": "Llamada entrante (00:07:30) de +34609635214 ( Sebastián) a +34937377821 (Soporte)",
-      "status": "Open",
-      "channel": "Phone",
-      "createdTime": "2026-08-15T08:21:26Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128822690",
-      "assignee": "Brayan Ricardo Fuentes Herrera",
-      "accountName": "PadthaiWok _ CC La Vaguada",
-      "locationId": ""
-    },
-    {
-      "id": "45842000128812976",
-      "number": "350521",
-      "subject": "Llamada entrante (00:04:48) de +34643169202 ( Jonathan) a +34937377821 (Soporte)",
-      "status": "Open",
-      "channel": "Phone",
-      "createdTime": "2026-08-15T07:41:28Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128812976",
-      "assignee": "Brayan Ricardo Fuentes Herrera",
-      "accountName": "Dulxioso",
-      "locationId": ""
-    },
     {
       "id": "45842000128866511",
       "number": "350512",
@@ -2486,9 +2462,33 @@
       "assignee": "Angie Oliveros",
       "accountName": "",
       "locationId": ""
+    },
+    {
+      "id": "45842000128615225",
+      "number": "349882",
+      "subject": "Llamada saliente (00:00:03) de +34937377821 (Soporte) a +34660273106 ( Rafael Torralbo Serena)",
+      "status": "Closed",
+      "channel": "Phone",
+      "createdTime": "2026-08-12T09:24:27Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128615225",
+      "assignee": "Alberto Poyato",
+      "accountName": "Pizzeria snoopy",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128614492",
+      "number": "349881",
+      "subject": "Llamada saliente (00:00:03) de +34937377821 (Soporte) a +34660273106 ( Rafael Torralbo Serena)",
+      "status": "Closed",
+      "channel": "Phone",
+      "createdTime": "2026-08-12T09:23:26Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128614492",
+      "assignee": "Alberto Poyato",
+      "accountName": "Pizzeria snoopy",
+      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1702,
+  "locationIdIssuesTotal": 1700,
   "byContact": [
     {
       "contactId": "45842000126310258",
@@ -3266,31 +3266,11 @@
     },
     {
       "classification": "Calls",
-      "openCount": 3,
+      "openCount": 1,
       "onHoldCount": 0,
       "closedCount": 351,
-      "totalCount": 354,
+      "totalCount": 352,
       "tickets": [
-        {
-          "id": "45842000128822690",
-          "number": "350522",
-          "subject": "Llamada entrante (00:07:30) de +34609635214 ( Sebastián) a +34937377821 (Soporte)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-08-15T08:21:26Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128822690",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000128812976",
-          "number": "350521",
-          "subject": "Llamada entrante (00:04:48) de +34643169202 ( Jonathan) a +34937377821 (Soporte)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-08-15T07:41:28Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128812976",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
         {
           "id": "45842000128788326",
           "number": "350454",
@@ -8192,16 +8172,6 @@
           "assignee": "Trinidad Larrain Punti"
         },
         {
-          "id": "45842000128154683",
-          "number": "347134",
-          "subject": "[Just Eat UK] Update: LastApp - flyt integration deleted",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-29T13:15:39Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128154683",
-          "assignee": "Javier Landaeta"
-        },
-        {
           "id": "45842000128157367",
           "number": "347135",
           "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
@@ -8210,6 +8180,16 @@
           "createdTime": "2026-07-29T13:15:39Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128157367",
           "assignee": "Raimundo Garcia"
+        },
+        {
+          "id": "45842000128154683",
+          "number": "347134",
+          "subject": "[Just Eat UK] Update: LastApp - flyt integration deleted",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-29T13:15:39Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128154683",
+          "assignee": "Javier Landaeta"
         },
         {
           "id": "45842000128146456",
@@ -8262,16 +8242,6 @@
           "assignee": "Javier Landaeta"
         },
         {
-          "id": "45842000128132001",
-          "number": "346859",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-28T12:06:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132001",
-          "assignee": "Harold Diaz"
-        },
-        {
           "id": "45842000128094076",
           "number": "346860",
           "subject": "Help us improve",
@@ -8280,6 +8250,16 @@
           "createdTime": "2026-07-28T12:06:33Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094076",
           "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000128132001",
+          "number": "346859",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-28T12:06:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132001",
+          "assignee": "Harold Diaz"
         },
         {
           "id": "45842000128067604",
@@ -9416,11 +9396,21 @@
     },
     {
       "classification": "LastSHOP",
-      "openCount": 0,
+      "openCount": 1,
       "onHoldCount": 1,
       "closedCount": 36,
-      "totalCount": 37,
+      "totalCount": 38,
       "tickets": [
+        {
+          "id": "45842000128856685",
+          "number": "350527",
+          "subject": "Buenas tengo una consulta sobre tema integración .\nSi abro otro local de la misma marca , al tener integración con el link de la shop de la marca . Es posible integrar en un ordenador los pedidos de u...",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-15T09:38:12Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128856685",
+          "assignee": "Dimitriz Rodriguez"
+        },
         {
           "id": "45842000128856331",
           "number": "350459",
@@ -9797,15 +9787,15 @@
     {
       "classification": "QRs",
       "openCount": 0,
-      "onHoldCount": 3,
-      "closedCount": 26,
+      "onHoldCount": 2,
+      "closedCount": 27,
       "totalCount": 29,
       "tickets": [
         {
           "id": "45842000128841758",
           "number": "350357",
           "subject": "Problemas con los QR",
-          "status": "On Hold",
+          "status": "Closed",
           "channel": "Email",
           "createdTime": "2026-08-14T10:23:04Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128841758",
