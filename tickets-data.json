@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-15T07:14:58.028725+00:00",
-  "totalOpenTickets": 60,
+  "lastUpdated": "2026-08-15T08:09:54.364022+00:00",
+  "totalOpenTickets": 61,
   "totalClosedTickets": 2605,
   "closedWindowDays": 30,
   "byLocation": [
@@ -87,6 +87,18 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000128812976",
+      "number": "350521",
+      "subject": "Llamada entrante (00:04:48) de +34643169202 ( Jonathan) a +34937377821 (Soporte)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-08-15T07:41:28Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128812976",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "Dulxioso",
+      "locationId": ""
+    },
     {
       "id": "45842000128866511",
       "number": "350512",
@@ -2474,21 +2486,9 @@
       "assignee": "Alberto Poyato",
       "accountName": "Pizzeria snoopy",
       "locationId": ""
-    },
-    {
-      "id": "45842000128614492",
-      "number": "349881",
-      "subject": "Llamada saliente (00:00:03) de +34937377821 (Soporte) a +34660273106 ( Rafael Torralbo Serena)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-08-12T09:23:26Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128614492",
-      "assignee": "Alberto Poyato",
-      "accountName": "Pizzeria snoopy",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1700,
+  "locationIdIssuesTotal": 1701,
   "byContact": [
     {
       "contactId": "45842000126310258",
@@ -3266,11 +3266,21 @@
     },
     {
       "classification": "Calls",
-      "openCount": 1,
+      "openCount": 2,
       "onHoldCount": 0,
       "closedCount": 351,
-      "totalCount": 352,
+      "totalCount": 353,
       "tickets": [
+        {
+          "id": "45842000128812976",
+          "number": "350521",
+          "subject": "Llamada entrante (00:04:48) de +34643169202 ( Jonathan) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-08-15T07:41:28Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128812976",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
         {
           "id": "45842000128788326",
           "number": "350454",
