@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-15T00:21:07.809143+00:00",
+  "lastUpdated": "2026-08-15T01:33:50.470546+00:00",
   "totalOpenTickets": 58,
-  "totalClosedTickets": 2605,
+  "totalClosedTickets": 2606,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -87,6 +87,18 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000128863309",
+      "number": "350487",
+      "subject": "PANMEX SAN JERONIMO / Error en productos del catálogo.",
+      "status": "Closed",
+      "channel": "Last.app México",
+      "createdTime": "2026-08-15T00:58:31Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128863309",
+      "assignee": "Jordy Carmona",
+      "accountName": "",
+      "locationId": "/63ab9e8c-df88-44e2-b7b1-07000a31f951"
+    },
     {
       "id": "45842000128854961",
       "number": "350480",
@@ -2474,21 +2486,9 @@
       "assignee": "Alberto Poyato",
       "accountName": "Pizzeria snoopy",
       "locationId": ""
-    },
-    {
-      "id": "45842000128678343",
-      "number": "349878",
-      "subject": "GLOVO-LASTAPP (Intgraciones Pendientes)",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-12T09:18:27Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128678343",
-      "assignee": "Alberto Poyato",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1698,
+  "locationIdIssuesTotal": 1699,
   "byContact": [
     {
       "contactId": "45842000126310258",
@@ -5388,9 +5388,19 @@
       "classification": "Admin :: Integraciones",
       "openCount": 0,
       "onHoldCount": 4,
-      "closedCount": 127,
-      "totalCount": 131,
+      "closedCount": 128,
+      "totalCount": 132,
       "tickets": [
+        {
+          "id": "45842000128863309",
+          "number": "350487",
+          "subject": "PANMEX SAN JERONIMO / Error en productos del catálogo.",
+          "status": "Closed",
+          "channel": "Last.app México",
+          "createdTime": "2026-08-15T00:58:31Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128863309",
+          "assignee": "Jordy Carmona"
+        },
         {
           "id": "45842000128845848",
           "number": "350425",
@@ -6020,16 +6030,6 @@
           "createdTime": "2026-07-27T18:38:08Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128019271",
           "assignee": "Fernando Poza"
-        },
-        {
-          "id": "45842000128007898",
-          "number": "346525",
-          "subject": "Re: Cuyna x Deleito - Problemas de integración pedidos LAST",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-27T11:13:14Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128007898",
-          "assignee": "Alberto Poyato"
         }
       ],
       "inMasterList": true
@@ -8152,16 +8152,6 @@
           "assignee": "Trinidad Larrain Punti"
         },
         {
-          "id": "45842000128154683",
-          "number": "347134",
-          "subject": "[Just Eat UK] Update: LastApp - flyt integration deleted",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-29T13:15:39Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128154683",
-          "assignee": "Javier Landaeta"
-        },
-        {
           "id": "45842000128157367",
           "number": "347135",
           "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
@@ -8170,6 +8160,16 @@
           "createdTime": "2026-07-29T13:15:39Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128157367",
           "assignee": "Raimundo Garcia"
+        },
+        {
+          "id": "45842000128154683",
+          "number": "347134",
+          "subject": "[Just Eat UK] Update: LastApp - flyt integration deleted",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-29T13:15:39Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128154683",
+          "assignee": "Javier Landaeta"
         },
         {
           "id": "45842000128146456",
@@ -8222,16 +8222,6 @@
           "assignee": "Javier Landaeta"
         },
         {
-          "id": "45842000128132001",
-          "number": "346859",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-28T12:06:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132001",
-          "assignee": "Harold Diaz"
-        },
-        {
           "id": "45842000128094076",
           "number": "346860",
           "subject": "Help us improve",
@@ -8240,6 +8230,16 @@
           "createdTime": "2026-07-28T12:06:33Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094076",
           "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000128132001",
+          "number": "346859",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-28T12:06:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132001",
+          "assignee": "Harold Diaz"
         },
         {
           "id": "45842000128067604",
