@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-15T14:08:05.253401+00:00",
+  "lastUpdated": "2026-08-15T15:07:22.203362+00:00",
   "totalOpenTickets": 66,
-  "totalClosedTickets": 2620,
+  "totalClosedTickets": 2621,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -155,13 +155,13 @@
   ],
   "locationIdIssues": [
     {
-      "id": "45842000128865378",
-      "number": "350566",
-      "subject": "Hi, I need to know if there’s a way of adding service charge to the bills !?",
+      "id": "45842000128807436",
+      "number": "350569",
+      "subject": "Llamada entrante (00:04:51) de +34923706830 ( +34923706830) a +34937377821 (Soporte)",
       "status": "Open",
-      "channel": "Last.app España",
-      "createdTime": "2026-08-15T13:51:49Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128865378",
+      "channel": "Phone",
+      "createdTime": "2026-08-15T14:46:17Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128807436",
       "assignee": "Johan Manuel Cortissoz Posada",
       "accountName": "",
       "locationId": ""
@@ -2741,21 +2741,11 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 11,
+      "openCount": 10,
       "onHoldCount": 0,
       "closedCount": 984,
-      "totalCount": 995,
+      "totalCount": 994,
       "tickets": [
-        {
-          "id": "45842000128865378",
-          "number": "350566",
-          "subject": "Hi, I need to know if there’s a way of adding service charge to the bills !?",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-15T13:51:49Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128865378",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
         {
           "id": "45842000128871222",
           "number": "350560",
@@ -3461,11 +3451,21 @@
     },
     {
       "classification": "Calls",
-      "openCount": 2,
+      "openCount": 3,
       "onHoldCount": 0,
       "closedCount": 353,
-      "totalCount": 355,
+      "totalCount": 356,
       "tickets": [
+        {
+          "id": "45842000128807436",
+          "number": "350569",
+          "subject": "Llamada entrante (00:04:51) de +34923706830 ( +34923706830) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-08-15T14:46:17Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128807436",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000128817590",
           "number": "350556",
@@ -3474,7 +3474,7 @@
           "channel": "Phone",
           "createdTime": "2026-08-15T13:02:24Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128817590",
-          "assignee": "Dimitriz Rodriguez"
+          "assignee": ""
         },
         {
           "id": "45842000128789744",
@@ -8387,16 +8387,6 @@
           "assignee": "Trinidad Larrain Punti"
         },
         {
-          "id": "45842000128154683",
-          "number": "347134",
-          "subject": "[Just Eat UK] Update: LastApp - flyt integration deleted",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-29T13:15:39Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128154683",
-          "assignee": "Javier Landaeta"
-        },
-        {
           "id": "45842000128157367",
           "number": "347135",
           "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
@@ -8405,6 +8395,16 @@
           "createdTime": "2026-07-29T13:15:39Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128157367",
           "assignee": "Raimundo Garcia"
+        },
+        {
+          "id": "45842000128154683",
+          "number": "347134",
+          "subject": "[Just Eat UK] Update: LastApp - flyt integration deleted",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-29T13:15:39Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128154683",
+          "assignee": "Javier Landaeta"
         },
         {
           "id": "45842000128146456",
@@ -8457,16 +8457,6 @@
           "assignee": "Javier Landaeta"
         },
         {
-          "id": "45842000128094076",
-          "number": "346860",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-28T12:06:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094076",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
           "id": "45842000128132001",
           "number": "346859",
           "subject": "Help us improve",
@@ -8475,6 +8465,16 @@
           "createdTime": "2026-07-28T12:06:33Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132001",
           "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000128094076",
+          "number": "346860",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-28T12:06:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094076",
+          "assignee": "Trinidad Larrain Punti"
         },
         {
           "id": "45842000128067604",
@@ -12550,6 +12550,26 @@
       "inMasterList": false
     },
     {
+      "classification": "POS :: Plano de Mesas",
+      "openCount": 0,
+      "onHoldCount": 0,
+      "closedCount": 1,
+      "totalCount": 1,
+      "tickets": [
+        {
+          "id": "45842000128865378",
+          "number": "350566",
+          "subject": "Hi, I need to know if there’s a way of adding service charge to the bills !?",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-15T13:51:49Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128865378",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        }
+      ],
+      "inMasterList": true
+    },
+    {
       "classification": "Reservas :: Módulos Reserva",
       "openCount": 0,
       "onHoldCount": 0,
@@ -12600,15 +12620,6 @@
     },
     {
       "classification": "POS :: Cerrar Reparto Delivery",
-      "openCount": 0,
-      "onHoldCount": 0,
-      "closedCount": 0,
-      "totalCount": 0,
-      "tickets": [],
-      "inMasterList": true
-    },
-    {
-      "classification": "POS :: Plano de Mesas",
       "openCount": 0,
       "onHoldCount": 0,
       "closedCount": 0,
