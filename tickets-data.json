@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-15T08:09:54.364022+00:00",
-  "totalOpenTickets": 61,
+  "lastUpdated": "2026-08-15T09:10:49.766151+00:00",
+  "totalOpenTickets": 62,
   "totalClosedTickets": 2605,
   "closedWindowDays": 30,
   "byLocation": [
@@ -87,6 +87,18 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000128822690",
+      "number": "350522",
+      "subject": "Llamada entrante (00:07:30) de +34609635214 ( Sebastián) a +34937377821 (Soporte)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-08-15T08:21:26Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128822690",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "PadthaiWok _ CC La Vaguada",
+      "locationId": ""
+    },
     {
       "id": "45842000128812976",
       "number": "350521",
@@ -2474,21 +2486,9 @@
       "assignee": "Angie Oliveros",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000128615225",
-      "number": "349882",
-      "subject": "Llamada saliente (00:00:03) de +34937377821 (Soporte) a +34660273106 ( Rafael Torralbo Serena)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-08-12T09:24:27Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128615225",
-      "assignee": "Alberto Poyato",
-      "accountName": "Pizzeria snoopy",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1701,
+  "locationIdIssuesTotal": 1702,
   "byContact": [
     {
       "contactId": "45842000126310258",
@@ -3266,11 +3266,21 @@
     },
     {
       "classification": "Calls",
-      "openCount": 2,
+      "openCount": 3,
       "onHoldCount": 0,
       "closedCount": 351,
-      "totalCount": 353,
+      "totalCount": 354,
       "tickets": [
+        {
+          "id": "45842000128822690",
+          "number": "350522",
+          "subject": "Llamada entrante (00:07:30) de +34609635214 ( Sebastián) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-08-15T08:21:26Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128822690",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
         {
           "id": "45842000128812976",
           "number": "350521",
@@ -8252,16 +8262,6 @@
           "assignee": "Javier Landaeta"
         },
         {
-          "id": "45842000128094076",
-          "number": "346860",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-28T12:06:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094076",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
           "id": "45842000128132001",
           "number": "346859",
           "subject": "Help us improve",
@@ -8270,6 +8270,16 @@
           "createdTime": "2026-07-28T12:06:33Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132001",
           "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000128094076",
+          "number": "346860",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-28T12:06:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094076",
+          "assignee": "Trinidad Larrain Punti"
         },
         {
           "id": "45842000128067604",
