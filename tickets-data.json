@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-16T09:11:11.779142+00:00",
-  "totalOpenTickets": 69,
-  "totalClosedTickets": 2525,
+  "lastUpdated": "2026-08-16T10:08:38.916472+00:00",
+  "totalOpenTickets": 72,
+  "totalClosedTickets": 2526,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -154,6 +154,42 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000128789883",
+      "number": "350614",
+      "subject": "Llamada entrante (00:10:08) de +34648114647 ( vicenç) a +34937377821 (Soporte)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-08-16T09:52:19Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128789883",
+      "assignee": "Harold Diaz",
+      "accountName": "Rosrisseria el padro",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128877377",
+      "number": "350612",
+      "subject": "Hola",
+      "status": "Open",
+      "channel": "Last.app España",
+      "createdTime": "2026-08-16T09:44:13Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128877377",
+      "assignee": "Dimitriz Rodriguez",
+      "accountName": "Gabby`s Coffe Brunch",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128870529",
+      "number": "350611",
+      "subject": "Ingeniero Software",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-08-16T09:26:55Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128870529",
+      "assignee": "Harold Diaz",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000128870383",
       "number": "350595",
@@ -2517,45 +2553,9 @@
       "assignee": "Harold Diaz",
       "accountName": "",
       "locationId": "349933"
-    },
-    {
-      "id": "45842000128630495",
-      "number": "349932",
-      "subject": "[Cliq] maceta",
-      "status": "Closed",
-      "channel": "Chat",
-      "createdTime": "2026-08-12T12:55:44Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128630495",
-      "assignee": "Alberto Poyato",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000128622564",
-      "number": "349931",
-      "subject": "[Cliq] maceta",
-      "status": "Closed",
-      "channel": "Chat",
-      "createdTime": "2026-08-12T12:55:07Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128622564",
-      "assignee": "Alberto Poyato",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000128616546",
-      "number": "349928",
-      "subject": "[Cliq] jajaja maceta",
-      "status": "Closed",
-      "channel": "Chat",
-      "createdTime": "2026-08-12T12:47:53Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128616546",
-      "assignee": "Alberto Poyato",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1649,
+  "locationIdIssuesTotal": 1652,
   "byContact": [
     {
       "contactId": "45842000066012243",
@@ -2741,11 +2741,31 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 9,
+      "openCount": 11,
       "onHoldCount": 0,
       "closedCount": 951,
-      "totalCount": 960,
+      "totalCount": 962,
       "tickets": [
+        {
+          "id": "45842000128877377",
+          "number": "350612",
+          "subject": "Hola",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-16T09:44:13Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128877377",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000128870529",
+          "number": "350611",
+          "subject": "Ingeniero Software",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-16T09:26:55Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128870529",
+          "assignee": "Harold Diaz"
+        },
         {
           "id": "45842000128870383",
           "number": "350595",
@@ -4351,11 +4371,21 @@
     },
     {
       "classification": "Calls",
-      "openCount": 2,
+      "openCount": 3,
       "onHoldCount": 0,
       "closedCount": 330,
-      "totalCount": 332,
+      "totalCount": 333,
       "tickets": [
+        {
+          "id": "45842000128789883",
+          "number": "350614",
+          "subject": "Llamada entrante (00:10:08) de +34648114647 ( vicenç) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-08-16T09:52:19Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128789883",
+          "assignee": "Harold Diaz"
+        },
         {
           "id": "45842000128796881",
           "number": "350583",
@@ -6893,9 +6923,19 @@
       "classification": "Admin :: Impresoras",
       "openCount": 0,
       "onHoldCount": 0,
-      "closedCount": 95,
-      "totalCount": 95,
+      "closedCount": 96,
+      "totalCount": 96,
       "tickets": [
+        {
+          "id": "45842000128810961",
+          "number": "350610",
+          "subject": "Hola, necesito configurar las impresoras porque cambié el router del wifi",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-16T09:16:56Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128810961",
+          "assignee": "Harold Diaz"
+        },
         {
           "id": "45842000128807504",
           "number": "350577",
@@ -7484,16 +7524,6 @@
           "channel": "Phone",
           "createdTime": "2026-07-27T16:12:21Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128033347",
-          "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000127948319",
-          "number": "346392",
-          "subject": "Llamada saliente (00:16:01) de +34937377821 (Soporte) a +34690064083 (Claudio José Palazzani)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-26T17:42:08Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127948319",
           "assignee": "Harold Diaz"
         }
       ],
