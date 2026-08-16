@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-16T22:08:03.490531+00:00",
-  "totalOpenTickets": 77,
-  "totalClosedTickets": 2512,
+  "lastUpdated": "2026-08-16T23:07:12.778205+00:00",
+  "totalOpenTickets": 75,
+  "totalClosedTickets": 2514,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -168,25 +168,13 @@
       "id": "45842000128888163",
       "number": "350674",
       "subject": "Me interesa",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Last.app España",
       "createdTime": "2026-08-16T21:52:52Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128888163",
       "assignee": "Johan Manuel Cortissoz Posada",
       "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000128888047",
-      "number": "350673",
-      "subject": "Hola",
-      "status": "Open",
-      "channel": "Last.app España",
-      "createdTime": "2026-08-16T21:44:16Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128888047",
-      "assignee": "Johan Manuel Cortissoz Posada",
-      "accountName": "Doma Burgers",
-      "locationId": ""
+      "locationId": "1234"
     },
     {
       "id": "45842000128884373",
@@ -2563,9 +2551,21 @@
       "assignee": "Angie Oliveros",
       "accountName": "",
       "locationId": ""
+    },
+    {
+      "id": "45842000128683473",
+      "number": "349955",
+      "subject": "Uber Case# 59249990-LastApp - uber integration request",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-08-12T15:00:41Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128683473",
+      "assignee": "Dimitriz Rodriguez",
+      "accountName": "",
+      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1636,
+  "locationIdIssuesTotal": 1635,
   "byContact": [
     {
       "contactId": "45842000066012243",
@@ -2761,29 +2761,19 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 11,
+      "openCount": 9,
       "onHoldCount": 0,
       "closedCount": 937,
-      "totalCount": 948,
+      "totalCount": 946,
       "tickets": [
         {
-          "id": "45842000128888163",
-          "number": "350674",
-          "subject": "Me interesa",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-16T21:52:52Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128888163",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
-          "id": "45842000128888047",
-          "number": "350673",
-          "subject": "Hola",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-16T21:44:16Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128888047",
+          "id": "45842000128884190",
+          "number": "350662",
+          "subject": "Request Received",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-16T19:26:40Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128884190",
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
@@ -2794,16 +2784,6 @@
           "channel": "Email",
           "createdTime": "2026-08-16T19:26:40Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128884191",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
-          "id": "45842000128884190",
-          "number": "350662",
-          "subject": "Request Received",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-16T19:26:40Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128884190",
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
@@ -6363,9 +6343,29 @@
       "classification": "Otro",
       "openCount": 0,
       "onHoldCount": 1,
-      "closedCount": 96,
-      "totalCount": 97,
+      "closedCount": 98,
+      "totalCount": 99,
       "tickets": [
+        {
+          "id": "45842000128888163",
+          "number": "350674",
+          "subject": "Me interesa",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-16T21:52:52Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128888163",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000128888047",
+          "number": "350673",
+          "subject": "Hola",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-16T21:44:16Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128888047",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000128870972",
           "number": "350658",
@@ -6954,26 +6954,6 @@
           "channel": "Email",
           "createdTime": "2026-07-28T11:18:37Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094001",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000128075392",
-          "number": "346826",
-          "subject": "¡Participa en nuestros concursos para clientes! ✨",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-28T10:40:23Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128075392",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000128051523",
-          "number": "346604",
-          "subject": "RE: Reach Companies Using Toast POS",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-27T14:41:18Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128051523",
           "assignee": "Dimitriz Rodriguez"
         }
       ],
@@ -8487,16 +8467,6 @@
           "assignee": "Trinidad Larrain Punti"
         },
         {
-          "id": "45842000128157367",
-          "number": "347135",
-          "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-29T13:15:39Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128157367",
-          "assignee": "Raimundo Garcia"
-        },
-        {
           "id": "45842000128154683",
           "number": "347134",
           "subject": "[Just Eat UK] Update: LastApp - flyt integration deleted",
@@ -8505,6 +8475,16 @@
           "createdTime": "2026-07-29T13:15:39Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128154683",
           "assignee": "Javier Landaeta"
+        },
+        {
+          "id": "45842000128157367",
+          "number": "347135",
+          "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-29T13:15:39Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128157367",
+          "assignee": "Raimundo Garcia"
         },
         {
           "id": "45842000128146456",
