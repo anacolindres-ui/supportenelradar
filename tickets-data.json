@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-16T16:08:18.344714+00:00",
-  "totalOpenTickets": 73,
+  "lastUpdated": "2026-08-16T17:08:13.558394+00:00",
+  "totalOpenTickets": 76,
   "totalClosedTickets": 2539,
   "closedWindowDays": 30,
   "byLocation": [
@@ -154,6 +154,30 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000128879092",
+      "number": "350653",
+      "subject": "Llamada saliente de +34937377821 (Soporte) a +34685470766 ( +34685470766)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-08-16T17:07:24Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128879092",
+      "assignee": "Dimitriz Rodriguez",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128863819",
+      "number": "350649",
+      "subject": "Buenos días  tengo problemas con la aplicación.  Tengo productos desactivados y aun asi nos llega el.pedido",
+      "status": "Open",
+      "channel": "Last.app México",
+      "createdTime": "2026-08-16T16:10:45Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128863819",
+      "assignee": "Dimitriz Rodriguez",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000128870886",
       "number": "350646",
@@ -2529,33 +2553,9 @@
       "assignee": "Angie Oliveros",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000128690044",
-      "number": "349951",
-      "subject": "Uber Case# 59249294-LastApp - uber integration request",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-12T14:20:36Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128690044",
-      "assignee": "Dimitriz Rodriguez",
-      "accountName": "",
-      "locationId": "349951"
-    },
-    {
-      "id": "45842000128683304",
-      "number": "349950",
-      "subject": "Uber Case# 59249083-LastApp - uber integration request",
-      "status": "On Hold",
-      "channel": "Email",
-      "createdTime": "2026-08-12T14:20:19Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128683304",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1655,
+  "locationIdIssuesTotal": 1657,
   "byContact": [
     {
       "contactId": "45842000066012243",
@@ -2622,6 +2622,34 @@
           "createdTime": "2026-08-15T12:21:45Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128871068",
           "assignee": ""
+        }
+      ]
+    },
+    {
+      "contactId": "45842000036678094",
+      "contactName": "+34685470766",
+      "email": "",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000128879092",
+          "number": "350653",
+          "subject": "Llamada saliente de +34937377821 (Soporte) a +34685470766 ( +34685470766)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-08-16T17:07:24Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128879092",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000128807600",
+          "number": "350651",
+          "subject": "Llamada saliente (00:35:04) de +34937377821 (Soporte) a +34685470766 ( +34685470766)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-08-16T16:27:29Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128807600",
+          "assignee": "Dimitriz Rodriguez"
         }
       ]
     },
@@ -2741,11 +2769,31 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 10,
+      "openCount": 12,
       "onHoldCount": 0,
       "closedCount": 951,
-      "totalCount": 961,
+      "totalCount": 963,
       "tickets": [
+        {
+          "id": "45842000128879092",
+          "number": "350653",
+          "subject": "Llamada saliente de +34937377821 (Soporte) a +34685470766 ( +34685470766)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-08-16T17:07:24Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128879092",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000128863819",
+          "number": "350649",
+          "subject": "Buenos días  tengo problemas con la aplicación.  Tengo productos desactivados y aun asi nos llega el.pedido",
+          "status": "Open",
+          "channel": "Last.app México",
+          "createdTime": "2026-08-16T16:10:45Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128863819",
+          "assignee": "Dimitriz Rodriguez"
+        },
         {
           "id": "45842000128870886",
           "number": "350646",
@@ -5651,11 +5699,21 @@
     },
     {
       "classification": "Admin :: Integraciones",
-      "openCount": 0,
+      "openCount": 1,
       "onHoldCount": 4,
       "closedCount": 123,
-      "totalCount": 127,
+      "totalCount": 128,
       "tickets": [
+        {
+          "id": "45842000128807600",
+          "number": "350651",
+          "subject": "Llamada saliente (00:35:04) de +34937377821 (Soporte) a +34685470766 ( +34685470766)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-08-16T16:27:29Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128807600",
+          "assignee": "Dimitriz Rodriguez"
+        },
         {
           "id": "45842000128863309",
           "number": "350487",
@@ -8427,16 +8485,6 @@
           "assignee": "Trinidad Larrain Punti"
         },
         {
-          "id": "45842000128154683",
-          "number": "347134",
-          "subject": "[Just Eat UK] Update: LastApp - flyt integration deleted",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-29T13:15:39Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128154683",
-          "assignee": "Javier Landaeta"
-        },
-        {
           "id": "45842000128157367",
           "number": "347135",
           "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
@@ -8445,6 +8493,16 @@
           "createdTime": "2026-07-29T13:15:39Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128157367",
           "assignee": "Raimundo Garcia"
+        },
+        {
+          "id": "45842000128154683",
+          "number": "347134",
+          "subject": "[Just Eat UK] Update: LastApp - flyt integration deleted",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-29T13:15:39Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128154683",
+          "assignee": "Javier Landaeta"
         },
         {
           "id": "45842000128146456",
@@ -8497,16 +8555,6 @@
           "assignee": "Javier Landaeta"
         },
         {
-          "id": "45842000128132001",
-          "number": "346859",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-28T12:06:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132001",
-          "assignee": "Harold Diaz"
-        },
-        {
           "id": "45842000128094076",
           "number": "346860",
           "subject": "Help us improve",
@@ -8515,6 +8563,16 @@
           "createdTime": "2026-07-28T12:06:33Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094076",
           "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000128132001",
+          "number": "346859",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-28T12:06:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132001",
+          "assignee": "Harold Diaz"
         },
         {
           "id": "45842000128067604",
