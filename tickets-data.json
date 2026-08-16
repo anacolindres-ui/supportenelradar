@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-16T14:08:49.668751+00:00",
-  "totalOpenTickets": 72,
-  "totalClosedTickets": 2536,
+  "lastUpdated": "2026-08-16T15:07:53.752605+00:00",
+  "totalOpenTickets": 70,
+  "totalClosedTickets": 2540,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -155,28 +155,40 @@
   ],
   "locationIdIssues": [
     {
+      "id": "45842000128870886",
+      "number": "350646",
+      "subject": "viraviramadrid y 7 personas más han añadido contenido a sus historias recientemente",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-08-16T14:48:26Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128870886",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
       "id": "45842000128876729",
       "number": "350641",
       "subject": "Detalles de tu pedido",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Email",
       "createdTime": "2026-08-16T13:59:10Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128876729",
       "assignee": "Dimitriz Rodriguez",
       "accountName": "",
-      "locationId": ""
+      "locationId": "1234"
     },
     {
       "id": "45842000128876656",
       "number": "350639",
       "subject": "PereDogII y otras personas han comenzado a seguirte",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Email",
       "createdTime": "2026-08-16T13:54:08Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128876656",
       "assignee": "Dimitriz Rodriguez",
       "accountName": "",
-      "locationId": ""
+      "locationId": "1234"
     },
     {
       "id": "45842000128801974",
@@ -2541,21 +2553,9 @@
       "assignee": "Angie Oliveros",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000128681969",
-      "number": "349948",
-      "subject": "LastApp - glovo integration deleted",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-12T14:01:27Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128681969",
-      "assignee": "Johan Manuel Cortissoz Posada",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1654,
+  "locationIdIssuesTotal": 1655,
   "byContact": [
     {
       "contactId": "45842000066012243",
@@ -2741,30 +2741,20 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 11,
+      "openCount": 10,
       "onHoldCount": 0,
       "closedCount": 951,
-      "totalCount": 962,
+      "totalCount": 961,
       "tickets": [
         {
-          "id": "45842000128876729",
-          "number": "350641",
-          "subject": "Detalles de tu pedido",
+          "id": "45842000128870886",
+          "number": "350646",
+          "subject": "viraviramadrid y 7 personas más han añadido contenido a sus historias recientemente",
           "status": "Open",
           "channel": "Email",
-          "createdTime": "2026-08-16T13:59:10Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128876729",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000128876656",
-          "number": "350639",
-          "subject": "PereDogII y otras personas han comenzado a seguirte",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-16T13:54:08Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128876656",
-          "assignee": "Dimitriz Rodriguez"
+          "createdTime": "2026-08-16T14:48:26Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128870886",
+          "assignee": ""
         },
         {
           "id": "45842000128870383",
@@ -4373,9 +4363,19 @@
       "classification": "Calls",
       "openCount": 2,
       "onHoldCount": 0,
-      "closedCount": 332,
-      "totalCount": 334,
+      "closedCount": 333,
+      "totalCount": 335,
       "tickets": [
+        {
+          "id": "45842000128811630",
+          "number": "350642",
+          "subject": "Llamada entrante (00:02:13) de +34744466754 ( 34744466754) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-16T14:18:29Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128811630",
+          "assignee": "Dimitriz Rodriguez"
+        },
         {
           "id": "45842000128782720",
           "number": "350629",
@@ -4975,16 +4975,6 @@
           "createdTime": "2026-08-13T10:58:04Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128747112",
           "assignee": "Angie Oliveros"
-        },
-        {
-          "id": "45842000128748230",
-          "number": "350141",
-          "subject": "Llamada entrante (00:05:20) de +34617492253 ( +34617492253) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-13T10:50:02Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128748230",
-          "assignee": "Dimitriz Rodriguez"
         },
         {
           "id": "45842000128530781",
@@ -6293,9 +6283,29 @@
       "classification": "Otro",
       "openCount": 0,
       "onHoldCount": 1,
-      "closedCount": 100,
-      "totalCount": 101,
+      "closedCount": 102,
+      "totalCount": 103,
       "tickets": [
+        {
+          "id": "45842000128876729",
+          "number": "350641",
+          "subject": "Detalles de tu pedido",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-16T13:59:10Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128876729",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000128876656",
+          "number": "350639",
+          "subject": "PereDogII y otras personas han comenzado a seguirte",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-16T13:54:08Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128876656",
+          "assignee": "Dimitriz Rodriguez"
+        },
         {
           "id": "45842000128801974",
           "number": "350628",
@@ -6885,26 +6895,6 @@
           "createdTime": "2026-07-27T12:40:03Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128052674",
           "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000128050643",
-          "number": "346554",
-          "subject": "Street Food Burger ha compartido: Hay burgers que están buenas… y lueg...",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-27T11:37:03Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128050643",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000127976600",
-          "number": "346384",
-          "subject": "We are Last.app",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-26T15:05:00Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127976600",
-          "assignee": "Harold Diaz"
         }
       ],
       "inMasterList": true
@@ -8417,16 +8407,6 @@
           "assignee": "Trinidad Larrain Punti"
         },
         {
-          "id": "45842000128154683",
-          "number": "347134",
-          "subject": "[Just Eat UK] Update: LastApp - flyt integration deleted",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-29T13:15:39Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128154683",
-          "assignee": "Javier Landaeta"
-        },
-        {
           "id": "45842000128157367",
           "number": "347135",
           "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
@@ -8435,6 +8415,16 @@
           "createdTime": "2026-07-29T13:15:39Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128157367",
           "assignee": "Raimundo Garcia"
+        },
+        {
+          "id": "45842000128154683",
+          "number": "347134",
+          "subject": "[Just Eat UK] Update: LastApp - flyt integration deleted",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-29T13:15:39Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128154683",
+          "assignee": "Javier Landaeta"
         },
         {
           "id": "45842000128146456",
@@ -10011,16 +10001,16 @@
     },
     {
       "classification": "QRs",
-      "openCount": 1,
+      "openCount": 0,
       "onHoldCount": 2,
-      "closedCount": 27,
+      "closedCount": 28,
       "totalCount": 30,
       "tickets": [
         {
           "id": "45842000128865595",
           "number": "350635",
           "subject": "Hi, good afternoon. I have a question. When customers place their orders through the QR code at the restaurant, is there any way we can ask them to provide their email address or phone number when pla...",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Last.app España",
           "createdTime": "2026-08-16T13:20:41Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128865595",
