@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-16T20:06:54.089875+00:00",
-  "totalOpenTickets": 73,
-  "totalClosedTickets": 2548,
+  "lastUpdated": "2026-08-16T21:07:29.789158+00:00",
+  "totalOpenTickets": 78,
+  "totalClosedTickets": 2545,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -74,7 +74,7 @@
     {
       "accountId": "45842000126310225",
       "accountName": "DENVER BURGER",
-      "ticketCount": 2,
+      "ticketCount": 3,
       "tickets": [
         {
           "id": "45842000128846613",
@@ -85,6 +85,16 @@
           "createdTime": "2026-08-14T11:59:27Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128846613",
           "assignee": ""
+        },
+        {
+          "id": "45842000128846426",
+          "number": "350364",
+          "subject": "LastSHOP: activar pago online (LastPayment) + dominio propio — lanzamiento septiembre",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-14T10:57:28Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128846426",
+          "assignee": "Dimitriz Rodriguez"
         },
         {
           "id": "45842000128530132",
@@ -154,6 +164,30 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000128865784",
+      "number": "350669",
+      "subject": "Hola",
+      "status": "Open",
+      "channel": "Last.app España",
+      "createdTime": "2026-08-16T21:06:58Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128865784",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "The Beast Burger",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128788567",
+      "number": "350668",
+      "subject": "Llamada entrante de +34932200795 ( Cloudtown) a +34937377821 (Soporte)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-08-16T21:03:22Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128788567",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "Cloudtwon",
+      "locationId": ""
+    },
     {
       "id": "45842000128884190",
       "number": "350662",
@@ -2529,33 +2563,9 @@
       "assignee": "Angie Oliveros",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000128683473",
-      "number": "349955",
-      "subject": "Uber Case# 59249990-LastApp - uber integration request",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-12T15:00:41Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128683473",
-      "assignee": "Dimitriz Rodriguez",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000128690204",
-      "number": "349954",
-      "subject": "Uber Case# 59249884-LastApp - uber integration request",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-12T15:00:38Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128690204",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1659,
+  "locationIdIssuesTotal": 1661,
   "byContact": [
     {
       "contactId": "45842000066012243",
@@ -2629,7 +2639,7 @@
       "contactId": "45842000126310258",
       "contactName": "DENVER BURGER Nacho",
       "email": "info@denver-burger.com",
-      "ticketCount": 2,
+      "ticketCount": 3,
       "tickets": [
         {
           "id": "45842000128846613",
@@ -2640,6 +2650,16 @@
           "createdTime": "2026-08-14T11:59:27Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128846613",
           "assignee": ""
+        },
+        {
+          "id": "45842000128846426",
+          "number": "350364",
+          "subject": "LastSHOP: activar pago online (LastPayment) + dominio propio — lanzamiento septiembre",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-14T10:57:28Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128846426",
+          "assignee": "Dimitriz Rodriguez"
         },
         {
           "id": "45842000128530132",
@@ -2741,11 +2761,21 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 10,
+      "openCount": 11,
       "onHoldCount": 0,
       "closedCount": 954,
-      "totalCount": 964,
+      "totalCount": 965,
       "tickets": [
+        {
+          "id": "45842000128865784",
+          "number": "350669",
+          "subject": "Hola",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-16T21:06:58Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128865784",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000128884191",
           "number": "350663",
@@ -3451,9 +3481,9 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 10,
+      "openCount": 12,
       "onHoldCount": 22,
-      "closedCount": 318,
+      "closedCount": 316,
       "totalCount": 350,
       "tickets": [
         {
@@ -4327,6 +4357,26 @@
           "assignee": "Raimundo Garcia"
         },
         {
+          "id": "45842000128555854",
+          "number": "349252",
+          "subject": "Uber Case# 59135110-LastApp - uber integration request",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-08T05:47:57Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128555854",
+          "assignee": "Fernando Poza"
+        },
+        {
+          "id": "45842000128557035",
+          "number": "349251",
+          "subject": "Uber Case# 59135356-LastApp - uber integration request",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-08T05:40:58Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128557035",
+          "assignee": "Fernando Poza"
+        },
+        {
           "id": "45842000128386069",
           "number": "348395",
           "subject": "Uber Case# 59025031-LastApp - uber integration request",
@@ -4381,11 +4431,21 @@
     },
     {
       "classification": "Calls",
-      "openCount": 2,
+      "openCount": 3,
       "onHoldCount": 0,
       "closedCount": 334,
-      "totalCount": 336,
+      "totalCount": 337,
       "tickets": [
+        {
+          "id": "45842000128788567",
+          "number": "350668",
+          "subject": "Llamada entrante de +34932200795 ( Cloudtown) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-08-16T21:03:22Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128788567",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000128808876",
           "number": "350648",
@@ -8507,16 +8567,6 @@
           "assignee": "Javier Landaeta"
         },
         {
-          "id": "45842000128132001",
-          "number": "346859",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-28T12:06:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132001",
-          "assignee": "Harold Diaz"
-        },
-        {
           "id": "45842000128094076",
           "number": "346860",
           "subject": "Help us improve",
@@ -8525,6 +8575,16 @@
           "createdTime": "2026-07-28T12:06:33Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094076",
           "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000128132001",
+          "number": "346859",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-28T12:06:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132001",
+          "assignee": "Harold Diaz"
         },
         {
           "id": "45842000128067604",
@@ -9621,9 +9681,9 @@
     },
     {
       "classification": "LastSHOP",
-      "openCount": 2,
+      "openCount": 3,
       "onHoldCount": 1,
-      "closedCount": 38,
+      "closedCount": 37,
       "totalCount": 41,
       "tickets": [
         {
@@ -9710,7 +9770,7 @@
           "id": "45842000128846426",
           "number": "350364",
           "subject": "LastSHOP: activar pago online (LastPayment) + dominio propio — lanzamiento septiembre",
-          "status": "Closed",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-08-14T10:57:28Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128846426",
