@@ -1,76 +1,9 @@
 {
-  "lastUpdated": "2026-08-17T07:26:11.970068+00:00",
-  "totalOpenTickets": 77,
-  "totalClosedTickets": 2515,
+  "lastUpdated": "2026-08-17T08:19:25.206865+00:00",
+  "totalOpenTickets": 74,
+  "totalClosedTickets": 2525,
   "closedWindowDays": 30,
   "byLocation": [
-    {
-      "accountId": "45842000066012145",
-      "accountName": "FRANKFURT EL NIU",
-      "ticketCount": 6,
-      "tickets": [
-        {
-          "id": "45842000128871222",
-          "number": "350560",
-          "subject": "BAR EL NIU - MEJORAS FUTURAS VERSIONES 6",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-15T13:14:24Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128871222",
-          "assignee": ""
-        },
-        {
-          "id": "45842000128870272",
-          "number": "350558",
-          "subject": "BAR EL NIU - MEJORAS FUTURAS VERSIONES 5",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-15T13:03:00Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128870272",
-          "assignee": ""
-        },
-        {
-          "id": "45842000128871145",
-          "number": "350553",
-          "subject": "BAR EL NIU - MEJORAS FUTURAS VERSIONES 4",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-15T12:46:06Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128871145",
-          "assignee": ""
-        },
-        {
-          "id": "45842000128870141",
-          "number": "350552",
-          "subject": "BAR EL NIU - MEJORAS FUTURAS VERSIONES 3",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-15T12:35:49Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128870141",
-          "assignee": ""
-        },
-        {
-          "id": "45842000128868692",
-          "number": "350551",
-          "subject": "BAR EL NIU - MEJORAS FUTURAS VERSIONES 2",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-15T12:23:50Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128868692",
-          "assignee": ""
-        },
-        {
-          "id": "45842000128871068",
-          "number": "350550",
-          "subject": "BAR EL NIU - MEJORAS FUTURAS VERSIONES 1",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-15T12:21:45Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128871068",
-          "assignee": ""
-        }
-      ]
-    },
     {
       "accountId": "45842000126310225",
       "accountName": "DENVER BURGER",
@@ -84,7 +17,7 @@
           "channel": "Email",
           "createdTime": "2026-08-14T11:59:27Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128846613",
-          "assignee": ""
+          "assignee": "Javier Landaeta"
         },
         {
           "id": "45842000128846426",
@@ -94,7 +27,7 @@
           "channel": "Email",
           "createdTime": "2026-08-14T10:57:28Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128846426",
-          "assignee": "Dimitriz Rodriguez"
+          "assignee": "Javier Landaeta"
         },
         {
           "id": "45842000128530132",
@@ -105,6 +38,43 @@
           "createdTime": "2026-08-07T13:38:24Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128530132",
           "assignee": "Raimundo Garcia"
+        }
+      ]
+    },
+    {
+      "accountId": "45842000066012145",
+      "accountName": "FRANKFURT EL NIU",
+      "ticketCount": 3,
+      "tickets": [
+        {
+          "id": "45842000128870141",
+          "number": "350552",
+          "subject": "BAR EL NIU - MEJORAS FUTURAS VERSIONES 3",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-15T12:35:49Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128870141",
+          "assignee": "Fernando Poza"
+        },
+        {
+          "id": "45842000128868692",
+          "number": "350551",
+          "subject": "BAR EL NIU - MEJORAS FUTURAS VERSIONES 2",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-15T12:23:50Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128868692",
+          "assignee": "Fernando Poza"
+        },
+        {
+          "id": "45842000128871068",
+          "number": "350550",
+          "subject": "BAR EL NIU - MEJORAS FUTURAS VERSIONES 1",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-15T12:21:45Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128871068",
+          "assignee": "Fernando Poza"
         }
       ]
     },
@@ -165,6 +135,30 @@
   ],
   "locationIdIssues": [
     {
+      "id": "45842000128946001",
+      "number": "350687",
+      "subject": "Llamada saliente de +34937377821 (Soporte) a +34690217258 ( Paola)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-08-17T08:01:48Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128946001",
+      "assignee": "Fernando Poza",
+      "accountName": "Alma da Selva A_a_",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128919034",
+      "number": "350686",
+      "subject": "28353789170975707.jpeg",
+      "status": "Open",
+      "channel": "Last.app España",
+      "createdTime": "2026-08-17T07:48:56Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128919034",
+      "assignee": "Angie Oliveros",
+      "accountName": "asador real",
+      "locationId": ""
+    },
+    {
       "id": "45842000128901001",
       "number": "350684",
       "subject": "✉ Ihr neuer Wochenreport 10.08.2026 - 16.08.2026",
@@ -201,18 +195,6 @@
       "locationId": "1234"
     },
     {
-      "id": "45842000128884190",
-      "number": "350662",
-      "subject": "Request Received",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-16T19:26:40Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128884190",
-      "assignee": "Johan Manuel Cortissoz Posada",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000128884191",
       "number": "350663",
       "subject": "Request Received",
@@ -220,6 +202,18 @@
       "channel": "Email",
       "createdTime": "2026-08-16T19:26:40Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128884191",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128884190",
+      "number": "350662",
+      "subject": "Request Received",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-08-16T19:26:40Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128884190",
       "assignee": "Johan Manuel Cortissoz Posada",
       "accountName": "",
       "locationId": ""
@@ -369,42 +363,6 @@
       "locationId": "1234"
     },
     {
-      "id": "45842000128871222",
-      "number": "350560",
-      "subject": "BAR EL NIU - MEJORAS FUTURAS VERSIONES 6",
-      "status": "Open",
-      "channel": "Email",
-      "createdTime": "2026-08-15T13:14:24Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128871222",
-      "assignee": "",
-      "accountName": "FRANKFURT EL NIU",
-      "locationId": ""
-    },
-    {
-      "id": "45842000128870272",
-      "number": "350558",
-      "subject": "BAR EL NIU - MEJORAS FUTURAS VERSIONES 5",
-      "status": "Open",
-      "channel": "Email",
-      "createdTime": "2026-08-15T13:03:00Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128870272",
-      "assignee": "",
-      "accountName": "FRANKFURT EL NIU",
-      "locationId": ""
-    },
-    {
-      "id": "45842000128871145",
-      "number": "350553",
-      "subject": "BAR EL NIU - MEJORAS FUTURAS VERSIONES 4",
-      "status": "Open",
-      "channel": "Email",
-      "createdTime": "2026-08-15T12:46:06Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128871145",
-      "assignee": "",
-      "accountName": "FRANKFURT EL NIU",
-      "locationId": ""
-    },
-    {
       "id": "45842000128870141",
       "number": "350552",
       "subject": "BAR EL NIU - MEJORAS FUTURAS VERSIONES 3",
@@ -412,7 +370,7 @@
       "channel": "Email",
       "createdTime": "2026-08-15T12:35:49Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128870141",
-      "assignee": "",
+      "assignee": "Fernando Poza",
       "accountName": "FRANKFURT EL NIU",
       "locationId": ""
     },
@@ -424,7 +382,7 @@
       "channel": "Email",
       "createdTime": "2026-08-15T12:23:50Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128868692",
-      "assignee": "",
+      "assignee": "Fernando Poza",
       "accountName": "FRANKFURT EL NIU",
       "locationId": ""
     },
@@ -436,7 +394,7 @@
       "channel": "Email",
       "createdTime": "2026-08-15T12:21:45Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128871068",
-      "assignee": "",
+      "assignee": "Fernando Poza",
       "accountName": "FRANKFURT EL NIU",
       "locationId": ""
     },
@@ -628,7 +586,7 @@
       "channel": "Email",
       "createdTime": "2026-08-14T20:02:34Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128853509",
-      "assignee": "",
+      "assignee": "Raimundo Garcia",
       "accountName": "",
       "locationId": ""
     },
@@ -664,7 +622,7 @@
       "channel": "Email",
       "createdTime": "2026-08-14T19:05:16Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128854504",
-      "assignee": "",
+      "assignee": "Fernando Poza",
       "accountName": "",
       "locationId": ""
     },
@@ -676,7 +634,7 @@
       "channel": "Email",
       "createdTime": "2026-08-14T19:04:44Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128859232",
-      "assignee": "",
+      "assignee": "Fernando Poza",
       "accountName": "",
       "locationId": ""
     },
@@ -688,7 +646,7 @@
       "channel": "Email",
       "createdTime": "2026-08-14T18:19:32Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128859099",
-      "assignee": "",
+      "assignee": "Raimundo Garcia",
       "accountName": "",
       "locationId": ""
     },
@@ -700,7 +658,7 @@
       "channel": "Email",
       "createdTime": "2026-08-14T18:19:13Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128854291",
-      "assignee": "",
+      "assignee": "Fernando Poza",
       "accountName": "",
       "locationId": ""
     },
@@ -724,7 +682,7 @@
       "channel": "Email",
       "createdTime": "2026-08-14T17:00:20Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128845979",
-      "assignee": "",
+      "assignee": "Raimundo Garcia",
       "accountName": "",
       "locationId": ""
     },
@@ -748,7 +706,7 @@
       "channel": "Email",
       "createdTime": "2026-08-14T16:20:49Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128850680",
-      "assignee": "",
+      "assignee": "Raimundo Garcia",
       "accountName": "",
       "locationId": ""
     },
@@ -808,7 +766,7 @@
       "channel": "Email",
       "createdTime": "2026-08-14T14:36:29Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128846942",
-      "assignee": "",
+      "assignee": "Raimundo Garcia",
       "accountName": "",
       "locationId": ""
     },
@@ -1200,7 +1158,7 @@
       "id": "45842000128792777",
       "number": "350254",
       "subject": "RECLAMACIÓN FORMAL POR INCIDENCIAS EN EL SERVICIO DE RESERVAS",
-      "status": "Open",
+      "status": "On Hold",
       "channel": "Email",
       "createdTime": "2026-08-13T18:24:49Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128792777",
@@ -2563,78 +2521,22 @@
       "assignee": "Angie Oliveros",
       "accountName": "",
       "locationId": ""
+    },
+    {
+      "id": "45842000128683473",
+      "number": "349955",
+      "subject": "Uber Case# 59249990-LastApp - uber integration request",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-08-12T15:00:41Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128683473",
+      "assignee": "Dimitriz Rodriguez",
+      "accountName": "",
+      "locationId": ""
     }
   ],
   "locationIdIssuesTotal": 1636,
   "byContact": [
-    {
-      "contactId": "45842000066012243",
-      "contactName": "Sergio Vazquez",
-      "email": "info@elniu1976.com",
-      "ticketCount": 6,
-      "tickets": [
-        {
-          "id": "45842000128871222",
-          "number": "350560",
-          "subject": "BAR EL NIU - MEJORAS FUTURAS VERSIONES 6",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-15T13:14:24Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128871222",
-          "assignee": ""
-        },
-        {
-          "id": "45842000128870272",
-          "number": "350558",
-          "subject": "BAR EL NIU - MEJORAS FUTURAS VERSIONES 5",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-15T13:03:00Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128870272",
-          "assignee": ""
-        },
-        {
-          "id": "45842000128871145",
-          "number": "350553",
-          "subject": "BAR EL NIU - MEJORAS FUTURAS VERSIONES 4",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-15T12:46:06Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128871145",
-          "assignee": ""
-        },
-        {
-          "id": "45842000128870141",
-          "number": "350552",
-          "subject": "BAR EL NIU - MEJORAS FUTURAS VERSIONES 3",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-15T12:35:49Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128870141",
-          "assignee": ""
-        },
-        {
-          "id": "45842000128868692",
-          "number": "350551",
-          "subject": "BAR EL NIU - MEJORAS FUTURAS VERSIONES 2",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-15T12:23:50Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128868692",
-          "assignee": ""
-        },
-        {
-          "id": "45842000128871068",
-          "number": "350550",
-          "subject": "BAR EL NIU - MEJORAS FUTURAS VERSIONES 1",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-15T12:21:45Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128871068",
-          "assignee": ""
-        }
-      ]
-    },
     {
       "contactId": "45842000126310258",
       "contactName": "DENVER BURGER Nacho",
@@ -2649,7 +2551,7 @@
           "channel": "Email",
           "createdTime": "2026-08-14T11:59:27Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128846613",
-          "assignee": ""
+          "assignee": "Javier Landaeta"
         },
         {
           "id": "45842000128846426",
@@ -2659,7 +2561,7 @@
           "channel": "Email",
           "createdTime": "2026-08-14T10:57:28Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128846426",
-          "assignee": "Dimitriz Rodriguez"
+          "assignee": "Javier Landaeta"
         },
         {
           "id": "45842000128530132",
@@ -2670,6 +2572,44 @@
           "createdTime": "2026-08-07T13:38:24Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128530132",
           "assignee": "Raimundo Garcia"
+        }
+      ]
+    },
+    {
+      "contactId": "45842000066012243",
+      "contactName": "Sergio Vazquez",
+      "email": "info@elniu1976.com",
+      "ticketCount": 3,
+      "tickets": [
+        {
+          "id": "45842000128870141",
+          "number": "350552",
+          "subject": "BAR EL NIU - MEJORAS FUTURAS VERSIONES 3",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-15T12:35:49Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128870141",
+          "assignee": "Fernando Poza"
+        },
+        {
+          "id": "45842000128868692",
+          "number": "350551",
+          "subject": "BAR EL NIU - MEJORAS FUTURAS VERSIONES 2",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-15T12:23:50Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128868692",
+          "assignee": "Fernando Poza"
+        },
+        {
+          "id": "45842000128871068",
+          "number": "350550",
+          "subject": "BAR EL NIU - MEJORAS FUTURAS VERSIONES 1",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-15T12:21:45Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128871068",
+          "assignee": "Fernando Poza"
         }
       ]
     },
@@ -2743,7 +2683,7 @@
           "channel": "Email",
           "createdTime": "2026-08-14T14:36:29Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128846942",
-          "assignee": ""
+          "assignee": "Raimundo Garcia"
         },
         {
           "id": "45842000128769024",
@@ -2761,11 +2701,31 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 10,
+      "openCount": 9,
       "onHoldCount": 0,
       "closedCount": 936,
-      "totalCount": 946,
+      "totalCount": 945,
       "tickets": [
+        {
+          "id": "45842000128946001",
+          "number": "350687",
+          "subject": "Llamada saliente de +34937377821 (Soporte) a +34690217258 ( Paola)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-08-17T08:01:48Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128946001",
+          "assignee": "Fernando Poza"
+        },
+        {
+          "id": "45842000128919034",
+          "number": "350686",
+          "subject": "28353789170975707.jpeg",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-17T07:48:56Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128919034",
+          "assignee": "Angie Oliveros"
+        },
         {
           "id": "45842000128884191",
           "number": "350663",
@@ -2827,36 +2787,6 @@
           "assignee": "Jordy Carmona"
         },
         {
-          "id": "45842000128871222",
-          "number": "350560",
-          "subject": "BAR EL NIU - MEJORAS FUTURAS VERSIONES 6",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-15T13:14:24Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128871222",
-          "assignee": ""
-        },
-        {
-          "id": "45842000128870272",
-          "number": "350558",
-          "subject": "BAR EL NIU - MEJORAS FUTURAS VERSIONES 5",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-15T13:03:00Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128870272",
-          "assignee": ""
-        },
-        {
-          "id": "45842000128871145",
-          "number": "350553",
-          "subject": "BAR EL NIU - MEJORAS FUTURAS VERSIONES 4",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-15T12:46:06Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128871145",
-          "assignee": ""
-        },
-        {
           "id": "45842000128870141",
           "number": "350552",
           "subject": "BAR EL NIU - MEJORAS FUTURAS VERSIONES 3",
@@ -2864,7 +2794,7 @@
           "channel": "Email",
           "createdTime": "2026-08-15T12:35:49Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128870141",
-          "assignee": ""
+          "assignee": "Fernando Poza"
         },
         {
           "id": "45842000128868692",
@@ -2874,7 +2804,7 @@
           "channel": "Email",
           "createdTime": "2026-08-15T12:23:50Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128868692",
-          "assignee": ""
+          "assignee": "Fernando Poza"
         },
         {
           "id": "45842000128871068",
@@ -2884,7 +2814,7 @@
           "channel": "Email",
           "createdTime": "2026-08-15T12:21:45Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128871068",
-          "assignee": ""
+          "assignee": "Fernando Poza"
         },
         {
           "id": "45842000128854961",
@@ -3004,7 +2934,7 @@
           "channel": "Email",
           "createdTime": "2026-08-14T18:19:32Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128859099",
-          "assignee": ""
+          "assignee": "Raimundo Garcia"
         },
         {
           "id": "45842000128850773",
@@ -3024,7 +2954,7 @@
           "channel": "Email",
           "createdTime": "2026-08-14T16:20:49Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128850680",
-          "assignee": ""
+          "assignee": "Raimundo Garcia"
         },
         {
           "id": "45842000128781488",
@@ -3044,7 +2974,7 @@
           "channel": "Email",
           "createdTime": "2026-08-14T14:36:29Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128846942",
-          "assignee": ""
+          "assignee": "Raimundo Garcia"
         },
         {
           "id": "45842000128845674",
@@ -3471,9 +3401,9 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 13,
+      "openCount": 11,
       "onHoldCount": 21,
-      "closedCount": 316,
+      "closedCount": 318,
       "totalCount": 350,
       "tickets": [
         {
@@ -3484,7 +3414,7 @@
           "channel": "Email",
           "createdTime": "2026-08-14T20:02:34Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128853509",
-          "assignee": ""
+          "assignee": "Raimundo Garcia"
         },
         {
           "id": "45842000128854504",
@@ -3494,7 +3424,7 @@
           "channel": "Email",
           "createdTime": "2026-08-14T19:05:16Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128854504",
-          "assignee": ""
+          "assignee": "Fernando Poza"
         },
         {
           "id": "45842000128854426",
@@ -3514,7 +3444,7 @@
           "channel": "Email",
           "createdTime": "2026-08-14T19:04:44Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128859232",
-          "assignee": ""
+          "assignee": "Fernando Poza"
         },
         {
           "id": "45842000128859180",
@@ -3534,7 +3464,7 @@
           "channel": "Email",
           "createdTime": "2026-08-14T18:19:13Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128854291",
-          "assignee": ""
+          "assignee": "Fernando Poza"
         },
         {
           "id": "45842000128845979",
@@ -3544,7 +3474,7 @@
           "channel": "Email",
           "createdTime": "2026-08-14T17:00:20Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128845979",
-          "assignee": ""
+          "assignee": "Raimundo Garcia"
         },
         {
           "id": "45842000128845415",
@@ -4347,26 +4277,6 @@
           "assignee": "Raimundo Garcia"
         },
         {
-          "id": "45842000128555854",
-          "number": "349252",
-          "subject": "Uber Case# 59135110-LastApp - uber integration request",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-08T05:47:57Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128555854",
-          "assignee": "Fernando Poza"
-        },
-        {
-          "id": "45842000128557035",
-          "number": "349251",
-          "subject": "Uber Case# 59135356-LastApp - uber integration request",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-08T05:40:58Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128557035",
-          "assignee": "Fernando Poza"
-        },
-        {
           "id": "45842000128386069",
           "number": "348395",
           "subject": "Uber Case# 59025031-LastApp - uber integration request",
@@ -4414,15 +4324,15 @@
           "channel": "Email",
           "createdTime": "2026-08-01T03:54:49Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128279695",
-          "assignee": "Alberto Poyato"
+          "assignee": "Javier Landaeta"
         }
       ],
       "inMasterList": false
     },
     {
       "classification": "Calls",
-      "openCount": 2,
-      "onHoldCount": 0,
+      "openCount": 1,
+      "onHoldCount": 1,
       "closedCount": 332,
       "totalCount": 334,
       "tickets": [
@@ -4494,7 +4404,7 @@
           "channel": "Phone",
           "createdTime": "2026-08-15T13:02:24Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128817590",
-          "assignee": ""
+          "assignee": "Javier Landaeta"
         },
         {
           "id": "45842000128789744",
@@ -5040,11 +4950,11 @@
           "id": "45842000128530781",
           "number": "349500",
           "subject": "WAKAME IBIZA // Recibo de reembolso realizado a través de TapToPay",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Phone",
           "createdTime": "2026-08-10T11:02:25Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128530781",
-          "assignee": "Alberto Poyato"
+          "assignee": "Fernando Poza"
         }
       ],
       "inMasterList": false
@@ -5053,8 +4963,8 @@
       "classification": "Admin :: General",
       "openCount": 2,
       "onHoldCount": 2,
-      "closedCount": 157,
-      "totalCount": 161,
+      "closedCount": 159,
+      "totalCount": 163,
       "tickets": [
         {
           "id": "45842000128918001",
@@ -5064,7 +4974,7 @@
           "channel": "Phone",
           "createdTime": "2026-08-17T07:12:35Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128918001",
-          "assignee": ""
+          "assignee": "Raimundo Garcia"
         },
         {
           "id": "45842000128901001",
@@ -5124,7 +5034,7 @@
           "channel": "Last.app México",
           "createdTime": "2026-08-14T22:02:51Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128810722",
-          "assignee": ""
+          "assignee": "Javier Landaeta"
         },
         {
           "id": "45842000128863045",
@@ -5357,6 +5267,16 @@
           "assignee": "Harold Diaz"
         },
         {
+          "id": "45842000128626432",
+          "number": "349894",
+          "subject": "Llamada entrante (00:02:39) de +34622711315 ( Angel) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-12T10:14:13Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128626432",
+          "assignee": "Harold Diaz"
+        },
+        {
           "id": "45842000128618417",
           "number": "349829",
           "subject": "BUNNERS // Apk de KDS no disponible en dispositivo android.",
@@ -5385,6 +5305,16 @@
           "createdTime": "2026-08-11T08:39:24Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128619091",
           "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000128602030",
+          "number": "349618",
+          "subject": "Los plebes Wings // No se encuentra el apartado para colocan cuanto equivalen los puntos por dinero",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-10T22:47:36Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128602030",
+          "assignee": "Alberto Poyato"
         },
         {
           "id": "45842000128579255",
@@ -5675,26 +5605,6 @@
           "createdTime": "2026-08-03T20:01:28Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128332878",
           "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000128257537",
-          "number": "347980",
-          "subject": "Llamada saliente (00:00:53) de +34937377821 (Soporte) a +34659375621 ( Raul)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-03T08:58:24Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128257537",
-          "assignee": "Angie Oliveros"
-        },
-        {
-          "id": "45842000128251395",
-          "number": "347978",
-          "subject": "Llamada saliente (00:00:10) de +34937377821 (Soporte) a +34659375621 ( Raul)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-03T08:57:43Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128251395",
-          "assignee": "Angie Oliveros"
         }
       ],
       "inMasterList": true
@@ -5734,7 +5644,7 @@
           "channel": "Last.app México",
           "createdTime": "2026-08-16T16:10:45Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128863819",
-          "assignee": ""
+          "assignee": "Javier Landaeta"
         },
         {
           "id": "45842000128863309",
@@ -8203,8 +8113,8 @@
       "classification": "Integraciones",
       "openCount": 3,
       "onHoldCount": 0,
-      "closedCount": 51,
-      "totalCount": 54,
+      "closedCount": 52,
+      "totalCount": 55,
       "tickets": [
         {
           "id": "45842000128856685",
@@ -8234,7 +8144,7 @@
           "channel": "Email",
           "createdTime": "2026-08-14T11:59:27Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128846613",
-          "assignee": ""
+          "assignee": "Javier Landaeta"
         },
         {
           "id": "45842000128678985",
@@ -8280,7 +8190,7 @@
           "id": "45842000128584821",
           "number": "349556",
           "subject": "Re: Hola, tengo una incidencia con la integración con last.app. El sopo...",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Email",
           "createdTime": "2026-08-10T14:39:48Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128584821",
@@ -8304,7 +8214,17 @@
           "channel": "Email",
           "createdTime": "2026-08-08T17:25:20Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128557611",
-          "assignee": "Alberto Poyato"
+          "assignee": "Javier Landaeta"
+        },
+        {
+          "id": "45842000128556743",
+          "number": "349288",
+          "subject": "Incidencia con ticket y panel - Tortería la Especial (Corregidora)",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-08T15:01:02Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128556743",
+          "assignee": "Fernando Poza"
         },
         {
           "id": "45842000128553111",
@@ -8420,7 +8340,7 @@
           "id": "45842000128289822",
           "number": "347789",
           "subject": "GRUPO LOS PANCHOS CORREGIDORA / Pedidos no se integran a Last",
-          "status": "Closed",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-08-01T16:35:45Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128289822",
@@ -8753,9 +8673,19 @@
       "classification": "Admin :: Reportes",
       "openCount": 1,
       "onHoldCount": 3,
-      "closedCount": 43,
-      "totalCount": 47,
+      "closedCount": 45,
+      "totalCount": 49,
       "tickets": [
+        {
+          "id": "45842000128922005",
+          "number": "350690",
+          "subject": "Llamada entrante (00:01:49) de +34722333471 ( Priscila da costa barbosa) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-17T08:12:15Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128922005",
+          "assignee": "Angie Oliveros"
+        },
         {
           "id": "45842000128802731",
           "number": "350430",
@@ -8764,7 +8694,7 @@
           "channel": "Last.app España",
           "createdTime": "2026-08-14T17:24:11Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128802731",
-          "assignee": ""
+          "assignee": "Javier Landaeta"
         },
         {
           "id": "45842000128785715",
@@ -8795,6 +8725,16 @@
           "createdTime": "2026-08-08T21:25:43Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128557743",
           "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000128530453",
+          "number": "349299",
+          "subject": "SMASH44 // Discrepancia en propinas y  cierre en reportes predefinidos",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-08T16:57:07Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128530453",
+          "assignee": "Fernando Poza"
         },
         {
           "id": "45842000128530132",
@@ -9230,6 +9170,436 @@
       "inMasterList": true
     },
     {
+      "classification": "LastSHOP",
+      "openCount": 3,
+      "onHoldCount": 1,
+      "closedCount": 38,
+      "totalCount": 42,
+      "tickets": [
+        {
+          "id": "45842000128878135",
+          "number": "350608",
+          "subject": "Vale",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-16T08:42:03Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128878135",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000128786859",
+          "number": "350606",
+          "subject": "DELICIAS DOÑA BLANCA // Shop permite pedidos Take Away con servicio desactivado",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-08-16T08:27:48Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128786859",
+          "assignee": "Javier Landaeta"
+        },
+        {
+          "id": "45842000128878034",
+          "number": "350603",
+          "subject": "Hola buenos días esta semana se han presentado dos inconvenientes y es que nos entra los pedidos de la web. \n\nComo entenderás, pues es un servicio que aún no tenemos disponible y que nos entren pedido...",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-16T06:13:00Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128878034",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000128877214",
+          "number": "350590",
+          "subject": "The Corner /& No registran comentarios de la shop.",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-15T20:52:22Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128877214",
+          "assignee": "Javier Landaeta"
+        },
+        {
+          "id": "45842000128856331",
+          "number": "350459",
+          "subject": "1618998836516699.jpeg",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-14T20:31:57Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128856331",
+          "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000128856201",
+          "number": "350445",
+          "subject": "1746129326532785.ogg",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-14T19:10:04Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128856201",
+          "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000128850150",
+          "number": "350373",
+          "subject": "Fallos Tienda Miss Poke",
+          "status": "On Hold",
+          "channel": "Email",
+          "createdTime": "2026-08-14T11:51:52Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128850150",
+          "assignee": "Raimundo Garcia"
+        },
+        {
+          "id": "45842000128850075",
+          "number": "350369",
+          "subject": "Activación de Apple Pay ArrozAdictos",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-14T11:36:04Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128850075",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000128846426",
+          "number": "350364",
+          "subject": "LastSHOP: activar pago online (LastPayment) + dominio propio — lanzamiento septiembre",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-14T10:57:28Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128846426",
+          "assignee": "Javier Landaeta"
+        },
+        {
+          "id": "45842000128614620",
+          "number": "349944",
+          "subject": "Llamada entrante (00:05:55) de +34688642902 ( +34688642902) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-12T13:42:27Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128614620",
+          "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000128634117",
+          "number": "349730",
+          "subject": "Llamada saliente (00:05:41) de +34937377821 (Soporte) a +34617447291 ( Linn)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-11T11:02:50Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128634117",
+          "assignee": "Ana Colindres"
+        },
+        {
+          "id": "45842000128636507",
+          "number": "349667",
+          "subject": "PIZZAPIZZA - Local predeterminado en shop",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-11T08:33:05Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128636507",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000128535648",
+          "number": "349393",
+          "subject": "Pizza Park // checkout shop",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-09T22:21:16Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128535648",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000128538285",
+          "number": "349300",
+          "subject": "Llamada entrante (00:03:48) de +34693570328 ( 34693570328) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-08T17:05:42Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128538285",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000128523241",
+          "number": "349257",
+          "subject": "Pizzeria Snoopy // Catalogo de lastshop no se cambia.",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-08T09:03:03Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128523241",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000128425397",
+          "number": "349013",
+          "subject": "Papadam / Solciitud de dominio para last.",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-06T18:00:40Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128425397",
+          "assignee": "Fernando Poza"
+        },
+        {
+          "id": "45842000128394497",
+          "number": "348787",
+          "subject": "VITTOS SITGES // No se visualiza el catálogo en la shop",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-06T07:58:57Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128394497",
+          "assignee": "Fernando Poza"
+        },
+        {
+          "id": "45842000128352519",
+          "number": "348250",
+          "subject": "Consulta instalación google analytics",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-04T10:05:10Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128352519",
+          "assignee": "Fernando Poza"
+        },
+        {
+          "id": "45842000128218536",
+          "number": "348227",
+          "subject": "Restaurante El Mono / Imagen de la shop sale recortada.",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-04T09:23:40Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128218536",
+          "assignee": "Fernando Poza"
+        },
+        {
+          "id": "45842000128341437",
+          "number": "348226",
+          "subject": "URGENT: Redirect/alias needed for old online-shop venue slug (lashawermeria.last.shop)",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-04T09:21:09Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128341437",
+          "assignee": "Fernando Poza"
+        },
+        {
+          "id": "45842000128285814",
+          "number": "347767",
+          "subject": "LA SHAWERMERIA MADRID // LastShop Error: HTTP Exception: 422",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-01T11:14:32Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128285814",
+          "assignee": "Fernando Poza"
+        },
+        {
+          "id": "45842000128263125",
+          "number": "347761",
+          "subject": "The original fries Ronda / Error al generar pedido en la shop.",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-01T10:31:23Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128263125",
+          "assignee": "Fernando Poza"
+        },
+        {
+          "id": "45842000128209006",
+          "number": "347463",
+          "subject": "BIBI BURGER4 / No se reflejan promo en la shop desde el movil.",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-07-30T19:04:49Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128209006",
+          "assignee": "Raimundo Garcia"
+        },
+        {
+          "id": "45842000128175055",
+          "number": "347291",
+          "subject": "Purchase / ecommerce event not reaching dataLayer reliably on our order-confirmation page",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-30T09:01:55Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128175055",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000128126560",
+          "number": "347232",
+          "subject": "Tanuki San Badajoz // No se puede ordenar en shop estando logueado",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-07-29T19:48:50Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128126560",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000128105384",
+          "number": "347214",
+          "subject": "Nori - Sushi & Cocktail (Ballester)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-07-29T18:13:05Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128105384",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000128104427",
+          "number": "347136",
+          "subject": "LA SHAWERMERIA 1 / Shop registra cerrada.",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-07-29T13:19:31Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128104427",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000128104348",
+          "number": "347122",
+          "subject": "Llamada entrante (00:07:56) de +34644895339 ( Marc) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-07-29T13:05:46Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128104348",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000128035337",
+          "number": "346776",
+          "subject": "Llamada saliente (00:04:36) de +34937377821 (Soporte) a +34627129926 ( javier)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-07-28T09:46:49Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128035337",
+          "assignee": "Javier Landaeta"
+        },
+        {
+          "id": "45842000128057998",
+          "number": "346631",
+          "subject": "Problemas con la nueva interfaz de la web",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-27T19:16:36Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128057998",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000128057792",
+          "number": "346617",
+          "subject": "Dominio propio",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-27T16:30:45Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128057792",
+          "assignee": "Fernando Poza"
+        },
+        {
+          "id": "45842000128053139",
+          "number": "346557",
+          "subject": "DK-BUG PRODUCTOS NUEVA SHOP",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-27T11:59:01Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128053139",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000127972170",
+          "number": "346306",
+          "subject": "Errores con la SHOP",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-25T19:56:42Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127972170",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000127961049",
+          "number": "346290",
+          "subject": "Llamada entrante (00:04:21) de +34633538256 ( +34633538256) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-07-25T16:38:49Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127961049",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000127960042",
+          "number": "346270",
+          "subject": "Llamada entrante (00:06:23) de +34637550395 ( Marruzella Jerez) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-07-25T13:11:28Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127960042",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000127860020",
+          "number": "346214",
+          "subject": "Buenas noche",
+          "status": "Closed",
+          "channel": "Last.app México",
+          "createdTime": "2026-07-25T02:56:59Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127860020",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000127665792",
+          "number": "345508",
+          "subject": "DUDA LAST SHOP - ESCUDELLAR",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-22T08:44:13Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127665792",
+          "assignee": "Fernando Poza"
+        },
+        {
+          "id": "45842000127654340",
+          "number": "345401",
+          "subject": "DK-bug en nueva shop",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-21T20:06:28Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127654340",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000127654197",
+          "number": "345378",
+          "subject": "Analiticas y fragmentación de métricas",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-21T18:47:01Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127654197",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000127499300",
+          "number": "344596",
+          "subject": "Xuba Taqueria // Sugerencia de mejora en confirmación de pedidos desde QR \"Ordenar desde la mesa\"",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-07-17T19:22:14Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127499300",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000127382207",
+          "number": "343773",
+          "subject": "ERRORES NUEVA SHOP",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-15T09:07:11Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127382207",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000127329953",
+          "number": "343562",
+          "subject": "VIBRA FACTORY / No se refleja Apple Pay en la shop.",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-14T09:04:12Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127329953",
+          "assignee": "Trinidad Larrain Punti"
+        }
+      ],
+      "inMasterList": true
+    },
+    {
       "classification": "POS :: uso general",
       "openCount": 0,
       "onHoldCount": 1,
@@ -9655,426 +10025,6 @@
           "createdTime": "2026-05-16T20:57:32Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000124982898",
           "assignee": "Alberto Poyato"
-        }
-      ],
-      "inMasterList": true
-    },
-    {
-      "classification": "LastSHOP",
-      "openCount": 3,
-      "onHoldCount": 1,
-      "closedCount": 37,
-      "totalCount": 41,
-      "tickets": [
-        {
-          "id": "45842000128878135",
-          "number": "350608",
-          "subject": "Vale",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-16T08:42:03Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128878135",
-          "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000128786859",
-          "number": "350606",
-          "subject": "DELICIAS DOÑA BLANCA // Shop permite pedidos Take Away con servicio desactivado",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-08-16T08:27:48Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128786859",
-          "assignee": ""
-        },
-        {
-          "id": "45842000128878034",
-          "number": "350603",
-          "subject": "Hola buenos días esta semana se han presentado dos inconvenientes y es que nos entra los pedidos de la web. \n\nComo entenderás, pues es un servicio que aún no tenemos disponible y que nos entren pedido...",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-16T06:13:00Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128878034",
-          "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000128877214",
-          "number": "350590",
-          "subject": "The Corner /& No registran comentarios de la shop.",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-15T20:52:22Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128877214",
-          "assignee": ""
-        },
-        {
-          "id": "45842000128856331",
-          "number": "350459",
-          "subject": "1618998836516699.jpeg",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-14T20:31:57Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128856331",
-          "assignee": "Jordy Carmona"
-        },
-        {
-          "id": "45842000128856201",
-          "number": "350445",
-          "subject": "1746129326532785.ogg",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-14T19:10:04Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128856201",
-          "assignee": "Jordy Carmona"
-        },
-        {
-          "id": "45842000128850150",
-          "number": "350373",
-          "subject": "Fallos Tienda Miss Poke",
-          "status": "On Hold",
-          "channel": "Email",
-          "createdTime": "2026-08-14T11:51:52Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128850150",
-          "assignee": "Raimundo Garcia"
-        },
-        {
-          "id": "45842000128850075",
-          "number": "350369",
-          "subject": "Activación de Apple Pay ArrozAdictos",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-14T11:36:04Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128850075",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000128846426",
-          "number": "350364",
-          "subject": "LastSHOP: activar pago online (LastPayment) + dominio propio — lanzamiento septiembre",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-14T10:57:28Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128846426",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000128614620",
-          "number": "349944",
-          "subject": "Llamada entrante (00:05:55) de +34688642902 ( +34688642902) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-12T13:42:27Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128614620",
-          "assignee": "Angie Oliveros"
-        },
-        {
-          "id": "45842000128634117",
-          "number": "349730",
-          "subject": "Llamada saliente (00:05:41) de +34937377821 (Soporte) a +34617447291 ( Linn)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-11T11:02:50Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128634117",
-          "assignee": "Ana Colindres"
-        },
-        {
-          "id": "45842000128636507",
-          "number": "349667",
-          "subject": "PIZZAPIZZA - Local predeterminado en shop",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-11T08:33:05Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128636507",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000128535648",
-          "number": "349393",
-          "subject": "Pizza Park // checkout shop",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-09T22:21:16Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128535648",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000128538285",
-          "number": "349300",
-          "subject": "Llamada entrante (00:03:48) de +34693570328 ( 34693570328) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-08T17:05:42Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128538285",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000128523241",
-          "number": "349257",
-          "subject": "Pizzeria Snoopy // Catalogo de lastshop no se cambia.",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-08T09:03:03Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128523241",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000128425397",
-          "number": "349013",
-          "subject": "Papadam / Solciitud de dominio para last.",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-06T18:00:40Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128425397",
-          "assignee": "Fernando Poza"
-        },
-        {
-          "id": "45842000128352519",
-          "number": "348250",
-          "subject": "Consulta instalación google analytics",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-04T10:05:10Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128352519",
-          "assignee": "Fernando Poza"
-        },
-        {
-          "id": "45842000128218536",
-          "number": "348227",
-          "subject": "Restaurante El Mono / Imagen de la shop sale recortada.",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-04T09:23:40Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128218536",
-          "assignee": "Fernando Poza"
-        },
-        {
-          "id": "45842000128341437",
-          "number": "348226",
-          "subject": "URGENT: Redirect/alias needed for old online-shop venue slug (lashawermeria.last.shop)",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-04T09:21:09Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128341437",
-          "assignee": "Fernando Poza"
-        },
-        {
-          "id": "45842000128285814",
-          "number": "347767",
-          "subject": "LA SHAWERMERIA MADRID // LastShop Error: HTTP Exception: 422",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-01T11:14:32Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128285814",
-          "assignee": "Fernando Poza"
-        },
-        {
-          "id": "45842000128263125",
-          "number": "347761",
-          "subject": "The original fries Ronda / Error al generar pedido en la shop.",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-01T10:31:23Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128263125",
-          "assignee": "Fernando Poza"
-        },
-        {
-          "id": "45842000128209006",
-          "number": "347463",
-          "subject": "BIBI BURGER4 / No se reflejan promo en la shop desde el movil.",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-30T19:04:49Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128209006",
-          "assignee": "Raimundo Garcia"
-        },
-        {
-          "id": "45842000128175055",
-          "number": "347291",
-          "subject": "Purchase / ecommerce event not reaching dataLayer reliably on our order-confirmation page",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-30T09:01:55Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128175055",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000128126560",
-          "number": "347232",
-          "subject": "Tanuki San Badajoz // No se puede ordenar en shop estando logueado",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-29T19:48:50Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128126560",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000128105384",
-          "number": "347214",
-          "subject": "Nori - Sushi & Cocktail (Ballester)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-29T18:13:05Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128105384",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000128104427",
-          "number": "347136",
-          "subject": "LA SHAWERMERIA 1 / Shop registra cerrada.",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-29T13:19:31Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128104427",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000128104348",
-          "number": "347122",
-          "subject": "Llamada entrante (00:07:56) de +34644895339 ( Marc) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-29T13:05:46Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128104348",
-          "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000128035337",
-          "number": "346776",
-          "subject": "Llamada saliente (00:04:36) de +34937377821 (Soporte) a +34627129926 ( javier)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-28T09:46:49Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128035337",
-          "assignee": "Javier Landaeta"
-        },
-        {
-          "id": "45842000128057998",
-          "number": "346631",
-          "subject": "Problemas con la nueva interfaz de la web",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-27T19:16:36Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128057998",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000128057792",
-          "number": "346617",
-          "subject": "Dominio propio",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-27T16:30:45Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128057792",
-          "assignee": "Fernando Poza"
-        },
-        {
-          "id": "45842000128053139",
-          "number": "346557",
-          "subject": "DK-BUG PRODUCTOS NUEVA SHOP",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-27T11:59:01Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128053139",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000127972170",
-          "number": "346306",
-          "subject": "Errores con la SHOP",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-25T19:56:42Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127972170",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000127961049",
-          "number": "346290",
-          "subject": "Llamada entrante (00:04:21) de +34633538256 ( +34633538256) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-25T16:38:49Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127961049",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000127960042",
-          "number": "346270",
-          "subject": "Llamada entrante (00:06:23) de +34637550395 ( Marruzella Jerez) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-25T13:11:28Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127960042",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000127860020",
-          "number": "346214",
-          "subject": "Buenas noche",
-          "status": "Closed",
-          "channel": "Last.app México",
-          "createdTime": "2026-07-25T02:56:59Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127860020",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
-          "id": "45842000127665792",
-          "number": "345508",
-          "subject": "DUDA LAST SHOP - ESCUDELLAR",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-22T08:44:13Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127665792",
-          "assignee": "Fernando Poza"
-        },
-        {
-          "id": "45842000127654340",
-          "number": "345401",
-          "subject": "DK-bug en nueva shop",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-21T20:06:28Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127654340",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000127654197",
-          "number": "345378",
-          "subject": "Analiticas y fragmentación de métricas",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-21T18:47:01Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127654197",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000127499300",
-          "number": "344596",
-          "subject": "Xuba Taqueria // Sugerencia de mejora en confirmación de pedidos desde QR \"Ordenar desde la mesa\"",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-17T19:22:14Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127499300",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000127382207",
-          "number": "343773",
-          "subject": "ERRORES NUEVA SHOP",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-15T09:07:11Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127382207",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
-          "id": "45842000127329953",
-          "number": "343562",
-          "subject": "VIBRA FACTORY / No se refleja Apple Pay en la shop.",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-14T09:04:12Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127329953",
-          "assignee": "Trinidad Larrain Punti"
         }
       ],
       "inMasterList": true
@@ -10851,8 +10801,8 @@
     },
     {
       "classification": "Módulos Reserva",
-      "openCount": 2,
-      "onHoldCount": 0,
+      "openCount": 1,
+      "onHoldCount": 1,
       "closedCount": 17,
       "totalCount": 19,
       "tickets": [
@@ -10880,7 +10830,7 @@
           "id": "45842000128792777",
           "number": "350254",
           "subject": "RECLAMACIÓN FORMAL POR INCIDENCIAS EN EL SERVICIO DE RESERVAS",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Email",
           "createdTime": "2026-08-13T18:24:49Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128792777",
@@ -11045,6 +10995,176 @@
           "createdTime": "2026-07-20T16:12:00Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127618222",
           "assignee": "Fernando Poza"
+        }
+      ],
+      "inMasterList": true
+    },
+    {
+      "classification": "POS :: Cierres Z o X",
+      "openCount": 0,
+      "onHoldCount": 0,
+      "closedCount": 16,
+      "totalCount": 16,
+      "tickets": [
+        {
+          "id": "45842000128617674",
+          "number": "350022",
+          "subject": "Llamada entrante (00:04:15) de +34660951420 ( +34660951420) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-12T19:13:10Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128617674",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000128540642",
+          "number": "349595",
+          "subject": "Restaurante Camping de Roquetas // No permite cerrar el dia.",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-10T17:20:19Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128540642",
+          "assignee": "Raimundo Garcia"
+        },
+        {
+          "id": "45842000128520425",
+          "number": "349282",
+          "subject": "Llamada entrante (00:11:57) de +34600693978 ( Rossy) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-08T14:26:03Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128520425",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000128524486",
+          "number": "349266",
+          "subject": "Llamada entrante (00:02:10) de +34663111210 (LA BRACA La braca gourmet sl) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-08T10:52:20Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128524486",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000128524317",
+          "number": "349168",
+          "subject": "CHINAWOK EXPRESS CAÑAVERAL / Cierre Z del 4 a 5 de agosto tiene diferencía.",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-07T14:47:31Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128524317",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000128320389",
+          "number": "348166",
+          "subject": "Hola buenas tardes, sí disculpe el corte está mal hecho el de ustedes el sistema porque en el sistema yo ingresé que en transferencias son 1578 y yo me voy a cerrar el día que es en el corte y me sale que tengo que cerrar en tarjeta 970",
+          "status": "Closed",
+          "channel": "Last.app México",
+          "createdTime": "2026-08-04T06:15:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128320389",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000128242033",
+          "number": "347579",
+          "subject": "Llamada entrante (00:01:59) de +34657716001 ( Paul) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-07-31T12:03:15Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128242033",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000128138235",
+          "number": "347106",
+          "subject": "Llamada entrante (00:10:23) de +34629859934 ( Daniel) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-07-29T11:57:20Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128138235",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000128029264",
+          "number": "346654",
+          "subject": "Llamada entrante (00:05:30) de +34981371244 ( Maria) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-07-27T22:22:47Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128029264",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000127966152",
+          "number": "346311",
+          "subject": "Llamada entrante (00:06:26) de +34667662623 ( David) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-07-25T21:36:32Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127966152",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000127741446",
+          "number": "345940",
+          "subject": "La Porca // Cierre Z Acumula lo registrado en todo el día",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-07-23T19:42:09Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127741446",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000127734168",
+          "number": "345844",
+          "subject": "Llamada entrante (00:05:17) de +34670648786 ( Glo) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-07-23T11:16:25Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127734168",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000127586821",
+          "number": "345507",
+          "subject": "La Payesa // Cierre Z sin información \"Total recaudado\"",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-07-22T08:38:29Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127586821",
+          "assignee": "Fernando Poza"
+        },
+        {
+          "id": "45842000127556761",
+          "number": "344917",
+          "subject": "TICKET — Soporte Técnico Servipollo Cierres Caja",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-20T09:43:36Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127556761",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000127496236",
+          "number": "344574",
+          "subject": "Etiqueta Negra - José Castán / Error de franja horaria al cierre Z",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-07-17T16:50:25Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127496236",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000127381567",
+          "number": "344036",
+          "subject": "Sushi Samba Fusion Barceloneta // Cierre de caja imprime el reporte del dia anterior",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-07-15T21:38:53Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127381567",
+          "assignee": "Alberto Poyato"
         }
       ],
       "inMasterList": true
@@ -11375,166 +11495,6 @@
           "createdTime": "2026-07-20T10:04:32Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127556880",
           "assignee": "Fernando Poza"
-        }
-      ],
-      "inMasterList": true
-    },
-    {
-      "classification": "POS :: Cierres Z o X",
-      "openCount": 0,
-      "onHoldCount": 0,
-      "closedCount": 15,
-      "totalCount": 15,
-      "tickets": [
-        {
-          "id": "45842000128617674",
-          "number": "350022",
-          "subject": "Llamada entrante (00:04:15) de +34660951420 ( +34660951420) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-12T19:13:10Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128617674",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
-          "id": "45842000128540642",
-          "number": "349595",
-          "subject": "Restaurante Camping de Roquetas // No permite cerrar el dia.",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-10T17:20:19Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128540642",
-          "assignee": "Raimundo Garcia"
-        },
-        {
-          "id": "45842000128520425",
-          "number": "349282",
-          "subject": "Llamada entrante (00:11:57) de +34600693978 ( Rossy) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-08T14:26:03Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128520425",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000128524486",
-          "number": "349266",
-          "subject": "Llamada entrante (00:02:10) de +34663111210 (LA BRACA La braca gourmet sl) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-08T10:52:20Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128524486",
-          "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000128320389",
-          "number": "348166",
-          "subject": "Hola buenas tardes, sí disculpe el corte está mal hecho el de ustedes el sistema porque en el sistema yo ingresé que en transferencias son 1578 y yo me voy a cerrar el día que es en el corte y me sale que tengo que cerrar en tarjeta 970",
-          "status": "Closed",
-          "channel": "Last.app México",
-          "createdTime": "2026-08-04T06:15:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128320389",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000128242033",
-          "number": "347579",
-          "subject": "Llamada entrante (00:01:59) de +34657716001 ( Paul) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-31T12:03:15Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128242033",
-          "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000128138235",
-          "number": "347106",
-          "subject": "Llamada entrante (00:10:23) de +34629859934 ( Daniel) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-29T11:57:20Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128138235",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
-          "id": "45842000128029264",
-          "number": "346654",
-          "subject": "Llamada entrante (00:05:30) de +34981371244 ( Maria) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-27T22:22:47Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128029264",
-          "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000127966152",
-          "number": "346311",
-          "subject": "Llamada entrante (00:06:26) de +34667662623 ( David) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-25T21:36:32Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127966152",
-          "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000127741446",
-          "number": "345940",
-          "subject": "La Porca // Cierre Z Acumula lo registrado en todo el día",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-23T19:42:09Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127741446",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000127734168",
-          "number": "345844",
-          "subject": "Llamada entrante (00:05:17) de +34670648786 ( Glo) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-23T11:16:25Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127734168",
-          "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000127586821",
-          "number": "345507",
-          "subject": "La Payesa // Cierre Z sin información \"Total recaudado\"",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-22T08:38:29Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127586821",
-          "assignee": "Fernando Poza"
-        },
-        {
-          "id": "45842000127556761",
-          "number": "344917",
-          "subject": "TICKET — Soporte Técnico Servipollo Cierres Caja",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-20T09:43:36Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127556761",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000127496236",
-          "number": "344574",
-          "subject": "Etiqueta Negra - José Castán / Error de franja horaria al cierre Z",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-17T16:50:25Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127496236",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
-          "id": "45842000127381567",
-          "number": "344036",
-          "subject": "Sushi Samba Fusion Barceloneta // Cierre de caja imprime el reporte del dia anterior",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-15T21:38:53Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127381567",
-          "assignee": "Alberto Poyato"
         }
       ],
       "inMasterList": true
@@ -11953,9 +11913,19 @@
       "classification": "Admin :: Empleados",
       "openCount": 0,
       "onHoldCount": 0,
-      "closedCount": 6,
-      "totalCount": 6,
+      "closedCount": 7,
+      "totalCount": 7,
       "tickets": [
+        {
+          "id": "45842000128544284",
+          "number": "349344",
+          "subject": "ISLA PIRATA // Solicita PIN de manager al realizar fichaje de empleado",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-09T10:21:02Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128544284",
+          "assignee": "Fernando Poza"
+        },
         {
           "id": "45842000128367351",
           "number": "348577",
@@ -12324,7 +12294,7 @@
           "channel": "Last.app México",
           "createdTime": "2026-08-14T22:42:58Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128855414",
-          "assignee": ""
+          "assignee": "Raimundo Garcia"
         },
         {
           "id": "45842000128799824",
