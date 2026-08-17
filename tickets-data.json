@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-17T06:18:39.949176+00:00",
+  "lastUpdated": "2026-08-17T07:26:11.970068+00:00",
   "totalOpenTickets": 77,
-  "totalClosedTickets": 2514,
+  "totalClosedTickets": 2515,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -168,25 +168,13 @@
       "id": "45842000128901001",
       "number": "350684",
       "subject": "✉ Ihr neuer Wochenreport 10.08.2026 - 16.08.2026",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Email",
-      "createdTime": "2026-08-17T06:18:06Z",
+      "createdTime": "2026-08-17T06:18:07Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128901001",
       "assignee": "Harold Diaz",
       "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000128896002",
-      "number": "350683",
-      "subject": "Buenos días \nPodéis hacer un push en el catálogo de Green Up en Glovo?",
-      "status": "Open",
-      "channel": "Last.app España",
-      "createdTime": "2026-08-17T06:15:41Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128896002",
-      "assignee": "Harold Diaz",
-      "accountName": "Green Up Brunch",
-      "locationId": ""
+      "locationId": "1234"
     },
     {
       "id": "45842000128888163",
@@ -2563,9 +2551,21 @@
       "assignee": "Alberto Poyato",
       "accountName": "",
       "locationId": ""
+    },
+    {
+      "id": "45842000128688160",
+      "number": "349959",
+      "subject": "Request Received",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-08-12T15:01:56Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128688160",
+      "assignee": "Angie Oliveros",
+      "accountName": "",
+      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1637,
+  "locationIdIssuesTotal": 1636,
   "byContact": [
     {
       "contactId": "45842000066012243",
@@ -2761,31 +2761,11 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 11,
+      "openCount": 10,
       "onHoldCount": 0,
-      "closedCount": 937,
-      "totalCount": 948,
+      "closedCount": 936,
+      "totalCount": 946,
       "tickets": [
-        {
-          "id": "45842000128901001",
-          "number": "350684",
-          "subject": "✉ Ihr neuer Wochenreport 10.08.2026 - 16.08.2026",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-17T06:18:06Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128901001",
-          "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000128896002",
-          "number": "350683",
-          "subject": "Buenos días \nPodéis hacer un push en el catálogo de Green Up en Glovo?",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-17T06:15:41Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128896002",
-          "assignee": "Harold Diaz"
-        },
         {
           "id": "45842000128884191",
           "number": "350663",
@@ -3475,6 +3455,16 @@
           "createdTime": "2026-08-13T08:56:14Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128748142",
           "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000128302936",
+          "number": "347934",
+          "subject": "Una mancha también deja reseña ",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-03T07:02:58Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128302936",
+          "assignee": "Raimundo Garcia"
         }
       ],
       "inMasterList": false
@@ -5061,11 +5051,31 @@
     },
     {
       "classification": "Admin :: General",
-      "openCount": 1,
+      "openCount": 2,
       "onHoldCount": 2,
-      "closedCount": 156,
-      "totalCount": 159,
+      "closedCount": 157,
+      "totalCount": 161,
       "tickets": [
+        {
+          "id": "45842000128918001",
+          "number": "350685",
+          "subject": "Martivia // habilitar ubicación para descargar información  ",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-08-17T07:12:35Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128918001",
+          "assignee": ""
+        },
+        {
+          "id": "45842000128901001",
+          "number": "350684",
+          "subject": "✉ Ihr neuer Wochenreport 10.08.2026 - 16.08.2026",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-17T06:18:07Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128901001",
+          "assignee": "Harold Diaz"
+        },
         {
           "id": "45842000128870529",
           "number": "350611",
@@ -5685,16 +5695,6 @@
           "createdTime": "2026-08-03T08:57:43Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128251395",
           "assignee": "Angie Oliveros"
-        },
-        {
-          "id": "45842000128255579",
-          "number": "347976",
-          "subject": "Llamada saliente (00:02:41) de +34937377821 (Soporte) a +34673807275 ( Dan garate)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-03T08:52:27Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128255579",
-          "assignee": "Angie Oliveros"
         }
       ],
       "inMasterList": true
@@ -5703,9 +5703,19 @@
       "classification": "Admin :: Integraciones",
       "openCount": 1,
       "onHoldCount": 4,
-      "closedCount": 124,
-      "totalCount": 129,
+      "closedCount": 125,
+      "totalCount": 130,
       "tickets": [
+        {
+          "id": "45842000128896002",
+          "number": "350683",
+          "subject": "Buenos días \nPodéis hacer un push en el catálogo de Green Up en Glovo?",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-17T06:15:41Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128896002",
+          "assignee": "Harold Diaz"
+        },
         {
           "id": "45842000128807600",
           "number": "350651",
@@ -6345,16 +6355,6 @@
           "createdTime": "2026-07-28T06:51:34Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128063544",
           "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000128062192",
-          "number": "346658",
-          "subject": "Request Received",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-28T01:48:45Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128062192",
-          "assignee": "Harold Diaz"
         }
       ],
       "inMasterList": true
@@ -8201,8 +8201,8 @@
     },
     {
       "classification": "Integraciones",
-      "openCount": 2,
-      "onHoldCount": 1,
+      "openCount": 3,
+      "onHoldCount": 0,
       "closedCount": 51,
       "totalCount": 54,
       "tickets": [
@@ -8280,7 +8280,7 @@
           "id": "45842000128584821",
           "number": "349556",
           "subject": "Re: Hola, tengo una incidencia con la integración con last.app. El sopo...",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-08-10T14:39:48Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128584821",
@@ -8487,16 +8487,6 @@
           "assignee": "Trinidad Larrain Punti"
         },
         {
-          "id": "45842000128157367",
-          "number": "347135",
-          "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-29T13:15:39Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128157367",
-          "assignee": "Raimundo Garcia"
-        },
-        {
           "id": "45842000128154683",
           "number": "347134",
           "subject": "[Just Eat UK] Update: LastApp - flyt integration deleted",
@@ -8505,6 +8495,16 @@
           "createdTime": "2026-07-29T13:15:39Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128154683",
           "assignee": "Javier Landaeta"
+        },
+        {
+          "id": "45842000128157367",
+          "number": "347135",
+          "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-29T13:15:39Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128157367",
+          "assignee": "Raimundo Garcia"
         },
         {
           "id": "45842000128146456",
@@ -8557,16 +8557,6 @@
           "assignee": "Javier Landaeta"
         },
         {
-          "id": "45842000128094076",
-          "number": "346860",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-28T12:06:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094076",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
           "id": "45842000128132001",
           "number": "346859",
           "subject": "Help us improve",
@@ -8575,6 +8565,16 @@
           "createdTime": "2026-07-28T12:06:33Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132001",
           "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000128094076",
+          "number": "346860",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-28T12:06:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094076",
+          "assignee": "Trinidad Larrain Punti"
         },
         {
           "id": "45842000128067604",
