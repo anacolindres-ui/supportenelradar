@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-17T21:10:21.763642+00:00",
-  "totalOpenTickets": 61,
-  "totalClosedTickets": 2632,
+  "lastUpdated": "2026-08-17T22:08:41.798348+00:00",
+  "totalOpenTickets": 60,
+  "totalClosedTickets": 2595,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -74,13 +74,13 @@
       "id": "45842000128956928",
       "number": "350855",
       "subject": "Verify cancellation",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Email",
-      "createdTime": "2026-08-17T20:28:28Z",
+      "createdTime": "2026-08-17T20:28:29Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128956928",
       "assignee": "Dimitriz Rodriguez",
       "accountName": "",
-      "locationId": ""
+      "locationId": "1234"
     },
     {
       "id": "45842000128923392",
@@ -2471,7 +2471,7 @@
       "locationId": "350003"
     }
   ],
-  "locationIdIssuesTotal": 1664,
+  "locationIdIssuesTotal": 1635,
   "byContact": [
     {
       "contactId": "45842000126310258",
@@ -2543,21 +2543,11 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 1,
+      "openCount": 0,
       "onHoldCount": 0,
-      "closedCount": 956,
-      "totalCount": 957,
+      "closedCount": 940,
+      "totalCount": 940,
       "tickets": [
-        {
-          "id": "45842000128956928",
-          "number": "350855",
-          "subject": "Verify cancellation",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-17T20:28:28Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128956928",
-          "assignee": "Dimitriz Rodriguez"
-        },
         {
           "id": "45842000128958092",
           "number": "350831",
@@ -4045,8 +4035,8 @@
       "classification": "Calls",
       "openCount": 0,
       "onHoldCount": 1,
-      "closedCount": 343,
-      "totalCount": 344,
+      "closedCount": 339,
+      "totalCount": 340,
       "tickets": [
         {
           "id": "45842000128923392",
@@ -4665,8 +4655,8 @@
       "classification": "Admin :: General",
       "openCount": 3,
       "onHoldCount": 2,
-      "closedCount": 181,
-      "totalCount": 186,
+      "closedCount": 179,
+      "totalCount": 184,
       "tickets": [
         {
           "id": "45842000128898899",
@@ -5985,8 +5975,8 @@
       "classification": "Admin :: Impresoras",
       "openCount": 0,
       "onHoldCount": 0,
-      "closedCount": 99,
-      "totalCount": 99,
+      "closedCount": 98,
+      "totalCount": 98,
       "tickets": [
         {
           "id": "45842000128919420",
@@ -6595,9 +6585,19 @@
       "classification": "Otro",
       "openCount": 0,
       "onHoldCount": 0,
-      "closedCount": 99,
-      "totalCount": 99,
+      "closedCount": 88,
+      "totalCount": 88,
       "tickets": [
+        {
+          "id": "45842000128956928",
+          "number": "350855",
+          "subject": "Verify cancellation",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-17T20:28:29Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128956928",
+          "assignee": "Dimitriz Rodriguez"
+        },
         {
           "id": "45842000128888163",
           "number": "350674",
@@ -7186,16 +7186,6 @@
           "channel": "Email",
           "createdTime": "2026-07-30T11:07:02Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128186126",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
-          "id": "45842000128175877",
-          "number": "347331",
-          "subject": "Todavía quedan momentos por vivir este verano☀️",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-30T10:41:50Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128175877",
           "assignee": "Johan Manuel Cortissoz Posada"
         }
       ],
@@ -8159,16 +8149,6 @@
           "assignee": "Trinidad Larrain Punti"
         },
         {
-          "id": "45842000128157367",
-          "number": "347135",
-          "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-29T13:15:39Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128157367",
-          "assignee": "Raimundo Garcia"
-        },
-        {
           "id": "45842000128154683",
           "number": "347134",
           "subject": "[Just Eat UK] Update: LastApp - flyt integration deleted",
@@ -8177,6 +8157,16 @@
           "createdTime": "2026-07-29T13:15:39Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128154683",
           "assignee": "Javier Landaeta"
+        },
+        {
+          "id": "45842000128157367",
+          "number": "347135",
+          "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-29T13:15:39Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128157367",
+          "assignee": "Raimundo Garcia"
         },
         {
           "id": "45842000128146456",
@@ -8425,8 +8415,8 @@
       "classification": "Admin :: Reportes",
       "openCount": 1,
       "onHoldCount": 4,
-      "closedCount": 52,
-      "totalCount": 57,
+      "closedCount": 51,
+      "totalCount": 56,
       "tickets": [
         {
           "id": "45842000128957045",
@@ -8897,16 +8887,6 @@
           "createdTime": "2026-07-19T15:22:19Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127492560",
           "assignee": "Raimundo Garcia"
-        },
-        {
-          "id": "45842000127479900",
-          "number": "344753",
-          "subject": "Llamada saliente (00:03:30) de +34937377821 (Soporte) a +34644895339 ( Marc)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-19T09:50:18Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127479900",
-          "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
           "id": "45842000127500127",
@@ -10542,236 +10522,6 @@
       "inMasterList": true
     },
     {
-      "classification": "Admin :: Promociones",
-      "openCount": 1,
-      "onHoldCount": 1,
-      "closedCount": 20,
-      "totalCount": 22,
-      "tickets": [
-        {
-          "id": "45842000128874709",
-          "number": "350654",
-          "subject": "barreiromorenohome@gmail.com\n34660638679",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-16T17:47:27Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128874709",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000128799995",
-          "number": "350417",
-          "subject": "Buenas tardes",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-14T15:37:41Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128799995",
-          "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000128633350",
-          "number": "349874",
-          "subject": "(SEV2)  Alejandro Amengual  // No se está aplicando el código promocional",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-12T08:57:27Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128633350",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000128633029",
-          "number": "349719",
-          "subject": "Alejandro Amengual  // No se está aplicando el código promocional",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-11T10:37:43Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128633029",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000128561789",
-          "number": "349355",
-          "subject": "Revisar promoción “CLUB DE PUNTOS ARMONIIA” – Los canjes de 500 puntos no parecen descontarse",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-09T11:42:15Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128561789",
-          "assignee": "Fernando Poza"
-        },
-        {
-          "id": "45842000128463014",
-          "number": "348960",
-          "subject": "Llamada entrante (00:24:00) de +34698966583 ( Guillermo Sánchez) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-06T14:28:50Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128463014",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000128368664",
-          "number": "348588",
-          "subject": "Tokachi Poke / No aplica promoción ya generada.",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-05T12:39:24Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128368664",
-          "assignee": "Fernando Poza"
-        },
-        {
-          "id": "45842000128369048",
-          "number": "348366",
-          "subject": "Llamada saliente (00:07:52) de +34937377821 (Soporte) a +34690262423 ( Konstantinos)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-04T18:14:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128369048",
-          "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000128368073",
-          "number": "348339",
-          "subject": "Llamada entrante (00:09:59) de +34663111210 (LA BRACA La braca gourmet sl) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-04T16:13:46Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128368073",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
-          "id": "45842000128345260",
-          "number": "348332",
-          "subject": "Llamada entrante (00:07:00) de +34663111210 (LA BRACA La braca gourmet sl) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-04T15:47:25Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128345260",
-          "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000128258019",
-          "number": "347562",
-          "subject": "Pastelería Casamayor 3.0 Carretería // Puntos de promocion",
-          "status": "On Hold",
-          "channel": "Chat",
-          "createdTime": "2026-07-31T10:38:16Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128258019",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
-          "id": "45842000128203587",
-          "number": "347464",
-          "subject": "Sistema fidelización Lastapp",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-30T19:08:18Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128203587",
-          "assignee": "Fernando Poza"
-        },
-        {
-          "id": "45842000128149906",
-          "number": "347102",
-          "subject": "Mr. Majo's - Promoción 2x1 no se muestra en el TPV",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-29T11:40:24Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128149906",
-          "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000128117022",
-          "number": "346867",
-          "subject": "Barcelona 190 // Shop solicita tarjeta en pedido con 100% de descuento",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-28T12:27:01Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128117022",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
-          "id": "45842000127798241",
-          "number": "346022",
-          "subject": "Lemongrass Torrente - Problemas con la promoción 2x1",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-24T08:44:59Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127798241",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000127650758",
-          "number": "345715",
-          "subject": "High Bar / Error al ver promoción automática",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-22T19:28:34Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127650758",
-          "assignee": "Javier Landaeta"
-        },
-        {
-          "id": "45842000127503365",
-          "number": "344781",
-          "subject": "Llamada entrante (00:03:36) de +34650516299 ( David) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-19T12:08:26Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127503365",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
-          "id": "45842000127457541",
-          "number": "344754",
-          "subject": "Tortilla de Origen // Promoción no funciona correctamente en tienda online",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-19T10:01:25Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127457541",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
-          "id": "45842000127492393",
-          "number": "344746",
-          "subject": "Llamada saliente (00:11:28) de +34937377821 (Soporte) a +34650516299 ( David)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-19T07:33:18Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127492393",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
-          "id": "45842000127269113",
-          "number": "343037",
-          "subject": "Fwd: Incidencia código promocional PEREZA",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-10T14:40:16Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127269113",
-          "assignee": "Javier Landaeta"
-        },
-        {
-          "id": "45842000127095117",
-          "number": "342230",
-          "subject": "Promoción no aparece en shop error de rango de fechas",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-07T12:07:52Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127095117",
-          "assignee": "Javier Landaeta"
-        },
-        {
-          "id": "45842000126849965",
-          "number": "341284",
-          "subject": "Fuji Sushi Bar // Promoción especifica para un día, aparece activa en otro día",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-02T18:13:32Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126849965",
-          "assignee": "Trinidad Larrain Punti"
-        }
-      ],
-      "inMasterList": true
-    },
-    {
       "classification": "Módulos Reserva",
       "openCount": 1,
       "onHoldCount": 0,
@@ -10987,6 +10737,216 @@
           "createdTime": "2026-07-20T16:12:00Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127618222",
           "assignee": "Fernando Poza"
+        }
+      ],
+      "inMasterList": true
+    },
+    {
+      "classification": "Admin :: Promociones",
+      "openCount": 1,
+      "onHoldCount": 1,
+      "closedCount": 18,
+      "totalCount": 20,
+      "tickets": [
+        {
+          "id": "45842000128874709",
+          "number": "350654",
+          "subject": "barreiromorenohome@gmail.com\n34660638679",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-16T17:47:27Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128874709",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000128799995",
+          "number": "350417",
+          "subject": "Buenas tardes",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-14T15:37:41Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128799995",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000128633350",
+          "number": "349874",
+          "subject": "(SEV2)  Alejandro Amengual  // No se está aplicando el código promocional",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-12T08:57:27Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128633350",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000128633029",
+          "number": "349719",
+          "subject": "Alejandro Amengual  // No se está aplicando el código promocional",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-11T10:37:43Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128633029",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000128561789",
+          "number": "349355",
+          "subject": "Revisar promoción “CLUB DE PUNTOS ARMONIIA” – Los canjes de 500 puntos no parecen descontarse",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-09T11:42:15Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128561789",
+          "assignee": "Fernando Poza"
+        },
+        {
+          "id": "45842000128463014",
+          "number": "348960",
+          "subject": "Llamada entrante (00:24:00) de +34698966583 ( Guillermo Sánchez) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-06T14:28:50Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128463014",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000128368664",
+          "number": "348588",
+          "subject": "Tokachi Poke / No aplica promoción ya generada.",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-05T12:39:24Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128368664",
+          "assignee": "Fernando Poza"
+        },
+        {
+          "id": "45842000128369048",
+          "number": "348366",
+          "subject": "Llamada saliente (00:07:52) de +34937377821 (Soporte) a +34690262423 ( Konstantinos)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-04T18:14:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128369048",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000128368073",
+          "number": "348339",
+          "subject": "Llamada entrante (00:09:59) de +34663111210 (LA BRACA La braca gourmet sl) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-04T16:13:46Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128368073",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000128345260",
+          "number": "348332",
+          "subject": "Llamada entrante (00:07:00) de +34663111210 (LA BRACA La braca gourmet sl) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-04T15:47:25Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128345260",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000128258019",
+          "number": "347562",
+          "subject": "Pastelería Casamayor 3.0 Carretería // Puntos de promocion",
+          "status": "On Hold",
+          "channel": "Chat",
+          "createdTime": "2026-07-31T10:38:16Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128258019",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000128203587",
+          "number": "347464",
+          "subject": "Sistema fidelización Lastapp",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-30T19:08:18Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128203587",
+          "assignee": "Fernando Poza"
+        },
+        {
+          "id": "45842000128149906",
+          "number": "347102",
+          "subject": "Mr. Majo's - Promoción 2x1 no se muestra en el TPV",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-29T11:40:24Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128149906",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000128117022",
+          "number": "346867",
+          "subject": "Barcelona 190 // Shop solicita tarjeta en pedido con 100% de descuento",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-07-28T12:27:01Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128117022",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000127798241",
+          "number": "346022",
+          "subject": "Lemongrass Torrente - Problemas con la promoción 2x1",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-24T08:44:59Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127798241",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000127650758",
+          "number": "345715",
+          "subject": "High Bar / Error al ver promoción automática",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-07-22T19:28:34Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127650758",
+          "assignee": "Javier Landaeta"
+        },
+        {
+          "id": "45842000127457541",
+          "number": "344754",
+          "subject": "Tortilla de Origen // Promoción no funciona correctamente en tienda online",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-07-19T10:01:25Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127457541",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000127269113",
+          "number": "343037",
+          "subject": "Fwd: Incidencia código promocional PEREZA",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-10T14:40:16Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127269113",
+          "assignee": "Javier Landaeta"
+        },
+        {
+          "id": "45842000127095117",
+          "number": "342230",
+          "subject": "Promoción no aparece en shop error de rango de fechas",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-07-07T12:07:52Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127095117",
+          "assignee": "Javier Landaeta"
+        },
+        {
+          "id": "45842000126849965",
+          "number": "341284",
+          "subject": "Fuji Sushi Bar // Promoción especifica para un día, aparece activa en otro día",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-07-02T18:13:32Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000126849965",
+          "assignee": "Trinidad Larrain Punti"
         }
       ],
       "inMasterList": true
@@ -11333,8 +11293,8 @@
     },
     {
       "classification": "Admin :: entidades legales",
-      "openCount": 1,
-      "onHoldCount": 0,
+      "openCount": 0,
+      "onHoldCount": 1,
       "closedCount": 14,
       "totalCount": 15,
       "tickets": [
@@ -11382,7 +11342,7 @@
           "id": "45842000128558088",
           "number": "349270",
           "subject": "CAMBIO DE RAZON SOCIAL",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Email",
           "createdTime": "2026-08-08T11:37:39Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128558088",
