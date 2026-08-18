@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-18T18:12:42.463941+00:00",
-  "totalOpenTickets": 53,
-  "totalClosedTickets": 2703,
+  "lastUpdated": "2026-08-18T19:15:23.028825+00:00",
+  "totalOpenTickets": 50,
+  "totalClosedTickets": 2707,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -61,15 +61,15 @@
   ],
   "locationIdIssues": [
     {
-      "id": "45842000128906612",
-      "number": "351018",
-      "subject": "Llamada entrante de +34952754483 ( Málaga) a +34937377821 (Soporte)",
+      "id": "45842000128942676",
+      "number": "351022",
+      "subject": "Llamada entrante de +34641867189 ( Cristian) a +34937377821 (Soporte)",
       "status": "Open",
       "channel": "Phone",
-      "createdTime": "2026-08-18T18:12:10Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128906612",
+      "createdTime": "2026-08-18T19:08:59Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128942676",
       "assignee": "Dimitriz Rodriguez",
-      "accountName": "Miss Sushi Málaga",
+      "accountName": "padthaiwok de la torre outlet Zaragoza",
       "locationId": ""
     },
     {
@@ -82,18 +82,6 @@
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128926569",
       "assignee": "Trinidad Larrain Punti",
       "accountName": "Las Bugambilias",
-      "locationId": ""
-    },
-    {
-      "id": "45842000128973355",
-      "number": "351016",
-      "subject": "Buenas tardes",
-      "status": "Open",
-      "channel": "Last.app España",
-      "createdTime": "2026-08-18T17:54:16Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128973355",
-      "assignee": "Dimitriz Rodriguez",
-      "accountName": "ODEON",
       "locationId": ""
     },
     {
@@ -388,7 +376,7 @@
       "id": "45842000128940303",
       "number": "350830",
       "subject": "PANMEX SAN FERNANDO // Productos desactivados llegan desde ordenes de Uber",
-      "status": "On Hold",
+      "status": "Open",
       "channel": "Phone",
       "createdTime": "2026-08-17T16:26:41Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128940303",
@@ -2459,9 +2447,21 @@
       "assignee": "Angie Oliveros",
       "accountName": "",
       "locationId": ""
+    },
+    {
+      "id": "45842000128698408",
+      "number": "350041",
+      "subject": "LastApp - rappi integration request",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-08-13T00:01:47Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128698408",
+      "assignee": "Angie Oliveros",
+      "accountName": "",
+      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1654,
+  "locationIdIssuesTotal": 1653,
   "byContact": [
     {
       "contactId": "45842000126310258",
@@ -2523,10 +2523,10 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 3,
+      "openCount": 2,
       "onHoldCount": 0,
       "closedCount": 950,
-      "totalCount": 953,
+      "totalCount": 952,
       "tickets": [
         {
           "id": "45842000128926569",
@@ -2537,16 +2537,6 @@
           "createdTime": "2026-08-18T18:02:04Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128926569",
           "assignee": "Trinidad Larrain Punti"
-        },
-        {
-          "id": "45842000128973355",
-          "number": "351016",
-          "subject": "Buenas tardes",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-18T17:54:16Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128973355",
-          "assignee": "Dimitriz Rodriguez"
         },
         {
           "id": "45842000128974323",
@@ -3975,14 +3965,24 @@
       "classification": "Calls",
       "openCount": 1,
       "onHoldCount": 1,
-      "closedCount": 341,
-      "totalCount": 343,
+      "closedCount": 342,
+      "totalCount": 344,
       "tickets": [
+        {
+          "id": "45842000128942676",
+          "number": "351022",
+          "subject": "Llamada entrante de +34641867189 ( Cristian) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-08-18T19:08:59Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128942676",
+          "assignee": "Dimitriz Rodriguez"
+        },
         {
           "id": "45842000128906612",
           "number": "351018",
-          "subject": "Llamada entrante de +34952754483 ( Málaga) a +34937377821 (Soporte)",
-          "status": "Open",
+          "subject": "Llamada entrante (00:07:48) de +34952754483 ( Málaga) a +34937377821 (Soporte)",
+          "status": "Closed",
           "channel": "Phone",
           "createdTime": "2026-08-18T18:12:10Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128906612",
@@ -4579,16 +4579,6 @@
           "assignee": "Dimitriz Rodriguez"
         },
         {
-          "id": "45842000128801071",
-          "number": "350170",
-          "subject": "Llamada entrante (00:01:52) de +34672618564 ( +34672618564) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-13T12:27:43Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128801071",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
           "id": "45842000128530781",
           "number": "349500",
           "subject": "WAKAME IBIZA // Recibo de reembolso realizado a través de TapToPay",
@@ -4603,9 +4593,9 @@
     },
     {
       "classification": "Admin :: General",
-      "openCount": 1,
+      "openCount": 0,
       "onHoldCount": 4,
-      "closedCount": 194,
+      "closedCount": 195,
       "totalCount": 199,
       "tickets": [
         {
@@ -4616,13 +4606,13 @@
           "channel": "Last.app España",
           "createdTime": "2026-08-18T17:37:54Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128981031",
-          "assignee": "Johan Manuel Cortissoz Posada"
+          "assignee": "Dimitriz Rodriguez"
         },
         {
           "id": "45842000128969551",
           "number": "351011",
           "subject": "Hola buenas me ayudas a abrir un nuevo catálogo para un nuevo bar \nHe configurado pasa llevar los dos con el mismo usuario \nPuedes verificar si lo he hecho bien",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Last.app España",
           "createdTime": "2026-08-18T17:10:34Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128969551",
@@ -5239,16 +5229,6 @@
           "assignee": "Angie Oliveros"
         },
         {
-          "id": "45842000128678643",
-          "number": "349902",
-          "subject": "Contraseña de un solo uso para su inicio de sesión de Zoho",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-12T10:49:03Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128678643",
-          "assignee": "Harold Diaz"
-        },
-        {
           "id": "45842000128398796",
           "number": "348567",
           "subject": "ZONA REPARTO PTW FUENGIROLA",
@@ -5263,8 +5243,8 @@
     },
     {
       "classification": "Admin :: Integraciones",
-      "openCount": 2,
-      "onHoldCount": 3,
+      "openCount": 3,
+      "onHoldCount": 2,
       "closedCount": 138,
       "totalCount": 143,
       "tickets": [
@@ -5302,7 +5282,7 @@
           "id": "45842000128940303",
           "number": "350830",
           "subject": "PANMEX SAN FERNANDO // Productos desactivados llegan desde ordenes de Uber",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Phone",
           "createdTime": "2026-08-17T16:26:41Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128940303",
@@ -7143,9 +7123,9 @@
     },
     {
       "classification": "Integraciones",
-      "openCount": 2,
+      "openCount": 1,
       "onHoldCount": 0,
-      "closedCount": 74,
+      "closedCount": 75,
       "totalCount": 76,
       "tickets": [
         {
@@ -7162,7 +7142,7 @@
           "id": "45842000128982082",
           "number": "351008",
           "subject": "Hola estoy viendo en vuestra web que tienen disponible integrarse a lastapp pero no veo la opción en la marketplace del admin",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Last.app España",
           "createdTime": "2026-08-18T16:55:17Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128982082",
@@ -7219,16 +7199,6 @@
           "assignee": "Angie Oliveros"
         },
         {
-          "id": "45842000128962499",
-          "number": "350907",
-          "subject": "LastApp - glovo integration deleted",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-18T08:36:41Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128962499",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000128966785",
           "number": "350908",
           "subject": "LastApp - glovo integration deleted",
@@ -7236,6 +7206,16 @@
           "channel": "Email",
           "createdTime": "2026-08-18T08:36:41Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128966785",
+          "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000128962499",
+          "number": "350907",
+          "subject": "LastApp - glovo integration deleted",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-18T08:36:41Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128962499",
           "assignee": "Angie Oliveros"
         },
         {
@@ -7757,16 +7737,6 @@
           "createdTime": "2026-07-28T09:20:50Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128071431",
           "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000128069537",
-          "number": "346747",
-          "subject": "Request Received",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-28T09:20:20Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128069537",
-          "assignee": "Dimitriz Rodriguez"
         }
       ],
       "inMasterList": true
@@ -7775,9 +7745,19 @@
       "classification": "Instalación/Formación",
       "openCount": 0,
       "onHoldCount": 0,
-      "closedCount": 70,
-      "totalCount": 70,
+      "closedCount": 71,
+      "totalCount": 71,
       "tickets": [
+        {
+          "id": "45842000128973355",
+          "number": "351016",
+          "subject": "Buenas tardes",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-18T17:54:16Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128973355",
+          "assignee": "Dimitriz Rodriguez"
+        },
         {
           "id": "45842000128933499",
           "number": "350966",
@@ -8366,16 +8346,6 @@
           "channel": "Phone",
           "createdTime": "2026-07-22T08:12:24Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127594885",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
-          "id": "45842000127652106",
-          "number": "345494",
-          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34691838745 ( Abel)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-22T08:11:59Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000127652106",
           "assignee": "Trinidad Larrain Punti"
         }
       ],
