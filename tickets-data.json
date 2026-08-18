@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-18T05:13:01.930478+00:00",
-  "totalOpenTickets": 58,
-  "totalClosedTickets": 2599,
+  "lastUpdated": "2026-08-18T06:14:47.227449+00:00",
+  "totalOpenTickets": 60,
+  "totalClosedTickets": 2598,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -515,18 +515,6 @@
       "locationId": "1234"
     },
     {
-      "id": "45842000128884190",
-      "number": "350662",
-      "subject": "Request Received",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-16T19:26:40Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128884190",
-      "assignee": "Johan Manuel Cortissoz Posada",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000128884191",
       "number": "350663",
       "subject": "Request Received",
@@ -534,6 +522,18 @@
       "channel": "Email",
       "createdTime": "2026-08-16T19:26:40Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128884191",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000128884190",
+      "number": "350662",
+      "subject": "Request Received",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-08-16T19:26:40Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128884190",
       "assignee": "Johan Manuel Cortissoz Posada",
       "accountName": "",
       "locationId": ""
@@ -2739,16 +2739,6 @@
           "assignee": "Angie Oliveros"
         },
         {
-          "id": "45842000128884190",
-          "number": "350662",
-          "subject": "Request Received",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-16T19:26:40Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128884190",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
           "id": "45842000128884191",
           "number": "350663",
           "subject": "Request Received",
@@ -2756,6 +2746,16 @@
           "channel": "Email",
           "createdTime": "2026-08-16T19:26:40Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128884191",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000128884190",
+          "number": "350662",
+          "subject": "Request Received",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-16T19:26:40Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128884190",
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
@@ -3153,9 +3153,9 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 9,
+      "openCount": 10,
       "onHoldCount": 17,
-      "closedCount": 327,
+      "closedCount": 326,
       "totalCount": 353,
       "tickets": [
         {
@@ -4009,6 +4009,16 @@
           "assignee": "Raimundo Garcia"
         },
         {
+          "id": "45842000128376488",
+          "number": "348355",
+          "subject": "Uber Case# 59029711-LastApp - uber integration request",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-04T17:39:27Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128376488",
+          "assignee": "Raimundo Garcia"
+        },
+        {
           "id": "45842000128279695",
           "number": "347673",
           "subject": "Uber Case# 58938439-LastApp - uber integration request",
@@ -4643,11 +4653,21 @@
     },
     {
       "classification": "Admin :: General",
-      "openCount": 1,
+      "openCount": 2,
       "onHoldCount": 2,
       "closedCount": 181,
-      "totalCount": 184,
+      "totalCount": 185,
       "tickets": [
+        {
+          "id": "45842000128964111",
+          "number": "350876",
+          "subject": "Buenos días",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-18T05:46:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128964111",
+          "assignee": "Harold Diaz"
+        },
         {
           "id": "45842000128898899",
           "number": "350845",
@@ -8189,16 +8209,6 @@
           "assignee": "Javier Landaeta"
         },
         {
-          "id": "45842000128132001",
-          "number": "346859",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-28T12:06:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132001",
-          "assignee": "Harold Diaz"
-        },
-        {
           "id": "45842000128094076",
           "number": "346860",
           "subject": "Help us improve",
@@ -8207,6 +8217,16 @@
           "createdTime": "2026-07-28T12:06:33Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128094076",
           "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000128132001",
+          "number": "346859",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-28T12:06:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128132001",
+          "assignee": "Harold Diaz"
         },
         {
           "id": "45842000128067604",
