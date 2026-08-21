@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-21T05:14:40.649707+00:00",
-  "totalOpenTickets": 70,
-  "totalClosedTickets": 2629,
+  "lastUpdated": "2026-08-21T06:15:57.299469+00:00",
+  "totalOpenTickets": 71,
+  "totalClosedTickets": 2630,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -34,6 +34,30 @@
   ],
   "locationIdIssues": [
     {
+      "id": "45842000129086082",
+      "number": "351503",
+      "subject": "Request Received",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-08-21T05:30:19Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129086082",
+      "assignee": "Harold Diaz",
+      "accountName": "",
+      "locationId": "1234"
+    },
+    {
+      "id": "45842000129084408",
+      "number": "351502",
+      "subject": "LastApp - glovo integration deleted",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-08-21T05:30:11Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129084408",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
       "id": "45842000129067812",
       "number": "351499",
       "subject": "LastApp - rappi integration request",
@@ -51,7 +75,7 @@
       "subject": "LastApp - rappi integration request",
       "status": "Open",
       "channel": "Email",
-      "createdTime": "2026-08-21T03:21:44Z",
+      "createdTime": "2026-08-21T03:21:45Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129084339",
       "assignee": "",
       "accountName": "",
@@ -161,7 +185,7 @@
       "channel": "Email",
       "createdTime": "2026-08-21T02:37:05Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129075606",
-      "assignee": "Harold Diaz",
+      "assignee": "",
       "accountName": "",
       "locationId": ""
     },
@@ -706,18 +730,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000129060796",
-      "number": "351328",
-      "subject": "[Just Eat UK] Update: LastApp - flyt integration deleted",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-20T09:59:55Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129060796",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": "1234"
-    },
-    {
       "id": "45842000129060794",
       "number": "351329",
       "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
@@ -728,6 +740,18 @@
       "assignee": "Javier Landaeta",
       "accountName": "",
       "locationId": ""
+    },
+    {
+      "id": "45842000129060796",
+      "number": "351328",
+      "subject": "[Just Eat UK] Update: LastApp - flyt integration deleted",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-08-20T09:59:55Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129060796",
+      "assignee": "Angie Oliveros",
+      "accountName": "",
+      "locationId": "1234"
     },
     {
       "id": "45842000129060658",
@@ -2408,33 +2432,9 @@
       "assignee": "Fernando Poza",
       "accountName": "",
       "locationId": "1234"
-    },
-    {
-      "id": "45842000128854291",
-      "number": "350435",
-      "subject": "Uber Case# 59326325-LastApp - uber integration request",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-14T18:19:13Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128854291",
-      "assignee": "Fernando Poza",
-      "accountName": "",
-      "locationId": "1234"
-    },
-    {
-      "id": "45842000128850773",
-      "number": "350432",
-      "subject": "Re: [## 350038 ##] API Last - Machaka",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-14T17:42:21Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128850773",
-      "assignee": "Jordy Carmona",
-      "accountName": "Machaka Burguer TAPIOCA HEALTHY FOOD S.L.",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1552,
+  "locationIdIssuesTotal": 1554,
   "byContact": [
     {
       "contactId": "45842000126310258",
@@ -2496,11 +2496,21 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 3,
+      "openCount": 4,
       "onHoldCount": 0,
       "closedCount": 853,
-      "totalCount": 856,
+      "totalCount": 857,
       "tickets": [
+        {
+          "id": "45842000129084408",
+          "number": "351502",
+          "subject": "LastApp - glovo integration deleted",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-21T05:30:11Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129084408",
+          "assignee": ""
+        },
         {
           "id": "45842000129072756",
           "number": "351461",
@@ -3157,7 +3167,7 @@
           "subject": "LastApp - rappi integration request",
           "status": "Open",
           "channel": "Email",
-          "createdTime": "2026-08-21T03:21:44Z",
+          "createdTime": "2026-08-21T03:21:45Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129084339",
           "assignee": ""
         },
@@ -3249,7 +3259,7 @@
           "channel": "Email",
           "createdTime": "2026-08-21T02:37:05Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129075606",
-          "assignee": "Harold Diaz"
+          "assignee": ""
         },
         {
           "id": "45842000129085334",
@@ -3592,16 +3602,6 @@
           "assignee": "Raimundo Garcia"
         },
         {
-          "id": "45842000128989303",
-          "number": "351077",
-          "subject": "LastApp - rappi integration request",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-19T08:06:21Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128989303",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
           "id": "45842000128992155",
           "number": "351076",
           "subject": "LastApp - rappi integration request",
@@ -3609,6 +3609,16 @@
           "channel": "Email",
           "createdTime": "2026-08-19T08:06:21Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128992155",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000128989303",
+          "number": "351077",
+          "subject": "LastApp - rappi integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-19T08:06:21Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128989303",
           "assignee": "Trinidad Larrain Punti"
         },
         {
@@ -4332,16 +4342,6 @@
           "assignee": "Dimitriz Rodriguez"
         },
         {
-          "id": "45842000129021045",
-          "number": "351130",
-          "subject": "Llamada entrante (00:03:51) de +34662534392 ( Carlos Díaz Pérez) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-19T11:14:16Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129021045",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000129029119",
           "number": "351129",
           "subject": "Llamada entrante de +34662534392 ( Carlos Díaz Pérez) a +34937377821 (Soporte)",
@@ -4349,6 +4349,16 @@
           "channel": "Phone",
           "createdTime": "2026-08-19T11:14:16Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129029119",
+          "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000129021045",
+          "number": "351130",
+          "subject": "Llamada entrante (00:03:51) de +34662534392 ( Carlos Díaz Pérez) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-19T11:14:16Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129021045",
           "assignee": "Angie Oliveros"
         },
         {
@@ -6618,9 +6628,19 @@
       "classification": "Integraciones",
       "openCount": 2,
       "onHoldCount": 4,
-      "closedCount": 79,
-      "totalCount": 85,
+      "closedCount": 80,
+      "totalCount": 86,
       "tickets": [
+        {
+          "id": "45842000129086082",
+          "number": "351503",
+          "subject": "Request Received",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-21T05:30:19Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129086082",
+          "assignee": "Harold Diaz"
+        },
         {
           "id": "45842000129072580",
           "number": "351424",
@@ -6762,16 +6782,6 @@
           "assignee": "Angie Oliveros"
         },
         {
-          "id": "45842000128962499",
-          "number": "350907",
-          "subject": "LastApp - glovo integration deleted",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-18T08:36:41Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128962499",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000128966785",
           "number": "350908",
           "subject": "LastApp - glovo integration deleted",
@@ -6779,6 +6789,16 @@
           "channel": "Email",
           "createdTime": "2026-08-18T08:36:41Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128966785",
+          "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000128962499",
+          "number": "350907",
+          "subject": "LastApp - glovo integration deleted",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-18T08:36:41Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128962499",
           "assignee": "Angie Oliveros"
         },
         {
@@ -7270,16 +7290,6 @@
           "createdTime": "2026-07-28T16:10:24Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128141074",
           "assignee": "Fernando Poza"
-        },
-        {
-          "id": "45842000128127051",
-          "number": "346892",
-          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34686651844 ( Carlos Navarro)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-07-28T13:49:24Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128127051",
-          "assignee": "Javier Landaeta"
         }
       ],
       "inMasterList": true
