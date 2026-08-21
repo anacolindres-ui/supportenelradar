@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-08-21T18:12:49.410044+00:00",
-  "totalOpenTickets": 48,
+  "lastUpdated": "2026-08-21T19:13:42.677745+00:00",
+  "totalOpenTickets": 51,
   "totalClosedTickets": 2751,
   "closedWindowDays": 30,
   "byLocation": [
-    {
-      "accountId": "45842000076998599",
-      "accountName": "CHIRINGUITO CARTUCHO",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000129029908",
-          "number": "351661",
-          "subject": "Llamada entrante (00:02:54) de +34624476933 ( ANGEL) a +34937377821 (Soporte)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-08-21T18:06:15Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129029908",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000129117028",
-          "number": "351660",
-          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34624476933 ( ANGEL)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-08-21T18:00:44Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129117028",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        }
-      ]
-    },
     {
       "accountId": "45842000126310225",
       "accountName": "DENVER BURGER",
@@ -55,6 +28,33 @@
           "createdTime": "2026-08-07T13:38:24Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128530132",
           "assignee": "Raimundo Garcia"
+        }
+      ]
+    },
+    {
+      "accountId": "45842000114090187",
+      "accountName": "Grupo Los Panchos",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000129096315",
+          "number": "351664",
+          "subject": "Hola",
+          "status": "Open",
+          "channel": "Last.app México",
+          "createdTime": "2026-08-21T18:31:36Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129096315",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000129001793",
+          "number": "351212",
+          "subject": "INTEGRACIONES RAPPI",
+          "status": "On Hold",
+          "channel": "Email",
+          "createdTime": "2026-08-19T15:13:05Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129001793",
+          "assignee": "Fernando Poza"
         }
       ]
     },
@@ -88,15 +88,51 @@
   ],
   "locationIdIssues": [
     {
-      "id": "45842000129029908",
-      "number": "351661",
-      "subject": "Llamada entrante (00:02:54) de +34624476933 ( ANGEL) a +34937377821 (Soporte)",
+      "id": "45842000129115473",
+      "number": "351666",
+      "subject": "Pero si yo cambio ahi me van a cobrar las 2 suscripciones",
+      "status": "Open",
+      "channel": "Last.app España",
+      "createdTime": "2026-08-21T18:42:16Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129115473",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "Sabor brasil",
+      "locationId": ""
+    },
+    {
+      "id": "45842000129110226",
+      "number": "351665",
+      "subject": "Hola",
+      "status": "Open",
+      "channel": "Last.app España",
+      "createdTime": "2026-08-21T18:40:49Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129110226",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "Mama uma",
+      "locationId": ""
+    },
+    {
+      "id": "45842000129096315",
+      "number": "351664",
+      "subject": "Hola",
+      "status": "Open",
+      "channel": "Last.app México",
+      "createdTime": "2026-08-21T18:31:36Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129096315",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "Grupo Los Panchos",
+      "locationId": ""
+    },
+    {
+      "id": "45842000129029982",
+      "number": "351663",
+      "subject": "Llamada entrante (00:03:37) de +34932200795 ( Cloudtown) a +34937377821 (Soporte)",
       "status": "Open",
       "channel": "Phone",
-      "createdTime": "2026-08-21T18:06:15Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129029908",
+      "createdTime": "2026-08-21T18:21:42Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129029982",
       "assignee": "Brayan Ricardo Fuentes Herrera",
-      "accountName": "CHIRINGUITO CARTUCHO",
+      "accountName": "Cloudtwon",
       "locationId": ""
     },
     {
@@ -388,18 +424,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000129098090",
-      "number": "351586",
-      "subject": "Invitación actualizada: Street ,Inbound Impact Review: Performance & Wins! Cada semana de 6pm a 6:30pm el viernes del vie 29 may al jue 20 ago (CEST) (carolina.sepulveda@last.app)",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-21T11:46:11Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129098090",
-      "assignee": "Jordy Carmona",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000129086620",
       "number": "351587",
       "subject": "Invitación sincronizada: Street ,Inbound Impact Review: Performance & Wins! (CEST) (melicarina.leon@last.app)",
@@ -420,6 +444,18 @@
       "createdTime": "2026-08-21T11:46:11Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129095276",
       "assignee": "Angie Oliveros",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000129098090",
+      "number": "351586",
+      "subject": "Invitación actualizada: Street ,Inbound Impact Review: Performance & Wins! Cada semana de 6pm a 6:30pm el viernes del vie 29 may al jue 20 ago (CEST) (carolina.sepulveda@last.app)",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-08-21T11:46:11Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129098090",
+      "assignee": "Jordy Carmona",
       "accountName": "",
       "locationId": ""
     },
@@ -919,7 +955,7 @@
       "id": "45842000129078577",
       "number": "351476",
       "subject": "Uber Case# 59494726-LastApp - uber integration request",
-      "status": "Open",
+      "status": "On Hold",
       "channel": "Email",
       "createdTime": "2026-08-21T02:12:25Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129078577",
@@ -1756,18 +1792,6 @@
       "locationId": "1234"
     },
     {
-      "id": "45842000128995153",
-      "number": "351081",
-      "subject": "[Just Eat UK] Update: LastApp - flyt integration request",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-19T08:07:07Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128995153",
-      "assignee": "Johan Manuel Cortissoz Posada",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000128992238",
       "number": "351080",
       "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
@@ -1778,6 +1802,18 @@
       "assignee": "Angie Oliveros",
       "accountName": "",
       "locationId": "1234"
+    },
+    {
+      "id": "45842000128995153",
+      "number": "351081",
+      "subject": "[Just Eat UK] Update: LastApp - flyt integration request",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-08-19T08:07:07Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128995153",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "",
+      "locationId": ""
     },
     {
       "id": "45842000128995084",
@@ -2450,74 +2486,10 @@
       "assignee": "Jordy Carmona",
       "accountName": "Chilli",
       "locationId": ""
-    },
-    {
-      "id": "45842000128924342",
-      "number": "350764",
-      "subject": "Llamada entrante (00:01:37) de +34675973624 ( hola@pedirlo.es) a +34937377821 (Soporte)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-08-17T11:45:48Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128924342",
-      "assignee": "Jordy Carmona",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000128940074",
-      "number": "350762",
-      "subject": "Llamada saliente (00:00:05) de +34937377821 (Soporte) a +34637277786 ( Gurpreet)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-08-17T11:36:46Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128940074",
-      "assignee": "Jordy Carmona",
-      "accountName": "Chilli",
-      "locationId": ""
-    },
-    {
-      "id": "45842000128908150",
-      "number": "350744",
-      "subject": "Llamada entrante (00:01:39) de +34633285922 ( Shay Frengi) a +34937377821 (Soporte)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-08-17T10:31:38Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128908150",
-      "assignee": "Jordy Carmona",
-      "accountName": "ALL-SIN Gelateria",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1600,
+  "locationIdIssuesTotal": 1603,
   "byContact": [
-    {
-      "contactId": "45842000073755691",
-      "contactName": "ANGEL",
-      "email": "omatple@gmail.com",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000129029908",
-          "number": "351661",
-          "subject": "Llamada entrante (00:02:54) de +34624476933 ( ANGEL) a +34937377821 (Soporte)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-08-21T18:06:15Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129029908",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000129117028",
-          "number": "351660",
-          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34624476933 ( ANGEL)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-08-21T18:00:44Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129117028",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        }
-      ]
-    },
     {
       "contactId": "45842000126310258",
       "contactName": "DENVER BURGER Nacho",
@@ -2543,6 +2515,34 @@
           "createdTime": "2026-08-07T13:38:24Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128530132",
           "assignee": "Raimundo Garcia"
+        }
+      ]
+    },
+    {
+      "contactId": "45842000114090243",
+      "contactName": "Ricardo Paredes Gómez",
+      "email": "ricardo.r.paredes@gmail.com",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000129096315",
+          "number": "351664",
+          "subject": "Hola",
+          "status": "Open",
+          "channel": "Last.app México",
+          "createdTime": "2026-08-21T18:31:36Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129096315",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000129001793",
+          "number": "351212",
+          "subject": "INTEGRACIONES RAPPI",
+          "status": "On Hold",
+          "channel": "Email",
+          "createdTime": "2026-08-19T15:13:05Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129001793",
+          "assignee": "Fernando Poza"
         }
       ]
     },
@@ -2578,11 +2578,41 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 6,
+      "openCount": 9,
       "onHoldCount": 0,
       "closedCount": 865,
-      "totalCount": 871,
+      "totalCount": 874,
       "tickets": [
+        {
+          "id": "45842000129115473",
+          "number": "351666",
+          "subject": "Pero si yo cambio ahi me van a cobrar las 2 suscripciones",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-21T18:42:16Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129115473",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000129110226",
+          "number": "351665",
+          "subject": "Hola",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-21T18:40:49Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129110226",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000129096315",
+          "number": "351664",
+          "subject": "Hola",
+          "status": "Open",
+          "channel": "Last.app México",
+          "createdTime": "2026-08-21T18:31:36Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129096315",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
         {
           "id": "45842000129117028",
           "number": "351660",
@@ -2684,16 +2714,6 @@
           "assignee": "Jordy Carmona"
         },
         {
-          "id": "45842000129086620",
-          "number": "351587",
-          "subject": "Invitación sincronizada: Street ,Inbound Impact Review: Performance & Wins! (CEST) (melicarina.leon@last.app)",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-21T11:46:11Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129086620",
-          "assignee": "Jordy Carmona"
-        },
-        {
           "id": "45842000129095276",
           "number": "351588",
           "subject": "Invitación sincronizada: Street ,Inbound Impact Review: Performance & Wins! (CEST) (carolina.sepulveda@last.app)",
@@ -2702,6 +2722,16 @@
           "createdTime": "2026-08-21T11:46:11Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129095276",
           "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000129086620",
+          "number": "351587",
+          "subject": "Invitación sincronizada: Street ,Inbound Impact Review: Performance & Wins! (CEST) (melicarina.leon@last.app)",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-21T11:46:11Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129086620",
+          "assignee": "Jordy Carmona"
         },
         {
           "id": "45842000129076624",
@@ -3248,8 +3278,8 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 3,
-      "onHoldCount": 4,
+      "openCount": 2,
+      "onHoldCount": 5,
       "closedCount": 405,
       "totalCount": 412,
       "tickets": [
@@ -3547,7 +3577,7 @@
           "id": "45842000129078577",
           "number": "351476",
           "subject": "Uber Case# 59494726-LastApp - uber integration request",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Email",
           "createdTime": "2026-08-21T02:12:25Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129078577",
@@ -3934,13 +3964,13 @@
       "totalCount": 344,
       "tickets": [
         {
-          "id": "45842000129029908",
-          "number": "351661",
-          "subject": "Llamada entrante (00:02:54) de +34624476933 ( ANGEL) a +34937377821 (Soporte)",
+          "id": "45842000129029982",
+          "number": "351663",
+          "subject": "Llamada entrante (00:03:37) de +34932200795 ( Cloudtown) a +34937377821 (Soporte)",
           "status": "Open",
           "channel": "Phone",
-          "createdTime": "2026-08-21T18:06:15Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129029908",
+          "createdTime": "2026-08-21T18:21:42Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129029982",
           "assignee": "Brayan Ricardo Fuentes Herrera"
         },
         {
@@ -4064,16 +4094,6 @@
           "assignee": "Jordy Carmona"
         },
         {
-          "id": "45842000129093100",
-          "number": "351564",
-          "subject": "Llamada entrante (00:19:46) de +34648114647 ( vicenç) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-21T10:31:04Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129093100",
-          "assignee": "Jordy Carmona"
-        },
-        {
           "id": "45842000129024879",
           "number": "351563",
           "subject": "Llamada entrante de +34648114647 ( vicenç) a +34937377821 (Soporte)",
@@ -4082,6 +4102,16 @@
           "createdTime": "2026-08-21T10:31:04Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129024879",
           "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000129093100",
+          "number": "351564",
+          "subject": "Llamada entrante (00:19:46) de +34648114647 ( vicenç) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-21T10:31:04Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129093100",
+          "assignee": "Jordy Carmona"
         },
         {
           "id": "45842000129016853",
@@ -4414,16 +4444,6 @@
           "assignee": "Dimitriz Rodriguez"
         },
         {
-          "id": "45842000129021045",
-          "number": "351130",
-          "subject": "Llamada entrante (00:03:51) de +34662534392 ( Carlos Díaz Pérez) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-19T11:14:16Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129021045",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000129029119",
           "number": "351129",
           "subject": "Llamada entrante de +34662534392 ( Carlos Díaz Pérez) a +34937377821 (Soporte)",
@@ -4431,6 +4451,16 @@
           "channel": "Phone",
           "createdTime": "2026-08-19T11:14:16Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129029119",
+          "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000129021045",
+          "number": "351130",
+          "subject": "Llamada entrante (00:03:51) de +34662534392 ( Carlos Díaz Pérez) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-19T11:14:16Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129021045",
           "assignee": "Angie Oliveros"
         },
         {
@@ -6624,16 +6654,6 @@
           "assignee": "Angie Oliveros"
         },
         {
-          "id": "45842000128966785",
-          "number": "350908",
-          "subject": "LastApp - glovo integration deleted",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-18T08:36:41Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128966785",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000128962499",
           "number": "350907",
           "subject": "LastApp - glovo integration deleted",
@@ -6641,6 +6661,16 @@
           "channel": "Email",
           "createdTime": "2026-08-18T08:36:41Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128962499",
+          "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000128966785",
+          "number": "350908",
+          "subject": "LastApp - glovo integration deleted",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-18T08:36:41Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128966785",
           "assignee": "Angie Oliveros"
         },
         {
@@ -7064,16 +7094,6 @@
           "assignee": "Trinidad Larrain Punti"
         },
         {
-          "id": "45842000128157367",
-          "number": "347135",
-          "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-07-29T13:15:39Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128157367",
-          "assignee": "Raimundo Garcia"
-        },
-        {
           "id": "45842000128154683",
           "number": "347134",
           "subject": "[Just Eat UK] Update: LastApp - flyt integration deleted",
@@ -7082,6 +7102,16 @@
           "createdTime": "2026-07-29T13:15:39Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128154683",
           "assignee": "Javier Landaeta"
+        },
+        {
+          "id": "45842000128157367",
+          "number": "347135",
+          "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-07-29T13:15:39Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128157367",
+          "assignee": "Raimundo Garcia"
         },
         {
           "id": "45842000128119055",
@@ -11698,8 +11728,8 @@
     },
     {
       "classification": "Admin :: entidades legales",
-      "openCount": 1,
-      "onHoldCount": 1,
+      "openCount": 0,
+      "onHoldCount": 2,
       "closedCount": 13,
       "totalCount": 15,
       "tickets": [
@@ -11727,7 +11757,7 @@
           "id": "45842000129017005",
           "number": "351088",
           "subject": "Trece repulgues Gran Vía // No se puede cambiar entidad legal.",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Phone",
           "createdTime": "2026-08-19T08:33:13Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129017005",
