@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-24T16:14:37.515376+00:00",
-  "totalOpenTickets": 60,
-  "totalClosedTickets": 2689,
+  "lastUpdated": "2026-08-24T17:14:38.657972+00:00",
+  "totalOpenTickets": 61,
+  "totalClosedTickets": 2692,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -34,15 +34,15 @@
   ],
   "locationIdIssues": [
     {
-      "id": "45842000129138657",
-      "number": "352012",
-      "subject": "Hola buenas necesito configurar una impresora. Habra alguien que me ayude a hacerlo hoy tipo 8 pm?",
-      "status": "Open",
-      "channel": "Last.app España",
-      "createdTime": "2026-08-24T15:40:09Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129138657",
-      "assignee": "Angie Oliveros",
-      "accountName": "WONDERFOOD IBIZA",
+      "id": "45842000129157300",
+      "number": "352016",
+      "subject": "Llamada entrante (00:00:28) de +34680340799 ( Luis Alberto) a +34937377821 (Soporte)",
+      "status": "Closed",
+      "channel": "Phone",
+      "createdTime": "2026-08-24T16:45:45Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129157300",
+      "assignee": "Jordy Carmona",
+      "accountName": "",
       "locationId": ""
     },
     {
@@ -2524,21 +2524,11 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 12,
+      "openCount": 11,
       "onHoldCount": 0,
       "closedCount": 807,
-      "totalCount": 819,
+      "totalCount": 818,
       "tickets": [
-        {
-          "id": "45842000129138657",
-          "number": "352012",
-          "subject": "Hola buenas necesito configurar una impresora. Habra alguien que me ayude a hacerlo hoy tipo 8 pm?",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-24T15:40:09Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129138657",
-          "assignee": "Angie Oliveros"
-        },
         {
           "id": "45842000129161445",
           "number": "352010",
@@ -3916,9 +3906,19 @@
       "classification": "Calls",
       "openCount": 0,
       "onHoldCount": 0,
-      "closedCount": 354,
-      "totalCount": 354,
+      "closedCount": 355,
+      "totalCount": 355,
       "tickets": [
+        {
+          "id": "45842000129157300",
+          "number": "352016",
+          "subject": "Llamada entrante (00:00:28) de +34680340799 ( Luis Alberto) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-24T16:45:45Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129157300",
+          "assignee": "Jordy Carmona"
+        },
         {
           "id": "45842000129116887",
           "number": "352007",
@@ -4420,16 +4420,6 @@
           "assignee": "Jordy Carmona"
         },
         {
-          "id": "45842000129093100",
-          "number": "351564",
-          "subject": "Llamada entrante (00:19:46) de +34648114647 ( vicenç) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-21T10:31:04Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129093100",
-          "assignee": "Jordy Carmona"
-        },
-        {
           "id": "45842000129024879",
           "number": "351563",
           "subject": "Llamada entrante de +34648114647 ( vicenç) a +34937377821 (Soporte)",
@@ -4438,6 +4428,16 @@
           "createdTime": "2026-08-21T10:31:04Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129024879",
           "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000129093100",
+          "number": "351564",
+          "subject": "Llamada entrante (00:19:46) de +34648114647 ( vicenç) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-21T10:31:04Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129093100",
+          "assignee": "Jordy Carmona"
         },
         {
           "id": "45842000129016853",
@@ -4508,27 +4508,47 @@
           "createdTime": "2026-08-21T07:35:43Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129021800",
           "assignee": "Angie Oliveros"
-        },
-        {
-          "id": "45842000129028583",
-          "number": "351444",
-          "subject": "Llamada entrante (00:00:00) de +34699925540 (  34699925540) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-20T19:11:43Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129028583",
-          "assignee": "Jordy Carmona"
         }
       ],
       "inMasterList": false
     },
     {
       "classification": "Admin :: General",
-      "openCount": 0,
+      "openCount": 1,
       "onHoldCount": 1,
-      "closedCount": 239,
-      "totalCount": 240,
+      "closedCount": 241,
+      "totalCount": 243,
       "tickets": [
+        {
+          "id": "45842000129167231",
+          "number": "352015",
+          "subject": "Hola buenas tardes",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-24T16:23:32Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129167231",
+          "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000129145627",
+          "number": "352014",
+          "subject": "Hola",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-24T16:20:11Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129145627",
+          "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000129138657",
+          "number": "352012",
+          "subject": "Hola buenas necesito configurar una impresora. Habra alguien que me ayude a hacerlo hoy tipo 8 pm?",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-24T15:40:09Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129138657",
+          "assignee": "Angie Oliveros"
+        },
         {
           "id": "45842000129165418",
           "number": "352006",
@@ -5107,26 +5127,6 @@
           "channel": "Email",
           "createdTime": "2026-08-20T14:07:35Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129070926",
-          "assignee": "Angie Oliveros"
-        },
-        {
-          "id": "45842000129061651",
-          "number": "351385",
-          "subject": "1800412111120409.jpeg",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-20T13:44:30Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129061651",
-          "assignee": "Angie Oliveros"
-        },
-        {
-          "id": "45842000129071116",
-          "number": "351384",
-          "subject": "1348412624136838.jpeg",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-20T13:39:42Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129071116",
           "assignee": "Angie Oliveros"
         },
         {
@@ -8334,11 +8334,21 @@
     },
     {
       "classification": "Admin :: Reportes",
-      "openCount": 0,
+      "openCount": 1,
       "onHoldCount": 5,
       "closedCount": 63,
-      "totalCount": 68,
+      "totalCount": 69,
       "tickets": [
+        {
+          "id": "45842000129156373",
+          "number": "352017",
+          "subject": "Hola buenas tardes,",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-24T16:57:09Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129156373",
+          "assignee": "Harold Diaz"
+        },
         {
           "id": "45842000129165546",
           "number": "352013",
