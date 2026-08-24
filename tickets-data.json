@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-24T22:09:58.090019+00:00",
+  "lastUpdated": "2026-08-24T23:09:22.962128+00:00",
   "totalOpenTickets": 59,
-  "totalClosedTickets": 2687,
+  "totalClosedTickets": 2689,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -33,6 +33,18 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000129189046",
+      "number": "352047",
+      "subject": "Buenas tardes hace app para delivery",
+      "status": "Closed",
+      "channel": "Last.app México",
+      "createdTime": "2026-08-24T22:48:38Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129189046",
+      "assignee": "Jordy Carmona",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000129161680",
       "number": "352044",
@@ -505,7 +517,7 @@
       "id": "45842000129126723",
       "number": "351838",
       "subject": "Re: Alex and Formación / Aclaración de dudas (30 minutos)",
-      "status": "Open",
+      "status": "On Hold",
       "channel": "Email",
       "createdTime": "2026-08-23T12:52:49Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129126723",
@@ -1426,18 +1438,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000129093100",
-      "number": "351564",
-      "subject": "Llamada entrante (00:19:46) de +34648114647 ( vicenç) a +34937377821 (Soporte)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-08-21T10:31:04Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129093100",
-      "assignee": "Jordy Carmona",
-      "accountName": "Rosrisseria el padro",
-      "locationId": ""
-    },
-    {
       "id": "45842000129024879",
       "number": "351563",
       "subject": "Llamada entrante de +34648114647 ( vicenç) a +34937377821 (Soporte)",
@@ -1448,6 +1448,18 @@
       "assignee": "Angie Oliveros",
       "accountName": "Rosrisseria el padro",
       "locationId": "1234"
+    },
+    {
+      "id": "45842000129093100",
+      "number": "351564",
+      "subject": "Llamada entrante (00:19:46) de +34648114647 ( vicenç) a +34937377821 (Soporte)",
+      "status": "Closed",
+      "channel": "Phone",
+      "createdTime": "2026-08-21T10:31:04Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129093100",
+      "assignee": "Jordy Carmona",
+      "accountName": "Rosrisseria el padro",
+      "locationId": ""
     },
     {
       "id": "45842000129084891",
@@ -2266,18 +2278,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000129060796",
-      "number": "351328",
-      "subject": "[Just Eat UK] Update: LastApp - flyt integration deleted",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-20T09:59:55Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129060796",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": "1234"
-    },
-    {
       "id": "45842000129060794",
       "number": "351329",
       "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
@@ -2288,6 +2288,18 @@
       "assignee": "Javier Landaeta",
       "accountName": "",
       "locationId": ""
+    },
+    {
+      "id": "45842000129060796",
+      "number": "351328",
+      "subject": "[Just Eat UK] Update: LastApp - flyt integration deleted",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-08-20T09:59:55Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129060796",
+      "assignee": "Angie Oliveros",
+      "accountName": "",
+      "locationId": "1234"
     },
     {
       "id": "45842000129060658",
@@ -2420,21 +2432,9 @@
       "assignee": "Raimundo Garcia",
       "accountName": "",
       "locationId": "1234"
-    },
-    {
-      "id": "45842000129060195",
-      "number": "351279",
-      "subject": "LastApp - rappi integration request",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-20T04:21:29Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129060195",
-      "assignee": "Javier Landaeta",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1531,
+  "locationIdIssuesTotal": 1532,
   "byContact": [
     {
       "contactId": "45842000122276695",
@@ -2496,11 +2496,21 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 11,
+      "openCount": 10,
       "onHoldCount": 0,
-      "closedCount": 798,
+      "closedCount": 799,
       "totalCount": 809,
       "tickets": [
+        {
+          "id": "45842000129189046",
+          "number": "352047",
+          "subject": "Buenas tardes hace app para delivery",
+          "status": "Closed",
+          "channel": "Last.app México",
+          "createdTime": "2026-08-24T22:48:38Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129189046",
+          "assignee": "Jordy Carmona"
+        },
         {
           "id": "45842000129161680",
           "number": "352044",
@@ -2690,16 +2700,6 @@
           "createdTime": "2026-08-23T13:07:39Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129135644",
           "assignee": "Jordy Carmona"
-        },
-        {
-          "id": "45842000129126723",
-          "number": "351838",
-          "subject": "Re: Alex and Formación / Aclaración de dudas (30 minutos)",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-23T12:52:49Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129126723",
-          "assignee": "Javier Landaeta"
         },
         {
           "id": "45842000129123439",
@@ -2982,16 +2982,6 @@
           "assignee": "Jordy Carmona"
         },
         {
-          "id": "45842000129095276",
-          "number": "351588",
-          "subject": "Invitación sincronizada: Street ,Inbound Impact Review: Performance & Wins! (CEST) (carolina.sepulveda@last.app)",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-21T11:46:11Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129095276",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000129098090",
           "number": "351586",
           "subject": "Invitación actualizada: Street ,Inbound Impact Review: Performance & Wins! Cada semana de 6pm a 6:30pm el viernes del vie 29 may al jue 20 ago (CEST) (carolina.sepulveda@last.app)",
@@ -3000,6 +2990,16 @@
           "createdTime": "2026-08-21T11:46:11Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129098090",
           "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000129095276",
+          "number": "351588",
+          "subject": "Invitación sincronizada: Street ,Inbound Impact Review: Performance & Wins! (CEST) (carolina.sepulveda@last.app)",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-21T11:46:11Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129095276",
+          "assignee": "Angie Oliveros"
         },
         {
           "id": "45842000129076624",
@@ -3189,16 +3189,6 @@
           "channel": "Phone",
           "createdTime": "2026-08-20T10:21:35Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129028360",
-          "assignee": "Javier Landaeta"
-        },
-        {
-          "id": "45842000129060794",
-          "number": "351329",
-          "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-20T09:59:55Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129060794",
           "assignee": "Javier Landaeta"
         },
         {
@@ -5768,9 +5758,19 @@
       "classification": "Admin :: Impresoras",
       "openCount": 1,
       "onHoldCount": 3,
-      "closedCount": 114,
-      "totalCount": 118,
+      "closedCount": 115,
+      "totalCount": 119,
       "tickets": [
+        {
+          "id": "45842000129156920",
+          "number": "352046",
+          "subject": "Buenas noches, como hago para imprimir comanda para la cocina separado de la barra, con 1 sola impresora?",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-24T22:31:09Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129156920",
+          "assignee": "Jordy Carmona"
+        },
         {
           "id": "45842000129164653",
           "number": "352023",
@@ -6392,16 +6392,6 @@
           "assignee": "Harold Diaz"
         },
         {
-          "id": "45842000128618486",
-          "number": "349831",
-          "subject": "Mr. Majo’s / Impresora de cocina no imprime",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-11T20:24:32Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128618486",
-          "assignee": "Jordy Carmona"
-        },
-        {
           "id": "45842000128243838",
           "number": "348221",
           "subject": "SPICE BCN // Pagos con tarjetas fraudulentas",
@@ -6416,8 +6406,8 @@
     },
     {
       "classification": "Integraciones",
-      "openCount": 2,
-      "onHoldCount": 3,
+      "openCount": 1,
+      "onHoldCount": 4,
       "closedCount": 91,
       "totalCount": 96,
       "tickets": [
@@ -6605,7 +6595,7 @@
           "id": "45842000128992362",
           "number": "351085",
           "subject": "Pedidos no integrados - Empanadish",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Email",
           "createdTime": "2026-08-19T08:13:10Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128992362",
@@ -8297,9 +8287,9 @@
     {
       "classification": "Admin :: Reportes",
       "openCount": 0,
-      "onHoldCount": 5,
+      "onHoldCount": 6,
       "closedCount": 66,
-      "totalCount": 71,
+      "totalCount": 72,
       "tickets": [
         {
           "id": "45842000129171060",
@@ -8370,6 +8360,16 @@
           "createdTime": "2026-08-24T05:49:14Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129151309",
           "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000129126723",
+          "number": "351838",
+          "subject": "Re: Alex and Formación / Aclaración de dudas (30 minutos)",
+          "status": "On Hold",
+          "channel": "Email",
+          "createdTime": "2026-08-23T12:52:49Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129126723",
+          "assignee": "Javier Landaeta"
         },
         {
           "id": "45842000129135183",
