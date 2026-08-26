@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-26T06:16:34.841228+00:00",
-  "totalOpenTickets": 59,
-  "totalClosedTickets": 2686,
+  "lastUpdated": "2026-08-26T07:22:46.088012+00:00",
+  "totalOpenTickets": 60,
+  "totalClosedTickets": 2688,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -33,6 +33,18 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000129333119",
+      "number": "352270",
+      "subject": "ivan.last2024, descubre lo que han compartido mandrakegreek y 6 personas más",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-08-26T06:42:45Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129333119",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "",
+      "locationId": "1234"
+    },
     {
       "id": "45842000129323891",
       "number": "352257",
@@ -1870,18 +1882,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000129098090",
-      "number": "351586",
-      "subject": "Invitación actualizada: Street ,Inbound Impact Review: Performance & Wins! Cada semana de 6pm a 6:30pm el viernes del vie 29 may al jue 20 ago (CEST) (carolina.sepulveda@last.app)",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-21T11:46:11Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129098090",
-      "assignee": "Jordy Carmona",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000129086620",
       "number": "351587",
       "subject": "Invitación sincronizada: Street ,Inbound Impact Review: Performance & Wins! (CEST) (melicarina.leon@last.app)",
@@ -1889,6 +1889,18 @@
       "channel": "Email",
       "createdTime": "2026-08-21T11:46:11Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129086620",
+      "assignee": "Jordy Carmona",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000129098090",
+      "number": "351586",
+      "subject": "Invitación actualizada: Street ,Inbound Impact Review: Performance & Wins! Cada semana de 6pm a 6:30pm el viernes del vie 29 may al jue 20 ago (CEST) (carolina.sepulveda@last.app)",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-08-21T11:46:11Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129098090",
       "assignee": "Jordy Carmona",
       "accountName": "",
       "locationId": ""
@@ -1978,18 +1990,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000129093100",
-      "number": "351564",
-      "subject": "Llamada entrante (00:19:46) de +34648114647 ( vicenç) a +34937377821 (Soporte)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-08-21T10:31:04Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129093100",
-      "assignee": "Jordy Carmona",
-      "accountName": "Rosrisseria el padro",
-      "locationId": ""
-    },
-    {
       "id": "45842000129024879",
       "number": "351563",
       "subject": "Llamada entrante de +34648114647 ( vicenç) a +34937377821 (Soporte)",
@@ -2000,6 +2000,18 @@
       "assignee": "Angie Oliveros",
       "accountName": "Rosrisseria el padro",
       "locationId": "1234"
+    },
+    {
+      "id": "45842000129093100",
+      "number": "351564",
+      "subject": "Llamada entrante (00:19:46) de +34648114647 ( vicenç) a +34937377821 (Soporte)",
+      "status": "Closed",
+      "channel": "Phone",
+      "createdTime": "2026-08-21T10:31:04Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129093100",
+      "assignee": "Jordy Carmona",
+      "accountName": "Rosrisseria el padro",
+      "locationId": ""
     },
     {
       "id": "45842000129084891",
@@ -2420,21 +2432,9 @@
       "assignee": "Raimundo Garcia",
       "accountName": "",
       "locationId": "1234"
-    },
-    {
-      "id": "45842000129078399",
-      "number": "351465",
-      "subject": "Nosotros somos Last.app",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-20T23:07:05Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129078399",
-      "assignee": "Harold Diaz",
-      "accountName": "",
-      "locationId": "1234"
     }
   ],
-  "locationIdIssuesTotal": 1534,
+  "locationIdIssuesTotal": 1535,
   "byContact": [
     {
       "contactId": "45842000122276695",
@@ -3154,8 +3154,8 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 3,
-      "onHoldCount": 6,
+      "openCount": 4,
+      "onHoldCount": 5,
       "closedCount": 374,
       "totalCount": 383,
       "tickets": [
@@ -3183,7 +3183,7 @@
           "id": "45842000129326688",
           "number": "352237",
           "subject": "Uber Case# 59605503-LastApp - uber integration request",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-08-25T18:19:44Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129326688",
@@ -3780,16 +3780,6 @@
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
-          "id": "45842000128992238",
-          "number": "351080",
-          "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
-          "status": "On Hold",
-          "channel": "Email",
-          "createdTime": "2026-08-19T08:07:07Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128992238",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000128995153",
           "number": "351081",
           "subject": "[Just Eat UK] Update: LastApp - flyt integration request",
@@ -3798,6 +3788,16 @@
           "createdTime": "2026-08-19T08:07:07Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128995153",
           "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000128992238",
+          "number": "351080",
+          "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
+          "status": "On Hold",
+          "channel": "Email",
+          "createdTime": "2026-08-19T08:07:07Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128992238",
+          "assignee": "Angie Oliveros"
         },
         {
           "id": "45842000128972829",
@@ -4464,11 +4464,21 @@
     },
     {
       "classification": "Admin :: General",
-      "openCount": 0,
+      "openCount": 1,
       "onHoldCount": 2,
       "closedCount": 242,
-      "totalCount": 244,
+      "totalCount": 245,
       "tickets": [
+        {
+          "id": "45842000129292570",
+          "number": "352271",
+          "subject": "Que tal?",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-26T06:48:57Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129292570",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000129275641",
           "number": "352232",
@@ -5070,16 +5080,6 @@
           "assignee": "Angie Oliveros"
         },
         {
-          "id": "45842000129079456",
-          "number": "351568",
-          "subject": "Hola",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-21T10:43:01Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129079456",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000129055353",
           "number": "351213",
           "subject": "Localizaciones duplicadas",
@@ -5088,6 +5088,16 @@
           "createdTime": "2026-08-19T15:20:26Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129055353",
           "assignee": "Raimundo Garcia"
+        },
+        {
+          "id": "45842000128974611",
+          "number": "351030",
+          "subject": "Nuevas funciones de IA gratuitas y cambios en las Condiciones de Servicio relacionados con la IA",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-18T22:24:45Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128974611",
+          "assignee": "Harold Diaz"
         }
       ],
       "inMasterList": true
@@ -5776,9 +5786,19 @@
       "classification": "Admin :: Impresoras",
       "openCount": 2,
       "onHoldCount": 2,
-      "closedCount": 114,
-      "totalCount": 118,
+      "closedCount": 115,
+      "totalCount": 119,
       "tickets": [
+        {
+          "id": "45842000129283341",
+          "number": "352272",
+          "subject": "buenos dias, no me funcionan las impresoras",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-26T07:06:00Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129283341",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000129292310",
           "number": "352234",
@@ -6390,16 +6410,6 @@
           "assignee": "Dimitriz Rodriguez"
         },
         {
-          "id": "45842000128801157",
-          "number": "350195",
-          "subject": "Llamada saliente (00:00:24) de +34937377821 (Soporte) a +34655147730 ( IZAKAYA BARCELONA GASTRO & SUSHI)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-13T14:22:34Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128801157",
-          "assignee": "Harold Diaz"
-        },
-        {
           "id": "45842000128773211",
           "number": "350181",
           "subject": "Incidencias en varias ubicaciones",
@@ -6750,16 +6760,6 @@
           "assignee": "Angie Oliveros"
         },
         {
-          "id": "45842000128966785",
-          "number": "350908",
-          "subject": "LastApp - glovo integration deleted",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-18T08:36:41Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128966785",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000128962499",
           "number": "350907",
           "subject": "LastApp - glovo integration deleted",
@@ -6767,6 +6767,16 @@
           "channel": "Email",
           "createdTime": "2026-08-18T08:36:41Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128962499",
+          "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000128966785",
+          "number": "350908",
+          "subject": "LastApp - glovo integration deleted",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-18T08:36:41Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128966785",
           "assignee": "Angie Oliveros"
         },
         {
@@ -11096,9 +11106,19 @@
       "classification": "SPAM",
       "openCount": 0,
       "onHoldCount": 0,
-      "closedCount": 23,
-      "totalCount": 23,
+      "closedCount": 24,
+      "totalCount": 24,
       "tickets": [
+        {
+          "id": "45842000129333119",
+          "number": "352270",
+          "subject": "ivan.last2024, descubre lo que han compartido mandrakegreek y 6 personas más",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-26T06:42:45Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129333119",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000129323891",
           "number": "352257",
