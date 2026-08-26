@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-08-26T19:37:40.363195+00:00",
-  "totalOpenTickets": 59,
+  "lastUpdated": "2026-08-26T20:55:50.778035+00:00",
+  "totalOpenTickets": 60,
   "totalClosedTickets": 2785,
   "closedWindowDays": 30,
   "byLocation": [],
   "locationIdIssues": [
+    {
+      "id": "45842000129345124",
+      "number": "352453",
+      "subject": "Hola buenas tardes",
+      "status": "Open",
+      "channel": "Last.app Mexico",
+      "createdTime": "2026-08-26T20:29:55Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129345124",
+      "assignee": "Dimitriz Rodriguez",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000129350470",
       "number": "352449",
@@ -134,18 +146,6 @@
       "createdTime": "2026-08-26T15:50:26Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129339993",
       "assignee": "Dimitriz Rodriguez",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000129333783",
-      "number": "352421",
-      "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
-      "status": "Open",
-      "channel": "Email",
-      "createdTime": "2026-08-26T15:48:17Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129333783",
-      "assignee": "Javier Landaeta",
       "accountName": "",
       "locationId": ""
     },
@@ -2496,11 +2496,21 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 3,
+      "openCount": 4,
       "onHoldCount": 0,
       "closedCount": 817,
-      "totalCount": 820,
+      "totalCount": 821,
       "tickets": [
+        {
+          "id": "45842000129345124",
+          "number": "352453",
+          "subject": "Hola buenas tardes",
+          "status": "Open",
+          "channel": "Last.app Mexico",
+          "createdTime": "2026-08-26T20:29:55Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129345124",
+          "assignee": "Dimitriz Rodriguez"
+        },
         {
           "id": "45842000129350470",
           "number": "352449",
@@ -3136,8 +3146,8 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 2,
-      "onHoldCount": 7,
+      "openCount": 1,
+      "onHoldCount": 8,
       "closedCount": 388,
       "totalCount": 397,
       "tickets": [
@@ -3185,7 +3195,7 @@
           "id": "45842000129333783",
           "number": "352421",
           "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Email",
           "createdTime": "2026-08-26T15:48:17Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129333783",
