@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-26T02:35:41.012745+00:00",
-  "totalOpenTickets": 59,
-  "totalClosedTickets": 2686,
+  "lastUpdated": "2026-08-26T03:26:54.099505+00:00",
+  "totalOpenTickets": 58,
+  "totalClosedTickets": 2687,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -33,18 +33,6 @@
     }
   ],
   "locationIdIssues": [
-    {
-      "id": "45842000129331047",
-      "number": "352261",
-      "subject": "Solicitud de integración API para pedidos QR — Grillaera Algeciras",
-      "status": "Open",
-      "channel": "Email",
-      "createdTime": "2026-08-25T23:52:03Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129331047",
-      "assignee": "Johan Manuel Cortissoz Posada",
-      "accountName": "",
-      "locationId": ""
-    },
     {
       "id": "45842000129323891",
       "number": "352257",
@@ -2432,9 +2420,21 @@
       "assignee": "Raimundo Garcia",
       "accountName": "",
       "locationId": "1234"
+    },
+    {
+      "id": "45842000129078399",
+      "number": "351465",
+      "subject": "Nosotros somos Last.app",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-08-20T23:07:05Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129078399",
+      "assignee": "Harold Diaz",
+      "accountName": "",
+      "locationId": "1234"
     }
   ],
-  "locationIdIssuesTotal": 1535,
+  "locationIdIssuesTotal": 1534,
   "byContact": [
     {
       "contactId": "45842000122276695",
@@ -2524,21 +2524,11 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 3,
+      "openCount": 2,
       "onHoldCount": 0,
       "closedCount": 798,
-      "totalCount": 801,
+      "totalCount": 800,
       "tickets": [
-        {
-          "id": "45842000129331047",
-          "number": "352261",
-          "subject": "Solicitud de integración API para pedidos QR — Grillaera Algeciras",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-08-25T23:52:03Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129331047",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
         {
           "id": "45842000129326942",
           "number": "352254",
@@ -6426,9 +6416,19 @@
       "classification": "Integraciones",
       "openCount": 7,
       "onHoldCount": 1,
-      "closedCount": 92,
-      "totalCount": 100,
+      "closedCount": 93,
+      "totalCount": 101,
       "tickets": [
+        {
+          "id": "45842000129331047",
+          "number": "352261",
+          "subject": "Solicitud de integración API para pedidos QR — Grillaera Algeciras",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-25T23:52:03Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129331047",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000129298156",
           "number": "352192",
@@ -6740,16 +6740,6 @@
           "assignee": "Angie Oliveros"
         },
         {
-          "id": "45842000128966785",
-          "number": "350908",
-          "subject": "LastApp - glovo integration deleted",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-18T08:36:41Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128966785",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000128962499",
           "number": "350907",
           "subject": "LastApp - glovo integration deleted",
@@ -6757,6 +6747,16 @@
           "channel": "Email",
           "createdTime": "2026-08-18T08:36:41Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128962499",
+          "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000128966785",
+          "number": "350908",
+          "subject": "LastApp - glovo integration deleted",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-18T08:36:41Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128966785",
           "assignee": "Angie Oliveros"
         },
         {
@@ -7098,16 +7098,6 @@
           "createdTime": "2026-08-03T08:19:53Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128312323",
           "assignee": ""
-        },
-        {
-          "id": "45842000128292320",
-          "number": "347831",
-          "subject": "VOLCADO DATOS DE LAST A AMOENUS 31/07",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-02T06:24:42Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128292320",
-          "assignee": "Trinidad Larrain Punti"
         }
       ],
       "inMasterList": true
