@@ -1,10 +1,50 @@
 {
-  "lastUpdated": "2026-08-27T02:43:00.825765+00:00",
-  "totalOpenTickets": 65,
-  "totalClosedTickets": 2651,
+  "lastUpdated": "2026-08-27T04:56:37.474031+00:00",
+  "totalOpenTickets": 66,
+  "totalClosedTickets": 2652,
   "closedWindowDays": 30,
-  "byLocation": [],
+  "byLocation": [
+    {
+      "accountId": "45842000114090187",
+      "accountName": "Grupo Los Panchos",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000129352264",
+          "number": "352473",
+          "subject": "ESTATUS INTEGRACIONES RAPPI",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-27T03:57:39Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129352264",
+          "assignee": ""
+        },
+        {
+          "id": "45842000129141558",
+          "number": "351849",
+          "subject": "Pedidos No Reflejados Uber",
+          "status": "On Hold",
+          "channel": "Email",
+          "createdTime": "2026-08-23T15:39:24Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129141558",
+          "assignee": "Trinidad Larrain Punti"
+        }
+      ]
+    }
+  ],
   "locationIdIssues": [
+    {
+      "id": "45842000129352264",
+      "number": "352473",
+      "subject": "ESTATUS INTEGRACIONES RAPPI",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-08-27T03:57:39Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129352264",
+      "assignee": "",
+      "accountName": "Grupo Los Panchos",
+      "locationId": ""
+    },
     {
       "id": "45842000129350959",
       "number": "352467",
@@ -2392,21 +2432,9 @@
       "assignee": "Javier Landaeta",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000129104009",
-      "number": "351608",
-      "subject": "Llamada saliente (00:00:22) de +34937377821 (Soporte) a +34686902306 ( Jorge)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-08-21T13:02:46Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129104009",
-      "assignee": "Raimundo Garcia",
-      "accountName": "terrazadelaurel@gmail.com",
-      "locationId": "1234"
     }
   ],
-  "locationIdIssuesTotal": 1486,
+  "locationIdIssuesTotal": 1487,
   "byContact": [
     {
       "contactId": "45842000085384851",
@@ -2465,6 +2493,34 @@
       ]
     },
     {
+      "contactId": "45842000114090243",
+      "contactName": "Ricardo Paredes Gómez",
+      "email": "ricardo.r.paredes@gmail.com",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000129352264",
+          "number": "352473",
+          "subject": "ESTATUS INTEGRACIONES RAPPI",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-27T03:57:39Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129352264",
+          "assignee": ""
+        },
+        {
+          "id": "45842000129141558",
+          "number": "351849",
+          "subject": "Pedidos No Reflejados Uber",
+          "status": "On Hold",
+          "channel": "Email",
+          "createdTime": "2026-08-23T15:39:24Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129141558",
+          "assignee": "Trinidad Larrain Punti"
+        }
+      ]
+    },
+    {
       "contactId": "45842000106722466",
       "contactName": "Yurest Solutions (Soporte Técnico)",
       "email": "sat@yurest.com",
@@ -2496,11 +2552,21 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 5,
+      "openCount": 6,
       "onHoldCount": 0,
       "closedCount": 782,
-      "totalCount": 787,
+      "totalCount": 788,
       "tickets": [
+        {
+          "id": "45842000129352264",
+          "number": "352473",
+          "subject": "ESTATUS INTEGRACIONES RAPPI",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-27T03:57:39Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129352264",
+          "assignee": ""
+        },
         {
           "id": "45842000129350959",
           "number": "352467",
@@ -4508,9 +4574,19 @@
       "classification": "Admin :: General",
       "openCount": 1,
       "onHoldCount": 1,
-      "closedCount": 249,
-      "totalCount": 251,
+      "closedCount": 250,
+      "totalCount": 252,
       "tickets": [
+        {
+          "id": "45842000129342373",
+          "number": "352472",
+          "subject": "Hola",
+          "status": "Closed",
+          "channel": "Last.app México",
+          "createdTime": "2026-08-27T03:27:00Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129342373",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000129353091",
           "number": "352448",
@@ -5110,16 +5186,6 @@
           "createdTime": "2026-08-22T13:47:44Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129125385",
           "assignee": "Jordy Carmona"
-        },
-        {
-          "id": "45842000129126329",
-          "number": "351731",
-          "subject": "Desván Bakery Islazul",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-22T12:36:38Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129126329",
-          "assignee": "Raimundo Garcia"
         },
         {
           "id": "45842000129055353",
@@ -6832,16 +6898,6 @@
           "assignee": "Angie Oliveros"
         },
         {
-          "id": "45842000128962499",
-          "number": "350907",
-          "subject": "LastApp - glovo integration deleted",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-18T08:36:41Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128962499",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000128966785",
           "number": "350908",
           "subject": "LastApp - glovo integration deleted",
@@ -6849,6 +6905,16 @@
           "channel": "Email",
           "createdTime": "2026-08-18T08:36:41Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128966785",
+          "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000128962499",
+          "number": "350907",
+          "subject": "LastApp - glovo integration deleted",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-18T08:36:41Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128962499",
           "assignee": "Angie Oliveros"
         },
         {
