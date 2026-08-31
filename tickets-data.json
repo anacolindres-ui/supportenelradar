@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-30T23:14:52.897094+00:00",
-  "totalOpenTickets": 89,
+  "lastUpdated": "2026-08-31T00:53:30.205629+00:00",
+  "totalOpenTickets": 90,
   "totalClosedTickets": 2710,
   "closedWindowDays": 30,
   "byLocation": [
@@ -168,6 +168,18 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000129489171",
+      "number": "353260",
+      "subject": "LastApp - didi integration request",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-08-31T00:08:48Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129489171",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000129443439",
       "number": "353258",
@@ -2555,21 +2567,9 @@
       "assignee": "Trinidad Larrain Punti",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000129338947",
-      "number": "352407",
-      "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
-      "status": "On Hold",
-      "channel": "Email",
-      "createdTime": "2026-08-26T14:40:07Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129338947",
-      "assignee": "Raimundo Garcia",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1485,
+  "locationIdIssuesTotal": 1486,
   "byContact": [
     {
       "contactId": "45842000126354134",
@@ -3523,11 +3523,21 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 4,
+      "openCount": 5,
       "onHoldCount": 4,
       "closedCount": 375,
-      "totalCount": 383,
+      "totalCount": 384,
       "tickets": [
+        {
+          "id": "45842000129489171",
+          "number": "353260",
+          "subject": "LastApp - didi integration request",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-31T00:08:48Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129489171",
+          "assignee": ""
+        },
         {
           "id": "45842000129475250",
           "number": "353118",
@@ -7349,16 +7359,6 @@
           "assignee": "Angie Oliveros"
         },
         {
-          "id": "45842000128966785",
-          "number": "350908",
-          "subject": "LastApp - glovo integration deleted",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-18T08:36:41Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128966785",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000128962499",
           "number": "350907",
           "subject": "LastApp - glovo integration deleted",
@@ -7366,6 +7366,16 @@
           "channel": "Email",
           "createdTime": "2026-08-18T08:36:41Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128962499",
+          "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000128966785",
+          "number": "350908",
+          "subject": "LastApp - glovo integration deleted",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-18T08:36:41Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128966785",
           "assignee": "Angie Oliveros"
         },
         {
