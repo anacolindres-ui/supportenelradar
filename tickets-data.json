@@ -1,14 +1,24 @@
 {
-  "lastUpdated": "2026-08-31T23:15:24.173783+00:00",
-  "totalOpenTickets": 65,
+  "lastUpdated": "2026-09-01T00:58:11.958485+00:00",
+  "totalOpenTickets": 68,
   "totalClosedTickets": 2841,
   "closedWindowDays": 30,
   "byLocation": [
     {
       "accountId": "45842000022977149",
       "accountName": "Cloudtown (Florencio-Madrid)",
-      "ticketCount": 2,
+      "ticketCount": 3,
       "tickets": [
+        {
+          "id": "45842000129541001",
+          "number": "353493",
+          "subject": "Incidencias de fin de semana integración Last-Cheerfy",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-31T23:36:01Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129541001",
+          "assignee": ""
+        },
         {
           "id": "45842000129438539",
           "number": "353186",
@@ -61,14 +71,50 @@
   ],
   "locationIdIssues": [
     {
+      "id": "45842000129561001",
+      "number": "353496",
+      "subject": "[Acción necesaria] Tus compensaciones están en pausa - Necesitamos información adicional para verificar tu negocio",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-09-01T00:54:43Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129561001",
+      "assignee": "Jordy Carmona",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000129541075",
+      "number": "353494",
+      "subject": "[Acción necesaria] Tus compensaciones están en pausa - Necesitamos información adicional para verificar tu negocio",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-09-01T00:48:40Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129541075",
+      "assignee": "Jordy Carmona",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000129541001",
+      "number": "353493",
+      "subject": "Incidencias de fin de semana integración Last-Cheerfy",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-08-31T23:36:01Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129541001",
+      "assignee": "",
+      "accountName": "Cloudtown (Florencio-Madrid)",
+      "locationId": ""
+    },
+    {
       "id": "45842000129521579",
       "number": "353490",
       "subject": "Monthly Scheduled Survey Report - CX Bookings Reviews",
       "status": "Open",
       "channel": "Email",
-      "createdTime": "2026-08-31T22:09:14Z",
+      "createdTime": "2026-08-31T22:09:15Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129521579",
-      "assignee": "",
+      "assignee": "Jordy Carmona",
       "accountName": "",
       "locationId": ""
     },
@@ -481,18 +527,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000129494745",
-      "number": "353288",
-      "subject": "Invitación sincronizada: Weekly Outbound Mon Aug 31, 2026 11:30am - 12pm (CEST) (mateu.munar@last.app)",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-31T07:24:11Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129494745",
-      "assignee": "",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000129497285",
       "number": "353290",
       "subject": "Invitación sincronizada: Weekly Outbound Mon Aug 31, 2026 11:30am - 12pm (CEST) (christian.martucci@last.app)",
@@ -505,13 +539,13 @@
       "locationId": ""
     },
     {
-      "id": "45842000129489666",
-      "number": "353287",
-      "subject": "Invitación sincronizada: Weekly Outbound Weekly from 9:30am to 10am on Monday from Mon Jun 22 to Sun Aug 30 (CEST) (rolando.escalona@last.app)",
+      "id": "45842000129494745",
+      "number": "353288",
+      "subject": "Invitación sincronizada: Weekly Outbound Mon Aug 31, 2026 11:30am - 12pm (CEST) (mateu.munar@last.app)",
       "status": "Closed",
       "channel": "Email",
-      "createdTime": "2026-08-31T07:23:59Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129489666",
+      "createdTime": "2026-08-31T07:24:11Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129494745",
       "assignee": "",
       "accountName": "",
       "locationId": ""
@@ -524,6 +558,18 @@
       "channel": "Email",
       "createdTime": "2026-08-31T07:23:59Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129494676",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000129489666",
+      "number": "353287",
+      "subject": "Invitación sincronizada: Weekly Outbound Weekly from 9:30am to 10am on Monday from Mon Jun 22 to Sun Aug 30 (CEST) (rolando.escalona@last.app)",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-08-31T07:23:59Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129489666",
       "assignee": "",
       "accountName": "",
       "locationId": ""
@@ -1633,18 +1679,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000129426622",
-      "number": "352911",
-      "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-28T08:51:48Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129426622",
-      "assignee": "Raimundo Garcia",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000129423516",
       "number": "352912",
       "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
@@ -1653,6 +1687,18 @@
       "createdTime": "2026-08-28T08:51:48Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129423516",
       "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000129426622",
+      "number": "352911",
+      "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-08-28T08:51:48Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129426622",
+      "assignee": "Raimundo Garcia",
       "accountName": "",
       "locationId": ""
     },
@@ -2423,46 +2469,38 @@
       "assignee": "Raimundo Garcia",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000129363375",
-      "number": "352580",
-      "subject": "GLOVO-LASTAPP (Intgraciones Pendientes)",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-27T11:35:44Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129363375",
-      "assignee": "Raimundo Garcia",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000129365084",
-      "number": "352564",
-      "subject": "Fwd: Altas Nuevos Locales Empanadish",
-      "status": "On Hold",
-      "channel": "Email",
-      "createdTime": "2026-08-27T10:57:37Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129365084",
-      "assignee": "Trinidad Larrain Punti",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000129308809",
-      "number": "352561",
-      "subject": "Llamada saliente (00:00:53) de +34937377821 (Soporte) a +34678914143 ( Reyna romero)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-08-27T10:53:00Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129308809",
-      "assignee": "Fernando Poza",
-      "accountName": "Nanoelmexicano",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1516,
+  "locationIdIssuesTotal": 1519,
   "byContact": [
+    {
+      "contactId": "45842000006459263",
+      "contactName": "Flipdish Support",
+      "email": "help@flipdish.com",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000129561001",
+          "number": "353496",
+          "subject": "[Acción necesaria] Tus compensaciones están en pausa - Necesitamos información adicional para verificar tu negocio",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-01T00:54:43Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129561001",
+          "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000129541075",
+          "number": "353494",
+          "subject": "[Acción necesaria] Tus compensaciones están en pausa - Necesitamos información adicional para verificar tu negocio",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-01T00:48:40Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129541075",
+          "assignee": "Jordy Carmona"
+        }
+      ]
+    },
     {
       "contactId": "45842000128896695",
       "contactName": "K",
@@ -2490,25 +2528,83 @@
           "assignee": "Fernando Poza"
         }
       ]
+    },
+    {
+      "contactId": "45842000060033514",
+      "contactName": "Marlyn",
+      "email": "marlyn@cloudtownbrands.com",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000129541001",
+          "number": "353493",
+          "subject": "Incidencias de fin de semana integración Last-Cheerfy",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-31T23:36:01Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129541001",
+          "assignee": ""
+        },
+        {
+          "id": "45842000128773211",
+          "number": "350181",
+          "subject": "Incidencias en varias ubicaciones",
+          "status": "On Hold",
+          "channel": "Email",
+          "createdTime": "2026-08-13T13:13:43Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128773211",
+          "assignee": "Fernando Poza"
+        }
+      ]
     }
   ],
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 5,
+      "openCount": 8,
       "onHoldCount": 0,
       "closedCount": 773,
-      "totalCount": 778,
+      "totalCount": 781,
       "tickets": [
+        {
+          "id": "45842000129561001",
+          "number": "353496",
+          "subject": "[Acción necesaria] Tus compensaciones están en pausa - Necesitamos información adicional para verificar tu negocio",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-01T00:54:43Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129561001",
+          "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000129541075",
+          "number": "353494",
+          "subject": "[Acción necesaria] Tus compensaciones están en pausa - Necesitamos información adicional para verificar tu negocio",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-01T00:48:40Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129541075",
+          "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000129541001",
+          "number": "353493",
+          "subject": "Incidencias de fin de semana integración Last-Cheerfy",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-31T23:36:01Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129541001",
+          "assignee": ""
+        },
         {
           "id": "45842000129521579",
           "number": "353490",
           "subject": "Monthly Scheduled Survey Report - CX Bookings Reviews",
           "status": "Open",
           "channel": "Email",
-          "createdTime": "2026-08-31T22:09:14Z",
+          "createdTime": "2026-08-31T22:09:15Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129521579",
-          "assignee": ""
+          "assignee": "Jordy Carmona"
         },
         {
           "id": "45842000129521291",
@@ -2711,13 +2807,13 @@
           "assignee": ""
         },
         {
-          "id": "45842000129494745",
-          "number": "353288",
-          "subject": "Invitación sincronizada: Weekly Outbound Mon Aug 31, 2026 11:30am - 12pm (CEST) (mateu.munar@last.app)",
+          "id": "45842000129497285",
+          "number": "353290",
+          "subject": "Invitación sincronizada: Weekly Outbound Mon Aug 31, 2026 11:30am - 12pm (CEST) (christian.martucci@last.app)",
           "status": "Closed",
           "channel": "Email",
           "createdTime": "2026-08-31T07:24:11Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129494745",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129497285",
           "assignee": ""
         },
         {
@@ -2731,23 +2827,13 @@
           "assignee": ""
         },
         {
-          "id": "45842000129497285",
-          "number": "353290",
-          "subject": "Invitación sincronizada: Weekly Outbound Mon Aug 31, 2026 11:30am - 12pm (CEST) (christian.martucci@last.app)",
+          "id": "45842000129494745",
+          "number": "353288",
+          "subject": "Invitación sincronizada: Weekly Outbound Mon Aug 31, 2026 11:30am - 12pm (CEST) (mateu.munar@last.app)",
           "status": "Closed",
           "channel": "Email",
           "createdTime": "2026-08-31T07:24:11Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129497285",
-          "assignee": ""
-        },
-        {
-          "id": "45842000129494676",
-          "number": "353286",
-          "subject": "Invitación sincronizada: Weekly Outbound Weekly from 9:30am to 10am on Monday from Mon Jun 22 to Sun Aug 30 (CEST) (mateu.munar@last.app)",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-31T07:23:59Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129494676",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129494745",
           "assignee": ""
         },
         {
@@ -2758,6 +2844,16 @@
           "channel": "Email",
           "createdTime": "2026-08-31T07:23:59Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129489666",
+          "assignee": ""
+        },
+        {
+          "id": "45842000129494676",
+          "number": "353286",
+          "subject": "Invitación sincronizada: Weekly Outbound Weekly from 9:30am to 10am on Monday from Mon Jun 22 to Sun Aug 30 (CEST) (mateu.munar@last.app)",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-31T07:23:59Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129494676",
           "assignee": ""
         },
         {
@@ -2791,16 +2887,6 @@
           "assignee": ""
         },
         {
-          "id": "45842000129489530",
-          "number": "353281",
-          "subject": "Invitación sincronizada: Weekly Outbound Weekly from 9:30am to 10am on Monday from Mon Jun 22 to Sun Aug 30 (CEST) (christian.martucci@last.app)",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-31T07:23:55Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129489530",
-          "assignee": ""
-        },
-        {
           "id": "45842000129494469",
           "number": "353282",
           "subject": "Invitación sincronizada: Weekly Outbound Weekly from 9:30am to 10am on Monday (CEST) (rolando.escalona@last.app)",
@@ -2818,6 +2904,16 @@
           "channel": "Email",
           "createdTime": "2026-08-31T07:23:55Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129489528",
+          "assignee": ""
+        },
+        {
+          "id": "45842000129489530",
+          "number": "353281",
+          "subject": "Invitación sincronizada: Weekly Outbound Weekly from 9:30am to 10am on Monday from Mon Jun 22 to Sun Aug 30 (CEST) (christian.martucci@last.app)",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-31T07:23:55Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129489530",
           "assignee": ""
         },
         {
@@ -5871,16 +5967,6 @@
           "assignee": "Trinidad Larrain Punti"
         },
         {
-          "id": "45842000129411672",
-          "number": "352909",
-          "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-28T08:51:35Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129411672",
-          "assignee": "Harold Diaz"
-        },
-        {
           "id": "45842000129423448",
           "number": "352910",
           "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
@@ -5888,6 +5974,16 @@
           "channel": "Email",
           "createdTime": "2026-08-28T08:51:35Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129423448",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000129411672",
+          "number": "352909",
+          "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-28T08:51:35Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129411672",
           "assignee": "Harold Diaz"
         },
         {
@@ -11071,16 +11167,6 @@
       "totalCount": 22,
       "tickets": [
         {
-          "id": "45842000129497869",
-          "number": "353371",
-          "subject": "Neue Saison, neue Tech  ",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-31T10:57:56Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129497869",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
           "id": "45842000129503697",
           "number": "353372",
           "subject": "CREAMOS EL PODCAST DE TU EMPRESA",
@@ -11088,6 +11174,16 @@
           "channel": "Email",
           "createdTime": "2026-08-31T10:57:56Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129503697",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000129497869",
+          "number": "353371",
+          "subject": "Neue Saison, neue Tech  ",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-31T10:57:56Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129497869",
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
