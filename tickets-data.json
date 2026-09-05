@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-05T16:16:43.792817+00:00",
-  "totalOpenTickets": 88,
-  "totalClosedTickets": 2851,
+  "lastUpdated": "2026-09-05T17:13:21.934787+00:00",
+  "totalOpenTickets": 90,
+  "totalClosedTickets": 2852,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -151,6 +151,30 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000129807786",
+      "number": "354714",
+      "subject": "Hola",
+      "status": "Open",
+      "channel": "Last.app España",
+      "createdTime": "2026-09-05T17:12:42Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129807786",
+      "assignee": "Dimitriz Rodriguez",
+      "accountName": "Delokos",
+      "locationId": ""
+    },
+    {
+      "id": "45842000129816185",
+      "number": "354713",
+      "subject": "Hola Buenas tardes",
+      "status": "Open",
+      "channel": "Last.app España",
+      "createdTime": "2026-09-05T16:55:25Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129816185",
+      "assignee": "Dimitriz Rodriguez",
+      "accountName": "La Traga Street Food",
+      "locationId": ""
+    },
     {
       "id": "45842000129820000",
       "number": "354700",
@@ -944,18 +968,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000129724319",
-      "number": "354287",
-      "subject": "Chat perdido: #30967 | Last | El usuario solicita de nuevo contactar con soporte. Abrir chat de soporte para atención inmediata. organization: PORNEAT location: undefined",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-03T20:57:32Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129724319",
-      "assignee": "Jordy Carmona",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000129724321",
       "number": "354286",
       "subject": "Chat perdido: #30969 | Last | El usuario solicita nuevamente contactar con soporte. Abrir chat con soporte. organization: PORNEAT location: undefined",
@@ -963,6 +975,18 @@
       "channel": "Email",
       "createdTime": "2026-09-03T20:57:32Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129724321",
+      "assignee": "Jordy Carmona",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000129724319",
+      "number": "354287",
+      "subject": "Chat perdido: #30967 | Last | El usuario solicita de nuevo contactar con soporte. Abrir chat de soporte para atención inmediata. organization: PORNEAT location: undefined",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-03T20:57:32Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129724319",
       "assignee": "Jordy Carmona",
       "accountName": "",
       "locationId": ""
@@ -2526,33 +2550,9 @@
       "assignee": "Angie Oliveros",
       "accountName": "",
       "locationId": "1234"
-    },
-    {
-      "id": "45842000129512376",
-      "number": "353419",
-      "subject": "Last.App - POS Software ",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-31T14:41:00Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129512376",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": "1234"
-    },
-    {
-      "id": "45842000129452880",
-      "number": "353403",
-      "subject": "[Cliq] ahora entiendo el maceta",
-      "status": "Closed",
-      "channel": "Chat",
-      "createdTime": "2026-08-31T13:22:59Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129452880",
-      "assignee": "Alberto Poyato",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1242,
+  "locationIdIssuesTotal": 1244,
   "byContact": [
     {
       "contactId": "45842000032294756",
@@ -2736,11 +2736,31 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 10,
+      "openCount": 12,
       "onHoldCount": 0,
       "closedCount": 556,
-      "totalCount": 566,
+      "totalCount": 568,
       "tickets": [
+        {
+          "id": "45842000129807786",
+          "number": "354714",
+          "subject": "Hola",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-05T17:12:42Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129807786",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000129816185",
+          "number": "354713",
+          "subject": "Hola Buenas tardes",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-05T16:55:25Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129816185",
+          "assignee": "Dimitriz Rodriguez"
+        },
         {
           "id": "45842000129813869",
           "number": "354692",
@@ -3142,16 +3162,6 @@
           "assignee": "Jordy Carmona"
         },
         {
-          "id": "45842000129724319",
-          "number": "354287",
-          "subject": "Chat perdido: #30967 | Last | El usuario solicita de nuevo contactar con soporte. Abrir chat de soporte para atención inmediata. organization: PORNEAT location: undefined",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-03T20:57:32Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129724319",
-          "assignee": "Jordy Carmona"
-        },
-        {
           "id": "45842000129724321",
           "number": "354286",
           "subject": "Chat perdido: #30969 | Last | El usuario solicita nuevamente contactar con soporte. Abrir chat con soporte. organization: PORNEAT location: undefined",
@@ -3159,6 +3169,16 @@
           "channel": "Email",
           "createdTime": "2026-09-03T20:57:32Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129724321",
+          "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000129724319",
+          "number": "354287",
+          "subject": "Chat perdido: #30967 | Last | El usuario solicita de nuevo contactar con soporte. Abrir chat de soporte para atención inmediata. organization: PORNEAT location: undefined",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-03T20:57:32Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129724319",
           "assignee": "Jordy Carmona"
         },
         {
@@ -4088,9 +4108,19 @@
       "classification": "Calls",
       "openCount": 2,
       "onHoldCount": 1,
-      "closedCount": 383,
-      "totalCount": 386,
+      "closedCount": 384,
+      "totalCount": 387,
       "tickets": [
+        {
+          "id": "45842000129768525",
+          "number": "354711",
+          "subject": "Llamada entrante (00:06:31) de +34630556853 ( Sergio) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-09-05T16:43:03Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129768525",
+          "assignee": "Dimitriz Rodriguez"
+        },
         {
           "id": "45842000129788565",
           "number": "354710",
@@ -4602,16 +4632,6 @@
           "assignee": "Angie Oliveros"
         },
         {
-          "id": "45842000129581564",
-          "number": "353901",
-          "subject": "Llamada entrante de +34686286978 ( Emanuele) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-02T10:52:53Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129581564",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000129581563",
           "number": "353900",
           "subject": "Llamada entrante de +34686286978 ( Emanuele) a +34937377821 (Soporte)",
@@ -4620,6 +4640,16 @@
           "createdTime": "2026-09-02T10:52:53Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129581563",
           "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000129581564",
+          "number": "353901",
+          "subject": "Llamada entrante de +34686286978 ( Emanuele) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-09-02T10:52:53Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129581564",
+          "assignee": "Alberto Poyato"
         },
         {
           "id": "45842000129579575",
@@ -4709,16 +4739,6 @@
           "channel": "Phone",
           "createdTime": "2026-09-01T16:57:12Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129590402",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000129580298",
-          "number": "353715",
-          "subject": "Llamada entrante (00:07:28) de +34679889934 ( Juan Carlos) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-01T14:09:40Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129580298",
           "assignee": "Dimitriz Rodriguez"
         }
       ],
@@ -6532,16 +6552,6 @@
           "assignee": "Trinidad Larrain Punti"
         },
         {
-          "id": "45842000129411672",
-          "number": "352909",
-          "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-28T08:51:35Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129411672",
-          "assignee": "Harold Diaz"
-        },
-        {
           "id": "45842000129423448",
           "number": "352910",
           "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
@@ -6549,6 +6559,16 @@
           "channel": "Email",
           "createdTime": "2026-08-28T08:51:35Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129423448",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000129411672",
+          "number": "352909",
+          "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-28T08:51:35Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129411672",
           "assignee": "Harold Diaz"
         },
         {
@@ -7642,16 +7662,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129597910",
-          "number": "353623",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-01T10:06:37Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129597910",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000129599590",
           "number": "353622",
           "subject": "Help us improve",
@@ -7659,6 +7669,16 @@
           "channel": "Email",
           "createdTime": "2026-09-01T10:06:37Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129599590",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129597910",
+          "number": "353623",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-01T10:06:37Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129597910",
           "assignee": "Alberto Poyato"
         },
         {
