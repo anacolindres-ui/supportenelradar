@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-05T20:16:05.809482+00:00",
-  "totalOpenTickets": 102,
+  "lastUpdated": "2026-09-05T21:13:57.413972+00:00",
+  "totalOpenTickets": 104,
   "totalClosedTickets": 2853,
   "closedWindowDays": 30,
   "byLocation": [
@@ -178,6 +178,30 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000129782699",
+      "number": "354733",
+      "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34630556853 ( Sergio)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-09-05T20:52:36Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129782699",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "Pizzeria Nenina Moliere",
+      "locationId": ""
+    },
+    {
+      "id": "45842000129830009",
+      "number": "354732",
+      "subject": "Chat perdido: #31000 | Last | Cliente ve discrepancia de importe: en el panel/admin aparece 90,7 y en el sistema del restaurante (POS) aparece 0. Necesita revisar qué métrica/periodo/ubicación es, si hay filtros, estado de pedidos (abiertos/cancelados), m",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-09-05T20:45:44Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129830009",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000129746781",
       "number": "354729",
@@ -2553,33 +2577,9 @@
       "assignee": "Alberto Poyato",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000129542597",
-      "number": "353533",
-      "subject": "Commission summary 2026-08_2026-08 for Test Company Distributor und Deutschland",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-01T06:00:48Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129542597",
-      "assignee": "Jordy Carmona",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000129541270",
-      "number": "353502",
-      "subject": "Respuesta automática: - Reporte diario de facturación",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-01T02:34:24Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129541270",
-      "assignee": "Jordy Carmona",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1253,
+  "locationIdIssuesTotal": 1255,
   "byContact": [
     {
       "contactId": "45842000032294756",
@@ -2819,11 +2819,31 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 19,
+      "openCount": 21,
       "onHoldCount": 0,
       "closedCount": 556,
-      "totalCount": 575,
+      "totalCount": 577,
       "tickets": [
+        {
+          "id": "45842000129782699",
+          "number": "354733",
+          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34630556853 ( Sergio)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-05T20:52:36Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129782699",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000129830009",
+          "number": "354732",
+          "subject": "Chat perdido: #31000 | Last | Cliente ve discrepancia de importe: en el panel/admin aparece 90,7 y en el sistema del restaurante (POS) aparece 0. Necesita revisar qué métrica/periodo/ubicación es, si hay filtros, estado de pedidos (abiertos/cancelados), m",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-05T20:45:44Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129830009",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
         {
           "id": "45842000129746781",
           "number": "354729",
@@ -3315,16 +3335,6 @@
           "assignee": "Jordy Carmona"
         },
         {
-          "id": "45842000129724319",
-          "number": "354287",
-          "subject": "Chat perdido: #30967 | Last | El usuario solicita de nuevo contactar con soporte. Abrir chat de soporte para atención inmediata. organization: PORNEAT location: undefined",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-03T20:57:32Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129724319",
-          "assignee": "Jordy Carmona"
-        },
-        {
           "id": "45842000129724321",
           "number": "354286",
           "subject": "Chat perdido: #30969 | Last | El usuario solicita nuevamente contactar con soporte. Abrir chat con soporte. organization: PORNEAT location: undefined",
@@ -3332,6 +3342,16 @@
           "channel": "Email",
           "createdTime": "2026-09-03T20:57:32Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129724321",
+          "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000129724319",
+          "number": "354287",
+          "subject": "Chat perdido: #30967 | Last | El usuario solicita de nuevo contactar con soporte. Abrir chat de soporte para atención inmediata. organization: PORNEAT location: undefined",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-03T20:57:32Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129724319",
           "assignee": "Jordy Carmona"
         },
         {
@@ -4805,16 +4825,6 @@
           "assignee": "Angie Oliveros"
         },
         {
-          "id": "45842000129581563",
-          "number": "353900",
-          "subject": "Llamada entrante de +34686286978 ( Emanuele) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-02T10:52:53Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129581563",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000129581564",
           "number": "353901",
           "subject": "Llamada entrante de +34686286978 ( Emanuele) a +34937377821 (Soporte)",
@@ -4823,6 +4833,16 @@
           "createdTime": "2026-09-02T10:52:53Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129581564",
           "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129581563",
+          "number": "353900",
+          "subject": "Llamada entrante de +34686286978 ( Emanuele) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-09-02T10:52:53Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129581563",
+          "assignee": "Angie Oliveros"
         },
         {
           "id": "45842000129579575",
@@ -6725,16 +6745,6 @@
           "assignee": "Trinidad Larrain Punti"
         },
         {
-          "id": "45842000129411672",
-          "number": "352909",
-          "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-28T08:51:35Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129411672",
-          "assignee": "Harold Diaz"
-        },
-        {
           "id": "45842000129423448",
           "number": "352910",
           "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
@@ -6742,6 +6752,16 @@
           "channel": "Email",
           "createdTime": "2026-08-28T08:51:35Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129423448",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000129411672",
+          "number": "352909",
+          "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-28T08:51:35Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129411672",
           "assignee": "Harold Diaz"
         },
         {
@@ -7845,16 +7865,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129597910",
-          "number": "353623",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-01T10:06:37Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129597910",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000129599590",
           "number": "353622",
           "subject": "Help us improve",
@@ -7862,6 +7872,16 @@
           "channel": "Email",
           "createdTime": "2026-09-01T10:06:37Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129599590",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129597910",
+          "number": "353623",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-01T10:06:37Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129597910",
           "assignee": "Alberto Poyato"
         },
         {
@@ -13315,16 +13335,6 @@
       "totalCount": 18,
       "tickets": [
         {
-          "id": "45842000129497869",
-          "number": "353371",
-          "subject": "Neue Saison, neue Tech  ",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-31T10:57:56Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129497869",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
           "id": "45842000129503697",
           "number": "353372",
           "subject": "CREAMOS EL PODCAST DE TU EMPRESA",
@@ -13332,6 +13342,16 @@
           "channel": "Email",
           "createdTime": "2026-08-31T10:57:56Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129503697",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000129497869",
+          "number": "353371",
+          "subject": "Neue Saison, neue Tech  ",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-31T10:57:56Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129497869",
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
