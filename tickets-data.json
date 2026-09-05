@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-05T18:19:07.228750+00:00",
-  "totalOpenTickets": 92,
+  "lastUpdated": "2026-09-05T19:13:07.006227+00:00",
+  "totalOpenTickets": 94,
   "totalClosedTickets": 2853,
   "closedWindowDays": 30,
   "byLocation": [
@@ -152,12 +152,36 @@
   ],
   "locationIdIssues": [
     {
-      "id": "45842000129772426",
-      "number": "354717",
-      "subject": "Llamada entrante de +34665889114 ( Pablo) a +34937377821 (Soporte)",
+      "id": "45842000129789530",
+      "number": "354719",
+      "subject": "Llamada entrante (00:06:15) de +34687025920 ( Stefany Rodrigues) a +34937377821 (Soporte)",
       "status": "Open",
       "channel": "Phone",
-      "createdTime": "2026-09-05T18:18:29Z",
+      "createdTime": "2026-09-05T18:52:13Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129789530",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000129814728",
+      "number": "354718",
+      "subject": "Buenas tardes",
+      "status": "Open",
+      "channel": "Last.app México",
+      "createdTime": "2026-09-05T18:46:46Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129814728",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "PANMEX SAN FERNANDO",
+      "locationId": ""
+    },
+    {
+      "id": "45842000129772426",
+      "number": "354717",
+      "subject": "Llamada entrante (00:03:24) de +34665889114 ( Pablo) a +34937377821 (Soporte)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-09-05T18:18:30Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129772426",
       "assignee": "Brayan Ricardo Fuentes Herrera",
       "accountName": "The Córner Burger",
@@ -171,7 +195,7 @@
       "channel": "Last.app España",
       "createdTime": "2026-09-05T18:17:21Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129814657",
-      "assignee": "",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
       "accountName": "CERVECERIA LA CA_ITA",
       "locationId": ""
     },
@@ -968,18 +992,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000129724321",
-      "number": "354286",
-      "subject": "Chat perdido: #30969 | Last | El usuario solicita nuevamente contactar con soporte. Abrir chat con soporte. organization: PORNEAT location: undefined",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-03T20:57:32Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129724321",
-      "assignee": "Jordy Carmona",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000129724319",
       "number": "354287",
       "subject": "Chat perdido: #30967 | Last | El usuario solicita de nuevo contactar con soporte. Abrir chat de soporte para atención inmediata. organization: PORNEAT location: undefined",
@@ -987,6 +999,18 @@
       "channel": "Email",
       "createdTime": "2026-09-03T20:57:32Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129724319",
+      "assignee": "Jordy Carmona",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000129724321",
+      "number": "354286",
+      "subject": "Chat perdido: #30969 | Last | El usuario solicita nuevamente contactar con soporte. Abrir chat con soporte. organization: PORNEAT location: undefined",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-03T20:57:32Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129724321",
       "assignee": "Jordy Carmona",
       "accountName": "",
       "locationId": ""
@@ -2526,33 +2550,9 @@
       "assignee": "Angie Oliveros",
       "accountName": "",
       "locationId": "abade33e-ef55-45e2-a9df-da314f91eb"
-    },
-    {
-      "id": "45842000129507814",
-      "number": "353435",
-      "subject": "Tu enlace seguro a Claude.ai está aquí | 2026-08-31 17:33:28",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-31T15:33:35Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129507814",
-      "assignee": "Johan Manuel Cortissoz Posada",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000129507704",
-      "number": "353431",
-      "subject": "Tu enlace seguro a Claude.ai está aquí | 2026-08-31 17:24:22",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-08-31T15:24:31Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129507704",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": "1234"
     }
   ],
-  "locationIdIssuesTotal": 1244,
+  "locationIdIssuesTotal": 1246,
   "byContact": [
     {
       "contactId": "45842000032294756",
@@ -2736,11 +2736,21 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 11,
+      "openCount": 12,
       "onHoldCount": 0,
       "closedCount": 556,
-      "totalCount": 567,
+      "totalCount": 568,
       "tickets": [
+        {
+          "id": "45842000129814728",
+          "number": "354718",
+          "subject": "Buenas tardes",
+          "status": "Open",
+          "channel": "Last.app México",
+          "createdTime": "2026-09-05T18:46:46Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129814728",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
         {
           "id": "45842000129814657",
           "number": "354716",
@@ -2749,7 +2759,7 @@
           "channel": "Last.app España",
           "createdTime": "2026-09-05T18:17:21Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129814657",
-          "assignee": ""
+          "assignee": "Brayan Ricardo Fuentes Herrera"
         },
         {
           "id": "45842000129813869",
@@ -4096,18 +4106,28 @@
     },
     {
       "classification": "Calls",
-      "openCount": 3,
+      "openCount": 4,
       "onHoldCount": 1,
       "closedCount": 384,
-      "totalCount": 388,
+      "totalCount": 389,
       "tickets": [
+        {
+          "id": "45842000129789530",
+          "number": "354719",
+          "subject": "Llamada entrante (00:06:15) de +34687025920 ( Stefany Rodrigues) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-05T18:52:13Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129789530",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
         {
           "id": "45842000129772426",
           "number": "354717",
-          "subject": "Llamada entrante de +34665889114 ( Pablo) a +34937377821 (Soporte)",
+          "subject": "Llamada entrante (00:03:24) de +34665889114 ( Pablo) a +34937377821 (Soporte)",
           "status": "Open",
           "channel": "Phone",
-          "createdTime": "2026-09-05T18:18:29Z",
+          "createdTime": "2026-09-05T18:18:30Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129772426",
           "assignee": "Brayan Ricardo Fuentes Herrera"
         },
@@ -4632,16 +4652,6 @@
           "assignee": "Angie Oliveros"
         },
         {
-          "id": "45842000129581563",
-          "number": "353900",
-          "subject": "Llamada entrante de +34686286978 ( Emanuele) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-02T10:52:53Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129581563",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000129581564",
           "number": "353901",
           "subject": "Llamada entrante de +34686286978 ( Emanuele) a +34937377821 (Soporte)",
@@ -4650,6 +4660,16 @@
           "createdTime": "2026-09-02T10:52:53Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129581564",
           "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129581563",
+          "number": "353900",
+          "subject": "Llamada entrante de +34686286978 ( Emanuele) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-09-02T10:52:53Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129581563",
+          "assignee": "Angie Oliveros"
         },
         {
           "id": "45842000129579575",
