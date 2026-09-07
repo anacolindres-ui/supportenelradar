@@ -485,26 +485,14 @@
 <script>
 const HUB = {
 
-  /* ── GUARDIA DE LA SEMANA ────────────────────────────── */
-  guardia: {
-    semana: "31 ago – 4 sep 2026",
+  /* ── SEMIGUARDIA ─────────────────────────────────────── */
+  // Desde 2026-09-07 se eliminó la Guardia BackMan; solo queda la Semiguardia: un solo agente cubre toda la semana (Lun-Dom).
+  // Fuente de datos pendiente de confirmar por Ani.
+  semiguardia: {
+    semana: "7 – 13 sep 2026",
     personas: [
-      {
-        nombre: "Fer",
-        rol: "Guardia principal · 17h – 01h (Lun–Vie)",
-        badge: "31 ago-4 sep",
-        badgeClass: "badge-green",
-        color: "#0EA5E9"
-      }
-    ],
-    // Semiguardia (antes "Guardia Front" / "Semiguardia MX"): desde 2026-09-07 un solo agente cubre toda la semana (Lun-Dom).
-    // Fuente de datos pendiente de confirmar por Ani.
-    guardiaFront: {
-      semana: "7 – 13 sep 2026",
-      personas: [
-        { nombre: "Trini", rol: "Semiguardia · Lunes a domingo", dias: [0,1,2,3,4,5,6], badge: "L-D", badgeClass: "badge-green", color: "#10B981" }
-      ]
-    }
+      { nombre: "Trini", rol: "Semiguardia · Lunes a domingo", dias: [0,1,2,3,4,5,6], badge: "L-D", badgeClass: "badge-green", color: "#10B981" }
+    ]
   },
 
   /* ── AVISOS DEL EQUIPO ───────────────────────────────── */
@@ -637,25 +625,13 @@ const HUB = {
 <!-- MAIN GRID -->
 <div class="container" id="tab-hub">
 
-  <!-- GUARDIA -->
-  <div class="card">
-    <div class="card-header">
-      <div class="card-icon" style="background:#EEF2FF">🛡️</div>
-      <div>
-        <span class="card-title">Guardia de la semana</span>
-        <div style="font-size:0.72rem;color:var(--muted);margin-top:2px;letter-spacing:0.3px">BackMan</div>
-      </div>
-    </div>
-    <div class="card-body" id="guardia-body"></div>
-  </div>
-
   <!-- SEMIGUARDIA -->
-  <div class="card">
+  <div class="card full-width">
     <div class="card-header">
       <div class="card-icon" style="background:#F0FDF4">🎧</div>
       <span class="card-title">Semiguardia</span>
     </div>
-    <div class="card-body" id="guardiafront-body"></div>
+    <div class="card-body" id="semiguardia-body"></div>
   </div>
 
   <!-- ESTADO DESK -->
@@ -746,7 +722,7 @@ const HUB = {
 
 
 <script>
-// ── RENDER GUARDIA ──────────────────────────────────────
+// ── RENDER SEMIGUARDIA ──────────────────────────────────
 function initials(name) {
   return name.split(" ").map(w => w[0]).slice(0, 2).join("").toUpperCase();
 }
@@ -759,30 +735,13 @@ const getMonday = d => {
   return m.toLocaleDateString('sv-SE');
 };
 
-// Guardia principal
-const guardiaBody = document.getElementById("guardia-body");
-guardiaBody.innerHTML = `
-  <div class="guardia-week">Semana del ${HUB.guardia.semana}</div>
-  ${HUB.guardia.personas.map(p => `
-    <div class="guardia-person">
-      <div class="avatar" style="background:${p.color}">${initials(p.nombre)}</div>
-      <div class="guardia-info">
-        <div class="guardia-name">${p.nombre}</div>
-        <div class="guardia-role">${p.rol}</div>
-      </div>
-      <span class="guardia-badge ${p.badgeClass}">${p.badge}</span>
-    </div>
-  `).join("")}
-`;
-
-// Guardia Front
-const gfBody = document.getElementById("guardiafront-body");
-if (HUB.guardia.guardiaFront && HUB.guardia.guardiaFront.personas.length) {
-  const gf = HUB.guardia.guardiaFront;
+const sgBody = document.getElementById("semiguardia-body");
+if (HUB.semiguardia && HUB.semiguardia.personas.length) {
+  const sg = HUB.semiguardia;
   const todayDow = new Date().getDay(); // 0=Dom ... 6=Sáb
-  gfBody.innerHTML = `
-    <div class="guardia-week">Semana del ${gf.semana}</div>
-    ${gf.personas.map(p => {
+  sgBody.innerHTML = `
+    <div class="guardia-week">Semana del ${sg.semana}</div>
+    ${sg.personas.map(p => {
       const isHoy = p.dias.includes(todayDow);
       return `
     <div class="guardia-person">
@@ -796,7 +755,7 @@ if (HUB.guardia.guardiaFront && HUB.guardia.guardiaFront.personas.length) {
     }).join("")}
   `;
 } else {
-  gfBody.innerHTML = '<div class="empty">Sin datos configurados.</div>';
+  sgBody.innerHTML = '<div class="empty">Sin datos configurados.</div>';
 }
 
 // ── RENDER CUMPLEAÑOS ───────────────────────────────────
@@ -1088,7 +1047,7 @@ recursosBody.innerHTML = `
 `;
 
 // ── META ────────────────────────────────────────────────
-document.getElementById("topbar-week").textContent = `Semana ${HUB.guardia.semana}`;
+document.getElementById("topbar-week").textContent = `Semana ${HUB.semiguardia.semana}`;
 
 // ── TABS ─────────────────────────────────────────────────
 function showTab(tab) {
