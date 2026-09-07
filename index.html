@@ -497,12 +497,12 @@ const HUB = {
         color: "#0EA5E9"
       }
     ],
-    // Guardia Front: fuente = hoja "Rotación", turno 5 = Lun-Vie, turno 6 = Sáb-Dom
+    // Semiguardia (antes "Guardia Front" / "Semiguardia MX"): desde 2026-09-07 un solo agente cubre toda la semana (Lun-Dom).
+    // Fuente de datos pendiente de confirmar por Ani.
     guardiaFront: {
-      semana: "31 ago – 6 sep 2026",
+      semana: "7 – 13 sep 2026",
       personas: [
-        { nombre: "Jordy", rol: "Guardia Front · Lunes a viernes", dias: [1,2,3,4,5], badge: "L-V", badgeClass: "badge-green", color: "#10B981" },
-        { nombre: "Harold", rol: "Guardia Front · Sábado y domingo", dias: [6,0], badge: "Finde", badgeClass: "badge-blue", color: "#6366F1" }
+        { nombre: "Trini", rol: "Semiguardia · Lunes a domingo", dias: [0,1,2,3,4,5,6], badge: "L-D", badgeClass: "badge-green", color: "#10B981" }
       ]
     }
   },
@@ -649,11 +649,11 @@ const HUB = {
     <div class="card-body" id="guardia-body"></div>
   </div>
 
-  <!-- GUARDIA FRONT -->
+  <!-- SEMIGUARDIA -->
   <div class="card">
     <div class="card-header">
       <div class="card-icon" style="background:#F0FDF4">🎧</div>
-      <span class="card-title">Guardia Front</span>
+      <span class="card-title">Semiguardia</span>
     </div>
     <div class="card-body" id="guardiafront-body"></div>
   </div>
