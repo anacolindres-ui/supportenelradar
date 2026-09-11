@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-11T17:15:41.064451+00:00",
-  "totalOpenTickets": 60,
-  "totalClosedTickets": 3188,
+  "lastUpdated": "2026-09-11T18:21:35.069341+00:00",
+  "totalOpenTickets": 63,
+  "totalClosedTickets": 3189,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -70,6 +70,30 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000130125142",
+      "number": "355969",
+      "subject": "Llamada entrante (00:02:55) de +34646889090 ( Harold Diaz) a +34937377821 (Soporte)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-09-11T18:15:55Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130125142",
+      "assignee": "Harold Diaz",
+      "accountName": "ARRE",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130110547",
+      "number": "355968",
+      "subject": "Como lo borro ???",
+      "status": "Open",
+      "channel": "Last.app España",
+      "createdTime": "2026-09-11T18:04:52Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130110547",
+      "assignee": "Jordy Carmona",
+      "accountName": "Pizza Park",
+      "locationId": ""
+    },
     {
       "id": "45842000130149633",
       "number": "355959",
@@ -2445,33 +2469,9 @@
       "assignee": "Brayan Ricardo Fuentes Herrera",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000129876263",
-      "number": "355075",
-      "subject": "POS ID Just eat",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-07T14:08:36Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129876263",
-      "assignee": "Raimundo Garcia",
-      "accountName": "Cloudtown (Florencio-Madrid)",
-      "locationId": ""
-    },
-    {
-      "id": "45842000129872200",
-      "number": "355069",
-      "subject": "Facturas de Canje HULA POKE S.L. 07/09/2026 (312623)",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-07T13:45:24Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129872200",
-      "assignee": "Jordy Carmona",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1315,
+  "locationIdIssuesTotal": 1317,
   "byContact": [
     {
       "contactId": "45842000032294756",
@@ -2599,11 +2599,21 @@
   "byClassification": [
     {
       "classification": "Admin :: General",
-      "openCount": 4,
+      "openCount": 5,
       "onHoldCount": 2,
       "closedCount": 605,
-      "totalCount": 611,
+      "totalCount": 612,
       "tickets": [
+        {
+          "id": "45842000130117266",
+          "number": "355967",
+          "subject": "1380176097603413.jpeg",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-11T17:54:24Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130117266",
+          "assignee": "Jordy Carmona"
+        },
         {
           "id": "45842000130120038",
           "number": "355941",
@@ -3269,11 +3279,21 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 4,
+      "openCount": 5,
       "onHoldCount": 0,
       "closedCount": 579,
-      "totalCount": 583,
+      "totalCount": 584,
       "tickets": [
+        {
+          "id": "45842000130110547",
+          "number": "355968",
+          "subject": "Como lo borro ???",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-11T18:04:52Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130110547",
+          "assignee": "Jordy Carmona"
+        },
         {
           "id": "45842000130149633",
           "number": "355959",
@@ -3919,11 +3939,31 @@
     },
     {
       "classification": "Calls",
-      "openCount": 1,
+      "openCount": 2,
       "onHoldCount": 0,
-      "closedCount": 407,
-      "totalCount": 408,
+      "closedCount": 408,
+      "totalCount": 410,
       "tickets": [
+        {
+          "id": "45842000130125142",
+          "number": "355969",
+          "subject": "Llamada entrante (00:02:55) de +34646889090 ( Harold Diaz) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-11T18:15:55Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130125142",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000130146160",
+          "number": "355966",
+          "subject": "Llamada entrante (00:14:17) de +34672405524 ( Franco) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-09-11T17:34:16Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130146160",
+          "assignee": "Dimitriz Rodriguez"
+        },
         {
           "id": "45842000130145182",
           "number": "355948",
@@ -4513,16 +4553,6 @@
           "createdTime": "2026-09-07T14:48:41Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129875068",
           "assignee": "Angie Oliveros"
-        },
-        {
-          "id": "45842000129788846",
-          "number": "355080",
-          "subject": "Llamada entrante (00:07:00) de +34687025920 ( Stefany Rodrigues) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-07T14:41:56Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129788846",
-          "assignee": "Jordy Carmona"
         },
         {
           "id": "45842000129756816",
@@ -6115,13 +6145,13 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129866243",
-          "number": "355030",
+          "id": "45842000129866241",
+          "number": "355029",
           "subject": "Help us improve",
           "status": "Closed",
           "channel": "Email",
           "createdTime": "2026-09-07T11:06:23Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129866243",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129866241",
           "assignee": "Alberto Poyato"
         },
         {
@@ -6135,13 +6165,13 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129866241",
-          "number": "355029",
+          "id": "45842000129866243",
+          "number": "355030",
           "subject": "Help us improve",
           "status": "Closed",
           "channel": "Email",
           "createdTime": "2026-09-07T11:06:23Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129866241",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129866243",
           "assignee": "Alberto Poyato"
         },
         {
@@ -6175,16 +6205,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129835945",
-          "number": "354844",
-          "subject": "Request Received",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-06T05:30:54Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129835945",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000129834674",
           "number": "354845",
           "subject": "Request Received",
@@ -6192,6 +6212,16 @@
           "channel": "Email",
           "createdTime": "2026-09-06T05:30:54Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129834674",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129835945",
+          "number": "354844",
+          "subject": "Request Received",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-06T05:30:54Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129835945",
           "assignee": "Alberto Poyato"
         },
         {
@@ -6225,16 +6255,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129835595",
-          "number": "354827",
-          "subject": "Request Received",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-06T05:30:50Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129835595",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000129834470",
           "number": "354828",
           "subject": "LastApp - didi integration deleted",
@@ -6242,6 +6262,16 @@
           "channel": "Email",
           "createdTime": "2026-09-06T05:30:50Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129834470",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129835595",
+          "number": "354827",
+          "subject": "Request Received",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-06T05:30:50Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129835595",
           "assignee": "Alberto Poyato"
         },
         {
@@ -12949,8 +12979,8 @@
     },
     {
       "classification": "QRs",
-      "openCount": 0,
-      "onHoldCount": 1,
+      "openCount": 1,
+      "onHoldCount": 0,
       "closedCount": 17,
       "totalCount": 18,
       "tickets": [
@@ -12958,7 +12988,7 @@
           "id": "45842000130065967",
           "number": "355783",
           "subject": "Dallas Pizza Viladecans / No carga los QR",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Last.app España",
           "createdTime": "2026-09-10T18:14:56Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130065967",
