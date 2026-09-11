@@ -1,66 +1,9 @@
 {
-  "lastUpdated": "2026-09-11T09:20:05.731934+00:00",
-  "totalOpenTickets": 61,
-  "totalClosedTickets": 3139,
+  "lastUpdated": "2026-09-11T10:18:50.383182+00:00",
+  "totalOpenTickets": 59,
+  "totalClosedTickets": 3142,
   "closedWindowDays": 30,
   "byLocation": [
-    {
-      "accountId": "45842000126926622",
-      "accountName": "Lola Si Mola",
-      "ticketCount": 5,
-      "tickets": [
-        {
-          "id": "45842000130082807",
-          "number": "355837",
-          "subject": "**AUSENCIA POR VACACIONES***",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-09-11T04:28:00Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130082807",
-          "assignee": ""
-        },
-        {
-          "id": "45842000130082735",
-          "number": "355836",
-          "subject": "**AUSENCIA POR VACACIONES***",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-09-11T04:27:08Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130082735",
-          "assignee": ""
-        },
-        {
-          "id": "45842000130090292",
-          "number": "355835",
-          "subject": "**AUSENCIA POR VACACIONES***",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-09-11T04:26:16Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130090292",
-          "assignee": ""
-        },
-        {
-          "id": "45842000130091023",
-          "number": "355834",
-          "subject": "**AUSENCIA POR VACACIONES***",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-09-11T04:25:24Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130091023",
-          "assignee": ""
-        },
-        {
-          "id": "45842000130077951",
-          "number": "355833",
-          "subject": "**AUSENCIA POR VACACIONES***",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-09-11T04:24:32Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130077951",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        }
-      ]
-    },
     {
       "accountId": "45842000000594001",
       "accountName": "MISS SUSHI S.L.",
@@ -126,6 +69,33 @@
       ]
     },
     {
+      "accountId": "45842000126926622",
+      "accountName": "Lola Si Mola",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000130082807",
+          "number": "355837",
+          "subject": "**AUSENCIA POR VACACIONES***",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-11T04:28:00Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130082807",
+          "assignee": ""
+        },
+        {
+          "id": "45842000130082735",
+          "number": "355836",
+          "subject": "**AUSENCIA POR VACACIONES***",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-11T04:27:08Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130082735",
+          "assignee": ""
+        }
+      ]
+    },
+    {
       "accountId": "45842000043242136",
       "accountName": "poke friendly",
       "ticketCount": 2,
@@ -154,6 +124,18 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000130093043",
+      "number": "355872",
+      "subject": "Hola tengo algunos problemas con el sistema",
+      "status": "Open",
+      "channel": "Last.app España",
+      "createdTime": "2026-09-11T09:33:24Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130093043",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000130108308",
       "number": "355862",
@@ -254,23 +236,11 @@
       "id": "45842000130090292",
       "number": "355835",
       "subject": "**AUSENCIA POR VACACIONES***",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Email",
       "createdTime": "2026-09-11T04:26:16Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130090292",
-      "assignee": "",
-      "accountName": "Lola Si Mola",
-      "locationId": ""
-    },
-    {
-      "id": "45842000130091023",
-      "number": "355834",
-      "subject": "**AUSENCIA POR VACACIONES***",
-      "status": "Open",
-      "channel": "Email",
-      "createdTime": "2026-09-11T04:25:24Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130091023",
-      "assignee": "",
+      "assignee": "Johan Manuel Cortissoz Posada",
       "accountName": "Lola Si Mola",
       "locationId": ""
     },
@@ -278,7 +248,7 @@
       "id": "45842000130077951",
       "number": "355833",
       "subject": "**AUSENCIA POR VACACIONES***",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Email",
       "createdTime": "2026-09-11T04:24:32Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130077951",
@@ -950,7 +920,7 @@
       "id": "45842000130038933",
       "number": "355562",
       "subject": "Solicitud de identificación de comercio emisor de cargo - [09/09/2026] - [120] €",
-      "status": "Open",
+      "status": "On Hold",
       "channel": "Email",
       "createdTime": "2026-09-09T23:02:20Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130038933",
@@ -2459,18 +2429,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000129866445",
-      "number": "355037",
-      "subject": "Help us improve",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-07T11:06:26Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129866445",
-      "assignee": "Alberto Poyato",
-      "accountName": "",
-      "locationId": "1234"
-    },
-    {
       "id": "45842000129863621",
       "number": "355036",
       "subject": "Help us improve",
@@ -2478,6 +2436,18 @@
       "channel": "Email",
       "createdTime": "2026-09-07T11:06:26Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129863621",
+      "assignee": "Alberto Poyato",
+      "accountName": "",
+      "locationId": "1234"
+    },
+    {
+      "id": "45842000129866445",
+      "number": "355037",
+      "subject": "Help us improve",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-07T11:06:26Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129866445",
       "assignee": "Alberto Poyato",
       "accountName": "",
       "locationId": "1234"
@@ -2558,64 +2528,6 @@
   "locationIdIssuesTotal": 1296,
   "byContact": [
     {
-      "contactId": "45842000126926651",
-      "contactName": "Gabriel Suarez",
-      "email": "administrador@lolasimola.com",
-      "ticketCount": 5,
-      "tickets": [
-        {
-          "id": "45842000130082807",
-          "number": "355837",
-          "subject": "**AUSENCIA POR VACACIONES***",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-09-11T04:28:00Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130082807",
-          "assignee": ""
-        },
-        {
-          "id": "45842000130082735",
-          "number": "355836",
-          "subject": "**AUSENCIA POR VACACIONES***",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-09-11T04:27:08Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130082735",
-          "assignee": ""
-        },
-        {
-          "id": "45842000130090292",
-          "number": "355835",
-          "subject": "**AUSENCIA POR VACACIONES***",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-09-11T04:26:16Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130090292",
-          "assignee": ""
-        },
-        {
-          "id": "45842000130091023",
-          "number": "355834",
-          "subject": "**AUSENCIA POR VACACIONES***",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-09-11T04:25:24Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130091023",
-          "assignee": ""
-        },
-        {
-          "id": "45842000130077951",
-          "number": "355833",
-          "subject": "**AUSENCIA POR VACACIONES***",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-09-11T04:24:32Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130077951",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        }
-      ]
-    },
-    {
       "contactId": "45842000032294756",
       "contactName": "Javier Avendaño",
       "email": "javier.it@misssushi.es",
@@ -2682,6 +2594,34 @@
       ]
     },
     {
+      "contactId": "45842000126926651",
+      "contactName": "Gabriel Suarez",
+      "email": "administrador@lolasimola.com",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000130082807",
+          "number": "355837",
+          "subject": "**AUSENCIA POR VACACIONES***",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-11T04:28:00Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130082807",
+          "assignee": ""
+        },
+        {
+          "id": "45842000130082735",
+          "number": "355836",
+          "subject": "**AUSENCIA POR VACACIONES***",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-11T04:27:08Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130082735",
+          "assignee": ""
+        }
+      ]
+    },
+    {
       "contactId": "45842000025723278",
       "contactName": "Hendrix",
       "email": "hendrixvazquezmedina@gmail.com",
@@ -2713,8 +2653,8 @@
   "byClassification": [
     {
       "classification": "Admin :: General",
-      "openCount": 3,
-      "onHoldCount": 2,
+      "openCount": 2,
+      "onHoldCount": 3,
       "closedCount": 600,
       "totalCount": 605,
       "tickets": [
@@ -3332,7 +3272,7 @@
           "id": "45842000130038933",
           "number": "355562",
           "subject": "Solicitud de identificación de comercio emisor de cargo - [09/09/2026] - [120] €",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Email",
           "createdTime": "2026-09-09T23:02:20Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130038933",
@@ -3373,11 +3313,21 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 8,
+      "openCount": 6,
       "onHoldCount": 1,
-      "closedCount": 563,
+      "closedCount": 565,
       "totalCount": 572,
       "tickets": [
+        {
+          "id": "45842000130093043",
+          "number": "355872",
+          "subject": "Hola tengo algunos problemas con el sistema",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-11T09:33:24Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130093043",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000130108001",
           "number": "355839",
@@ -3412,27 +3362,17 @@
           "id": "45842000130090292",
           "number": "355835",
           "subject": "**AUSENCIA POR VACACIONES***",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Email",
           "createdTime": "2026-09-11T04:26:16Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130090292",
-          "assignee": ""
-        },
-        {
-          "id": "45842000130091023",
-          "number": "355834",
-          "subject": "**AUSENCIA POR VACACIONES***",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-09-11T04:25:24Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130091023",
-          "assignee": ""
+          "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
           "id": "45842000130077951",
           "number": "355833",
           "subject": "**AUSENCIA POR VACACIONES***",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Email",
           "createdTime": "2026-09-11T04:24:32Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130077951",
@@ -4046,26 +3986,6 @@
           "channel": "Phone",
           "createdTime": "2026-09-08T11:00:21Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129918057",
-          "assignee": "Jordy Carmona"
-        },
-        {
-          "id": "45842000129920175",
-          "number": "355200",
-          "subject": "Llamada saliente (00:00:02) de +34937377821 (Soporte) a +34639839597 ( Miriam)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-08T10:59:49Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129920175",
-          "assignee": "Jordy Carmona"
-        },
-        {
-          "id": "45842000129911077",
-          "number": "355199",
-          "subject": "Llamada saliente (00:00:02) de +34937377821 (Soporte) a +34639839597 ( Miriam)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-08T10:59:47Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129911077",
           "assignee": "Jordy Carmona"
         }
       ],
@@ -5343,8 +5263,8 @@
     },
     {
       "classification": "Admin :: Impresoras",
-      "openCount": 1,
-      "onHoldCount": 3,
+      "openCount": 2,
+      "onHoldCount": 2,
       "closedCount": 170,
       "totalCount": 174,
       "tickets": [
@@ -5572,7 +5492,7 @@
           "id": "45842000129770420",
           "number": "354900",
           "subject": "Cafe Bar Guaca // Impresora imprime pedido de día anterior.",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Phone",
           "createdTime": "2026-09-06T13:20:14Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129770420",
@@ -6189,16 +6109,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129866377",
-          "number": "355032",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-07T11:06:25Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129866377",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000129858912",
           "number": "355035",
           "subject": "Help us improve",
@@ -6229,13 +6139,13 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129866241",
-          "number": "355029",
+          "id": "45842000129866377",
+          "number": "355032",
           "subject": "Help us improve",
           "status": "Closed",
           "channel": "Email",
-          "createdTime": "2026-09-07T11:06:23Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129866241",
+          "createdTime": "2026-09-07T11:06:25Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129866377",
           "assignee": "Alberto Poyato"
         },
         {
@@ -6256,6 +6166,16 @@
           "channel": "Email",
           "createdTime": "2026-09-07T11:06:23Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129867351",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129866241",
+          "number": "355029",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-07T11:06:23Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129866241",
           "assignee": "Alberto Poyato"
         },
         {
@@ -6289,16 +6209,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129835945",
-          "number": "354844",
-          "subject": "Request Received",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-06T05:30:54Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129835945",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000129834674",
           "number": "354845",
           "subject": "Request Received",
@@ -6306,6 +6216,16 @@
           "channel": "Email",
           "createdTime": "2026-09-06T05:30:54Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129834674",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129835945",
+          "number": "354844",
+          "subject": "Request Received",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-06T05:30:54Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129835945",
           "assignee": "Alberto Poyato"
         },
         {
@@ -6319,16 +6239,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129838260",
-          "number": "354831",
-          "subject": "LastApp - rappi integration deleted",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-06T05:30:51Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129838260",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
           "id": "45842000129837569",
           "number": "354830",
           "subject": "LastApp - rappi integration deleted",
@@ -6337,6 +6247,16 @@
           "createdTime": "2026-09-06T05:30:51Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129837569",
           "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129838260",
+          "number": "354831",
+          "subject": "LastApp - rappi integration deleted",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-06T05:30:51Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129838260",
+          "assignee": "Trinidad Larrain Punti"
         },
         {
           "id": "45842000129835595",
@@ -7559,16 +7479,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129835249",
-          "number": "354798",
-          "subject": "Request Received",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-06T05:30:40Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129835249",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000129832601",
           "number": "354800",
           "subject": "Request Received",
@@ -7577,6 +7487,16 @@
           "createdTime": "2026-09-06T05:30:40Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129832601",
           "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000129835249",
+          "number": "354798",
+          "subject": "Request Received",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-06T05:30:40Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129835249",
+          "assignee": "Alberto Poyato"
         },
         {
           "id": "45842000129807922",
@@ -8043,8 +7963,8 @@
     },
     {
       "classification": "Admin :: Reportes",
-      "openCount": 1,
-      "onHoldCount": 5,
+      "openCount": 2,
+      "onHoldCount": 4,
       "closedCount": 96,
       "totalCount": 102,
       "tickets": [
@@ -8192,7 +8112,7 @@
           "id": "45842000129774304",
           "number": "354581",
           "subject": "Fisch Pauli // Reporte  DSFinV-K se descarga en blanco/sin información",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Phone",
           "createdTime": "2026-09-05T01:54:09Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129774304",
@@ -9935,9 +9855,19 @@
       "classification": "Admin :: Catálogos",
       "openCount": 0,
       "onHoldCount": 0,
-      "closedCount": 58,
-      "totalCount": 58,
+      "closedCount": 59,
+      "totalCount": 59,
       "tickets": [
+        {
+          "id": "45842000130096397",
+          "number": "355876",
+          "subject": "Vale muchas gracias",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-11T10:08:25Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130096397",
+          "assignee": "Angie Oliveros"
+        },
         {
           "id": "45842000130096280",
           "number": "355868",
