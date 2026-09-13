@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-13T12:23:43.669447+00:00",
-  "totalOpenTickets": 79,
-  "totalClosedTickets": 2976,
+  "lastUpdated": "2026-09-13T13:15:14.351593+00:00",
+  "totalOpenTickets": 76,
+  "totalClosedTickets": 2978,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -98,42 +98,6 @@
   ],
   "locationIdIssues": [
     {
-      "id": "45842000130141464",
-      "number": "356145",
-      "subject": "Llamada entrante de +34633867733 ( Salvatore) a +34937377821 (Soporte)",
-      "status": "Open",
-      "channel": "Phone",
-      "createdTime": "2026-09-13T12:22:46Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130141464",
-      "assignee": "Johan Manuel Cortissoz Posada",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000130172492",
-      "number": "356143",
-      "subject": "1416745457251150.jpeg",
-      "status": "Open",
-      "channel": "Last.app España",
-      "createdTime": "2026-09-13T11:53:07Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130172492",
-      "assignee": "Johan Manuel Cortissoz Posada",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000130166228",
-      "number": "356141",
-      "subject": "Hola necesito soporte",
-      "status": "Closed",
-      "channel": "Last.app España",
-      "createdTime": "2026-09-13T11:43:13Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130166228",
-      "assignee": "Johan Manuel Cortissoz Posada",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000130141390",
       "number": "356135",
       "subject": "Llamada saliente (00:00:04) de +34937377821 (Soporte) a +34676749819 ( Hendrix)",
@@ -161,13 +125,13 @@
       "id": "45842000130157895",
       "number": "356123",
       "subject": "⭐ ⭐ ⭐ ⭐ ⭐ ¿Cuántas estrellas darías a civitatis.com?",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Email",
       "createdTime": "2026-09-13T07:09:19Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130157895",
-      "assignee": "",
+      "assignee": "Johan Manuel Cortissoz Posada",
       "accountName": "",
-      "locationId": ""
+      "locationId": "1234"
     },
     {
       "id": "45842000130170487",
@@ -2496,9 +2460,45 @@
       "assignee": "Jordy Carmona",
       "accountName": "",
       "locationId": ""
+    },
+    {
+      "id": "45842000129918057",
+      "number": "355201",
+      "subject": "Llamada saliente (00:01:33) de +34937377821 (Soporte) a +34633373590 ( PIGNIC IBERICO)",
+      "status": "Closed",
+      "channel": "Phone",
+      "createdTime": "2026-09-08T11:00:21Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129918057",
+      "assignee": "Jordy Carmona",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000129920175",
+      "number": "355200",
+      "subject": "Llamada saliente (00:00:02) de +34937377821 (Soporte) a +34639839597 ( Miriam)",
+      "status": "Closed",
+      "channel": "Phone",
+      "createdTime": "2026-09-08T10:59:49Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129920175",
+      "assignee": "Jordy Carmona",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000129911077",
+      "number": "355199",
+      "subject": "Llamada saliente (00:00:02) de +34937377821 (Soporte) a +34639839597 ( Miriam)",
+      "status": "Closed",
+      "channel": "Phone",
+      "createdTime": "2026-09-08T10:59:47Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129911077",
+      "assignee": "Jordy Carmona",
+      "accountName": "",
+      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1201,
+  "locationIdIssuesTotal": 1198,
   "byContact": [
     {
       "contactId": "45842000032294756",
@@ -2684,8 +2684,8 @@
       "classification": "Admin :: General",
       "openCount": 4,
       "onHoldCount": 2,
-      "closedCount": 588,
-      "totalCount": 594,
+      "closedCount": 589,
+      "totalCount": 595,
       "tickets": [
         {
           "id": "45842000130144541",
@@ -2695,6 +2695,16 @@
           "channel": "Phone",
           "createdTime": "2026-09-13T12:12:13Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130144541",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000130172492",
+          "number": "356143",
+          "subject": "1416745457251150.jpeg",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-13T11:53:07Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130172492",
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
@@ -3298,16 +3308,6 @@
           "assignee": "Angie Oliveros"
         },
         {
-          "id": "45842000130026307",
-          "number": "355607",
-          "subject": "Llamada saliente (00:00:29) de +34937377821 (Soporte) a +34681121297 (  34681121297)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-10T07:44:06Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130026307",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000130038933",
           "number": "355562",
           "subject": "Solicitud de identificación de comercio emisor de cargo - [09/09/2026] - [120] €",
@@ -3352,31 +3352,11 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 15,
+      "openCount": 13,
       "onHoldCount": 0,
-      "closedCount": 532,
-      "totalCount": 547,
+      "closedCount": 531,
+      "totalCount": 544,
       "tickets": [
-        {
-          "id": "45842000130172492",
-          "number": "356143",
-          "subject": "1416745457251150.jpeg",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-13T11:53:07Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130172492",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
-          "id": "45842000130166228",
-          "number": "356141",
-          "subject": "Hola necesito soporte",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-13T11:43:13Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130166228",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
         {
           "id": "45842000130141390",
           "number": "356135",
@@ -3386,16 +3366,6 @@
           "createdTime": "2026-09-13T10:43:40Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130141390",
           "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
-          "id": "45842000130157895",
-          "number": "356123",
-          "subject": "⭐ ⭐ ⭐ ⭐ ⭐ ¿Cuántas estrellas darías a civitatis.com?",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-09-13T07:09:19Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130157895",
-          "assignee": ""
         },
         {
           "id": "45842000130170487",
@@ -4106,27 +4076,27 @@
           "createdTime": "2026-09-09T14:28:20Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130003896",
           "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000129976344",
+          "number": "355488",
+          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34691247013 (. Lua)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-09-09T14:08:18Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129976344",
+          "assignee": "Jordy Carmona"
         }
       ],
       "inMasterList": false
     },
     {
       "classification": "Calls",
-      "openCount": 5,
+      "openCount": 4,
       "onHoldCount": 0,
       "closedCount": 353,
-      "totalCount": 358,
+      "totalCount": 357,
       "tickets": [
-        {
-          "id": "45842000130141464",
-          "number": "356145",
-          "subject": "Llamada entrante de +34633867733 ( Salvatore) a +34937377821 (Soporte)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-09-13T12:22:46Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130141464",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
         {
           "id": "45842000130120588",
           "number": "356137",
@@ -5424,9 +5394,19 @@
       "classification": "Admin :: Impresoras",
       "openCount": 4,
       "onHoldCount": 1,
-      "closedCount": 173,
-      "totalCount": 178,
+      "closedCount": 174,
+      "totalCount": 179,
       "tickets": [
+        {
+          "id": "45842000130166228",
+          "number": "356141",
+          "subject": "Hola necesito soporte",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-13T11:43:13Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130166228",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000130121377",
           "number": "356101",
@@ -6058,16 +6038,6 @@
           "assignee": "Fernando Poza"
         },
         {
-          "id": "45842000129687325",
-          "number": "354160",
-          "subject": "Llamada entrante (00:03:02) de +34689996599 ( Lemongrass Torrente) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-03T12:36:04Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129687325",
-          "assignee": "Harold Diaz"
-        },
-        {
           "id": "45842000128985250",
           "number": "351062",
           "subject": "IMPORTANTE Y URGENTE - ARXIU | LASTAPP | COTOTO",
@@ -6338,16 +6308,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129866377",
-          "number": "355032",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-07T11:06:25Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129866377",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000129863553",
           "number": "355034",
           "subject": "Help us improve",
@@ -6355,16 +6315,6 @@
           "channel": "Email",
           "createdTime": "2026-09-07T11:06:25Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129863553",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000129858912",
-          "number": "355035",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-07T11:06:25Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129858912",
           "assignee": "Alberto Poyato"
         },
         {
@@ -6378,13 +6328,23 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129866241",
-          "number": "355029",
+          "id": "45842000129866377",
+          "number": "355032",
           "subject": "Help us improve",
           "status": "Closed",
           "channel": "Email",
-          "createdTime": "2026-09-07T11:06:23Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129866241",
+          "createdTime": "2026-09-07T11:06:25Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129866377",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129858912",
+          "number": "355035",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-07T11:06:25Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129858912",
           "assignee": "Alberto Poyato"
         },
         {
@@ -6405,6 +6365,16 @@
           "channel": "Email",
           "createdTime": "2026-09-07T11:06:23Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129867351",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129866241",
+          "number": "355029",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-07T11:06:23Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129866241",
           "assignee": "Alberto Poyato"
         },
         {
@@ -6438,16 +6408,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129835945",
-          "number": "354844",
-          "subject": "Request Received",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-06T05:30:54Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129835945",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000129834674",
           "number": "354845",
           "subject": "Request Received",
@@ -6455,6 +6415,16 @@
           "channel": "Email",
           "createdTime": "2026-09-06T05:30:54Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129834674",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129835945",
+          "number": "354844",
+          "subject": "Request Received",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-06T05:30:54Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129835945",
           "assignee": "Alberto Poyato"
         },
         {
@@ -12904,8 +12874,8 @@
       "classification": "SPAM",
       "openCount": 0,
       "onHoldCount": 0,
-      "closedCount": 19,
-      "totalCount": 19,
+      "closedCount": 20,
+      "totalCount": 20,
       "tickets": [
         {
           "id": "45842000130176042",
@@ -12915,6 +12885,16 @@
           "channel": "Email",
           "createdTime": "2026-09-13T10:36:14Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130176042",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000130157895",
+          "number": "356123",
+          "subject": "⭐ ⭐ ⭐ ⭐ ⭐ ¿Cuántas estrellas darías a civitatis.com?",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-13T07:09:19Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130157895",
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
@@ -12958,16 +12938,6 @@
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
-          "id": "45842000129497869",
-          "number": "353371",
-          "subject": "Neue Saison, neue Tech  ",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-31T10:57:56Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129497869",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
           "id": "45842000129503697",
           "number": "353372",
           "subject": "CREAMOS EL PODCAST DE TU EMPRESA",
@@ -12975,6 +12945,16 @@
           "channel": "Email",
           "createdTime": "2026-08-31T10:57:56Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129503697",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000129497869",
+          "number": "353371",
+          "subject": "Neue Saison, neue Tech  ",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-31T10:57:56Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129497869",
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
