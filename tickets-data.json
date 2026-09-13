@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-13T00:53:32.268865+00:00",
-  "totalOpenTickets": 76,
-  "totalClosedTickets": 2961,
+  "lastUpdated": "2026-09-13T01:31:30.418541+00:00",
+  "totalOpenTickets": 75,
+  "totalClosedTickets": 2962,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -97,18 +97,6 @@
     }
   ],
   "locationIdIssues": [
-    {
-      "id": "45842000130160880",
-      "number": "356104",
-      "subject": "Hola buena tarde",
-      "status": "Open",
-      "channel": "Last.app México",
-      "createdTime": "2026-09-13T00:23:16Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130160880",
-      "assignee": "Dimitriz Rodriguez",
-      "accountName": "LOS CRUSTACEOS",
-      "locationId": ""
-    },
     {
       "id": "45842000130164342",
       "number": "356100",
@@ -2496,9 +2484,21 @@
       "assignee": "Raimundo Garcia",
       "accountName": "Tipicos Gourmet",
       "locationId": ""
+    },
+    {
+      "id": "45842000129923027",
+      "number": "355156",
+      "subject": "Llamada saliente de +34937377821 (Soporte) a +34621374430 ( Jill Rasmeyn)",
+      "status": "Closed",
+      "channel": "Phone",
+      "createdTime": "2026-09-08T07:52:02Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129923027",
+      "assignee": "Raimundo Garcia",
+      "accountName": "Tipicos Gourmet",
+      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1190,
+  "locationIdIssuesTotal": 1189,
   "byContact": [
     {
       "contactId": "45842000032294756",
@@ -3352,21 +3352,11 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 15,
+      "openCount": 14,
       "onHoldCount": 0,
       "closedCount": 524,
-      "totalCount": 539,
+      "totalCount": 538,
       "tickets": [
-        {
-          "id": "45842000130160880",
-          "number": "356104",
-          "subject": "Hola buena tarde",
-          "status": "Open",
-          "channel": "Last.app México",
-          "createdTime": "2026-09-13T00:23:16Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130160880",
-          "assignee": "Dimitriz Rodriguez"
-        },
         {
           "id": "45842000130164342",
           "number": "356100",
@@ -6064,9 +6054,19 @@
       "classification": "Integraciones",
       "openCount": 5,
       "onHoldCount": 7,
-      "closedCount": 139,
-      "totalCount": 151,
+      "closedCount": 140,
+      "totalCount": 152,
       "tickets": [
+        {
+          "id": "45842000130160880",
+          "number": "356104",
+          "subject": "Hola buena tarde",
+          "status": "Closed",
+          "channel": "Last.app México",
+          "createdTime": "2026-09-13T00:23:16Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130160880",
+          "assignee": "Dimitriz Rodriguez"
+        },
         {
           "id": "45842000130120241",
           "number": "355981",
@@ -6298,6 +6298,16 @@
           "assignee": "Alberto Poyato"
         },
         {
+          "id": "45842000129863553",
+          "number": "355034",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-07T11:06:25Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129863553",
+          "assignee": "Alberto Poyato"
+        },
+        {
           "id": "45842000129863501",
           "number": "355033",
           "subject": "Help us improve",
@@ -6305,16 +6315,6 @@
           "channel": "Email",
           "createdTime": "2026-09-07T11:06:25Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129863501",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000129866377",
-          "number": "355032",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-07T11:06:25Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129866377",
           "assignee": "Alberto Poyato"
         },
         {
@@ -6328,23 +6328,13 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129863553",
-          "number": "355034",
+          "id": "45842000129866377",
+          "number": "355032",
           "subject": "Help us improve",
           "status": "Closed",
           "channel": "Email",
           "createdTime": "2026-09-07T11:06:25Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129863553",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000129866243",
-          "number": "355030",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-07T11:06:23Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129866243",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129866377",
           "assignee": "Alberto Poyato"
         },
         {
@@ -6355,6 +6345,16 @@
           "channel": "Email",
           "createdTime": "2026-09-07T11:06:23Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129866241",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129866243",
+          "number": "355030",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-07T11:06:23Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129866243",
           "assignee": "Alberto Poyato"
         },
         {
@@ -6746,16 +6746,6 @@
           "createdTime": "2026-09-02T11:14:41Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129624352",
           "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000129600727",
-          "number": "353624",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-01T10:06:38Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129600727",
-          "assignee": "Alberto Poyato"
         },
         {
           "id": "45842000129453739",
@@ -13268,16 +13258,6 @@
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
-          "id": "45842000129503697",
-          "number": "353372",
-          "subject": "CREAMOS EL PODCAST DE TU EMPRESA",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-31T10:57:56Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129503697",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
           "id": "45842000129497869",
           "number": "353371",
           "subject": "Neue Saison, neue Tech  ",
@@ -13285,6 +13265,16 @@
           "channel": "Email",
           "createdTime": "2026-08-31T10:57:56Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129497869",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000129503697",
+          "number": "353372",
+          "subject": "CREAMOS EL PODCAST DE TU EMPRESA",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-31T10:57:56Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129503697",
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
