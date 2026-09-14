@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-14T10:19:11.278996+00:00",
-  "totalOpenTickets": 72,
-  "totalClosedTickets": 3013,
+  "lastUpdated": "2026-09-14T11:17:37.972953+00:00",
+  "totalOpenTickets": 60,
+  "totalClosedTickets": 3032,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -64,8 +64,18 @@
     {
       "accountId": "45842000107314507",
       "accountName": "Urban Noodles",
-      "ticketCount": 2,
+      "ticketCount": 3,
       "tickets": [
+        {
+          "id": "45842000130138674",
+          "number": "356295",
+          "subject": "Llamada saliente (00:10:05) de +34937377821 (Soporte) a +34610426212 ( Adam)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-14T10:52:35Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130138674",
+          "assignee": "Javier Landaeta"
+        },
         {
           "id": "45842000130184303",
           "number": "356285",
@@ -74,7 +84,7 @@
           "channel": "Last.app España",
           "createdTime": "2026-09-14T10:18:05Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130184303",
-          "assignee": "Dimitriz Rodriguez"
+          "assignee": "Angie Oliveros"
         },
         {
           "id": "45842000130126599",
@@ -91,16 +101,88 @@
   ],
   "locationIdIssues": [
     {
-      "id": "45842000130145708",
-      "number": "356286",
-      "subject": "Llamada entrante de +34687257653 ( Marlon Jose) a +34937377821 (Soporte)",
+      "id": "45842000130192397",
+      "number": "356300",
+      "subject": "Buenos días",
+      "status": "Open",
+      "channel": "Last.app España",
+      "createdTime": "2026-09-14T11:14:52Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130192397",
+      "assignee": "Dimitriz Rodriguez",
+      "accountName": "Xtrem Smash Burger",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130201245",
+      "number": "356297",
+      "subject": "Tienes una nueva reserva",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-14T11:02:21Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130201245",
+      "assignee": "Dimitriz Rodriguez",
+      "accountName": "",
+      "locationId": "1234"
+    },
+    {
+      "id": "45842000130201162",
+      "number": "356296",
+      "subject": "Tienes una nueva reserva",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-14T10:55:29Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130201162",
+      "assignee": "Dimitriz Rodriguez",
+      "accountName": "",
+      "locationId": "1234"
+    },
+    {
+      "id": "45842000130138674",
+      "number": "356295",
+      "subject": "Llamada saliente (00:10:05) de +34937377821 (Soporte) a +34610426212 ( Adam)",
       "status": "Open",
       "channel": "Phone",
-      "createdTime": "2026-09-14T10:18:51Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130145708",
-      "assignee": "Dimitriz Rodriguez",
-      "accountName": "Rogo",
+      "createdTime": "2026-09-14T10:52:35Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130138674",
+      "assignee": "Javier Landaeta",
+      "accountName": "Urban Noodles",
       "locationId": ""
+    },
+    {
+      "id": "45842000130191591",
+      "number": "356292",
+      "subject": "Tienes una nueva reserva",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-14T10:39:44Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130191591",
+      "assignee": "Dimitriz Rodriguez",
+      "accountName": "",
+      "locationId": "1234"
+    },
+    {
+      "id": "45842000130143442",
+      "number": "356290",
+      "subject": "Llamada entrante (00:02:21) de +34635807897 (Silvia Helen Silvia Helen Randall Aisa) a +34937377821 (Soporte)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-09-14T10:36:52Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130143442",
+      "assignee": "Angie Oliveros",
+      "accountName": "Orologio Cafe Pizzeria",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130193334",
+      "number": "356288",
+      "subject": "GLV-80955 Productos dentro de un Combo no muestran modificadores, fuera del combo el mismo producto si que muestra los modificadores.",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-14T10:32:52Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130193334",
+      "assignee": "Alberto Poyato",
+      "accountName": "",
+      "locationId": "1234"
     },
     {
       "id": "45842000130184303",
@@ -110,7 +192,7 @@
       "channel": "Last.app España",
       "createdTime": "2026-09-14T10:18:05Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130184303",
-      "assignee": "Dimitriz Rodriguez",
+      "assignee": "Angie Oliveros",
       "accountName": "Urban Noodles",
       "locationId": ""
     },
@@ -118,95 +200,23 @@
       "id": "45842000130191483",
       "number": "356284",
       "subject": "Uber Case# 60092550-LastApp - uber integration request",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Email",
       "createdTime": "2026-09-14T10:16:52Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130191483",
       "assignee": "Angie Oliveros",
       "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000130192164",
-      "number": "356283",
-      "subject": "Hola",
-      "status": "Open",
-      "channel": "Last.app España",
-      "createdTime": "2026-09-14T10:15:51Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130192164",
-      "assignee": "Dimitriz Rodriguez",
-      "accountName": "Marchando Cocina",
-      "locationId": ""
-    },
-    {
-      "id": "45842000130196021",
-      "number": "356277",
-      "subject": "Buenass una pregunta , cuando hago pedidos en la sección modo rápido no me sale el ticket",
-      "status": "Open",
-      "channel": "Last.app España",
-      "createdTime": "2026-09-14T10:05:14Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130196021",
-      "assignee": "Dimitriz Rodriguez",
-      "accountName": "La porción 1",
-      "locationId": ""
-    },
-    {
-      "id": "45842000130137748",
-      "number": "356275",
-      "subject": "Llamada entrante (00:04:09) de +34667389567 ( Gaizka) a +34937377821 (Soporte)",
-      "status": "Open",
-      "channel": "Phone",
-      "createdTime": "2026-09-14T10:03:40Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130137748",
-      "assignee": "Angie Oliveros",
-      "accountName": "PUNKYTXEN",
-      "locationId": ""
-    },
-    {
-      "id": "45842000130192088",
-      "number": "356274",
-      "subject": "marketing@lemongrass.es",
-      "status": "Open",
-      "channel": "Last.app España",
-      "createdTime": "2026-09-14T10:03:11Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130192088",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000130186862",
-      "number": "356272",
-      "subject": "LastApp - glovo integration request",
-      "status": "Open",
-      "channel": "Email",
-      "createdTime": "2026-09-14T09:55:12Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130186862",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000130193169",
-      "number": "356271",
-      "subject": "Uber Case# 60092322-LastApp - uber integration request",
-      "status": "Open",
-      "channel": "Email",
-      "createdTime": "2026-09-14T09:54:59Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130193169",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": ""
+      "locationId": "1234"
     },
     {
       "id": "45842000130193100",
       "number": "356270",
       "subject": "LastApp - glovo integration deleted",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Email",
       "createdTime": "2026-09-14T09:54:37Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130193100",
-      "assignee": "Angie Oliveros",
+      "assignee": "Alberto Poyato",
       "accountName": "",
       "locationId": ""
     },
@@ -221,18 +231,6 @@
       "assignee": "Dimitriz Rodriguez",
       "accountName": "",
       "locationId": "1234"
-    },
-    {
-      "id": "45842000130178997",
-      "number": "356267",
-      "subject": "LastApp - glovo integration request",
-      "status": "Open",
-      "channel": "Email",
-      "createdTime": "2026-09-14T09:39:23Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130178997",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": ""
     },
     {
       "id": "45842000130186784",
@@ -257,18 +255,6 @@
       "assignee": "Angie Oliveros",
       "accountName": "Last.app",
       "locationId": "1234"
-    },
-    {
-      "id": "45842000130186715",
-      "number": "356261",
-      "subject": "LastApp - glovo integration deleted",
-      "status": "Open",
-      "channel": "Email",
-      "createdTime": "2026-09-14T09:29:11Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130186715",
-      "assignee": "Dimitriz Rodriguez",
-      "accountName": "",
-      "locationId": ""
     },
     {
       "id": "45842000130141777",
@@ -1023,7 +1009,7 @@
       "createdTime": "2026-09-11T12:55:22Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130142093",
       "assignee": "Jordy Carmona",
-      "accountName": "La porción 1",
+      "accountName": "La Porción",
       "locationId": ""
     },
     {
@@ -2119,18 +2105,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000130035093",
-      "number": "355466",
-      "subject": "Diferencias con Glovo y consulta de stock",
-      "status": "On Hold",
-      "channel": "Email",
-      "createdTime": "2026-09-09T12:51:30Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130035093",
-      "assignee": "Fernando Poza",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000129994160",
       "number": "355458",
       "subject": "Llamada saliente (00:00:05) de +34937377821 (Soporte) a +34610020863 ( +34610020863)",
@@ -2489,9 +2463,45 @@
       "assignee": "Dimitriz Rodriguez",
       "accountName": "",
       "locationId": "1234"
+    },
+    {
+      "id": "45842000129958877",
+      "number": "355324",
+      "subject": "NUEVO | Lanzamos Kiosko Autoservicio para que vendas más",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-08T18:36:58Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129958877",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000129959994",
+      "number": "355317",
+      "subject": "Re:[## 355288 ##] Dudas pendientes con Just Eat – Push de menú y nuevas altas",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-08T17:45:04Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129959994",
+      "assignee": "Fernando Poza",
+      "accountName": "Last.App",
+      "locationId": ""
+    },
+    {
+      "id": "45842000129959814",
+      "number": "355314",
+      "subject": "Re: [## 354471 ##] Re: Actualizamos las condiciones de Last Shop, la tienda online de Last.app",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-08T17:35:23Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129959814",
+      "assignee": "Jordy Carmona",
+      "accountName": "La Clote de Clot",
+      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1225,
+  "locationIdIssuesTotal": 1221,
   "byContact": [
     {
       "contactId": "45842000032294756",
@@ -2552,6 +2562,44 @@
       ]
     },
     {
+      "contactId": "45842000107314561",
+      "contactName": "Adam",
+      "email": "bibimbowlmalaga@gmail.com",
+      "ticketCount": 3,
+      "tickets": [
+        {
+          "id": "45842000130138674",
+          "number": "356295",
+          "subject": "Llamada saliente (00:10:05) de +34937377821 (Soporte) a +34610426212 ( Adam)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-14T10:52:35Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130138674",
+          "assignee": "Javier Landaeta"
+        },
+        {
+          "id": "45842000130184303",
+          "number": "356285",
+          "subject": "Hola",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-14T10:18:05Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130184303",
+          "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000130126599",
+          "number": "356237",
+          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34610426212 ( Adam)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-14T08:31:37Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130126599",
+          "assignee": "Javier Landaeta"
+        }
+      ]
+    },
+    {
       "contactId": "45842000068856742",
       "contactName": "34910109009",
       "email": "",
@@ -2578,34 +2626,6 @@
           "assignee": "Raimundo Garcia"
         }
       ]
-    },
-    {
-      "contactId": "45842000107314561",
-      "contactName": "Adam",
-      "email": "bibimbowlmalaga@gmail.com",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000130184303",
-          "number": "356285",
-          "subject": "Hola",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-14T10:18:05Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130184303",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000130126599",
-          "number": "356237",
-          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34610426212 ( Adam)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-09-14T08:31:37Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130126599",
-          "assignee": "Javier Landaeta"
-        }
-      ]
     }
   ],
   "byClassification": [
@@ -2613,9 +2633,19 @@
       "classification": "Admin :: General",
       "openCount": 1,
       "onHoldCount": 3,
-      "closedCount": 601,
-      "totalCount": 605,
+      "closedCount": 602,
+      "totalCount": 606,
       "tickets": [
+        {
+          "id": "45842000130193169",
+          "number": "356271",
+          "subject": "Uber Case# 60092322-LastApp - uber integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-14T09:55:00Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130193169",
+          "assignee": "Angie Oliveros"
+        },
         {
           "id": "45842000130169646",
           "number": "356265",
@@ -3217,16 +3247,6 @@
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
-          "id": "45842000130072271",
-          "number": "355673",
-          "subject": "**AUSENCIA POR VACACIONES***",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-10T10:58:34Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130072271",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000130038933",
           "number": "355562",
           "subject": "Solicitud de identificación de comercio emisor de cargo - [09/09/2026] - [120] €",
@@ -3261,11 +3281,31 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 9,
+      "openCount": 6,
       "onHoldCount": 0,
-      "closedCount": 546,
-      "totalCount": 555,
+      "closedCount": 547,
+      "totalCount": 553,
       "tickets": [
+        {
+          "id": "45842000130192397",
+          "number": "356300",
+          "subject": "Buenos días",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-14T11:14:52Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130192397",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000130138674",
+          "number": "356295",
+          "subject": "Llamada saliente (00:10:05) de +34937377821 (Soporte) a +34610426212 ( Adam)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-14T10:52:35Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130138674",
+          "assignee": "Javier Landaeta"
+        },
         {
           "id": "45842000130184303",
           "number": "356285",
@@ -3274,57 +3314,17 @@
           "channel": "Last.app España",
           "createdTime": "2026-09-14T10:18:05Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130184303",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000130192164",
-          "number": "356283",
-          "subject": "Hola",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-14T10:15:51Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130192164",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000130196021",
-          "number": "356277",
-          "subject": "Buenass una pregunta , cuando hago pedidos en la sección modo rápido no me sale el ticket",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-14T10:05:14Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130196021",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000130192088",
-          "number": "356274",
-          "subject": "marketing@lemongrass.es",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-14T10:03:11Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130192088",
           "assignee": "Angie Oliveros"
         },
         {
           "id": "45842000130193100",
           "number": "356270",
           "subject": "LastApp - glovo integration deleted",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Email",
           "createdTime": "2026-09-14T09:54:37Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130193100",
-          "assignee": "Angie Oliveros"
-        },
-        {
-          "id": "45842000130186715",
-          "number": "356261",
-          "subject": "LastApp - glovo integration deleted",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-09-14T09:29:11Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130186715",
-          "assignee": "Dimitriz Rodriguez"
+          "assignee": "Alberto Poyato"
         },
         {
           "id": "45842000130138532",
@@ -3945,46 +3945,36 @@
           "createdTime": "2026-09-10T13:24:36Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130065667",
           "assignee": "Jordy Carmona"
-        },
-        {
-          "id": "45842000129977431",
-          "number": "355717",
-          "subject": "Llamada saliente (00:03:23) de +34937377821 (Soporte) a +34934180691 ( +34934180691)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-10T12:51:43Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129977431",
-          "assignee": "Jordy Carmona"
         }
       ],
       "inMasterList": false
     },
     {
       "classification": "Calls",
-      "openCount": 5,
+      "openCount": 4,
       "onHoldCount": 1,
-      "closedCount": 353,
+      "closedCount": 354,
       "totalCount": 359,
       "tickets": [
         {
+          "id": "45842000130143442",
+          "number": "356290",
+          "subject": "Llamada entrante (00:02:21) de +34635807897 (Silvia Helen Silvia Helen Randall Aisa) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-14T10:36:52Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130143442",
+          "assignee": "Angie Oliveros"
+        },
+        {
           "id": "45842000130145708",
           "number": "356286",
-          "subject": "Llamada entrante de +34687257653 ( Marlon Jose) a +34937377821 (Soporte)",
-          "status": "Open",
+          "subject": "Llamada entrante (00:09:53) de +34687257653 ( Marlon Jose) a +34937377821 (Soporte)",
+          "status": "Closed",
           "channel": "Phone",
           "createdTime": "2026-09-14T10:18:51Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130145708",
           "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000130137748",
-          "number": "356275",
-          "subject": "Llamada entrante (00:04:09) de +34667389567 ( Gaizka) a +34937377821 (Soporte)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-09-14T10:03:40Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130137748",
-          "assignee": "Angie Oliveros"
         },
         {
           "id": "45842000130141777",
@@ -4597,16 +4587,6 @@
           "assignee": "Jordy Carmona"
         },
         {
-          "id": "45842000129923113",
-          "number": "355187",
-          "subject": "Llamada entrante (00:02:54) de +34627366921 (  34627366921) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-08T09:57:06Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129923113",
-          "assignee": "Jordy Carmona"
-        },
-        {
           "id": "45842000129756816",
           "number": "354965",
           "subject": "PadthaiWok | CC La Vaguada // No está llegando el informe de facturación.",
@@ -4631,16 +4611,16 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 4,
+      "openCount": 1,
       "onHoldCount": 1,
-      "closedCount": 274,
-      "totalCount": 279,
+      "closedCount": 276,
+      "totalCount": 278,
       "tickets": [
         {
           "id": "45842000130191483",
           "number": "356284",
           "subject": "Uber Case# 60092550-LastApp - uber integration request",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Email",
           "createdTime": "2026-09-14T10:16:52Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130191483",
@@ -4650,37 +4630,27 @@
           "id": "45842000130186862",
           "number": "356272",
           "subject": "LastApp - glovo integration request",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Email",
-          "createdTime": "2026-09-14T09:55:12Z",
+          "createdTime": "2026-09-14T09:55:13Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130186862",
-          "assignee": "Angie Oliveros"
-        },
-        {
-          "id": "45842000130193169",
-          "number": "356271",
-          "subject": "Uber Case# 60092322-LastApp - uber integration request",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-09-14T09:54:59Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130193169",
-          "assignee": "Angie Oliveros"
+          "assignee": "Alberto Poyato"
         },
         {
           "id": "45842000130178997",
           "number": "356267",
           "subject": "LastApp - glovo integration request",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Email",
           "createdTime": "2026-09-14T09:39:23Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130178997",
-          "assignee": "Angie Oliveros"
+          "assignee": "Alberto Poyato"
         },
         {
           "id": "45842000130182957",
           "number": "356264",
           "subject": "Uber Case# 60086507-LastApp - uber integration request",
-          "status": "Closed",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-09-14T09:29:59Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130182957",
@@ -5265,34 +5235,14 @@
           "createdTime": "2026-09-01T20:20:17Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129615703",
           "assignee": "Raimundo Garcia"
-        },
-        {
-          "id": "45842000129615122",
-          "number": "353760",
-          "subject": "LastApp - uberdirect integration request",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-01T16:47:56Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129615122",
-          "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000129615047",
-          "number": "353759",
-          "subject": "Uber Case# 59784809-LastApp - uber integration request",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-01T16:27:49Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129615047",
-          "assignee": "Alberto Poyato"
         }
       ],
       "inMasterList": false
     },
     {
       "classification": "Admin :: Impresoras",
-      "openCount": 3,
-      "onHoldCount": 1,
+      "openCount": 2,
+      "onHoldCount": 2,
       "closedCount": 174,
       "totalCount": 178,
       "tickets": [
@@ -5390,7 +5340,7 @@
           "id": "45842000130124301",
           "number": "355920",
           "subject": "DELAOSTIA // Activar tap to pay",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Phone",
           "createdTime": "2026-09-11T12:51:11Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130124301",
@@ -5941,11 +5891,51 @@
     },
     {
       "classification": "Integraciones",
-      "openCount": 3,
-      "onHoldCount": 9,
-      "closedCount": 145,
-      "totalCount": 157,
+      "openCount": 4,
+      "onHoldCount": 8,
+      "closedCount": 150,
+      "totalCount": 162,
       "tickets": [
+        {
+          "id": "45842000130192316",
+          "number": "356298",
+          "subject": "Ya está aceptada, necesito que last la active, gracias",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-14T11:04:47Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130192316",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000130193334",
+          "number": "356288",
+          "subject": "GLV-80955 Productos dentro de un Combo no muestran modificadores, fuera del combo el mismo producto si que muestra los modificadores.",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-14T10:32:52Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130193334",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000130195180",
+          "number": "356287",
+          "subject": "GLV-80955 Productos dentro de un Combo no muestran modificadores, fuera del combo el mismo producto si que muestra los modificadores.",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-14T10:21:52Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130195180",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000130191401",
+          "number": "356280",
+          "subject": "RE: Actualizar configuración de mesas en Cover y Last (cambios en el plano)",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-14T10:10:42Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130191401",
+          "assignee": "Dimitriz Rodriguez"
+        },
         {
           "id": "45842000130184187",
           "number": "356276",
@@ -5955,6 +5945,26 @@
           "createdTime": "2026-09-14T10:04:26Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130184187",
           "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000130192088",
+          "number": "356274",
+          "subject": "marketing@lemongrass.es",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-14T10:03:11Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130192088",
+          "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000130186715",
+          "number": "356261",
+          "subject": "LastApp - glovo integration deleted",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-14T09:29:12Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130186715",
+          "assignee": "Alberto Poyato"
         },
         {
           "id": "45842000130191107",
@@ -5970,9 +5980,9 @@
           "id": "45842000130147465",
           "number": "356232",
           "subject": "Modificadores en Glovo",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Phone",
-          "createdTime": "2026-09-14T08:21:57Z",
+          "createdTime": "2026-09-14T08:21:58Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130147465",
           "assignee": "Alberto Poyato"
         },
@@ -6097,16 +6107,6 @@
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
-          "id": "45842000129987411",
-          "number": "355616",
-          "subject": "O'DONNELL // No se están integrando los pedidos de Glovo !!!",
-          "status": "On Hold",
-          "channel": "Phone",
-          "createdTime": "2026-09-10T08:10:04Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129987411",
-          "assignee": "Fernando Poza"
-        },
-        {
           "id": "45842000130006569",
           "number": "355500",
           "subject": "Hola!",
@@ -6217,6 +6217,16 @@
           "assignee": "Jordy Carmona"
         },
         {
+          "id": "45842000129863621",
+          "number": "355036",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-07T11:06:26Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129863621",
+          "assignee": "Alberto Poyato"
+        },
+        {
           "id": "45842000129866445",
           "number": "355037",
           "subject": "Help us improve",
@@ -6227,13 +6237,13 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129863621",
-          "number": "355036",
+          "id": "45842000129863501",
+          "number": "355033",
           "subject": "Help us improve",
           "status": "Closed",
           "channel": "Email",
-          "createdTime": "2026-09-07T11:06:26Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129863621",
+          "createdTime": "2026-09-07T11:06:25Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129863501",
           "assignee": "Alberto Poyato"
         },
         {
@@ -6254,16 +6264,6 @@
           "channel": "Email",
           "createdTime": "2026-09-07T11:06:25Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129858912",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000129863501",
-          "number": "355033",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-07T11:06:25Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129863501",
           "assignee": "Alberto Poyato"
         },
         {
@@ -6387,16 +6387,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129835595",
-          "number": "354827",
-          "subject": "Request Received",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-06T05:30:50Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129835595",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000129834470",
           "number": "354828",
           "subject": "LastApp - didi integration deleted",
@@ -6404,6 +6394,16 @@
           "channel": "Email",
           "createdTime": "2026-09-06T05:30:50Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129834470",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129835595",
+          "number": "354827",
+          "subject": "Request Received",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-06T05:30:50Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129835595",
           "assignee": "Alberto Poyato"
         },
         {
@@ -6587,56 +6587,6 @@
           "assignee": "Brayan Ricardo Fuentes Herrera"
         },
         {
-          "id": "45842000129746512",
-          "number": "354533",
-          "subject": "Llamada saliente (00:01:04) de +34937377821 (Soporte) a +34953654673 (  34953654673)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-04T18:49:30Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129746512",
-          "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000129757657",
-          "number": "354407",
-          "subject": "GLOVO-LASTAPP (In... - @support@last.app este perfil esta ya...",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-04T10:23:04Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129757657",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000129763101",
-          "number": "354373",
-          "subject": "Buenas contacto desde roccos bueger necesito que me hagan un push en los canales de delivery, glovo uber y just eat",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-04T09:15:52Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129763101",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000129694269",
-          "number": "354328",
-          "subject": "Restaurante El Mono // Integración Glovo no muestra un producto",
-          "status": "Closed",
-          "channel": "Chat",
-          "createdTime": "2026-09-04T03:40:35Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129694269",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
-          "id": "45842000129665897",
-          "number": "354280",
-          "subject": "O Mamma Mia Cordoba// Pedidos de Cheerfy no imprimen en impresora PIZZA",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-03T20:10:37Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129665897",
-          "assignee": "Fernando Poza"
-        },
-        {
           "id": "45842000129453739",
           "number": "353489",
           "subject": "The Beast Burger Algeciras // Datos direccion Uber",
@@ -6650,7 +6600,7 @@
           "id": "45842000129416317",
           "number": "352979",
           "subject": "OHARA REKALDE // Pedidos de Uber Eats con direcciones incompletas",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Last.app España",
           "createdTime": "2026-08-28T12:47:10Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129416317",
@@ -7281,10 +7231,10 @@
     },
     {
       "classification": "Admin :: Integraciones",
-      "openCount": 3,
-      "onHoldCount": 5,
+      "openCount": 4,
+      "onHoldCount": 3,
       "closedCount": 119,
-      "totalCount": 127,
+      "totalCount": 126,
       "tickets": [
         {
           "id": "45842000130186587",
@@ -7467,20 +7417,10 @@
           "assignee": "Brayan Ricardo Fuentes Herrera"
         },
         {
-          "id": "45842000130035093",
-          "number": "355466",
-          "subject": "Diferencias con Glovo y consulta de stock",
-          "status": "On Hold",
-          "channel": "Email",
-          "createdTime": "2026-09-09T12:51:30Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130035093",
-          "assignee": "Fernando Poza"
-        },
-        {
           "id": "45842000130021882",
           "number": "355462",
           "subject": "DX - PEDIDO HORA WAITRY CON HORA PROGRAMADA ERRONEA",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-09-09T12:35:41Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130021882",
@@ -7972,8 +7912,8 @@
     {
       "classification": "Admin :: Reportes",
       "openCount": 4,
-      "onHoldCount": 5,
-      "closedCount": 94,
+      "onHoldCount": 4,
+      "closedCount": 95,
       "totalCount": 103,
       "tickets": [
         {
@@ -8057,14 +7997,14 @@
           "assignee": "Trinidad Larrain Punti"
         },
         {
-          "id": "45842000129979219",
-          "number": "355502",
-          "subject": "ZABALGANA. PIZZERIA TROVO // Informe del día no coincide con cuentas del día.",
-          "status": "On Hold",
+          "id": "45842000129981167",
+          "number": "355457",
+          "subject": "Llamada entrante (00:04:20) de +34670648786 ( Glo) a +34937377821 (Soporte)",
+          "status": "Closed",
           "channel": "Phone",
-          "createdTime": "2026-09-09T14:57:27Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129979219",
-          "assignee": "Fernando Poza"
+          "createdTime": "2026-09-09T12:32:04Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129981167",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
         },
         {
           "id": "45842000129977102",
@@ -8655,16 +8595,6 @@
           "createdTime": "2026-08-24T16:57:09Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129156373",
           "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000129165546",
-          "number": "352013",
-          "subject": "Buenas tardes, hay un reporte que creasteis para nosotros al que me gustaria ponerle un filtro",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-24T15:51:45Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129165546",
-          "assignee": "Jordy Carmona"
         }
       ],
       "inMasterList": true
@@ -8673,9 +8603,19 @@
       "classification": "POS :: uso general",
       "openCount": 0,
       "onHoldCount": 0,
-      "closedCount": 83,
-      "totalCount": 83,
+      "closedCount": 84,
+      "totalCount": 84,
       "tickets": [
+        {
+          "id": "45842000130196021",
+          "number": "356277",
+          "subject": "Buenass una pregunta , cuando hago pedidos en la sección modo rápido no me sale el ticket",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-14T10:05:14Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130196021",
+          "assignee": "Dimitriz Rodriguez"
+        },
         {
           "id": "45842000130166383",
           "number": "356167",
@@ -9265,16 +9205,6 @@
           "createdTime": "2026-08-21T15:07:25Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129095927",
           "assignee": "Javier Landaeta"
-        },
-        {
-          "id": "45842000129076787",
-          "number": "351600",
-          "subject": "Buenos días, te escribo desde padthai Wok 4 caminos en coruña. Quería saber cómo hacer para crear un usuario en la app del restaurante",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-21T12:25:25Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129076787",
-          "assignee": "Jordy Carmona"
         }
       ],
       "inMasterList": true
@@ -9283,9 +9213,39 @@
       "classification": "Otro",
       "openCount": 0,
       "onHoldCount": 0,
-      "closedCount": 58,
-      "totalCount": 58,
+      "closedCount": 61,
+      "totalCount": 61,
       "tickets": [
+        {
+          "id": "45842000130201245",
+          "number": "356297",
+          "subject": "Tienes una nueva reserva",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-14T11:02:21Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130201245",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000130201162",
+          "number": "356296",
+          "subject": "Tienes una nueva reserva",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-14T10:55:29Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130201162",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000130191591",
+          "number": "356292",
+          "subject": "Tienes una nueva reserva",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-14T10:39:44Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130191591",
+          "assignee": "Dimitriz Rodriguez"
+        },
         {
           "id": "45842000130191241",
           "number": "356268",
@@ -9855,16 +9815,6 @@
           "createdTime": "2026-08-16T10:30:08Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128872999",
           "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000128464412",
-          "number": "348978",
-          "subject": "posible bug sev2",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-06T15:11:06Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128464412",
-          "assignee": "Raimundo Garcia"
         }
       ],
       "inMasterList": true
@@ -9873,9 +9823,19 @@
       "classification": "LastSHOP",
       "openCount": 0,
       "onHoldCount": 4,
-      "closedCount": 53,
-      "totalCount": 57,
+      "closedCount": 54,
+      "totalCount": 58,
       "tickets": [
+        {
+          "id": "45842000130192164",
+          "number": "356283",
+          "subject": "Hola",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-14T10:15:51Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130192164",
+          "assignee": "Dimitriz Rodriguez"
+        },
         {
           "id": "45842000130135442",
           "number": "356195",
@@ -9929,7 +9889,7 @@
         {
           "id": "45842000130129123",
           "number": "355898",
-          "subject": "Llamada entrante (00:05:37) de +34688642902 ( +34688642902) a +34937377821 (Soporte)",
+          "subject": "Pedido Shop traspapelado en POS (no hacen cierre de caja desde 7/7)",
           "status": "On Hold",
           "channel": "Phone",
           "createdTime": "2026-09-11T11:23:56Z",
@@ -11641,8 +11601,8 @@
     },
     {
       "classification": "Admin :: Promociones",
-      "openCount": 1,
-      "onHoldCount": 0,
+      "openCount": 0,
+      "onHoldCount": 1,
       "closedCount": 26,
       "totalCount": 27,
       "tickets": [
@@ -11650,7 +11610,7 @@
           "id": "45842000130121492",
           "number": "356133",
           "subject": "Trece repulgues Gran Vía // Promocion de descuento de dinero no funciona",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Phone",
           "createdTime": "2026-09-13T10:38:15Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130121492",
@@ -11920,276 +11880,6 @@
       "inMasterList": true
     },
     {
-      "classification": "Módulos Reserva",
-      "openCount": 0,
-      "onHoldCount": 1,
-      "closedCount": 25,
-      "totalCount": 26,
-      "tickets": [
-        {
-          "id": "45842000130125471",
-          "number": "356095",
-          "subject": "Street Grills Los Urquiza // Reservas, salón nuevo no coincide",
-          "status": "On Hold",
-          "channel": "Phone",
-          "createdTime": "2026-09-12T19:21:16Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130125471",
-          "assignee": "Fernando Poza"
-        },
-        {
-          "id": "45842000130083099",
-          "number": "355786",
-          "subject": "Buenas",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-10T18:23:42Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130083099",
-          "assignee": "Jordy Carmona"
-        },
-        {
-          "id": "45842000129903398",
-          "number": "355190",
-          "subject": "Hola buenas me podrían pasar el id del libro de reservas de la sede del cañaveral",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-08T10:11:43Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129903398",
-          "assignee": "Jordy Carmona"
-        },
-        {
-          "id": "45842000129814823",
-          "number": "354723",
-          "subject": "Buenas",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-05T19:16:53Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129814823",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000129625342",
-          "number": "353980",
-          "subject": "Hola buenas tardes, estoy teniendo problemas para realizar o hacer mas reservas, por ejemplo para el dia 4 de setiembre no puedo hacer mas grande la reserva que tengo de Georgina, deberia de ser de 15...",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-02T15:02:50Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129625342",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000129633004",
-          "number": "353927",
-          "subject": "La Parrilla Del Keoss // Aviso de capacidad  en reservas por plano no utilizado",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-02T11:57:43Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129633004",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000129527644",
-          "number": "353485",
-          "subject": "Hola, buenas noches, escribo de Hamburguesería Burguitos y  tengo una consulta con respecto al sistema de reservas. Nosotros ya teníamos activo Tarragona y hemos agregado a Reus con el sistema de rese...",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-31T20:19:12Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129527644",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000129522366",
-          "number": "353467",
-          "subject": "Hola buenas tardes Escribo por Hamburguesería Burguitos",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-31T18:42:34Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129522366",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000129527420",
-          "number": "353465",
-          "subject": "4997714400455112.ogg",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-31T18:38:30Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129527420",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000129447370",
-          "number": "353206",
-          "subject": "HUB Les Arts // Google Booking no permite reservas sabados/domingos",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-30T07:24:24Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129447370",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000129468383",
-          "number": "353103",
-          "subject": "La Feli / No carga bien los horarios en la shop.",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-29T10:34:07Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129468383",
-          "assignee": "Raimundo Garcia"
-        },
-        {
-          "id": "45842000129451269",
-          "number": "353060",
-          "subject": "VITTOS SITGES // Google Booking no permite reservar para hoy 28",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-28T19:51:12Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129451269",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000129349846",
-          "number": "352795",
-          "subject": "2525192291281995.ogg",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-27T16:43:26Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129349846",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000129369269",
-          "number": "352758",
-          "subject": "Hola",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-27T14:44:04Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129369269",
-          "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000129102536",
-          "number": "351943",
-          "subject": "Brunchit Plaza Mayor // Reservas de google bookings",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-24T10:58:14Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129102536",
-          "assignee": "Raimundo Garcia"
-        },
-        {
-          "id": "45842000129037802",
-          "number": "351426",
-          "subject": "Serra Nature Hotel Boutique / Cambio del link de reservas.",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-20T16:58:30Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129037802",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
-          "id": "45842000129024198",
-          "number": "351229",
-          "subject": "La Churuata - Arepas y Cachapas Venezolanas Barcelona // Link de reservas no funciona",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-19T16:26:51Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129024198",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000129005527",
-          "number": "351214",
-          "subject": "Hola buenas! Parece que el enlace de reserva no está funcionando bien",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-19T15:23:02Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129005527",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000128965792",
-          "number": "351028",
-          "subject": "Hola te hablo de hamburgueseria Burguitos, quisiéramos por favor habilitar la función de reservar en la ubicación de Reus.",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-18T21:29:16Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128965792",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000128964711",
-          "number": "350952",
-          "subject": "Hola!",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-18T10:54:16Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128964711",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
-          "id": "45842000128929171",
-          "number": "350777",
-          "subject": "Llamada entrante (00:05:47) de +34695581400 (David Gil) a +34930482247 (Angie  Oliveros)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-17T13:05:40Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128929171",
-          "assignee": "Angie Oliveros"
-        },
-        {
-          "id": "45842000128903150",
-          "number": "350760",
-          "subject": "Buen dia Equipo Last, espero que esten bien. Por favor, en esta pantalla no se visualiza el botón de reserva. Tenemos que hacer algo para que aparezca? Esta es la ubicación CloudTown (Rambla Poblenou)",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-17T11:35:13Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128903150",
-          "assignee": "Jordy Carmona"
-        },
-        {
-          "id": "45842000128877993",
-          "number": "350657",
-          "subject": "Buenas",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-16T18:50:11Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128877993",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
-          "id": "45842000128870141",
-          "number": "350552",
-          "subject": "BAR EL NIU - MEJORAS FUTURAS VERSIONES 3",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-15T12:35:49Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128870141",
-          "assignee": "Fernando Poza"
-        },
-        {
-          "id": "45842000128792777",
-          "number": "350254",
-          "subject": "RECLAMACIÓN FORMAL POR INCIDENCIAS EN EL SERVICIO DE RESERVAS",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-13T18:24:49Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128792777",
-          "assignee": "Fernando Poza"
-        },
-        {
-          "id": "45842000128398326",
-          "number": "348536",
-          "subject": "Reservas en Castellón",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-05T10:22:28Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128398326",
-          "assignee": "Raimundo Garcia"
-        }
-      ],
-      "inMasterList": true
-    },
-    {
       "classification": "KDS",
       "openCount": 0,
       "onHoldCount": 0,
@@ -12450,12 +12140,282 @@
       "inMasterList": false
     },
     {
+      "classification": "Módulos Reserva",
+      "openCount": 0,
+      "onHoldCount": 0,
+      "closedCount": 25,
+      "totalCount": 25,
+      "tickets": [
+        {
+          "id": "45842000130083099",
+          "number": "355786",
+          "subject": "Buenas",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-10T18:23:42Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130083099",
+          "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000129903398",
+          "number": "355190",
+          "subject": "Hola buenas me podrían pasar el id del libro de reservas de la sede del cañaveral",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-08T10:11:43Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129903398",
+          "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000129814823",
+          "number": "354723",
+          "subject": "Buenas",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-05T19:16:53Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129814823",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000129625342",
+          "number": "353980",
+          "subject": "Hola buenas tardes, estoy teniendo problemas para realizar o hacer mas reservas, por ejemplo para el dia 4 de setiembre no puedo hacer mas grande la reserva que tengo de Georgina, deberia de ser de 15...",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-02T15:02:50Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129625342",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000129633004",
+          "number": "353927",
+          "subject": "La Parrilla Del Keoss // Aviso de capacidad  en reservas por plano no utilizado",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-02T11:57:43Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129633004",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129527644",
+          "number": "353485",
+          "subject": "Hola, buenas noches, escribo de Hamburguesería Burguitos y  tengo una consulta con respecto al sistema de reservas. Nosotros ya teníamos activo Tarragona y hemos agregado a Reus con el sistema de rese...",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-31T20:19:12Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129527644",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000129522366",
+          "number": "353467",
+          "subject": "Hola buenas tardes Escribo por Hamburguesería Burguitos",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-31T18:42:34Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129522366",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000129527420",
+          "number": "353465",
+          "subject": "4997714400455112.ogg",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-31T18:38:30Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129527420",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000129447370",
+          "number": "353206",
+          "subject": "HUB Les Arts // Google Booking no permite reservas sabados/domingos",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-30T07:24:24Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129447370",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129468383",
+          "number": "353103",
+          "subject": "La Feli / No carga bien los horarios en la shop.",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-29T10:34:07Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129468383",
+          "assignee": "Raimundo Garcia"
+        },
+        {
+          "id": "45842000129451269",
+          "number": "353060",
+          "subject": "VITTOS SITGES // Google Booking no permite reservar para hoy 28",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-28T19:51:12Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129451269",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129349846",
+          "number": "352795",
+          "subject": "2525192291281995.ogg",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-27T16:43:26Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129349846",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000129369269",
+          "number": "352758",
+          "subject": "Hola",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-27T14:44:04Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129369269",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000129102536",
+          "number": "351943",
+          "subject": "Brunchit Plaza Mayor // Reservas de google bookings",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-24T10:58:14Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129102536",
+          "assignee": "Raimundo Garcia"
+        },
+        {
+          "id": "45842000129037802",
+          "number": "351426",
+          "subject": "Serra Nature Hotel Boutique / Cambio del link de reservas.",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-20T16:58:30Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129037802",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000129024198",
+          "number": "351229",
+          "subject": "La Churuata - Arepas y Cachapas Venezolanas Barcelona // Link de reservas no funciona",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-19T16:26:51Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129024198",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000129005527",
+          "number": "351214",
+          "subject": "Hola buenas! Parece que el enlace de reserva no está funcionando bien",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-19T15:23:02Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129005527",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000128965792",
+          "number": "351028",
+          "subject": "Hola te hablo de hamburgueseria Burguitos, quisiéramos por favor habilitar la función de reservar en la ubicación de Reus.",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-18T21:29:16Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128965792",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000128964711",
+          "number": "350952",
+          "subject": "Hola!",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-18T10:54:16Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128964711",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000128929171",
+          "number": "350777",
+          "subject": "Llamada entrante (00:05:47) de +34695581400 (David Gil) a +34930482247 (Angie  Oliveros)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-17T13:05:40Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128929171",
+          "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000128903150",
+          "number": "350760",
+          "subject": "Buen dia Equipo Last, espero que esten bien. Por favor, en esta pantalla no se visualiza el botón de reserva. Tenemos que hacer algo para que aparezca? Esta es la ubicación CloudTown (Rambla Poblenou)",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-17T11:35:13Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128903150",
+          "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000128877993",
+          "number": "350657",
+          "subject": "Buenas",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-16T18:50:11Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128877993",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000128870141",
+          "number": "350552",
+          "subject": "BAR EL NIU - MEJORAS FUTURAS VERSIONES 3",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-15T12:35:49Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128870141",
+          "assignee": "Fernando Poza"
+        },
+        {
+          "id": "45842000128792777",
+          "number": "350254",
+          "subject": "RECLAMACIÓN FORMAL POR INCIDENCIAS EN EL SERVICIO DE RESERVAS",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-13T18:24:49Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128792777",
+          "assignee": "Fernando Poza"
+        },
+        {
+          "id": "45842000128398326",
+          "number": "348536",
+          "subject": "Reservas en Castellón",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-05T10:22:28Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128398326",
+          "assignee": "Raimundo Garcia"
+        }
+      ],
+      "inMasterList": true
+    },
+    {
       "classification": "Admin :: entidades legales",
       "openCount": 0,
       "onHoldCount": 1,
-      "closedCount": 21,
-      "totalCount": 22,
+      "closedCount": 22,
+      "totalCount": 23,
       "tickets": [
+        {
+          "id": "45842000130137748",
+          "number": "356275",
+          "subject": "Llamada entrante (00:04:09) de +34667389567 ( Gaizka) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-09-14T10:03:40Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130137748",
+          "assignee": "Angie Oliveros"
+        },
         {
           "id": "45842000130110202",
           "number": "355928",
@@ -12683,9 +12643,19 @@
       "classification": "Admin :: Suscripción",
       "openCount": 0,
       "onHoldCount": 0,
-      "closedCount": 19,
-      "totalCount": 19,
+      "closedCount": 20,
+      "totalCount": 20,
       "tickets": [
+        {
+          "id": "45842000130169804",
+          "number": "356294",
+          "subject": "Buen día! Espero que se encuentren muy bien. Por favor requiero de su apoyo para saber como ahora puede quitar la suscripcion de una ubicacion en last admin?",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-14T10:44:01Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130169804",
+          "assignee": "Dimitriz Rodriguez"
+        },
         {
           "id": "45842000129978155",
           "number": "355444",
@@ -12957,16 +12927,6 @@
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
-          "id": "45842000129503697",
-          "number": "353372",
-          "subject": "CREAMOS EL PODCAST DE TU EMPRESA",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-31T10:57:56Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129503697",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
           "id": "45842000129497869",
           "number": "353371",
           "subject": "Neue Saison, neue Tech  ",
@@ -12974,6 +12934,16 @@
           "channel": "Email",
           "createdTime": "2026-08-31T10:57:56Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129497869",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000129503697",
+          "number": "353372",
+          "subject": "CREAMOS EL PODCAST DE TU EMPRESA",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-31T10:57:56Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129503697",
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
@@ -13081,8 +13051,8 @@
     },
     {
       "classification": "QRs",
-      "openCount": 1,
-      "onHoldCount": 0,
+      "openCount": 0,
+      "onHoldCount": 1,
       "closedCount": 17,
       "totalCount": 18,
       "tickets": [
@@ -13090,7 +13060,7 @@
           "id": "45842000130065967",
           "number": "355783",
           "subject": "Dallas Pizza Viladecans / No carga los QR",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Last.app España",
           "createdTime": "2026-09-10T18:14:56Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130065967",
@@ -14411,16 +14381,16 @@
     },
     {
       "classification": "Tap to Pay",
-      "openCount": 1,
+      "openCount": 0,
       "onHoldCount": 0,
-      "closedCount": 1,
+      "closedCount": 2,
       "totalCount": 2,
       "tickets": [
         {
           "id": "45842000130184081",
           "number": "356260",
           "subject": "Hola buen día! En Last Pay de casualidad ya tienen la opción de propina incorporada?",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Last.app España",
           "createdTime": "2026-09-14T09:26:15Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130184081",
@@ -14441,8 +14411,8 @@
     },
     {
       "classification": "Admin :: Payouts",
-      "openCount": 0,
-      "onHoldCount": 1,
+      "openCount": 1,
+      "onHoldCount": 0,
       "closedCount": 0,
       "totalCount": 1,
       "tickets": [
@@ -14450,7 +14420,7 @@
           "id": "45842000129753923",
           "number": "355097",
           "subject": "Sec Brunch // Adyen no avanza registro de datos.",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Phone",
           "createdTime": "2026-09-07T15:42:06Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129753923",
@@ -14478,26 +14448,6 @@
         }
       ],
       "inMasterList": true
-    },
-    {
-      "classification": "Reservas :: Módulos Reserva",
-      "openCount": 1,
-      "onHoldCount": 0,
-      "closedCount": 0,
-      "totalCount": 1,
-      "tickets": [
-        {
-          "id": "45842000125644809",
-          "number": "335223",
-          "subject": "Veganashi - integración Cover + LastApp",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-06-03T15:33:19Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000125644809",
-          "assignee": "Angie Oliveros"
-        }
-      ],
-      "inMasterList": false
     },
     {
       "classification": "Admin :: Cambio de Plan",
