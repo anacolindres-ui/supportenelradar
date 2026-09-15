@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-15T04:21:22.747131+00:00",
-  "totalOpenTickets": 77,
+  "lastUpdated": "2026-09-15T05:18:57.934713+00:00",
+  "totalOpenTickets": 78,
   "totalClosedTickets": 3090,
   "closedWindowDays": 30,
   "byLocation": [
@@ -147,6 +147,18 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000130230468",
+      "number": "356485",
+      "subject": "Uber Case# 60098720-LastApp - uber integration request",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-09-15T04:53:13Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130230468",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000130234438",
       "number": "356480",
@@ -2534,21 +2546,9 @@
       "assignee": "Harold Diaz",
       "accountName": "",
       "locationId": "1234"
-    },
-    {
-      "id": "45842000130046377",
-      "number": "355545",
-      "subject": "Ok. Necesitamos que es listo con urgencia a mas tardar mañana por favor.",
-      "status": "Closed",
-      "channel": "Last.app España",
-      "createdTime": "2026-09-09T20:22:54Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130046377",
-      "assignee": "Brayan Ricardo Fuentes Herrera",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1256,
+  "locationIdIssuesTotal": 1257,
   "byContact": [
     {
       "contactId": "45842000126926651",
@@ -4814,11 +4814,21 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 10,
+      "openCount": 11,
       "onHoldCount": 1,
       "closedCount": 280,
-      "totalCount": 291,
+      "totalCount": 292,
       "tickets": [
+        {
+          "id": "45842000130230468",
+          "number": "356485",
+          "subject": "Uber Case# 60098720-LastApp - uber integration request",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-15T04:53:13Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130230468",
+          "assignee": ""
+        },
         {
           "id": "45842000130230056",
           "number": "356438",
@@ -6600,16 +6610,6 @@
           "assignee": "Jordy Carmona"
         },
         {
-          "id": "45842000129863621",
-          "number": "355036",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-07T11:06:26Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129863621",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000129866445",
           "number": "355037",
           "subject": "Help us improve",
@@ -6620,33 +6620,13 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129863553",
-          "number": "355034",
+          "id": "45842000129863621",
+          "number": "355036",
           "subject": "Help us improve",
           "status": "Closed",
           "channel": "Email",
-          "createdTime": "2026-09-07T11:06:25Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129863553",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000129863501",
-          "number": "355033",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-07T11:06:25Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129863501",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000129866377",
-          "number": "355032",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-07T11:06:25Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129866377",
+          "createdTime": "2026-09-07T11:06:26Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129863621",
           "assignee": "Alberto Poyato"
         },
         {
@@ -6660,13 +6640,33 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129866243",
-          "number": "355030",
+          "id": "45842000129863553",
+          "number": "355034",
           "subject": "Help us improve",
           "status": "Closed",
           "channel": "Email",
-          "createdTime": "2026-09-07T11:06:23Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129866243",
+          "createdTime": "2026-09-07T11:06:25Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129863553",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129866377",
+          "number": "355032",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-07T11:06:25Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129866377",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129863501",
+          "number": "355033",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-07T11:06:25Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129863501",
           "assignee": "Alberto Poyato"
         },
         {
@@ -6687,6 +6687,16 @@
           "channel": "Email",
           "createdTime": "2026-09-07T11:06:23Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129867351",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129866243",
+          "number": "355030",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-07T11:06:23Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129866243",
           "assignee": "Alberto Poyato"
         },
         {
@@ -6720,16 +6730,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129834674",
-          "number": "354845",
-          "subject": "Request Received",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-06T05:30:54Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129834674",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000129835945",
           "number": "354844",
           "subject": "Request Received",
@@ -6737,6 +6737,16 @@
           "channel": "Email",
           "createdTime": "2026-09-06T05:30:54Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129835945",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129834674",
+          "number": "354845",
+          "subject": "Request Received",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-06T05:30:54Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129834674",
           "assignee": "Alberto Poyato"
         },
         {
