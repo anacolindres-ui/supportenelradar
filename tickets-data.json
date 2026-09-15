@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-15T22:17:01.778972+00:00",
-  "totalOpenTickets": 55,
-  "totalClosedTickets": 3123,
+  "lastUpdated": "2026-09-15T23:15:58.886901+00:00",
+  "totalOpenTickets": 56,
+  "totalClosedTickets": 3124,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -88,15 +88,27 @@
   ],
   "locationIdIssues": [
     {
-      "id": "45842000130260929",
-      "number": "356696",
-      "subject": "1739832170601175.ogg",
+      "id": "45842000130283959",
+      "number": "356700",
+      "subject": "Request Received",
       "status": "Open",
-      "channel": "Last.app España",
-      "createdTime": "2026-09-15T21:06:23Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130260929",
-      "assignee": "Brayan Ricardo Fuentes Herrera",
-      "accountName": "bistrot 21 mars",
+      "channel": "Email",
+      "createdTime": "2026-09-15T22:56:08Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130283959",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130280694",
+      "number": "356699",
+      "subject": "hola! soy beto de Miku",
+      "status": "Open",
+      "channel": "Last.app México",
+      "createdTime": "2026-09-15T22:53:44Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130280694",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "MIKU POKE BOWLS",
       "locationId": ""
     },
     {
@@ -2474,21 +2486,9 @@
       "assignee": "Jordy Carmona",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000129985668",
-      "number": "355716",
-      "subject": "Llamada saliente (00:00:34) de +34937377821 (Soporte) a +34625472537 ( Manuel Ricardo Scarr Saez)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-09-10T12:51:16Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129985668",
-      "assignee": "Raimundo Garcia",
-      "accountName": "El Nido",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1241,
+  "locationIdIssuesTotal": 1242,
   "byContact": [
     {
       "contactId": "45842000024824948",
@@ -3286,20 +3286,30 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 5,
+      "openCount": 6,
       "onHoldCount": 0,
       "closedCount": 556,
-      "totalCount": 561,
+      "totalCount": 562,
       "tickets": [
         {
-          "id": "45842000130260929",
-          "number": "356696",
-          "subject": "1739832170601175.ogg",
+          "id": "45842000130283959",
+          "number": "356700",
+          "subject": "Request Received",
           "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-15T21:06:23Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130260929",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
+          "channel": "Email",
+          "createdTime": "2026-09-15T22:56:08Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130283959",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000130280694",
+          "number": "356699",
+          "subject": "hola! soy beto de Miku",
+          "status": "Open",
+          "channel": "Last.app México",
+          "createdTime": "2026-09-15T22:53:44Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130280694",
+          "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
           "id": "45842000130287575",
@@ -6432,16 +6442,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129863501",
-          "number": "355033",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-07T11:06:25Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129863501",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000129858912",
           "number": "355035",
           "subject": "Help us improve",
@@ -6469,6 +6469,16 @@
           "channel": "Email",
           "createdTime": "2026-09-07T11:06:25Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129866377",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129863501",
+          "number": "355033",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-07T11:06:25Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129863501",
           "assignee": "Alberto Poyato"
         },
         {
@@ -8538,9 +8548,19 @@
       "classification": "POS :: uso general",
       "openCount": 0,
       "onHoldCount": 1,
-      "closedCount": 88,
-      "totalCount": 89,
+      "closedCount": 89,
+      "totalCount": 90,
       "tickets": [
+        {
+          "id": "45842000130260929",
+          "number": "356696",
+          "subject": "1739832170601175.ogg",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-15T21:06:23Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130260929",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
         {
           "id": "45842000130287383",
           "number": "356676",
@@ -9140,16 +9160,6 @@
           "createdTime": "2026-08-28T11:54:27Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129425268",
           "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000129382310",
-          "number": "352771",
-          "subject": "Consultas",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-27T15:38:28Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129382310",
-          "assignee": "Javier Landaeta"
         }
       ],
       "inMasterList": true
