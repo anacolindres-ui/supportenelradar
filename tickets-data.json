@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-16T23:15:13.910971+00:00",
-  "totalOpenTickets": 51,
-  "totalClosedTickets": 3206,
+  "lastUpdated": "2026-09-17T00:47:46.912876+00:00",
+  "totalOpenTickets": 53,
+  "totalClosedTickets": 3207,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -60,6 +60,18 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000130381091",
+      "number": "356939",
+      "subject": "Railway mobile app improvements",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-17T00:16:29Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130381091",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "",
+      "locationId": "1234"
+    },
     {
       "id": "45842000130366969",
       "number": "356933",
@@ -2447,21 +2459,9 @@
       "assignee": "",
       "accountName": "Lola Si Mola",
       "locationId": ""
-    },
-    {
-      "id": "45842000130158073",
-      "number": "355994",
-      "subject": "Verify your email",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-11T21:08:04Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130158073",
-      "assignee": "",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1278,
+  "locationIdIssuesTotal": 1279,
   "byContact": [
     {
       "contactId": "45842000125652032",
@@ -5839,11 +5839,31 @@
     },
     {
       "classification": "Integraciones",
-      "openCount": 1,
+      "openCount": 3,
       "onHoldCount": 8,
       "closedCount": 166,
-      "totalCount": 175,
+      "totalCount": 177,
       "tickets": [
+        {
+          "id": "45842000130306332",
+          "number": "356938",
+          "subject": "PANMEX SAN JERONIMO // Pedido de Uber no se integra en Last",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-17T00:15:10Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130306332",
+          "assignee": ""
+        },
+        {
+          "id": "45842000130382005",
+          "number": "356936",
+          "subject": "Hola que tal buenas tardes",
+          "status": "Open",
+          "channel": "Last.app México",
+          "createdTime": "2026-09-16T23:33:09Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130382005",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000130376084",
           "number": "356891",
@@ -6485,16 +6505,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129863553",
-          "number": "355034",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-07T11:06:25Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129863553",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000129863501",
           "number": "355033",
           "subject": "Help us improve",
@@ -6502,6 +6512,16 @@
           "channel": "Email",
           "createdTime": "2026-09-07T11:06:25Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129863501",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129858912",
+          "number": "355035",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-07T11:06:25Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129858912",
           "assignee": "Alberto Poyato"
         },
         {
@@ -7585,16 +7605,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129832601",
-          "number": "354800",
-          "subject": "Request Received",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-06T05:30:40Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129832601",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000129835249",
           "number": "354798",
           "subject": "Request Received",
@@ -7603,6 +7613,16 @@
           "createdTime": "2026-09-06T05:30:40Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129835249",
           "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129832601",
+          "number": "354800",
+          "subject": "Request Received",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-06T05:30:40Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129832601",
+          "assignee": "Angie Oliveros"
         },
         {
           "id": "45842000129807922",
@@ -13121,9 +13141,19 @@
       "classification": "SPAM",
       "openCount": 0,
       "onHoldCount": 0,
-      "closedCount": 15,
-      "totalCount": 15,
+      "closedCount": 16,
+      "totalCount": 16,
       "tickets": [
+        {
+          "id": "45842000130381091",
+          "number": "356939",
+          "subject": "Railway mobile app improvements",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-17T00:16:29Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130381091",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000130366969",
           "number": "356933",
