@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-17T06:32:03.887494+00:00",
-  "totalOpenTickets": 53,
+  "lastUpdated": "2026-09-17T07:22:42.924870+00:00",
+  "totalOpenTickets": 55,
   "totalClosedTickets": 3209,
   "closedWindowDays": 30,
   "byLocation": [
@@ -61,13 +61,13 @@
   ],
   "locationIdIssues": [
     {
-      "id": "45842000130376666",
-      "number": "356948",
-      "subject": "LastApp - glovo integration deleted",
+      "id": "45842000130381323",
+      "number": "356954",
+      "subject": "LastApp - didi integration request",
       "status": "Open",
       "channel": "Email",
-      "createdTime": "2026-09-17T05:30:10Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130376666",
+      "createdTime": "2026-09-17T07:19:46Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130381323",
       "assignee": "",
       "accountName": "",
       "locationId": ""
@@ -349,18 +349,6 @@
       "locationId": "1234"
     },
     {
-      "id": "45842000130363929",
-      "number": "356869",
-      "subject": "Help us improve",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-16T14:08:02Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130363929",
-      "assignee": "Brayan Ricardo Fuentes Herrera",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000130367656",
       "number": "356870",
       "subject": "Help us improve",
@@ -371,6 +359,18 @@
       "assignee": "Harold Diaz",
       "accountName": "",
       "locationId": "1234"
+    },
+    {
+      "id": "45842000130363929",
+      "number": "356869",
+      "subject": "Help us improve",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-16T14:08:02Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130363929",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "",
+      "locationId": ""
     },
     {
       "id": "45842000130363869",
@@ -2581,9 +2581,19 @@
       "classification": "Admin :: General",
       "openCount": 0,
       "onHoldCount": 5,
-      "closedCount": 673,
-      "totalCount": 678,
+      "closedCount": 674,
+      "totalCount": 679,
       "tickets": [
+        {
+          "id": "45842000130327884",
+          "number": "356951",
+          "subject": "Hola buenos días quiero consultar una cosa",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-17T06:42:04Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130327884",
+          "assignee": "Angie Oliveros"
+        },
         {
           "id": "45842000130326732",
           "number": "356944",
@@ -3205,16 +3215,6 @@
           "assignee": "Angie Oliveros"
         },
         {
-          "id": "45842000130253268",
-          "number": "356571",
-          "subject": "Your recurring payment was successful!",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-15T11:22:01Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130253268",
-          "assignee": "Harold Diaz"
-        },
-        {
           "id": "45842000130143871",
           "number": "356461",
           "subject": "PadthaiWok | CC Arcangel // Palabras en el ticket aparecen sobrepuestas",
@@ -3241,19 +3241,9 @@
       "classification": "Sin clasificar",
       "openCount": 5,
       "onHoldCount": 0,
-      "closedCount": 567,
-      "totalCount": 572,
+      "closedCount": 566,
+      "totalCount": 571,
       "tickets": [
-        {
-          "id": "45842000130376666",
-          "number": "356948",
-          "subject": "LastApp - glovo integration deleted",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-09-17T05:30:10Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130376666",
-          "assignee": ""
-        },
         {
           "id": "45842000130376451",
           "number": "356926",
@@ -3893,6 +3883,16 @@
           "createdTime": "2026-09-14T02:31:45Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130180408",
           "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000128302936",
+          "number": "347934",
+          "subject": "Una mancha también deja reseña ",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-08-03T07:02:58Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128302936",
+          "assignee": "Raimundo Garcia"
         }
       ],
       "inMasterList": false
@@ -4549,11 +4549,21 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 2,
+      "openCount": 4,
       "onHoldCount": 4,
-      "closedCount": 281,
-      "totalCount": 287,
+      "closedCount": 280,
+      "totalCount": 288,
       "tickets": [
+        {
+          "id": "45842000130381323",
+          "number": "356954",
+          "subject": "LastApp - didi integration request",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-17T07:19:46Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130381323",
+          "assignee": ""
+        },
         {
           "id": "45842000130373567",
           "number": "356921",
@@ -5108,7 +5118,7 @@
           "id": "45842000129959135",
           "number": "355275",
           "subject": "Re: LastApp - uber integration request",
-          "status": "Closed",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-09-08T14:40:25Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129959135",
@@ -5212,6 +5222,16 @@
           "channel": "Email",
           "createdTime": "2026-09-05T04:00:21Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129806515",
+          "assignee": "Fernando Poza"
+        },
+        {
+          "id": "45842000129801457",
+          "number": "354515",
+          "subject": "Uber Case# 59870114-LastApp - uber integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-04T17:18:13Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129801457",
           "assignee": "Fernando Poza"
         }
       ],
@@ -5851,9 +5871,19 @@
       "classification": "Integraciones",
       "openCount": 2,
       "onHoldCount": 8,
-      "closedCount": 167,
-      "totalCount": 177,
+      "closedCount": 168,
+      "totalCount": 178,
       "tickets": [
+        {
+          "id": "45842000130376666",
+          "number": "356948",
+          "subject": "LastApp - glovo integration deleted",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-17T05:30:11Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130376666",
+          "assignee": "Angie Oliveros"
+        },
         {
           "id": "45842000130306332",
           "number": "356938",
@@ -6512,16 +6542,6 @@
           "channel": "Email",
           "createdTime": "2026-09-07T11:06:26Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129863621",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000129858912",
-          "number": "355035",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-07T11:06:25Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129858912",
           "assignee": "Alberto Poyato"
         },
         {
@@ -13245,16 +13265,6 @@
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
-          "id": "45842000129503697",
-          "number": "353372",
-          "subject": "CREAMOS EL PODCAST DE TU EMPRESA",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-31T10:57:56Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129503697",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
           "id": "45842000129497869",
           "number": "353371",
           "subject": "Neue Saison, neue Tech  ",
@@ -13262,6 +13272,16 @@
           "channel": "Email",
           "createdTime": "2026-08-31T10:57:56Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129497869",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000129503697",
+          "number": "353372",
+          "subject": "CREAMOS EL PODCAST DE TU EMPRESA",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-31T10:57:56Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129503697",
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
