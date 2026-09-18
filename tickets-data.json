@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-18T05:17:43.840262+00:00",
-  "totalOpenTickets": 70,
+  "lastUpdated": "2026-09-18T06:30:37.110019+00:00",
+  "totalOpenTickets": 72,
   "totalClosedTickets": 3196,
   "closedWindowDays": 30,
   "byLocation": [
@@ -61,6 +61,30 @@
   ],
   "locationIdIssues": [
     {
+      "id": "45842000130422234",
+      "number": "357170",
+      "subject": "Descubre lo que han compartido mailinhgoyette y 8 personas más",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-09-18T06:26:50Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130422234",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130397549",
+      "number": "357169",
+      "subject": "Buenos dias Angie",
+      "status": "Open",
+      "channel": "Last.app España",
+      "createdTime": "2026-09-18T06:13:33Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130397549",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
       "id": "45842000130413578",
       "number": "357165",
       "subject": "Uber Case# 60181329-LastApp - uber integration request",
@@ -82,18 +106,6 @@
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130405493",
       "assignee": "",
       "accountName": "Green Up Brunch",
-      "locationId": ""
-    },
-    {
-      "id": "45842000130415432",
-      "number": "357161",
-      "subject": "Hola buenas noches, hemos tenido problemas con los clientes se confunden mucho",
-      "status": "Open",
-      "channel": "Last.app Mexico",
-      "createdTime": "2026-09-18T04:14:01Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130415432",
-      "assignee": "",
-      "accountName": "Los Plebes Wings",
       "locationId": ""
     },
     {
@@ -2447,21 +2459,9 @@
       "assignee": "Dimitriz Rodriguez",
       "accountName": "",
       "locationId": "1234"
-    },
-    {
-      "id": "45842000130140682",
-      "number": "356330",
-      "subject": "Llamada entrante (00:01:59) de +34637010792 ( Nestor Sanchez) a +34937377821 (Soporte)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-09-14T12:32:00Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130140682",
-      "assignee": "Jordy Carmona",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1306,
+  "locationIdIssuesTotal": 1307,
   "byContact": [
     {
       "contactId": "45842000024824948",
@@ -2553,9 +2553,19 @@
       "classification": "Admin :: General",
       "openCount": 1,
       "onHoldCount": 3,
-      "closedCount": 679,
-      "totalCount": 683,
+      "closedCount": 680,
+      "totalCount": 684,
       "tickets": [
+        {
+          "id": "45842000130415432",
+          "number": "357161",
+          "subject": "Hola buenas noches, hemos tenido problemas con los clientes se confunden mucho",
+          "status": "Closed",
+          "channel": "Last.app Mexico",
+          "createdTime": "2026-09-18T04:14:01Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130415432",
+          "assignee": "Angie Oliveros"
+        },
         {
           "id": "45842000130388660",
           "number": "357126",
@@ -3157,16 +3167,6 @@
           "assignee": "Angie Oliveros"
         },
         {
-          "id": "45842000130330088",
-          "number": "356725",
-          "subject": "Hola, de TAYTA Restaurante Peruano, en San Sebastián.\n\nNecesitamos configurar la medición de reservas en Google Ads para saber qué anuncios generan reservas reales a través de vuestro motor:\n\nhttps://...",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-16T06:46:38Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130330088",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000130277747",
           "number": "356687",
           "subject": "Código De Ticket en la comanda.",
@@ -3201,11 +3201,31 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 5,
+      "openCount": 6,
       "onHoldCount": 0,
       "closedCount": 581,
-      "totalCount": 586,
+      "totalCount": 587,
       "tickets": [
+        {
+          "id": "45842000130422234",
+          "number": "357170",
+          "subject": "Descubre lo que han compartido mailinhgoyette y 8 personas más",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-18T06:26:50Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130422234",
+          "assignee": ""
+        },
+        {
+          "id": "45842000130397549",
+          "number": "357169",
+          "subject": "Buenos dias Angie",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-18T06:13:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130397549",
+          "assignee": ""
+        },
         {
           "id": "45842000130405493",
           "number": "357163",
@@ -3214,16 +3234,6 @@
           "channel": "Last.app España",
           "createdTime": "2026-09-18T04:55:54Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130405493",
-          "assignee": ""
-        },
-        {
-          "id": "45842000130415432",
-          "number": "357161",
-          "subject": "Hola buenas noches, hemos tenido problemas con los clientes se confunden mucho",
-          "status": "Open",
-          "channel": "Last.app Mexico",
-          "createdTime": "2026-09-18T04:14:01Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130415432",
           "assignee": ""
         },
         {
@@ -5921,9 +5931,9 @@
     },
     {
       "classification": "Integraciones",
-      "openCount": 2,
+      "openCount": 3,
       "onHoldCount": 8,
-      "closedCount": 169,
+      "closedCount": 168,
       "totalCount": 179,
       "tickets": [
         {
@@ -6625,6 +6635,16 @@
           "createdTime": "2026-08-28T12:47:10Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129416317",
           "assignee": "Raimundo Garcia"
+        },
+        {
+          "id": "45842000129104436",
+          "number": "351869",
+          "subject": "PANMEX SAN JERONIMO // Productos desactivados en el Admin aparecen en el POS",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-08-24T02:03:23Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129104436",
+          "assignee": "Raimundo Garcia"
         }
       ],
       "inMasterList": true
@@ -7241,8 +7261,8 @@
     },
     {
       "classification": "Admin :: Integraciones",
-      "openCount": 2,
-      "onHoldCount": 5,
+      "openCount": 3,
+      "onHoldCount": 4,
       "closedCount": 127,
       "totalCount": 134,
       "tickets": [
@@ -7790,7 +7810,7 @@
           "id": "45842000129771173",
           "number": "354522",
           "subject": "Pedidos de Uber sin direccion (error de API)",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Phone",
           "createdTime": "2026-09-04T17:39:55Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129771173",
