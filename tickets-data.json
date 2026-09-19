@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-19T03:20:24.943372+00:00",
-  "totalOpenTickets": 79,
+  "lastUpdated": "2026-09-19T04:20:15.662659+00:00",
+  "totalOpenTickets": 81,
   "totalClosedTickets": 3229,
   "closedWindowDays": 30,
   "byLocation": [
@@ -33,6 +33,30 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000130475355",
+      "number": "357380",
+      "subject": "(No Subject)",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-09-19T04:03:36Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130475355",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130467758",
+      "number": "357379",
+      "subject": "(No Subject)",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-09-19T04:03:35Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130467758",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000130467562",
       "number": "357370",
@@ -1201,7 +1225,7 @@
       "id": "45842000130389459",
       "number": "356988",
       "subject": "Uber Case# 60165785-LastApp - uber integration request",
-      "status": "On Hold",
+      "status": "Open",
       "channel": "Email",
       "createdTime": "2026-09-17T09:18:04Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130389459",
@@ -1261,7 +1285,7 @@
       "id": "45842000130389148",
       "number": "356967",
       "subject": "Uber Case# 60165884-LastApp - uber integration request",
-      "status": "On Hold",
+      "status": "Open",
       "channel": "Email",
       "createdTime": "2026-09-17T08:06:39Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130389148",
@@ -2408,33 +2432,9 @@
       "assignee": "Raimundo Garcia",
       "accountName": "tarragona",
       "locationId": ""
-    },
-    {
-      "id": "45842000130259041",
-      "number": "356542",
-      "subject": "Llamada entrante (00:04:11) de +34621495034 ( Tmjc Franquicias) a +34937377821 (Soporte)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-09-15T10:13:05Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130259041",
-      "assignee": "Dimitriz Rodriguez",
-      "accountName": "",
-      "locationId": "1234"
-    },
-    {
-      "id": "45842000130228222",
-      "number": "356532",
-      "subject": "Llamada saliente (00:00:03) de +34937377821 (Soporte) a +34621495034 ( Tmjc Franquicias)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-09-15T09:59:23Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130228222",
-      "assignee": "Fernando Poza",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1306,
+  "locationIdIssuesTotal": 1308,
   "byContact": [
     {
       "contactId": "45842000121448261",
@@ -3194,11 +3194,31 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 5,
+      "openCount": 7,
       "onHoldCount": 0,
       "closedCount": 588,
-      "totalCount": 593,
+      "totalCount": 595,
       "tickets": [
+        {
+          "id": "45842000130475355",
+          "number": "357380",
+          "subject": "(No Subject)",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-19T04:03:36Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130475355",
+          "assignee": ""
+        },
+        {
+          "id": "45842000130467758",
+          "number": "357379",
+          "subject": "(No Subject)",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-19T04:03:35Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130467758",
+          "assignee": ""
+        },
         {
           "id": "45842000130475122",
           "number": "357368",
@@ -3270,16 +3290,6 @@
           "assignee": ""
         },
         {
-          "id": "45842000130450980",
-          "number": "357358",
-          "subject": "Request Received",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-18T20:44:17Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130450980",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
           "id": "45842000130467399",
           "number": "357357",
           "subject": "Request Received",
@@ -3287,6 +3297,16 @@
           "channel": "Email",
           "createdTime": "2026-09-18T20:44:17Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130467399",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000130450980",
+          "number": "357358",
+          "subject": "Request Received",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-18T20:44:17Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130450980",
           "assignee": "Brayan Ricardo Fuentes Herrera"
         },
         {
@@ -4474,8 +4494,8 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 4,
-      "onHoldCount": 11,
+      "openCount": 6,
+      "onHoldCount": 9,
       "closedCount": 246,
       "totalCount": 261,
       "tickets": [
@@ -4633,7 +4653,7 @@
           "id": "45842000130389459",
           "number": "356988",
           "subject": "Uber Case# 60165785-LastApp - uber integration request",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-09-17T09:18:04Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130389459",
@@ -4673,7 +4693,7 @@
           "id": "45842000130389148",
           "number": "356967",
           "subject": "Uber Case# 60165884-LastApp - uber integration request",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-09-17T08:06:39Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130389148",
@@ -7710,16 +7730,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129832601",
-          "number": "354800",
-          "subject": "Request Received",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-06T05:30:40Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129832601",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000129835249",
           "number": "354798",
           "subject": "Request Received",
@@ -7728,6 +7738,16 @@
           "createdTime": "2026-09-06T05:30:40Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129835249",
           "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129832601",
+          "number": "354800",
+          "subject": "Request Received",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-06T05:30:40Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129832601",
+          "assignee": "Angie Oliveros"
         },
         {
           "id": "45842000129807922",
