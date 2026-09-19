@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-19T05:16:47.446099+00:00",
-  "totalOpenTickets": 81,
+  "lastUpdated": "2026-09-19T06:27:45.389515+00:00",
+  "totalOpenTickets": 83,
   "totalClosedTickets": 3229,
   "closedWindowDays": 30,
   "byLocation": [
@@ -33,6 +33,30 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000130451461",
+      "number": "357383",
+      "subject": "Perdón, en persona",
+      "status": "Open",
+      "channel": "Last.app España",
+      "createdTime": "2026-09-19T06:15:18Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130451461",
+      "assignee": "",
+      "accountName": "HANGRY",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130467878",
+      "number": "357382",
+      "subject": "¿Cómo ha sido tu experiencia?",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-09-19T06:01:41Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130467878",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000130475355",
       "number": "357380",
@@ -2408,33 +2432,9 @@
       "assignee": "Alberto Poyato",
       "accountName": "",
       "locationId": "1234"
-    },
-    {
-      "id": "45842000130253268",
-      "number": "356571",
-      "subject": "Your recurring payment was successful!",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-15T11:22:01Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130253268",
-      "assignee": "Harold Diaz",
-      "accountName": "",
-      "locationId": "1234"
-    },
-    {
-      "id": "45842000130265030",
-      "number": "356562",
-      "subject": "Llamada saliente (00:00:20) de +34937377821 (Soporte) a +34652407200 ( Juan Antonio Camoletto)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-09-15T10:56:13Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130265030",
-      "assignee": "Raimundo Garcia",
-      "accountName": "tarragona",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1308,
+  "locationIdIssuesTotal": 1310,
   "byContact": [
     {
       "contactId": "45842000121448261",
@@ -3194,11 +3194,31 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 7,
+      "openCount": 9,
       "onHoldCount": 0,
       "closedCount": 588,
-      "totalCount": 595,
+      "totalCount": 597,
       "tickets": [
+        {
+          "id": "45842000130451461",
+          "number": "357383",
+          "subject": "Perdón, en persona",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-19T06:15:18Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130451461",
+          "assignee": ""
+        },
+        {
+          "id": "45842000130467878",
+          "number": "357382",
+          "subject": "¿Cómo ha sido tu experiencia?",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-19T06:01:41Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130467878",
+          "assignee": ""
+        },
         {
           "id": "45842000130475355",
           "number": "357380",
@@ -7730,16 +7750,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129835249",
-          "number": "354798",
-          "subject": "Request Received",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-06T05:30:40Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129835249",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000129832601",
           "number": "354800",
           "subject": "Request Received",
@@ -7748,6 +7758,16 @@
           "createdTime": "2026-09-06T05:30:40Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129832601",
           "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000129835249",
+          "number": "354798",
+          "subject": "Request Received",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-06T05:30:40Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129835249",
+          "assignee": "Alberto Poyato"
         },
         {
           "id": "45842000129807922",
@@ -13350,16 +13370,6 @@
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
-          "id": "45842000129497869",
-          "number": "353371",
-          "subject": "Neue Saison, neue Tech  ",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-31T10:57:56Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129497869",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
           "id": "45842000129503697",
           "number": "353372",
           "subject": "CREAMOS EL PODCAST DE TU EMPRESA",
@@ -13367,6 +13377,16 @@
           "channel": "Email",
           "createdTime": "2026-08-31T10:57:56Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129503697",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000129497869",
+          "number": "353371",
+          "subject": "Neue Saison, neue Tech  ",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-31T10:57:56Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129497869",
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
