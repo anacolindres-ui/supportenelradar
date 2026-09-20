@@ -1,9 +1,46 @@
 {
-  "lastUpdated": "2026-09-20T19:13:47.324183+00:00",
-  "totalOpenTickets": 99,
-  "totalClosedTickets": 3176,
+  "lastUpdated": "2026-09-20T20:16:42.357349+00:00",
+  "totalOpenTickets": 104,
+  "totalClosedTickets": 3179,
   "closedWindowDays": 30,
   "byLocation": [
+    {
+      "accountId": "45842000014378179",
+      "accountName": "LA FELI",
+      "ticketCount": 3,
+      "tickets": [
+        {
+          "id": "45842000130506473",
+          "number": "357578",
+          "subject": "Problemas pedidos - Pedidos programados ",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-20T20:15:34Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130506473",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000130548404",
+          "number": "357576",
+          "subject": "1408207544086146.ogg",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-20T20:09:07Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130548404",
+          "assignee": ""
+        },
+        {
+          "id": "45842000130506309",
+          "number": "357547",
+          "subject": "Problemas pedidos - Nueva UI",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-20T13:55:13Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130506309",
+          "assignee": ""
+        }
+      ]
+    },
     {
       "accountId": "45842000114090187",
       "accountName": "Grupo Los Panchos",
@@ -111,47 +148,92 @@
           "assignee": "Raimundo Garcia"
         }
       ]
-    },
-    {
-      "accountId": "45842000128929679",
-      "accountName": "VM DALLAS GROUP PIZZAS, S.L.",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000130548262",
-          "number": "357561",
-          "subject": "Buenas tardes! Los QR de la tienda de Viladecans no están funcionando",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-20T19:06:44Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130548262",
-          "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000130065967",
-          "number": "355783",
-          "subject": "Dallas Pizza Viladecans / No carga los QR",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-10T18:14:56Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130065967",
-          "assignee": "Fernando Poza"
-        }
-      ]
     }
   ],
   "locationIdIssues": [
     {
-      "id": "45842000130548262",
-      "number": "357561",
-      "subject": "Buenas tardes! Los QR de la tienda de Viladecans no están funcionando",
+      "id": "45842000130506473",
+      "number": "357578",
+      "subject": "Problemas pedidos - Pedidos programados ",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-09-20T20:15:34Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130506473",
+      "assignee": "Harold Diaz",
+      "accountName": "LA FELI",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130511690",
+      "number": "357577",
+      "subject": "LastApp - glovo integration deleted",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-09-20T20:13:47Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130511690",
+      "assignee": "Harold Diaz",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130548404",
+      "number": "357576",
+      "subject": "1408207544086146.ogg",
       "status": "Open",
       "channel": "Last.app España",
-      "createdTime": "2026-09-20T19:06:44Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130548262",
-      "assignee": "Harold Diaz",
-      "accountName": "VM DALLAS GROUP PIZZAS, S.L.",
+      "createdTime": "2026-09-20T20:09:07Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130548404",
+      "assignee": "",
+      "accountName": "LA FELI",
       "locationId": ""
+    },
+    {
+      "id": "45842000130510341",
+      "number": "357575",
+      "subject": "Ticket 138740199 we have not received a response & your ticket is now closed",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-09-20T20:07:29Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130510341",
+      "assignee": "Harold Diaz",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130511615",
+      "number": "357570",
+      "subject": "Chat perdido: #31234 | Support | Cliente indica que los reportes exportados (XLSX) no se están descargando en el panel de administración. Se intentó exportar el reporte 'ventas_agosto_por_dia_y_factura.xlsx' (Bills.activationDate, Bills.number, Bills.tota",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-09-20T19:33:43Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130511615",
+      "assignee": "Harold Diaz",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130507484",
+      "number": "357565",
+      "subject": "Chat perdido: #31232 | Support | Usuario puede acceder al admin pero no al POS desde PC: el POS no reconoce la contraseña (error de contraseña incorrecta). Necesita ayuda para recuperar/restablecer credenciales de acceso al POS o verificar usuario/rol. No",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-09-20T19:30:13Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130507484",
+      "assignee": "Harold Diaz",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130522079",
+      "number": "357562",
+      "subject": "Llamada entrante (00:00:39) de +34674956281 ( JUAN CAMILO) a +34937377821 (Soporte)",
+      "status": "Closed",
+      "channel": "Phone",
+      "createdTime": "2026-09-20T19:18:11Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130522079",
+      "assignee": "Harold Diaz",
+      "accountName": "",
+      "locationId": "1234"
     },
     {
       "id": "45842000130545566",
@@ -2422,18 +2504,6 @@
       "locationId": "1234"
     },
     {
-      "id": "45842000130363929",
-      "number": "356869",
-      "subject": "Help us improve",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-16T14:08:02Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130363929",
-      "assignee": "Brayan Ricardo Fuentes Herrera",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000130367656",
       "number": "356870",
       "subject": "Help us improve",
@@ -2444,6 +2514,18 @@
       "assignee": "Harold Diaz",
       "accountName": "",
       "locationId": "1234"
+    },
+    {
+      "id": "45842000130363929",
+      "number": "356869",
+      "subject": "Help us improve",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-16T14:08:02Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130363929",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "",
+      "locationId": ""
     },
     {
       "id": "45842000130363869",
@@ -2468,82 +2550,48 @@
       "assignee": "Dimitriz Rodriguez",
       "accountName": "",
       "locationId": "1234"
-    },
-    {
-      "id": "45842000130366403",
-      "number": "356857",
-      "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-16T12:55:11Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130366403",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": "1234"
-    },
-    {
-      "id": "45842000130368464",
-      "number": "356856",
-      "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
-      "status": "On Hold",
-      "channel": "Email",
-      "createdTime": "2026-09-16T12:55:03Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130368464",
-      "assignee": "Harold Diaz",
-      "accountName": "",
-      "locationId": "1234"
-    },
-    {
-      "id": "45842000130367518",
-      "number": "356855",
-      "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-16T12:54:55Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130367518",
-      "assignee": "Dimitriz Rodriguez",
-      "accountName": "",
-      "locationId": "1234"
-    },
-    {
-      "id": "45842000130363741",
-      "number": "356854",
-      "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-16T12:54:49Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130363741",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": "1234"
-    },
-    {
-      "id": "45842000130368385",
-      "number": "356849",
-      "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-16T12:44:55Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130368385",
-      "assignee": "Dimitriz Rodriguez",
-      "accountName": "",
-      "locationId": "1234"
-    },
-    {
-      "id": "45842000130368312",
-      "number": "356847",
-      "subject": "Integracion Last.app con 4gflota",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-16T12:40:27Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130368312",
-      "assignee": "Alberto Poyato",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1286,
+  "locationIdIssuesTotal": 1292,
   "byContact": [
+    {
+      "contactId": "45842000014378203",
+      "contactName": "LAFELI",
+      "email": "info@lawebdelafeli.com",
+      "ticketCount": 3,
+      "tickets": [
+        {
+          "id": "45842000130506473",
+          "number": "357578",
+          "subject": "Problemas pedidos - Pedidos programados ",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-20T20:15:34Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130506473",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000130548404",
+          "number": "357576",
+          "subject": "1408207544086146.ogg",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-20T20:09:07Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130548404",
+          "assignee": ""
+        },
+        {
+          "id": "45842000130506309",
+          "number": "357547",
+          "subject": "Problemas pedidos - Nueva UI",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-20T13:55:13Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130506309",
+          "assignee": ""
+        }
+      ]
+    },
     {
       "contactId": "45842000121448261",
       "contactName": "Catcher Marketplace Customer Success",
@@ -2625,34 +2673,6 @@
           "createdTime": "2026-09-14T14:52:36Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130132747",
           "assignee": "Raimundo Garcia"
-        }
-      ]
-    },
-    {
-      "contactId": "45842000128896695",
-      "contactName": "K",
-      "email": "",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000130548262",
-          "number": "357561",
-          "subject": "Buenas tardes! Los QR de la tienda de Viladecans no están funcionando",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-20T19:06:44Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130548262",
-          "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000130065967",
-          "number": "355783",
-          "subject": "Dallas Pizza Viladecans / No carga los QR",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-10T18:14:56Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130065967",
-          "assignee": "Fernando Poza"
         }
       ]
     },
@@ -2746,9 +2766,19 @@
       "classification": "Admin :: General",
       "openCount": 3,
       "onHoldCount": 4,
-      "closedCount": 680,
-      "totalCount": 687,
+      "closedCount": 681,
+      "totalCount": 688,
       "tickets": [
+        {
+          "id": "45842000130522079",
+          "number": "357562",
+          "subject": "Llamada entrante (00:00:39) de +34674956281 ( JUAN CAMILO) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-09-20T19:18:11Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130522079",
+          "assignee": "Harold Diaz"
+        },
         {
           "id": "45842000130423771",
           "number": "357477",
@@ -3360,16 +3390,6 @@
           "assignee": "Angie Oliveros"
         },
         {
-          "id": "45842000130326732",
-          "number": "356944",
-          "subject": "Hola buena tarde",
-          "status": "Closed",
-          "channel": "Last.app México",
-          "createdTime": "2026-09-17T03:59:51Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130326732",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000130342105",
           "number": "356738",
           "subject": "Solicitud urgente de revisión y verificación de registros de Last.app – Ejercicios 2024 y 2025",
@@ -3424,19 +3444,69 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 14,
+      "openCount": 19,
       "onHoldCount": 0,
       "closedCount": 610,
-      "totalCount": 624,
+      "totalCount": 629,
       "tickets": [
         {
-          "id": "45842000130548262",
-          "number": "357561",
-          "subject": "Buenas tardes! Los QR de la tienda de Viladecans no están funcionando",
+          "id": "45842000130506473",
+          "number": "357578",
+          "subject": "Problemas pedidos - Pedidos programados ",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-20T20:15:34Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130506473",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000130511690",
+          "number": "357577",
+          "subject": "LastApp - glovo integration deleted",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-20T20:13:47Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130511690",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000130548404",
+          "number": "357576",
+          "subject": "1408207544086146.ogg",
           "status": "Open",
           "channel": "Last.app España",
-          "createdTime": "2026-09-20T19:06:44Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130548262",
+          "createdTime": "2026-09-20T20:09:07Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130548404",
+          "assignee": ""
+        },
+        {
+          "id": "45842000130510341",
+          "number": "357575",
+          "subject": "Ticket 138740199 we have not received a response & your ticket is now closed",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-20T20:07:29Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130510341",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000130511615",
+          "number": "357570",
+          "subject": "Chat perdido: #31234 | Support | Cliente indica que los reportes exportados (XLSX) no se están descargando en el panel de administración. Se intentó exportar el reporte 'ventas_agosto_por_dia_y_factura.xlsx' (Bills.activationDate, Bills.number, Bills.tota",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-20T19:33:43Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130511615",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000130507484",
+          "number": "357565",
+          "subject": "Chat perdido: #31232 | Support | Usuario puede acceder al admin pero no al POS desde PC: el POS no reconoce la contraseña (error de contraseña incorrecta). Necesita ayuda para recuperar/restablecer credenciales de acceso al POS o verificar usuario/rol. No",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-20T19:30:13Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130507484",
           "assignee": "Harold Diaz"
         },
         {
@@ -3900,16 +3970,6 @@
           "assignee": "Jordy Carmona"
         },
         {
-          "id": "45842000130467758",
-          "number": "357379",
-          "subject": "(No Subject)",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-19T04:03:36Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130467758",
-          "assignee": "Jordy Carmona"
-        },
-        {
           "id": "45842000130475355",
           "number": "357380",
           "subject": "(No Subject)",
@@ -3917,6 +3977,16 @@
           "channel": "Email",
           "createdTime": "2026-09-19T04:03:36Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130475355",
+          "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000130467758",
+          "number": "357379",
+          "subject": "(No Subject)",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-19T04:03:36Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130467758",
           "assignee": "Jordy Carmona"
         },
         {
@@ -3990,16 +4060,6 @@
           "assignee": ""
         },
         {
-          "id": "45842000130467399",
-          "number": "357357",
-          "subject": "Request Received",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-18T20:44:17Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130467399",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
           "id": "45842000130450980",
           "number": "357358",
           "subject": "Request Received",
@@ -4007,6 +4067,16 @@
           "channel": "Email",
           "createdTime": "2026-09-18T20:44:17Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130450980",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000130467399",
+          "number": "357357",
+          "subject": "Request Received",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-18T20:44:17Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130467399",
           "assignee": "Brayan Ricardo Fuentes Herrera"
         },
         {
@@ -12266,9 +12336,19 @@
       "classification": "Admin ::  Dispositivos",
       "openCount": 2,
       "onHoldCount": 0,
-      "closedCount": 25,
-      "totalCount": 27,
+      "closedCount": 26,
+      "totalCount": 28,
       "tickets": [
+        {
+          "id": "45842000130538065",
+          "number": "357573",
+          "subject": "Llamada saliente (00:07:51) de +34937377821 (Soporte) a +34618709173 ( hicham)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-09-20T19:37:41Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130538065",
+          "assignee": "Harold Diaz"
+        },
         {
           "id": "45842000130479102",
           "number": "357432",
@@ -13243,6 +13323,206 @@
       "inMasterList": false
     },
     {
+      "classification": "QRs",
+      "openCount": 2,
+      "onHoldCount": 0,
+      "closedCount": 17,
+      "totalCount": 19,
+      "tickets": [
+        {
+          "id": "45842000130548262",
+          "number": "357561",
+          "subject": "Buenas tardes! Los QR de la tienda de Viladecans no están funcionando",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-20T19:06:44Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130548262",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000130303580",
+          "number": "357130",
+          "subject": "Wings and West // Solicitar productos desde QR's",
+          "status": "Open",
+          "channel": "Chat",
+          "createdTime": "2026-09-17T19:13:23Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130303580",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000130393623",
+          "number": "357034",
+          "subject": "Ok",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-17T11:51:46Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130393623",
+          "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000130393291",
+          "number": "357001",
+          "subject": "Hola",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-17T09:55:03Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130393291",
+          "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000130326398",
+          "number": "356900",
+          "subject": "Hola",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-16T16:47:34Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130326398",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000130238225",
+          "number": "356513",
+          "subject": "Bon día, y tambien otra consulta, esta vez sobre los qr en la mesa. Estoy intentando crearlos para probarlos, pero me dice que seleccione una marca , y no hay marcas a seleccionar. como sigo>?",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-15T08:45:02Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130238225",
+          "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000130124582",
+          "number": "356066",
+          "subject": "Llamada entrante (00:04:16) de +34624674917 ( Cecilia) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-09-12T13:06:10Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130124582",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000130065967",
+          "number": "355783",
+          "subject": "Dallas Pizza Viladecans / No carga los QR",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-10T18:14:56Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130065967",
+          "assignee": "Fernando Poza"
+        },
+        {
+          "id": "45842000129812968",
+          "number": "354869",
+          "subject": "hola",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-06T07:48:49Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129812968",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000129814425",
+          "number": "354672",
+          "subject": "1591857819262516.jpeg",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-05T10:45:46Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129814425",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000129813023",
+          "number": "354563",
+          "subject": "Hola!\nEstoy investigando la opción de carta digital.\nHe visto que está la opción de generar un QR por mesas para que puedan pedir.\nAunque he visto que el menú que pueden mirar es una copia de toda la carta interna del restaurante.",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-04T20:54:25Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129813023",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000129633644",
+          "number": "354032",
+          "subject": "Hola buenas tardes",
+          "status": "Closed",
+          "channel": "Last.app Mexico",
+          "createdTime": "2026-09-02T20:39:17Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129633644",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000129543081",
+          "number": "353575",
+          "subject": "Hola buenas",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-01T09:05:14Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129543081",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000129442142",
+          "number": "352987",
+          "subject": "Llamada entrante (00:15:46) de +34679889934 ( Juan Carlos) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-28T13:25:21Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129442142",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000129428352",
+          "number": "352976",
+          "subject": "Hola! Vengo solo a insistir en esto, sería increíble que el cliente tuviera un QR para poder registrarse en nuestra base de datos sin necesidad de hacer el primer pedido",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-28T12:31:39Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129428352",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000129423703",
+          "number": "352919",
+          "subject": "Problematica con los QR",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-28T09:16:36Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129423703",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129432075",
+          "number": "352900",
+          "subject": "Llamada saliente (00:01:47) de +34937377821 (Soporte) a +34679889934 ( Juan Carlos)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-28T08:09:55Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129432075",
+          "assignee": "Raimundo Garcia"
+        },
+        {
+          "id": "45842000128841758",
+          "number": "350357",
+          "subject": "Problemas con los QR",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-14T10:23:04Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128841758",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000128539788",
+          "number": "349486",
+          "subject": "LEILI [Amor y Sabor] \"Antigu María Bonita\" // QR NO FUNCIONA",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-08-10T10:26:47Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128539788",
+          "assignee": "Trinidad Larrain Punti"
+        }
+      ],
+      "inMasterList": true
+    },
+    {
       "classification": "SPAM",
       "openCount": 0,
       "onHoldCount": 0,
@@ -13438,196 +13718,6 @@
           "createdTime": "2026-08-24T01:15:50Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129151125",
           "assignee": "Johan Manuel Cortissoz Posada"
-        }
-      ],
-      "inMasterList": true
-    },
-    {
-      "classification": "QRs",
-      "openCount": 2,
-      "onHoldCount": 0,
-      "closedCount": 16,
-      "totalCount": 18,
-      "tickets": [
-        {
-          "id": "45842000130303580",
-          "number": "357130",
-          "subject": "Wings and West // Solicitar productos desde QR's",
-          "status": "Open",
-          "channel": "Chat",
-          "createdTime": "2026-09-17T19:13:23Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130303580",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
-          "id": "45842000130393623",
-          "number": "357034",
-          "subject": "Ok",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-17T11:51:46Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130393623",
-          "assignee": "Jordy Carmona"
-        },
-        {
-          "id": "45842000130393291",
-          "number": "357001",
-          "subject": "Hola",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-17T09:55:03Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130393291",
-          "assignee": "Jordy Carmona"
-        },
-        {
-          "id": "45842000130326398",
-          "number": "356900",
-          "subject": "Hola",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-16T16:47:34Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130326398",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000130238225",
-          "number": "356513",
-          "subject": "Bon día, y tambien otra consulta, esta vez sobre los qr en la mesa. Estoy intentando crearlos para probarlos, pero me dice que seleccione una marca , y no hay marcas a seleccionar. como sigo>?",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-15T08:45:02Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130238225",
-          "assignee": "Angie Oliveros"
-        },
-        {
-          "id": "45842000130124582",
-          "number": "356066",
-          "subject": "Llamada entrante (00:04:16) de +34624674917 ( Cecilia) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-12T13:06:10Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130124582",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
-          "id": "45842000130065967",
-          "number": "355783",
-          "subject": "Dallas Pizza Viladecans / No carga los QR",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-10T18:14:56Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130065967",
-          "assignee": "Fernando Poza"
-        },
-        {
-          "id": "45842000129812968",
-          "number": "354869",
-          "subject": "hola",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-06T07:48:49Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129812968",
-          "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000129814425",
-          "number": "354672",
-          "subject": "1591857819262516.jpeg",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-05T10:45:46Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129814425",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000129813023",
-          "number": "354563",
-          "subject": "Hola!\nEstoy investigando la opción de carta digital.\nHe visto que está la opción de generar un QR por mesas para que puedan pedir.\nAunque he visto que el menú que pueden mirar es una copia de toda la carta interna del restaurante.",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-04T20:54:25Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129813023",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000129633644",
-          "number": "354032",
-          "subject": "Hola buenas tardes",
-          "status": "Closed",
-          "channel": "Last.app Mexico",
-          "createdTime": "2026-09-02T20:39:17Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129633644",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000129543081",
-          "number": "353575",
-          "subject": "Hola buenas",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-01T09:05:14Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129543081",
-          "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000129442142",
-          "number": "352987",
-          "subject": "Llamada entrante (00:15:46) de +34679889934 ( Juan Carlos) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-28T13:25:21Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129442142",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000129428352",
-          "number": "352976",
-          "subject": "Hola! Vengo solo a insistir en esto, sería increíble que el cliente tuviera un QR para poder registrarse en nuestra base de datos sin necesidad de hacer el primer pedido",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-28T12:31:39Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129428352",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000129423703",
-          "number": "352919",
-          "subject": "Problematica con los QR",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-28T09:16:36Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129423703",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000129432075",
-          "number": "352900",
-          "subject": "Llamada saliente (00:01:47) de +34937377821 (Soporte) a +34679889934 ( Juan Carlos)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-28T08:09:55Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129432075",
-          "assignee": "Raimundo Garcia"
-        },
-        {
-          "id": "45842000128841758",
-          "number": "350357",
-          "subject": "Problemas con los QR",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-14T10:23:04Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128841758",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000128539788",
-          "number": "349486",
-          "subject": "LEILI [Amor y Sabor] \"Antigu María Bonita\" // QR NO FUNCIONA",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-10T10:26:47Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000128539788",
-          "assignee": "Trinidad Larrain Punti"
         }
       ],
       "inMasterList": true
