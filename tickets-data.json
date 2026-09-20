@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-20T17:14:37.078728+00:00",
-  "totalOpenTickets": 96,
-  "totalClosedTickets": 3175,
+  "lastUpdated": "2026-09-20T18:20:14.499471+00:00",
+  "totalOpenTickets": 98,
+  "totalClosedTickets": 3176,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -114,6 +114,30 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000130545566",
+      "number": "357558",
+      "subject": "Hola buenas",
+      "status": "Open",
+      "channel": "Last.app España",
+      "createdTime": "2026-09-20T17:32:22Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130545566",
+      "assignee": "Jordy Carmona",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130551394",
+      "number": "357556",
+      "subject": "Ahora ya no me sale",
+      "status": "Closed",
+      "channel": "Last.app España",
+      "createdTime": "2026-09-20T17:29:30Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130551394",
+      "assignee": "Jordy Carmona",
+      "accountName": "Tako-Away Latina",
+      "locationId": ""
+    },
     {
       "id": "45842000130545448",
       "number": "357555",
@@ -919,18 +943,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000130450980",
-      "number": "357358",
-      "subject": "Request Received",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-18T20:44:17Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130450980",
-      "assignee": "Brayan Ricardo Fuentes Herrera",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000130467399",
       "number": "357357",
       "subject": "Request Received",
@@ -938,6 +950,18 @@
       "channel": "Email",
       "createdTime": "2026-09-18T20:44:17Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130467399",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130450980",
+      "number": "357358",
+      "subject": "Request Received",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-18T20:44:17Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130450980",
       "assignee": "Brayan Ricardo Fuentes Herrera",
       "accountName": "",
       "locationId": ""
@@ -2489,33 +2513,9 @@
       "assignee": "Harold Diaz",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000130368166",
-      "number": "356839",
-      "subject": "Request Received",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-16T12:25:31Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130368166",
-      "assignee": "Dimitriz Rodriguez",
-      "accountName": "",
-      "locationId": "1234"
-    },
-    {
-      "id": "45842000130367331",
-      "number": "356828",
-      "subject": "Inscripciones abiertas: IX Campeonato Español Pizza por Pasión  ",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-16T12:09:38Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130367331",
-      "assignee": "Harold Diaz",
-      "accountName": "",
-      "locationId": "1234"
     }
   ],
-  "locationIdIssuesTotal": 1283,
+  "locationIdIssuesTotal": 1285,
   "byContact": [
     {
       "contactId": "45842000121448261",
@@ -3369,11 +3369,31 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 12,
+      "openCount": 13,
       "onHoldCount": 0,
-      "closedCount": 609,
-      "totalCount": 621,
+      "closedCount": 610,
+      "totalCount": 623,
       "tickets": [
+        {
+          "id": "45842000130545566",
+          "number": "357558",
+          "subject": "Hola buenas",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-20T17:32:22Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130545566",
+          "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000130551394",
+          "number": "357556",
+          "subject": "Ahora ya no me sale",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-20T17:29:30Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130551394",
+          "assignee": "Jordy Carmona"
+        },
         {
           "id": "45842000130545448",
           "number": "357555",
@@ -4083,16 +4103,6 @@
           "createdTime": "2026-09-18T09:00:24Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130430144",
           "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000130410996",
-          "number": "357208",
-          "subject": "Contraseña de un solo uso para su inicio de sesión de Zoho",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-18T08:44:43Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130410996",
-          "assignee": "Jordy Carmona"
         }
       ],
       "inMasterList": false
@@ -8179,11 +8189,21 @@
     },
     {
       "classification": "Admin :: Reportes",
-      "openCount": 0,
+      "openCount": 1,
       "onHoldCount": 12,
       "closedCount": 95,
-      "totalCount": 107,
+      "totalCount": 108,
       "tickets": [
+        {
+          "id": "45842000130520133",
+          "number": "357559",
+          "subject": "Llamada entrante (00:05:05) de +34657665525 (  34657665525) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-09-20T18:14:22Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130520133",
+          "assignee": "Harold Diaz"
+        },
         {
           "id": "45842000130473337",
           "number": "357388",
@@ -8618,7 +8638,7 @@
           "id": "45842000129801385",
           "number": "354504",
           "subject": "Promedio de comensales por reserva",
-          "status": "Closed",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-09-04T16:09:31Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129801385",
@@ -13295,16 +13315,6 @@
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
-          "id": "45842000129503697",
-          "number": "353372",
-          "subject": "CREAMOS EL PODCAST DE TU EMPRESA",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-31T10:57:56Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129503697",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
           "id": "45842000129497869",
           "number": "353371",
           "subject": "Neue Saison, neue Tech  ",
@@ -13312,6 +13322,16 @@
           "channel": "Email",
           "createdTime": "2026-08-31T10:57:56Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129497869",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000129503697",
+          "number": "353372",
+          "subject": "CREAMOS EL PODCAST DE TU EMPRESA",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-31T10:57:56Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129503697",
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
