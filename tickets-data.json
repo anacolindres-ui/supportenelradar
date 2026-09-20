@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-20T18:20:14.499471+00:00",
-  "totalOpenTickets": 98,
+  "lastUpdated": "2026-09-20T19:13:47.324183+00:00",
+  "totalOpenTickets": 99,
   "totalClosedTickets": 3176,
   "closedWindowDays": 30,
   "byLocation": [
@@ -111,9 +111,48 @@
           "assignee": "Raimundo Garcia"
         }
       ]
+    },
+    {
+      "accountId": "45842000128929679",
+      "accountName": "VM DALLAS GROUP PIZZAS, S.L.",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000130548262",
+          "number": "357561",
+          "subject": "Buenas tardes! Los QR de la tienda de Viladecans no están funcionando",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-20T19:06:44Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130548262",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000130065967",
+          "number": "355783",
+          "subject": "Dallas Pizza Viladecans / No carga los QR",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-10T18:14:56Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130065967",
+          "assignee": "Fernando Poza"
+        }
+      ]
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000130548262",
+      "number": "357561",
+      "subject": "Buenas tardes! Los QR de la tienda de Viladecans no están funcionando",
+      "status": "Open",
+      "channel": "Last.app España",
+      "createdTime": "2026-09-20T19:06:44Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130548262",
+      "assignee": "Harold Diaz",
+      "accountName": "VM DALLAS GROUP PIZZAS, S.L.",
+      "locationId": ""
+    },
     {
       "id": "45842000130545566",
       "number": "357558",
@@ -2383,18 +2422,6 @@
       "locationId": "1234"
     },
     {
-      "id": "45842000130367656",
-      "number": "356870",
-      "subject": "Help us improve",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-16T14:08:02Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130367656",
-      "assignee": "Harold Diaz",
-      "accountName": "",
-      "locationId": "1234"
-    },
-    {
       "id": "45842000130363929",
       "number": "356869",
       "subject": "Help us improve",
@@ -2405,6 +2432,18 @@
       "assignee": "Brayan Ricardo Fuentes Herrera",
       "accountName": "",
       "locationId": ""
+    },
+    {
+      "id": "45842000130367656",
+      "number": "356870",
+      "subject": "Help us improve",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-16T14:08:02Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130367656",
+      "assignee": "Harold Diaz",
+      "accountName": "",
+      "locationId": "1234"
     },
     {
       "id": "45842000130363869",
@@ -2501,21 +2540,9 @@
       "assignee": "Alberto Poyato",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000130368239",
-      "number": "356845",
-      "subject": "Quick Intro: Marketing Role at Hays",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-16T12:39:35Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130368239",
-      "assignee": "Harold Diaz",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1285,
+  "locationIdIssuesTotal": 1286,
   "byContact": [
     {
       "contactId": "45842000121448261",
@@ -2598,6 +2625,34 @@
           "createdTime": "2026-09-14T14:52:36Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130132747",
           "assignee": "Raimundo Garcia"
+        }
+      ]
+    },
+    {
+      "contactId": "45842000128896695",
+      "contactName": "K",
+      "email": "",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000130548262",
+          "number": "357561",
+          "subject": "Buenas tardes! Los QR de la tienda de Viladecans no están funcionando",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-20T19:06:44Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130548262",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000130065967",
+          "number": "355783",
+          "subject": "Dallas Pizza Viladecans / No carga los QR",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-10T18:14:56Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130065967",
+          "assignee": "Fernando Poza"
         }
       ]
     },
@@ -3369,11 +3424,21 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 13,
+      "openCount": 14,
       "onHoldCount": 0,
       "closedCount": 610,
-      "totalCount": 623,
+      "totalCount": 624,
       "tickets": [
+        {
+          "id": "45842000130548262",
+          "number": "357561",
+          "subject": "Buenas tardes! Los QR de la tienda de Viladecans no están funcionando",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-20T19:06:44Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130548262",
+          "assignee": "Harold Diaz"
+        },
         {
           "id": "45842000130545566",
           "number": "357558",
@@ -3835,16 +3900,6 @@
           "assignee": "Jordy Carmona"
         },
         {
-          "id": "45842000130475355",
-          "number": "357380",
-          "subject": "(No Subject)",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-19T04:03:36Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130475355",
-          "assignee": "Jordy Carmona"
-        },
-        {
           "id": "45842000130467758",
           "number": "357379",
           "subject": "(No Subject)",
@@ -3852,6 +3907,16 @@
           "channel": "Email",
           "createdTime": "2026-09-19T04:03:36Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130467758",
+          "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000130475355",
+          "number": "357380",
+          "subject": "(No Subject)",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-19T04:03:36Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130475355",
           "assignee": "Jordy Carmona"
         },
         {
@@ -3925,16 +3990,6 @@
           "assignee": ""
         },
         {
-          "id": "45842000130450980",
-          "number": "357358",
-          "subject": "Request Received",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-18T20:44:17Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130450980",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
           "id": "45842000130467399",
           "number": "357357",
           "subject": "Request Received",
@@ -3942,6 +3997,16 @@
           "channel": "Email",
           "createdTime": "2026-09-18T20:44:17Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130467399",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000130450980",
+          "number": "357358",
+          "subject": "Request Received",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-18T20:44:17Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130450980",
           "assignee": "Brayan Ricardo Fuentes Herrera"
         },
         {
