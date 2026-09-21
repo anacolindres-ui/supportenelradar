@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-21T19:15:20.381337+00:00",
-  "totalOpenTickets": 89,
-  "totalClosedTickets": 3298,
+  "lastUpdated": "2026-09-21T20:17:31.533249+00:00",
+  "totalOpenTickets": 87,
+  "totalClosedTickets": 3303,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -125,6 +125,18 @@
   ],
   "locationIdIssues": [
     {
+      "id": "45842000130745285",
+      "number": "357837",
+      "subject": "Llamada entrante de +34657665525 (  34657665525) a +34937377821 (Soporte)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-09-21T20:16:58Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130745285",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
       "id": "45842000130756634",
       "number": "357833",
       "subject": "Solicitud de llamada de Soporte - Terraza Mexcalista",
@@ -164,37 +176,13 @@
       "id": "45842000130756482",
       "number": "357821",
       "subject": "Invitación actualizada: Comida lun 21 sept 2026 1pm - 2pm (GMT-6) (martin.mora@last.app)",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Email",
       "createdTime": "2026-09-21T18:08:20Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130756482",
       "assignee": "Johan Manuel Cortissoz Posada",
       "accountName": "DEMO TEST MELI",
-      "locationId": ""
-    },
-    {
-      "id": "45842000130699914",
-      "number": "357819",
-      "subject": "Hola de nuevo",
-      "status": "Open",
-      "channel": "Last.app España",
-      "createdTime": "2026-09-21T17:44:48Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130699914",
-      "assignee": "Johan Manuel Cortissoz Posada",
-      "accountName": "Mama uma",
-      "locationId": ""
-    },
-    {
-      "id": "45842000130723114",
-      "number": "357817",
-      "subject": "Llamada entrante (00:00:16) de +34609157145 (PEDRO PEDRO CORBALAN SANCHEZ) a +34937377821 (Soporte)",
-      "status": "Open",
-      "channel": "Phone",
-      "createdTime": "2026-09-21T17:37:49Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130723114",
-      "assignee": "Johan Manuel Cortissoz Posada",
-      "accountName": "MAS QUE PADEL",
-      "locationId": ""
+      "locationId": "1234"
     },
     {
       "id": "45842000130760157",
@@ -1709,18 +1697,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000130467758",
-      "number": "357379",
-      "subject": "(No Subject)",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-19T04:03:36Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130467758",
-      "assignee": "Jordy Carmona",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000130475355",
       "number": "357380",
       "subject": "(No Subject)",
@@ -1728,6 +1704,18 @@
       "channel": "Email",
       "createdTime": "2026-09-19T04:03:36Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130475355",
+      "assignee": "Jordy Carmona",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130467758",
+      "number": "357379",
+      "subject": "(No Subject)",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-19T04:03:36Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130467758",
       "assignee": "Jordy Carmona",
       "accountName": "",
       "locationId": ""
@@ -2523,9 +2511,21 @@
       "assignee": "Johan Manuel Cortissoz Posada",
       "accountName": "",
       "locationId": ""
+    },
+    {
+      "id": "45842000130413103",
+      "number": "357107",
+      "subject": "Novedades y Catalogos Otoño Chicken&amp",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-17T17:38:58Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130413103",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "",
+      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1338,
+  "locationIdIssuesTotal": 1337,
   "byContact": [
     {
       "contactId": "45842000043646213",
@@ -2683,9 +2683,19 @@
       "classification": "Admin :: General",
       "openCount": 2,
       "onHoldCount": 6,
-      "closedCount": 708,
-      "totalCount": 716,
+      "closedCount": 709,
+      "totalCount": 717,
       "tickets": [
+        {
+          "id": "45842000130723114",
+          "number": "357817",
+          "subject": "Llamada entrante (00:00:16) de +34609157145 (PEDRO PEDRO CORBALAN SANCHEZ) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-09-21T17:37:49Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130723114",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000130740132",
           "number": "357787",
@@ -3297,16 +3307,6 @@
           "assignee": "Angie Oliveros"
         },
         {
-          "id": "45842000130419459",
-          "number": "357200",
-          "subject": "RE : Stratégie Julien Ettori — Synthèse & prochaines étapes.",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-18T08:23:11Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130419459",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000130342105",
           "number": "356738",
           "subject": "Solicitud urgente de revisión y verificación de registros de Last.app – Ejercicios 2024 y 2025",
@@ -3371,10 +3371,10 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 5,
+      "openCount": 3,
       "onHoldCount": 0,
       "closedCount": 637,
-      "totalCount": 642,
+      "totalCount": 640,
       "tickets": [
         {
           "id": "45842000130756634",
@@ -3385,26 +3385,6 @@
           "createdTime": "2026-09-21T18:50:07Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130756634",
           "assignee": "Jordy Carmona"
-        },
-        {
-          "id": "45842000130756482",
-          "number": "357821",
-          "subject": "Invitación actualizada: Comida lun 21 sept 2026 1pm - 2pm (GMT-6) (martin.mora@last.app)",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-09-21T18:08:20Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130756482",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
-          "id": "45842000130699914",
-          "number": "357819",
-          "subject": "Hola de nuevo",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-21T17:44:48Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130699914",
-          "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
           "id": "45842000130760157",
@@ -4037,6 +4017,16 @@
       "totalCount": 374,
       "tickets": [
         {
+          "id": "45842000130745285",
+          "number": "357837",
+          "subject": "Llamada entrante de +34657665525 (  34657665525) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-21T20:16:58Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130745285",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
           "id": "45842000130739323",
           "number": "357824",
           "subject": "Llamada entrante (00:13:07) de +34620841400 ( RUBEN FRANCISCO VAQUER ALEPUZ) a +34937377821 (Soporte)",
@@ -4055,16 +4045,6 @@
           "createdTime": "2026-09-21T18:14:26Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130727171",
           "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000130723114",
-          "number": "357817",
-          "subject": "Llamada entrante (00:00:16) de +34609157145 (PEDRO PEDRO CORBALAN SANCHEZ) a +34937377821 (Soporte)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-09-21T17:37:49Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130723114",
-          "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
           "id": "45842000130700076",
@@ -7937,16 +7917,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129832601",
-          "number": "354800",
-          "subject": "Request Received",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-06T05:30:40Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129832601",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000129835249",
           "number": "354798",
           "subject": "Request Received",
@@ -7955,6 +7925,16 @@
           "createdTime": "2026-09-06T05:30:40Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129835249",
           "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129832601",
+          "number": "354800",
+          "subject": "Request Received",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-06T05:30:40Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129832601",
+          "assignee": "Angie Oliveros"
         },
         {
           "id": "45842000129807922",
@@ -9443,9 +9423,19 @@
       "classification": "LastSHOP",
       "openCount": 3,
       "onHoldCount": 7,
-      "closedCount": 68,
-      "totalCount": 78,
+      "closedCount": 69,
+      "totalCount": 79,
       "tickets": [
+        {
+          "id": "45842000130756718",
+          "number": "357835",
+          "subject": "Desactivar Last Shop",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-21T19:52:28Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130756718",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000130708165",
           "number": "357750",
@@ -10135,16 +10125,6 @@
           "createdTime": "2026-08-25T07:25:23Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129215110",
           "assignee": "Javier Landaeta"
-        },
-        {
-          "id": "45842000129159114",
-          "number": "351942",
-          "subject": "Configuración de Horarios",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-24T10:58:04Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129159114",
-          "assignee": "Angie Oliveros"
         }
       ],
       "inMasterList": true
@@ -10153,9 +10133,19 @@
       "classification": "Otro",
       "openCount": 0,
       "onHoldCount": 0,
-      "closedCount": 69,
-      "totalCount": 69,
+      "closedCount": 70,
+      "totalCount": 70,
       "tickets": [
+        {
+          "id": "45842000130756482",
+          "number": "357821",
+          "subject": "Invitación actualizada: Comida lun 21 sept 2026 1pm - 2pm (GMT-6) (martin.mora@last.app)",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-21T18:08:20Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130756482",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000130706336",
           "number": "357802",
@@ -10744,16 +10734,6 @@
           "channel": "Email",
           "createdTime": "2026-08-28T21:59:20Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129422912",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000129382523",
-          "number": "352785",
-          "subject": "Últimas MONO SECRETAs, ¿te vas a quedar sin probarla?",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-27T16:04:22Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129382523",
           "assignee": "Dimitriz Rodriguez"
         }
       ],
@@ -12121,11 +12101,21 @@
     },
     {
       "classification": "Módulos Reserva",
-      "openCount": 0,
+      "openCount": 1,
       "onHoldCount": 1,
       "closedCount": 30,
-      "totalCount": 31,
+      "totalCount": 32,
       "tickets": [
+        {
+          "id": "45842000130739392",
+          "number": "357836",
+          "subject": "Tayta //  Reservas Deposito por persona",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-21T20:03:35Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130739392",
+          "assignee": "Dimitriz Rodriguez"
+        },
         {
           "id": "45842000130734148",
           "number": "357827",
@@ -13751,16 +13741,16 @@
     },
     {
       "classification": "Admin :: Suscripción",
-      "openCount": 1,
+      "openCount": 0,
       "onHoldCount": 0,
-      "closedCount": 16,
+      "closedCount": 17,
       "totalCount": 17,
       "tickets": [
         {
           "id": "45842000130710506",
           "number": "357830",
           "subject": "Hola , como pago 15 días más ?",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Last.app España",
           "createdTime": "2026-09-21T18:36:44Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130710506",
@@ -14760,6 +14750,56 @@
       "inMasterList": true
     },
     {
+      "classification": "Admin :: Combos",
+      "openCount": 0,
+      "onHoldCount": 0,
+      "closedCount": 4,
+      "totalCount": 4,
+      "tickets": [
+        {
+          "id": "45842000130699914",
+          "number": "357819",
+          "subject": "Hola de nuevo",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-21T17:44:48Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130699914",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000129495938",
+          "number": "353450",
+          "subject": "Hola buenas tardes",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-31T17:04:43Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129495938",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000129527059",
+          "number": "353437",
+          "subject": "Buenas tardes Jordi soy vuestro cliente de Ñam Burguers Valladolid. Tengo un problema: no me salen los combos de verano en la pantalla del TPV. Me ha dado tú número Jose. Muchas gracias",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-31T15:46:35Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129527059",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000129480412",
+          "number": "353174",
+          "subject": "1382539933851869.jpeg",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-08-29T18:55:34Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129480412",
+          "assignee": "Dimitriz Rodriguez"
+        }
+      ],
+      "inMasterList": true
+    },
+    {
       "classification": "Admin :: métodos de pago/Datáfono",
       "openCount": 0,
       "onHoldCount": 0,
@@ -14855,46 +14895,6 @@
           "createdTime": "2026-08-24T14:06:58Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129162549",
           "assignee": "Raimundo Garcia"
-        }
-      ],
-      "inMasterList": true
-    },
-    {
-      "classification": "Admin :: Combos",
-      "openCount": 0,
-      "onHoldCount": 0,
-      "closedCount": 3,
-      "totalCount": 3,
-      "tickets": [
-        {
-          "id": "45842000129495938",
-          "number": "353450",
-          "subject": "Hola buenas tardes",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-31T17:04:43Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129495938",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000129527059",
-          "number": "353437",
-          "subject": "Buenas tardes Jordi soy vuestro cliente de Ñam Burguers Valladolid. Tengo un problema: no me salen los combos de verano en la pantalla del TPV. Me ha dado tú número Jose. Muchas gracias",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-31T15:46:35Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129527059",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000129480412",
-          "number": "353174",
-          "subject": "1382539933851869.jpeg",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-29T18:55:34Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129480412",
-          "assignee": "Dimitriz Rodriguez"
         }
       ],
       "inMasterList": true
