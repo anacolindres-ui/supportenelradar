@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-21T20:17:31.533249+00:00",
-  "totalOpenTickets": 87,
-  "totalClosedTickets": 3303,
+  "lastUpdated": "2026-09-21T21:15:56.690434+00:00",
+  "totalOpenTickets": 84,
+  "totalClosedTickets": 3305,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -125,18 +125,6 @@
   ],
   "locationIdIssues": [
     {
-      "id": "45842000130745285",
-      "number": "357837",
-      "subject": "Llamada entrante de +34657665525 (  34657665525) a +34937377821 (Soporte)",
-      "status": "Open",
-      "channel": "Phone",
-      "createdTime": "2026-09-21T20:16:58Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130745285",
-      "assignee": "Johan Manuel Cortissoz Posada",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000130756634",
       "number": "357833",
       "subject": "Solicitud de llamada de Soporte - Terraza Mexcalista",
@@ -144,6 +132,18 @@
       "channel": "Email",
       "createdTime": "2026-09-21T18:50:07Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130756634",
+      "assignee": "Jordy Carmona",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130739323",
+      "number": "357824",
+      "subject": "Llamada entrante (00:13:07) de +34620841400 ( RUBEN FRANCISCO VAQUER ALEPUZ) a +34937377821 (Soporte)",
+      "status": "Closed",
+      "channel": "Phone",
+      "createdTime": "2026-09-21T18:14:26Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130739323",
       "assignee": "Jordy Carmona",
       "accountName": "",
       "locationId": ""
@@ -159,18 +159,6 @@
       "assignee": "Dimitriz Rodriguez",
       "accountName": "",
       "locationId": "1234"
-    },
-    {
-      "id": "45842000130739323",
-      "number": "357824",
-      "subject": "Llamada entrante (00:13:07) de +34620841400 ( RUBEN FRANCISCO VAQUER ALEPUZ) a +34937377821 (Soporte)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-09-21T18:14:26Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130739323",
-      "assignee": "Jordy Carmona",
-      "accountName": "",
-      "locationId": ""
     },
     {
       "id": "45842000130756482",
@@ -2523,9 +2511,21 @@
       "assignee": "Brayan Ricardo Fuentes Herrera",
       "accountName": "",
       "locationId": ""
+    },
+    {
+      "id": "45842000130396630",
+      "number": "357098",
+      "subject": "Uber Case# 60176144-LastApp - uber integration request",
+      "status": "On Hold",
+      "channel": "Email",
+      "createdTime": "2026-09-17T16:43:06Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130396630",
+      "assignee": "Trinidad Larrain Punti",
+      "accountName": "",
+      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1337,
+  "locationIdIssuesTotal": 1336,
   "byContact": [
     {
       "contactId": "45842000043646213",
@@ -4011,20 +4011,20 @@
     },
     {
       "classification": "Calls",
-      "openCount": 1,
+      "openCount": 0,
       "onHoldCount": 0,
       "closedCount": 373,
-      "totalCount": 374,
+      "totalCount": 373,
       "tickets": [
         {
-          "id": "45842000130745285",
-          "number": "357837",
-          "subject": "Llamada entrante de +34657665525 (  34657665525) a +34937377821 (Soporte)",
-          "status": "Open",
+          "id": "45842000130727171",
+          "number": "357823",
+          "subject": "Llamada entrante de +34620841400 ( RUBEN FRANCISCO VAQUER ALEPUZ) a +34937377821 (Soporte)",
+          "status": "Closed",
           "channel": "Phone",
-          "createdTime": "2026-09-21T20:16:58Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130745285",
-          "assignee": "Johan Manuel Cortissoz Posada"
+          "createdTime": "2026-09-21T18:14:26Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130727171",
+          "assignee": "Dimitriz Rodriguez"
         },
         {
           "id": "45842000130739323",
@@ -4035,16 +4035,6 @@
           "createdTime": "2026-09-21T18:14:26Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130739323",
           "assignee": "Jordy Carmona"
-        },
-        {
-          "id": "45842000130727171",
-          "number": "357823",
-          "subject": "Llamada entrante de +34620841400 ( RUBEN FRANCISCO VAQUER ALEPUZ) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-21T18:14:26Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130727171",
-          "assignee": "Dimitriz Rodriguez"
         },
         {
           "id": "45842000130700076",
@@ -6081,9 +6071,9 @@
     },
     {
       "classification": "Admin :: Impresoras",
-      "openCount": 1,
+      "openCount": 0,
       "onHoldCount": 3,
-      "closedCount": 190,
+      "closedCount": 191,
       "totalCount": 194,
       "tickets": [
         {
@@ -6110,7 +6100,7 @@
           "id": "45842000130702352",
           "number": "357828",
           "subject": "Hola",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Last.app Mexico",
           "createdTime": "2026-09-21T18:24:43Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130702352",
@@ -6695,16 +6685,6 @@
           "createdTime": "2026-09-11T15:19:55Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130119459",
           "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000130141098",
-          "number": "355946",
-          "subject": "ROSARIO'S BURGERS MALDONADO // Consulta entidades legales",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-11T15:18:08Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130141098",
-          "assignee": "Javier Landaeta"
         },
         {
           "id": "45842000130124301",
@@ -12114,7 +12094,7 @@
           "channel": "Phone",
           "createdTime": "2026-09-21T20:03:35Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130739392",
-          "assignee": "Dimitriz Rodriguez"
+          "assignee": ""
         },
         {
           "id": "45842000130734148",
@@ -12721,16 +12701,16 @@
     },
     {
       "classification": "Admin :: entidades legales",
-      "openCount": 1,
+      "openCount": 0,
       "onHoldCount": 0,
-      "closedCount": 20,
+      "closedCount": 21,
       "totalCount": 21,
       "tickets": [
         {
           "id": "45842000130764157",
           "number": "357832",
           "subject": "Hola!",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Last.app España",
           "createdTime": "2026-09-21T18:49:07Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130764157",
