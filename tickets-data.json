@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-21T00:52:28.176788+00:00",
-  "totalOpenTickets": 102,
-  "totalClosedTickets": 3134,
+  "lastUpdated": "2026-09-21T01:34:18.023133+00:00",
+  "totalOpenTickets": 101,
+  "totalClosedTickets": 3136,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -155,13 +155,13 @@
       "id": "45842000130506550",
       "number": "357587",
       "subject": "Descubre lo que han compartido eduardoangelcinta y 8 personas más",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Email",
       "createdTime": "2026-09-21T00:23:37Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130506550",
       "assignee": "Harold Diaz",
       "accountName": "",
-      "locationId": ""
+      "locationId": "1234"
     },
     {
       "id": "45842000130507559",
@@ -920,18 +920,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000130467758",
-      "number": "357379",
-      "subject": "(No Subject)",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-19T04:03:36Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130467758",
-      "assignee": "Jordy Carmona",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000130475355",
       "number": "357380",
       "subject": "(No Subject)",
@@ -939,6 +927,18 @@
       "channel": "Email",
       "createdTime": "2026-09-19T04:03:36Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130475355",
+      "assignee": "Jordy Carmona",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130467758",
+      "number": "357379",
+      "subject": "(No Subject)",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-19T04:03:36Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130467758",
       "assignee": "Jordy Carmona",
       "accountName": "",
       "locationId": ""
@@ -2766,9 +2766,19 @@
       "classification": "Admin :: General",
       "openCount": 3,
       "onHoldCount": 4,
-      "closedCount": 675,
-      "totalCount": 682,
+      "closedCount": 676,
+      "totalCount": 683,
       "tickets": [
+        {
+          "id": "45842000130506550",
+          "number": "357587",
+          "subject": "Descubre lo que han compartido eduardoangelcinta y 8 personas más",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-21T00:23:37Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130506550",
+          "assignee": "Harold Diaz"
+        },
         {
           "id": "45842000130507559",
           "number": "357586",
@@ -3380,16 +3390,6 @@
           "assignee": "Angie Oliveros"
         },
         {
-          "id": "45842000130326870",
-          "number": "356969",
-          "subject": "Hola Dimitriz, ¿cómo va la consulta?",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-17T08:09:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130326870",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000130342105",
           "number": "356738",
           "subject": "Solicitud urgente de revisión y verificación de registros de Last.app – Ejercicios 2024 y 2025",
@@ -3444,21 +3444,11 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 14,
+      "openCount": 13,
       "onHoldCount": 0,
       "closedCount": 602,
-      "totalCount": 616,
+      "totalCount": 615,
       "tickets": [
-        {
-          "id": "45842000130506550",
-          "number": "357587",
-          "subject": "Descubre lo que han compartido eduardoangelcinta y 8 personas más",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-09-21T00:23:37Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130506550",
-          "assignee": "Harold Diaz"
-        },
         {
           "id": "45842000130545566",
           "number": "357558",
@@ -3920,16 +3910,6 @@
           "assignee": "Jordy Carmona"
         },
         {
-          "id": "45842000130475355",
-          "number": "357380",
-          "subject": "(No Subject)",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-19T04:03:36Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130475355",
-          "assignee": "Jordy Carmona"
-        },
-        {
           "id": "45842000130467758",
           "number": "357379",
           "subject": "(No Subject)",
@@ -3937,6 +3917,16 @@
           "channel": "Email",
           "createdTime": "2026-09-19T04:03:36Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130467758",
+          "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000130475355",
+          "number": "357380",
+          "subject": "(No Subject)",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-19T04:03:36Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130475355",
           "assignee": "Jordy Carmona"
         },
         {
@@ -8120,16 +8110,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129835249",
-          "number": "354798",
-          "subject": "Request Received",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-06T05:30:40Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129835249",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000129832601",
           "number": "354800",
           "subject": "Request Received",
@@ -8138,6 +8118,16 @@
           "createdTime": "2026-09-06T05:30:40Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129832601",
           "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000129835249",
+          "number": "354798",
+          "subject": "Request Received",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-06T05:30:40Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129835249",
+          "assignee": "Alberto Poyato"
         },
         {
           "id": "45842000129807922",
@@ -9026,9 +9016,19 @@
       "classification": "POS :: uso general",
       "openCount": 0,
       "onHoldCount": 3,
-      "closedCount": 84,
-      "totalCount": 87,
+      "closedCount": 85,
+      "totalCount": 88,
       "tickets": [
+        {
+          "id": "45842000130508487",
+          "number": "357590",
+          "subject": "Sabes donde puedo cancelar este pedido?",
+          "status": "Closed",
+          "channel": "Last.app Mexico",
+          "createdTime": "2026-09-21T01:25:53Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130508487",
+          "assignee": "Harold Diaz"
+        },
         {
           "id": "45842000130503067",
           "number": "357536",
@@ -9647,16 +9647,6 @@
           "channel": "Last.app España",
           "createdTime": "2026-08-31T19:09:43Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129511445",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000129511369",
-          "number": "353470",
-          "subject": "Hola",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-08-31T19:05:26Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129511369",
           "assignee": "Dimitriz Rodriguez"
         }
       ],
@@ -13610,16 +13600,6 @@
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
-          "id": "45842000129503697",
-          "number": "353372",
-          "subject": "CREAMOS EL PODCAST DE TU EMPRESA",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-08-31T10:57:56Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129503697",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
           "id": "45842000129497869",
           "number": "353371",
           "subject": "Neue Saison, neue Tech  ",
@@ -13627,6 +13607,16 @@
           "channel": "Email",
           "createdTime": "2026-08-31T10:57:56Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129497869",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000129503697",
+          "number": "353372",
+          "subject": "CREAMOS EL PODCAST DE TU EMPRESA",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-08-31T10:57:56Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129503697",
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
