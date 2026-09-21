@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-21T02:28:57.907613+00:00",
-  "totalOpenTickets": 101,
-  "totalClosedTickets": 3136,
+  "lastUpdated": "2026-09-21T03:23:58.958002+00:00",
+  "totalOpenTickets": 102,
+  "totalClosedTickets": 3137,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -151,6 +151,30 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000130510570",
+      "number": "357594",
+      "subject": "LastApp - rappi integration request",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-09-21T03:05:46Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130510570",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130543797",
+      "number": "357591",
+      "subject": "¿Cómo estuvo tu experiencia? ⭐",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-21T02:30:13Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130543797",
+      "assignee": "Harold Diaz",
+      "accountName": "",
+      "locationId": "1234"
+    },
     {
       "id": "45842000130506550",
       "number": "357587",
@@ -920,18 +944,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000130475355",
-      "number": "357380",
-      "subject": "(No Subject)",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-19T04:03:36Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130475355",
-      "assignee": "Jordy Carmona",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000130467758",
       "number": "357379",
       "subject": "(No Subject)",
@@ -939,6 +951,18 @@
       "channel": "Email",
       "createdTime": "2026-09-19T04:03:36Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130467758",
+      "assignee": "Jordy Carmona",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130475355",
+      "number": "357380",
+      "subject": "(No Subject)",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-19T04:03:36Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130475355",
       "assignee": "Jordy Carmona",
       "accountName": "",
       "locationId": ""
@@ -2480,18 +2504,6 @@
       "locationId": "1234"
     },
     {
-      "id": "45842000130363929",
-      "number": "356869",
-      "subject": "Help us improve",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-16T14:08:02Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130363929",
-      "assignee": "Brayan Ricardo Fuentes Herrera",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000130367656",
       "number": "356870",
       "subject": "Help us improve",
@@ -2502,6 +2514,18 @@
       "assignee": "Harold Diaz",
       "accountName": "",
       "locationId": "1234"
+    },
+    {
+      "id": "45842000130363929",
+      "number": "356869",
+      "subject": "Help us improve",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-16T14:08:02Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130363929",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "",
+      "locationId": ""
     },
     {
       "id": "45842000130363869",
@@ -2526,33 +2550,9 @@
       "assignee": "Dimitriz Rodriguez",
       "accountName": "",
       "locationId": "1234"
-    },
-    {
-      "id": "45842000130366403",
-      "number": "356857",
-      "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-16T12:55:11Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130366403",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": "1234"
-    },
-    {
-      "id": "45842000130368464",
-      "number": "356856",
-      "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
-      "status": "On Hold",
-      "channel": "Email",
-      "createdTime": "2026-09-16T12:55:03Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130368464",
-      "assignee": "Harold Diaz",
-      "accountName": "",
-      "locationId": "1234"
     }
   ],
-  "locationIdIssuesTotal": 1270,
+  "locationIdIssuesTotal": 1272,
   "byContact": [
     {
       "contactId": "45842000043646213",
@@ -2766,9 +2766,19 @@
       "classification": "Admin :: General",
       "openCount": 3,
       "onHoldCount": 4,
-      "closedCount": 676,
-      "totalCount": 683,
+      "closedCount": 677,
+      "totalCount": 684,
       "tickets": [
+        {
+          "id": "45842000130543797",
+          "number": "357591",
+          "subject": "¿Cómo estuvo tu experiencia? ⭐",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-21T02:30:13Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130543797",
+          "assignee": "Harold Diaz"
+        },
         {
           "id": "45842000130506550",
           "number": "357587",
@@ -3380,16 +3390,6 @@
           "assignee": "Jordy Carmona"
         },
         {
-          "id": "45842000130311585",
-          "number": "356970",
-          "subject": "Llamada entrante (00:12:08) de +34690920796 ( DIEGO) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-17T08:10:59Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130311585",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000130342105",
           "number": "356738",
           "subject": "Solicitud urgente de revisión y verificación de registros de Last.app – Ejercicios 2024 y 2025",
@@ -3910,16 +3910,6 @@
           "assignee": "Jordy Carmona"
         },
         {
-          "id": "45842000130467758",
-          "number": "357379",
-          "subject": "(No Subject)",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-19T04:03:36Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130467758",
-          "assignee": "Jordy Carmona"
-        },
-        {
           "id": "45842000130475355",
           "number": "357380",
           "subject": "(No Subject)",
@@ -3927,6 +3917,16 @@
           "channel": "Email",
           "createdTime": "2026-09-19T04:03:36Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130475355",
+          "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000130467758",
+          "number": "357379",
+          "subject": "(No Subject)",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-19T04:03:36Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130467758",
           "assignee": "Jordy Carmona"
         },
         {
@@ -4804,11 +4804,21 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 8,
+      "openCount": 9,
       "onHoldCount": 9,
       "closedCount": 209,
-      "totalCount": 226,
+      "totalCount": 227,
       "tickets": [
+        {
+          "id": "45842000130510570",
+          "number": "357594",
+          "subject": "LastApp - rappi integration request",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-21T03:05:46Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130510570",
+          "assignee": ""
+        },
         {
           "id": "45842000130472452",
           "number": "357420",
@@ -8110,16 +8120,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129832601",
-          "number": "354800",
-          "subject": "Request Received",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-06T05:30:40Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129832601",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000129835249",
           "number": "354798",
           "subject": "Request Received",
@@ -8128,6 +8128,16 @@
           "createdTime": "2026-09-06T05:30:40Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129835249",
           "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129832601",
+          "number": "354800",
+          "subject": "Request Received",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-06T05:30:40Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129832601",
+          "assignee": "Angie Oliveros"
         },
         {
           "id": "45842000129807922",
