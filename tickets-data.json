@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-22T19:15:35.558579+00:00",
-  "totalOpenTickets": 74,
+  "lastUpdated": "2026-09-22T20:17:03.760073+00:00",
+  "totalOpenTickets": 76,
   "totalClosedTickets": 3391,
   "closedWindowDays": 30,
   "byLocation": [
@@ -61,6 +61,18 @@
   ],
   "locationIdIssues": [
     {
+      "id": "45842000130849424",
+      "number": "358083",
+      "subject": "Purchase Order Invoice Remittance 9/22/2026 Ref_c43068d5c9da2aa896112b2cd8cd81918ca3f82b.",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-09-22T19:31:09Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130849424",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
       "id": "45842000130810273",
       "number": "358081",
       "subject": "Llamada entrante (00:00:21) de +34688716052 ( Valentin) a +34937377821 (Soporte)",
@@ -70,18 +82,6 @@
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130810273",
       "assignee": "Jordy Carmona",
       "accountName": "Pizzería Savastano",
-      "locationId": ""
-    },
-    {
-      "id": "45842000130781699",
-      "number": "358079",
-      "subject": "Hola, soy Mateo de Nada Sagrada. En LastAdmin, el prefijo telefónico de nuestra ubicación está configurado como México (+52), pero la página pública de reservaciones sigue mostrando España (+34) como ...",
-      "status": "Open",
-      "channel": "Last.app México",
-      "createdTime": "2026-09-22T18:25:51Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130781699",
-      "assignee": "Johan Manuel Cortissoz Posada",
-      "accountName": "",
       "locationId": ""
     },
     {
@@ -3199,14 +3199,14 @@
       "totalCount": 654,
       "tickets": [
         {
-          "id": "45842000130781699",
-          "number": "358079",
-          "subject": "Hola, soy Mateo de Nada Sagrada. En LastAdmin, el prefijo telefónico de nuestra ubicación está configurado como México (+52), pero la página pública de reservaciones sigue mostrando España (+34) como ...",
+          "id": "45842000130849424",
+          "number": "358083",
+          "subject": "Purchase Order Invoice Remittance 9/22/2026 Ref_c43068d5c9da2aa896112b2cd8cd81918ca3f82b.",
           "status": "Open",
-          "channel": "Last.app México",
-          "createdTime": "2026-09-22T18:25:51Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130781699",
-          "assignee": "Johan Manuel Cortissoz Posada"
+          "channel": "Email",
+          "createdTime": "2026-09-22T19:31:09Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130849424",
+          "assignee": ""
         },
         {
           "id": "45842000130781577",
@@ -3409,16 +3409,6 @@
           "assignee": "Fernando Poza"
         },
         {
-          "id": "45842000130784285",
-          "number": "357883",
-          "subject": "Synced invitation: Check Semana! @ Fri Sep 4, 2026 10am - 10:45am (CEST) (ingrid.monserrat@last.app)",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-22T08:07:14Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130784285",
-          "assignee": ""
-        },
-        {
           "id": "45842000130772170",
           "number": "357881",
           "subject": "Synced invitation: Check Semana! @ Fri Sep 11, 2026 10am - 10:45am (CEST) (ingrid.monserrat@last.app)",
@@ -3426,6 +3416,16 @@
           "channel": "Email",
           "createdTime": "2026-09-22T08:07:14Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130772170",
+          "assignee": ""
+        },
+        {
+          "id": "45842000130784285",
+          "number": "357883",
+          "subject": "Synced invitation: Check Semana! @ Fri Sep 4, 2026 10am - 10:45am (CEST) (ingrid.monserrat@last.app)",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-22T08:07:14Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130784285",
           "assignee": ""
         },
         {
@@ -5883,11 +5883,21 @@
     },
     {
       "classification": "Admin :: Impresoras",
-      "openCount": 1,
+      "openCount": 2,
       "onHoldCount": 2,
       "closedCount": 188,
-      "totalCount": 191,
+      "totalCount": 192,
       "tickets": [
+        {
+          "id": "45842000130781854",
+          "number": "358084",
+          "subject": "Hola, ¿qué tal buenas tardes? Nada más para hacerles llegar de que ya descubrí el error al momento de querer imprimir un ticket. Lamentablemente en mis 2 tablets, que tengo pues tiene muchos fallos no...",
+          "status": "Open",
+          "channel": "Last.app México",
+          "createdTime": "2026-09-22T19:37:46Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130781854",
+          "assignee": "Jordy Carmona"
+        },
         {
           "id": "45842000130794268",
           "number": "358031",
@@ -7719,16 +7729,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000129832601",
-          "number": "354800",
-          "subject": "Request Received",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-06T05:30:40Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129832601",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000129835249",
           "number": "354798",
           "subject": "Request Received",
@@ -7737,6 +7737,16 @@
           "createdTime": "2026-09-06T05:30:40Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129835249",
           "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000129832601",
+          "number": "354800",
+          "subject": "Request Received",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-06T05:30:40Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129832601",
+          "assignee": "Angie Oliveros"
         },
         {
           "id": "45842000129807922",
@@ -11833,11 +11843,21 @@
     },
     {
       "classification": "Módulos Reserva",
-      "openCount": 0,
+      "openCount": 1,
       "onHoldCount": 1,
       "closedCount": 31,
-      "totalCount": 32,
+      "totalCount": 33,
       "tickets": [
+        {
+          "id": "45842000130781699",
+          "number": "358079",
+          "subject": "Hola, soy Mateo de Nada Sagrada. En LastAdmin, el prefijo telefónico de nuestra ubicación está configurado como México (+52), pero la página pública de reservaciones sigue mostrando España (+34) como ...",
+          "status": "Open",
+          "channel": "Last.app México",
+          "createdTime": "2026-09-22T18:25:51Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130781699",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000130739392",
           "number": "357836",
