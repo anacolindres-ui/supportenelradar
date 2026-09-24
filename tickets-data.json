@@ -1,9 +1,37 @@
 {
-  "lastUpdated": "2026-09-24T03:21:40.223428+00:00",
-  "totalOpenTickets": 82,
-  "totalClosedTickets": 3326,
+  "lastUpdated": "2026-09-24T04:21:54.562524+00:00",
+  "totalOpenTickets": 84,
+  "totalClosedTickets": 3325,
   "closedWindowDays": 30,
-  "byLocation": [],
+  "byLocation": [
+    {
+      "accountId": "45842000120223705",
+      "accountName": "Midtown",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000130869616",
+          "number": "358319",
+          "subject": "Buenos dias",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-24T03:46:46Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130869616",
+          "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000130756718",
+          "number": "357835",
+          "subject": "Desactivar Last Shop",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-21T19:52:28Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130756718",
+          "assignee": "Javier Landaeta"
+        }
+      ]
+    }
+  ],
   "locationIdIssues": [
     {
       "id": "45842000130925877",
@@ -2407,7 +2435,36 @@
     }
   ],
   "locationIdIssuesTotal": 1363,
-  "byContact": [],
+  "byContact": [
+    {
+      "contactId": "45842000016780358",
+      "contactName": "Carles",
+      "email": "cmo@laprincipalfood.com",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000130869616",
+          "number": "358319",
+          "subject": "Buenos dias",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-24T03:46:46Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130869616",
+          "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000130756718",
+          "number": "357835",
+          "subject": "Desactivar Last Shop",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-21T19:52:28Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130756718",
+          "assignee": "Javier Landaeta"
+        }
+      ]
+    }
+  ],
   "byClassification": [
     {
       "classification": "Admin :: General",
@@ -3257,16 +3314,6 @@
           "assignee": "Brayan Ricardo Fuentes Herrera"
         },
         {
-          "id": "45842000130879654",
-          "number": "358183",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-23T12:06:51Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130879654",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
           "id": "45842000130918043",
           "number": "358182",
           "subject": "Help us improve",
@@ -3274,6 +3321,16 @@
           "channel": "Email",
           "createdTime": "2026-09-23T12:06:51Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130918043",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000130879654",
+          "number": "358183",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-23T12:06:51Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130879654",
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
@@ -3887,16 +3944,6 @@
           "assignee": "Angie Oliveros"
         },
         {
-          "id": "45842000130739323",
-          "number": "357824",
-          "subject": "Llamada entrante (00:13:07) de +34620841400 ( RUBEN FRANCISCO VAQUER ALEPUZ) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-21T18:14:26Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130739323",
-          "assignee": "Jordy Carmona"
-        },
-        {
           "id": "45842000130727171",
           "number": "357823",
           "subject": "Llamada entrante de +34620841400 ( RUBEN FRANCISCO VAQUER ALEPUZ) a +34937377821 (Soporte)",
@@ -3905,6 +3952,16 @@
           "createdTime": "2026-09-21T18:14:26Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130727171",
           "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000130739323",
+          "number": "357824",
+          "subject": "Llamada entrante (00:13:07) de +34620841400 ( RUBEN FRANCISCO VAQUER ALEPUZ) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-09-21T18:14:26Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130739323",
+          "assignee": "Jordy Carmona"
         },
         {
           "id": "45842000130700076",
@@ -9151,9 +9208,9 @@
     },
     {
       "classification": "LastSHOP",
-      "openCount": 0,
+      "openCount": 1,
       "onHoldCount": 7,
-      "closedCount": 69,
+      "closedCount": 68,
       "totalCount": 76,
       "tickets": [
         {
@@ -9170,7 +9227,7 @@
           "id": "45842000130756718",
           "number": "357835",
           "subject": "Desactivar Last Shop",
-          "status": "Closed",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-09-21T19:52:28Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130756718",
@@ -9825,6 +9882,16 @@
           "createdTime": "2026-08-28T15:27:32Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129439120",
           "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000129345955",
+          "number": "352827",
+          "subject": "Hola buen día, una consulta, en mi paquete si tengo disponible la página web ?",
+          "status": "Closed",
+          "channel": "Last.app México",
+          "createdTime": "2026-08-27T19:28:14Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129345955",
+          "assignee": "Dimitriz Rodriguez"
         }
       ],
       "inMasterList": true
@@ -12631,11 +12698,21 @@
     },
     {
       "classification": "QRs",
-      "openCount": 0,
+      "openCount": 1,
       "onHoldCount": 2,
       "closedCount": 18,
-      "totalCount": 20,
+      "totalCount": 21,
       "tickets": [
+        {
+          "id": "45842000130869616",
+          "number": "358319",
+          "subject": "Buenos dias",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-24T03:46:46Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130869616",
+          "assignee": "Jordy Carmona"
+        },
         {
           "id": "45842000130781364",
           "number": "358058",
