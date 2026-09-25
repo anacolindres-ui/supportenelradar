@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-25T00:47:56.649923+00:00",
-  "totalOpenTickets": 111,
+  "lastUpdated": "2026-09-25T01:28:21.929892+00:00",
+  "totalOpenTickets": 112,
   "totalClosedTickets": 3328,
   "closedWindowDays": 30,
   "byLocation": [
@@ -80,6 +80,18 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000130953795",
+      "number": "358509",
+      "subject": "No hemos podido renovar tu suscripción a Prime",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-09-25T01:16:45Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130953795",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000130953500",
       "number": "358496",
@@ -1749,18 +1761,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000130816106",
-      "number": "357917",
-      "subject": "Canceled event: Check Semana! @ Weekly from 10am to 10:45am on Friday from Fri Feb 20 to Thu Mar 5 (CET) (ingrid.monserrat@last.app)",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-22T09:50:29Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130816106",
-      "assignee": "Brayan Ricardo Fuentes Herrera",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000130817336",
       "number": "357918",
       "subject": "Canceled event: Check Semana! @ Weekly from 10am to 10:45am on Friday (CEST) (ingrid.monserrat@last.app)",
@@ -1771,6 +1771,18 @@
       "assignee": "Angie Oliveros",
       "accountName": "",
       "locationId": "1234"
+    },
+    {
+      "id": "45842000130816106",
+      "number": "357917",
+      "subject": "Canceled event: Check Semana! @ Weekly from 10am to 10:45am on Friday from Fri Feb 20 to Thu Mar 5 (CET) (ingrid.monserrat@last.app)",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-22T09:50:29Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130816106",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "",
+      "locationId": ""
     },
     {
       "id": "45842000130784831",
@@ -1869,18 +1881,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000130784285",
-      "number": "357883",
-      "subject": "Synced invitation: Check Semana! @ Fri Sep 4, 2026 10am - 10:45am (CEST) (ingrid.monserrat@last.app)",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-22T08:07:14Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130784285",
-      "assignee": "",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000130772170",
       "number": "357881",
       "subject": "Synced invitation: Check Semana! @ Fri Sep 11, 2026 10am - 10:45am (CEST) (ingrid.monserrat@last.app)",
@@ -1888,6 +1888,18 @@
       "channel": "Email",
       "createdTime": "2026-09-22T08:07:14Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130772170",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130784285",
+      "number": "357883",
+      "subject": "Synced invitation: Check Semana! @ Fri Sep 4, 2026 10am - 10:45am (CEST) (ingrid.monserrat@last.app)",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-22T08:07:14Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130784285",
       "assignee": "",
       "accountName": "",
       "locationId": ""
@@ -2467,21 +2479,9 @@
       "assignee": "Dimitriz Rodriguez",
       "accountName": "",
       "locationId": "1234"
-    },
-    {
-      "id": "45842000130725001",
-      "number": "357722",
-      "subject": "Request Received",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-21T12:16:00Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130725001",
-      "assignee": "Dimitriz Rodriguez",
-      "accountName": "",
-      "locationId": "1234"
     }
   ],
-  "locationIdIssuesTotal": 1357,
+  "locationIdIssuesTotal": 1358,
   "byContact": [
     {
       "contactId": "45842000068856742",
@@ -3379,11 +3379,21 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 19,
+      "openCount": 20,
       "onHoldCount": 0,
       "closedCount": 631,
-      "totalCount": 650,
+      "totalCount": 651,
       "tickets": [
+        {
+          "id": "45842000130953795",
+          "number": "358509",
+          "subject": "No hemos podido renovar tu suscripción a Prime",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-25T01:16:45Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130953795",
+          "assignee": ""
+        },
         {
           "id": "45842000130942821",
           "number": "358494",
@@ -3765,16 +3775,6 @@
           "assignee": "Brayan Ricardo Fuentes Herrera"
         },
         {
-          "id": "45842000130879654",
-          "number": "358183",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-23T12:06:51Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130879654",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
           "id": "45842000130918043",
           "number": "358182",
           "subject": "Help us improve",
@@ -3782,6 +3782,16 @@
           "channel": "Email",
           "createdTime": "2026-09-23T12:06:51Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130918043",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000130879654",
+          "number": "358183",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-23T12:06:51Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130879654",
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
@@ -4545,16 +4555,6 @@
           "assignee": "Angie Oliveros"
         },
         {
-          "id": "45842000130727171",
-          "number": "357823",
-          "subject": "Llamada entrante de +34620841400 ( RUBEN FRANCISCO VAQUER ALEPUZ) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-21T18:14:26Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130727171",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
           "id": "45842000130739323",
           "number": "357824",
           "subject": "Llamada entrante (00:13:07) de +34620841400 ( RUBEN FRANCISCO VAQUER ALEPUZ) a +34937377821 (Soporte)",
@@ -4563,6 +4563,16 @@
           "createdTime": "2026-09-21T18:14:26Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130739323",
           "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000130727171",
+          "number": "357823",
+          "subject": "Llamada entrante de +34620841400 ( RUBEN FRANCISCO VAQUER ALEPUZ) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-09-21T18:14:26Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130727171",
+          "assignee": "Dimitriz Rodriguez"
         },
         {
           "id": "45842000130700076",
