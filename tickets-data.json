@@ -1,46 +1,9 @@
 {
-  "lastUpdated": "2026-09-25T14:20:09.542749+00:00",
-  "totalOpenTickets": 66,
-  "totalClosedTickets": 3411,
+  "lastUpdated": "2026-09-25T15:19:20.624756+00:00",
+  "totalOpenTickets": 70,
+  "totalClosedTickets": 3415,
   "closedWindowDays": 30,
   "byLocation": [
-    {
-      "accountId": "45842000038971788",
-      "accountName": "street grills",
-      "ticketCount": 3,
-      "tickets": [
-        {
-          "id": "45842000130979118",
-          "number": "358601",
-          "subject": "Llamada saliente (00:07:54) de +34937377821 (Soporte) a +34633485476 ( Street Grill)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-09-25T13:45:28Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130979118",
-          "assignee": "Fernando Poza"
-        },
-        {
-          "id": "45842000130948966",
-          "number": "358591",
-          "subject": "2354339221768561.jpeg",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-25T12:17:02Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130948966",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000130906931",
-          "number": "358473",
-          "subject": "Street Grills El Cañaveral / Pedidos tomados por Delitbee en las ordenes de Just Eat",
-          "status": "On Hold",
-          "channel": "Phone",
-          "createdTime": "2026-09-24T18:36:47Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130906931",
-          "assignee": "Fernando Poza"
-        }
-      ]
-    },
     {
       "accountId": "45842000014378179",
       "accountName": "LA FELI",
@@ -60,7 +23,7 @@
           "id": "45842000130506473",
           "number": "357578",
           "subject": "La Feli // Problemas pedidos - Pedidos programados ",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Email",
           "createdTime": "2026-09-20T20:15:34Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130506473",
@@ -69,28 +32,28 @@
       ]
     },
     {
-      "accountId": "45842000126390444",
-      "accountName": "Lemongrass Torrente",
+      "accountId": "45842000038971788",
+      "accountName": "street grills",
       "ticketCount": 2,
       "tickets": [
         {
-          "id": "45842000130951623",
-          "number": "358610",
-          "subject": "Hola buenas",
+          "id": "45842000130995043",
+          "number": "358626",
+          "subject": "Llamada saliente de +34937377821 (Soporte) a +34633485476 ( Street Grill)",
           "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-25T14:17:27Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130951623",
-          "assignee": "Harold Diaz"
+          "channel": "Phone",
+          "createdTime": "2026-09-25T15:19:19Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130995043",
+          "assignee": "Trinidad Larrain Punti"
         },
         {
-          "id": "45842000130760157",
-          "number": "357810",
-          "subject": "informes lemongrass",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-09-21T16:48:47Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130760157",
+          "id": "45842000130906931",
+          "number": "358473",
+          "subject": "Street Grills El Cañaveral / Pedidos tomados por Delitbee en las ordenes de Just Eat",
+          "status": "On Hold",
+          "channel": "Phone",
+          "createdTime": "2026-09-24T18:36:47Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130906931",
           "assignee": "Fernando Poza"
         }
       ]
@@ -98,24 +61,84 @@
   ],
   "locationIdIssues": [
     {
-      "id": "45842000130951623",
-      "number": "358610",
-      "subject": "Hola buenas",
+      "id": "45842000130995043",
+      "number": "358626",
+      "subject": "Llamada saliente de +34937377821 (Soporte) a +34633485476 ( Street Grill)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-09-25T15:19:19Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130995043",
+      "assignee": "Trinidad Larrain Punti",
+      "accountName": "street grills",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130961223",
+      "number": "358625",
+      "subject": "Llamada saliente (00:00:08) de +525597219950 (Mexico) a +523221462620 ( Matt Wiebe)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-09-25T15:19:02Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130961223",
+      "assignee": "Raimundo Garcia",
+      "accountName": "Nada Sagrada Bar y NY Pizza",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130990207",
+      "number": "358620",
+      "subject": "Hola! Hay alguna opción de poner que en el ticket se cobre siempre 0,10€ por la bolsa de plástico?",
       "status": "Open",
       "channel": "Last.app España",
-      "createdTime": "2026-09-25T14:17:27Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130951623",
+      "createdTime": "2026-09-25T14:59:28Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130990207",
       "assignee": "Harold Diaz",
-      "accountName": "Lemongrass Torrente",
+      "accountName": "Rostisseria Rubí",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130996247",
+      "number": "358618",
+      "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
+      "status": "On Hold",
+      "channel": "Email",
+      "createdTime": "2026-09-25T14:53:32Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130996247",
+      "assignee": "Javier Landaeta",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130960988",
+      "number": "358617",
+      "subject": "Your invoice: (2201028092)",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-09-25T14:52:40Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130960988",
+      "assignee": "Trinidad Larrain Punti",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130960915",
+      "number": "358613",
+      "subject": "Request Received",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-25T14:39:08Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130960915",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "",
       "locationId": ""
     },
     {
       "id": "45842000130890832",
       "number": "358603",
-      "subject": "Llamada entrante de +34699895096 ( Anna Ferrer) a +34937377821 (Soporte)",
+      "subject": "Llamada entrante (00:42:20) de +34699895096 ( Anna Ferrer) a +34937377821 (Soporte)",
       "status": "Open",
       "channel": "Phone",
-      "createdTime": "2026-09-25T13:51:51Z",
+      "createdTime": "2026-09-25T13:51:52Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130890832",
       "assignee": "Brayan Ricardo Fuentes Herrera",
       "accountName": "RAMS BCN77",
@@ -137,7 +160,7 @@
       "id": "45842000130979118",
       "number": "358601",
       "subject": "Llamada saliente (00:07:54) de +34937377821 (Soporte) a +34633485476 ( Street Grill)",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Phone",
       "createdTime": "2026-09-25T13:45:28Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130979118",
@@ -257,7 +280,7 @@
       "id": "45842000130972571",
       "number": "358542",
       "subject": "Street Grills + Delitbee: Peticiones rider para pedidos de Just-Eat",
-      "status": "Open",
+      "status": "On Hold",
       "channel": "Email",
       "createdTime": "2026-09-25T08:52:10Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130972571",
@@ -1790,18 +1813,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000130816106",
-      "number": "357917",
-      "subject": "Canceled event: Check Semana! @ Weekly from 10am to 10:45am on Friday from Fri Feb 20 to Thu Mar 5 (CET) (ingrid.monserrat@last.app)",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-22T09:50:29Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130816106",
-      "assignee": "Brayan Ricardo Fuentes Herrera",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000130817336",
       "number": "357918",
       "subject": "Canceled event: Check Semana! @ Weekly from 10am to 10:45am on Friday (CEST) (ingrid.monserrat@last.app)",
@@ -1812,6 +1823,18 @@
       "assignee": "Angie Oliveros",
       "accountName": "",
       "locationId": "1234"
+    },
+    {
+      "id": "45842000130816106",
+      "number": "357917",
+      "subject": "Canceled event: Check Semana! @ Weekly from 10am to 10:45am on Friday from Fri Feb 20 to Thu Mar 5 (CET) (ingrid.monserrat@last.app)",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-22T09:50:29Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130816106",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "",
+      "locationId": ""
     },
     {
       "id": "45842000130784831",
@@ -1910,18 +1933,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000130772168",
-      "number": "357882",
-      "subject": "Synced invitation: Check Semana! @ Fri Sep 18, 2026 10am - 10:45am (CEST) (ingrid.monserrat@last.app)",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-22T08:07:14Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130772168",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": "1234"
-    },
-    {
       "id": "45842000130784285",
       "number": "357883",
       "subject": "Synced invitation: Check Semana! @ Fri Sep 4, 2026 10am - 10:45am (CEST) (ingrid.monserrat@last.app)",
@@ -1944,6 +1955,18 @@
       "assignee": "",
       "accountName": "",
       "locationId": ""
+    },
+    {
+      "id": "45842000130772168",
+      "number": "357882",
+      "subject": "Synced invitation: Check Semana! @ Fri Sep 18, 2026 10am - 10:45am (CEST) (ingrid.monserrat@last.app)",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-22T08:07:14Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130772168",
+      "assignee": "Angie Oliveros",
+      "accountName": "",
+      "locationId": "1234"
     },
     {
       "id": "45842000130817009",
@@ -2436,108 +2459,10 @@
       "assignee": "Dimitriz Rodriguez",
       "accountName": "",
       "locationId": "1234"
-    },
-    {
-      "id": "45842000130697190",
-      "number": "357729",
-      "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-21T12:22:22Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130697190",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": "1234"
-    },
-    {
-      "id": "45842000130697097",
-      "number": "357728",
-      "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-21T12:19:51Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130697097",
-      "assignee": "Dimitriz Rodriguez",
-      "accountName": "",
-      "locationId": "1234"
-    },
-    {
-      "id": "45842000130708032",
-      "number": "357727",
-      "subject": "Toca entonces desde el PC?",
-      "status": "Closed",
-      "channel": "Last.app España",
-      "createdTime": "2026-09-21T12:19:47Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130708032",
-      "assignee": "Brayan Ricardo Fuentes Herrera",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000130719097",
-      "number": "357726",
-      "subject": "GLOVO-LASTAPP (In... - @support@last.app",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-21T12:19:46Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130719097",
-      "assignee": "Dimitriz Rodriguez",
-      "accountName": "",
-      "locationId": "1234"
-    },
-    {
-      "id": "45842000130697018",
-      "number": "357724",
-      "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-21T12:18:56Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130697018",
-      "assignee": "Dimitriz Rodriguez",
-      "accountName": "",
-      "locationId": "1234"
     }
   ],
-  "locationIdIssuesTotal": 1356,
+  "locationIdIssuesTotal": 1361,
   "byContact": [
-    {
-      "contactId": "45842000039016756",
-      "contactName": "Street Grill",
-      "email": "streetgrillmadrid@gmail.com",
-      "ticketCount": 3,
-      "tickets": [
-        {
-          "id": "45842000130979118",
-          "number": "358601",
-          "subject": "Llamada saliente (00:07:54) de +34937377821 (Soporte) a +34633485476 ( Street Grill)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-09-25T13:45:28Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130979118",
-          "assignee": "Fernando Poza"
-        },
-        {
-          "id": "45842000130948966",
-          "number": "358591",
-          "subject": "2354339221768561.jpeg",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-25T12:17:02Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130948966",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000130906931",
-          "number": "358473",
-          "subject": "Street Grills El Cañaveral / Pedidos tomados por Delitbee en las ordenes de Just Eat",
-          "status": "On Hold",
-          "channel": "Phone",
-          "createdTime": "2026-09-24T18:36:47Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130906931",
-          "assignee": "Fernando Poza"
-        }
-      ]
-    },
     {
       "contactId": "45842000069893143",
       "contactName": "Jessica Del Vecchio",
@@ -2558,7 +2483,7 @@
           "id": "45842000130972571",
           "number": "358542",
           "subject": "Street Grills + Delitbee: Peticiones rider para pedidos de Just-Eat",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Email",
           "createdTime": "2026-09-25T08:52:10Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130972571",
@@ -2614,10 +2539,38 @@
           "id": "45842000130506473",
           "number": "357578",
           "subject": "La Feli // Problemas pedidos - Pedidos programados ",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Email",
           "createdTime": "2026-09-20T20:15:34Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130506473",
+          "assignee": "Fernando Poza"
+        }
+      ]
+    },
+    {
+      "contactId": "45842000039016756",
+      "contactName": "Street Grill",
+      "email": "streetgrillmadrid@gmail.com",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000130995043",
+          "number": "358626",
+          "subject": "Llamada saliente de +34937377821 (Soporte) a +34633485476 ( Street Grill)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-25T15:19:19Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130995043",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000130906931",
+          "number": "358473",
+          "subject": "Street Grills El Cañaveral / Pedidos tomados por Delitbee en las ordenes de Just Eat",
+          "status": "On Hold",
+          "channel": "Phone",
+          "createdTime": "2026-09-24T18:36:47Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130906931",
           "assignee": "Fernando Poza"
         }
       ]
@@ -2626,8 +2579,8 @@
   "byClassification": [
     {
       "classification": "Admin :: General",
-      "openCount": 1,
-      "onHoldCount": 3,
+      "openCount": 0,
+      "onHoldCount": 4,
       "closedCount": 772,
       "totalCount": 776,
       "tickets": [
@@ -3245,7 +3198,7 @@
           "id": "45842000130277747",
           "number": "356687",
           "subject": "Código De Ticket en la comanda.",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Email",
           "createdTime": "2026-09-15T19:50:05Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130277747",
@@ -3276,20 +3229,60 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 8,
+      "openCount": 9,
       "onHoldCount": 0,
-      "closedCount": 637,
-      "totalCount": 645,
+      "closedCount": 639,
+      "totalCount": 648,
       "tickets": [
         {
-          "id": "45842000130951623",
-          "number": "358610",
-          "subject": "Hola buenas",
+          "id": "45842000130995043",
+          "number": "358626",
+          "subject": "Llamada saliente de +34937377821 (Soporte) a +34633485476 ( Street Grill)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-25T15:19:19Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130995043",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000130961223",
+          "number": "358625",
+          "subject": "Llamada saliente (00:00:08) de +525597219950 (Mexico) a +523221462620 ( Matt Wiebe)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-25T15:19:02Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130961223",
+          "assignee": "Raimundo Garcia"
+        },
+        {
+          "id": "45842000130990207",
+          "number": "358620",
+          "subject": "Hola! Hay alguna opción de poner que en el ticket se cobre siempre 0,10€ por la bolsa de plástico?",
           "status": "Open",
           "channel": "Last.app España",
-          "createdTime": "2026-09-25T14:17:27Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130951623",
+          "createdTime": "2026-09-25T14:59:28Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130990207",
           "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000130960988",
+          "number": "358617",
+          "subject": "Your invoice: (2201028092)",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-25T14:52:40Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130960988",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000130960915",
+          "number": "358613",
+          "subject": "Request Received",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-25T14:39:08Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130960915",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
         },
         {
           "id": "45842000130987108",
@@ -3305,7 +3298,7 @@
           "id": "45842000130979118",
           "number": "358601",
           "subject": "Llamada saliente (00:07:54) de +34937377821 (Soporte) a +34633485476 ( Street Grill)",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Phone",
           "createdTime": "2026-09-25T13:45:28Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130979118",
@@ -3360,16 +3353,6 @@
           "createdTime": "2026-09-25T08:52:14Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130972633",
           "assignee": "Trinidad Larrain Punti"
-        },
-        {
-          "id": "45842000130972571",
-          "number": "358542",
-          "subject": "Street Grills + Delitbee: Peticiones rider para pedidos de Just-Eat",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-09-25T08:52:10Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130972571",
-          "assignee": "Javier Landaeta"
         },
         {
           "id": "45842000130953795",
@@ -3912,16 +3895,6 @@
           "assignee": "Fernando Poza"
         },
         {
-          "id": "45842000130784285",
-          "number": "357883",
-          "subject": "Synced invitation: Check Semana! @ Fri Sep 4, 2026 10am - 10:45am (CEST) (ingrid.monserrat@last.app)",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-22T08:07:14Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130784285",
-          "assignee": ""
-        },
-        {
           "id": "45842000130772170",
           "number": "357881",
           "subject": "Synced invitation: Check Semana! @ Fri Sep 11, 2026 10am - 10:45am (CEST) (ingrid.monserrat@last.app)",
@@ -3932,24 +3905,14 @@
           "assignee": ""
         },
         {
-          "id": "45842000130784056",
-          "number": "357874",
-          "subject": "Nueva solicitud | Elsa",
+          "id": "45842000130784285",
+          "number": "357883",
+          "subject": "Synced invitation: Check Semana! @ Fri Sep 4, 2026 10am - 10:45am (CEST) (ingrid.monserrat@last.app)",
           "status": "Closed",
           "channel": "Email",
-          "createdTime": "2026-09-22T07:58:13Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130784056",
-          "assignee": "Angie Oliveros"
-        },
-        {
-          "id": "45842000130794002",
-          "number": "357873",
-          "subject": "Llamada saliente (00:00:17) de +34937377821 (Soporte) a +34633461165 ( matias)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-22T07:54:28Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130794002",
-          "assignee": "Raimundo Garcia"
+          "createdTime": "2026-09-22T08:07:14Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130784285",
+          "assignee": ""
         },
         {
           "id": "45842000130760157",
@@ -3984,10 +3947,10 @@
         {
           "id": "45842000130890832",
           "number": "358603",
-          "subject": "Llamada entrante de +34699895096 ( Anna Ferrer) a +34937377821 (Soporte)",
+          "subject": "Llamada entrante (00:42:20) de +34699895096 ( Anna Ferrer) a +34937377821 (Soporte)",
           "status": "Open",
           "channel": "Phone",
-          "createdTime": "2026-09-25T13:51:51Z",
+          "createdTime": "2026-09-25T13:51:52Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130890832",
           "assignee": "Brayan Ricardo Fuentes Herrera"
         },
@@ -4587,10 +4550,20 @@
     {
       "classification": "Integration Process",
       "openCount": 3,
-      "onHoldCount": 17,
-      "closedCount": 239,
-      "totalCount": 259,
+      "onHoldCount": 19,
+      "closedCount": 238,
+      "totalCount": 260,
       "tickets": [
+        {
+          "id": "45842000130996247",
+          "number": "358618",
+          "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
+          "status": "On Hold",
+          "channel": "Email",
+          "createdTime": "2026-09-25T14:53:32Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130996247",
+          "assignee": "Javier Landaeta"
+        },
         {
           "id": "45842000130973392",
           "number": "358573",
@@ -4755,7 +4728,7 @@
           "id": "45842000130925733",
           "number": "358314",
           "subject": "Uber Case# 60310706-LastApp - uber integration request",
-          "status": "Closed",
+          "status": "On Hold",
           "channel": "Email",
           "createdTime": "2026-09-24T03:10:12Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130925733",
@@ -5390,6 +5363,16 @@
           "createdTime": "2026-09-17T16:40:21Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130398918",
           "assignee": "Javier Landaeta"
+        },
+        {
+          "id": "45842000130396542",
+          "number": "357088",
+          "subject": "LastApp - glovo integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-17T16:03:50Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130396542",
+          "assignee": "Trinidad Larrain Punti"
         }
       ],
       "inMasterList": false
@@ -6026,11 +6009,21 @@
     },
     {
       "classification": "Integraciones",
-      "openCount": 0,
+      "openCount": 1,
       "onHoldCount": 4,
       "closedCount": 182,
-      "totalCount": 186,
+      "totalCount": 187,
       "tickets": [
+        {
+          "id": "45842000130904938",
+          "number": "358568",
+          "subject": "Gazteka Bernabeu // Pedido de JE no se vio reflejadoo en el POS",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-25T10:28:57Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130904938",
+          "assignee": "Trinidad Larrain Punti"
+        },
         {
           "id": "45842000130962015",
           "number": "358471",
@@ -7287,9 +7280,9 @@
     {
       "classification": "Admin :: Integraciones",
       "openCount": 1,
-      "onHoldCount": 3,
+      "onHoldCount": 4,
       "closedCount": 127,
-      "totalCount": 131,
+      "totalCount": 132,
       "tickets": [
         {
           "id": "45842000130960457",
@@ -7299,6 +7292,16 @@
           "channel": "Email",
           "createdTime": "2026-09-25T10:31:03Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130960457",
+          "assignee": "Javier Landaeta"
+        },
+        {
+          "id": "45842000130972571",
+          "number": "358542",
+          "subject": "Street Grills + Delitbee: Peticiones rider para pedidos de Just-Eat",
+          "status": "On Hold",
+          "channel": "Email",
+          "createdTime": "2026-09-25T08:52:10Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130972571",
           "assignee": "Javier Landaeta"
         },
         {
@@ -7938,9 +7941,19 @@
       "classification": "Admin :: Reportes",
       "openCount": 0,
       "onHoldCount": 8,
-      "closedCount": 108,
-      "totalCount": 116,
+      "closedCount": 109,
+      "totalCount": 117,
       "tickets": [
+        {
+          "id": "45842000130988226",
+          "number": "358611",
+          "subject": "Ya eliminé las 3 repetidas",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-25T14:25:52Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130988226",
+          "assignee": "Dimitriz Rodriguez"
+        },
         {
           "id": "45842000130962945",
           "number": "358580",
@@ -8610,32 +8623,22 @@
           "createdTime": "2026-09-04T15:58:16Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129750979",
           "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000129779073",
-          "number": "354455",
-          "subject": "Llamada entrante (00:03:07) de +34688716052 ( Valentin) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-04T13:21:02Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129779073",
-          "assignee": "Harold Diaz"
         }
       ],
       "inMasterList": true
     },
     {
       "classification": "POS :: uso general",
-      "openCount": 1,
+      "openCount": 0,
       "onHoldCount": 0,
-      "closedCount": 91,
+      "closedCount": 92,
       "totalCount": 92,
       "tickets": [
         {
           "id": "45842000130948966",
           "number": "358591",
           "subject": "2354339221768561.jpeg",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Last.app España",
           "createdTime": "2026-09-25T12:17:02Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130948966",
@@ -9230,24 +9233,14 @@
           "createdTime": "2026-09-04T13:51:15Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129760255",
           "assignee": "Javier Landaeta"
-        },
-        {
-          "id": "45842000129776128",
-          "number": "354453",
-          "subject": "Llamada saliente (00:01:07) de +34937377821 (Soporte) a +34672618564 ( +34672618564)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-04T12:56:07Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129776128",
-          "assignee": "Alberto Poyato"
         }
       ],
       "inMasterList": true
     },
     {
       "classification": "LastSHOP",
-      "openCount": 1,
-      "onHoldCount": 3,
+      "openCount": 0,
+      "onHoldCount": 4,
       "closedCount": 84,
       "totalCount": 88,
       "tickets": [
@@ -9405,7 +9398,7 @@
           "id": "45842000130506473",
           "number": "357578",
           "subject": "La Feli // Problemas pedidos - Pedidos programados ",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Email",
           "createdTime": "2026-09-20T20:15:34Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130506473",
@@ -10508,9 +10501,19 @@
       "classification": "Admin :: Catálogos",
       "openCount": 0,
       "onHoldCount": 1,
-      "closedCount": 64,
-      "totalCount": 65,
+      "closedCount": 65,
+      "totalCount": 66,
       "tickets": [
+        {
+          "id": "45842000130951623",
+          "number": "358610",
+          "subject": "Hola buenas",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-25T14:17:27Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130951623",
+          "assignee": "Harold Diaz"
+        },
         {
           "id": "45842000130942542",
           "number": "358469",
@@ -11110,16 +11113,6 @@
           "createdTime": "2026-08-28T13:41:51Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129424545",
           "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000129451009",
-          "number": "352921",
-          "subject": "Llamada entrante (00:03:17) de +34679889934 ( Juan Carlos) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-08-28T09:20:36Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129451009",
-          "assignee": "Harold Diaz"
         }
       ],
       "inMasterList": true
