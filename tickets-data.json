@@ -1,22 +1,10 @@
 {
-  "lastUpdated": "2026-09-26T16:18:54.396377+00:00",
-  "totalOpenTickets": 72,
-  "totalClosedTickets": 3325,
+  "lastUpdated": "2026-09-26T17:14:45.541594+00:00",
+  "totalOpenTickets": 71,
+  "totalClosedTickets": 3326,
   "closedWindowDays": 30,
   "byLocation": [],
   "locationIdIssues": [
-    {
-      "id": "45842000130976960",
-      "number": "358745",
-      "subject": "Hola!",
-      "status": "Open",
-      "channel": "Last.app España",
-      "createdTime": "2026-09-26T16:06:37Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130976960",
-      "assignee": "Johan Manuel Cortissoz Posada",
-      "accountName": "Devoto Burger",
-      "locationId": ""
-    },
     {
       "id": "45842000131021140",
       "number": "358743",
@@ -1278,18 +1266,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000130918043",
-      "number": "358182",
-      "subject": "Help us improve",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-23T12:06:51Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130918043",
-      "assignee": "Johan Manuel Cortissoz Posada",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000130879654",
       "number": "358183",
       "subject": "Help us improve",
@@ -1297,6 +1273,18 @@
       "channel": "Email",
       "createdTime": "2026-09-23T12:06:51Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130879654",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130918043",
+      "number": "358182",
+      "subject": "Help us improve",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-23T12:06:51Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130918043",
       "assignee": "Johan Manuel Cortissoz Posada",
       "accountName": "",
       "locationId": ""
@@ -2250,18 +2238,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000130739323",
-      "number": "357824",
-      "subject": "Llamada entrante (00:13:07) de +34620841400 ( RUBEN FRANCISCO VAQUER ALEPUZ) a +34937377821 (Soporte)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-09-21T18:14:26Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130739323",
-      "assignee": "Jordy Carmona",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000130727171",
       "number": "357823",
       "subject": "Llamada entrante de +34620841400 ( RUBEN FRANCISCO VAQUER ALEPUZ) a +34937377821 (Soporte)",
@@ -2272,6 +2248,18 @@
       "assignee": "Dimitriz Rodriguez",
       "accountName": "",
       "locationId": "1234"
+    },
+    {
+      "id": "45842000130739323",
+      "number": "357824",
+      "subject": "Llamada entrante (00:13:07) de +34620841400 ( RUBEN FRANCISCO VAQUER ALEPUZ) a +34937377821 (Soporte)",
+      "status": "Closed",
+      "channel": "Phone",
+      "createdTime": "2026-09-21T18:14:26Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130739323",
+      "assignee": "Jordy Carmona",
+      "accountName": "",
+      "locationId": ""
     },
     {
       "id": "45842000130756482",
@@ -2404,9 +2392,21 @@
       "assignee": "Johan Manuel Cortissoz Posada",
       "accountName": "LAST CX",
       "locationId": ""
+    },
+    {
+      "id": "45842000130709516",
+      "number": "357771",
+      "subject": "[Security Report] Vulnerability Found – Responsible Disclosure",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-21T13:49:33Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130709516",
+      "assignee": "Dimitriz Rodriguez",
+      "accountName": "",
+      "locationId": "1234"
     }
   ],
-  "locationIdIssuesTotal": 1321,
+  "locationIdIssuesTotal": 1320,
   "byContact": [
     {
       "contactId": "45842000069893143",
@@ -3118,21 +3118,11 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 11,
+      "openCount": 10,
       "onHoldCount": 0,
       "closedCount": 622,
-      "totalCount": 633,
+      "totalCount": 632,
       "tickets": [
-        {
-          "id": "45842000130976960",
-          "number": "358745",
-          "subject": "Hola!",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-26T16:06:37Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130976960",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
         {
           "id": "45842000131021140",
           "number": "358743",
@@ -7860,9 +7850,19 @@
       "classification": "Admin :: Reportes",
       "openCount": 0,
       "onHoldCount": 8,
-      "closedCount": 107,
-      "totalCount": 115,
+      "closedCount": 108,
+      "totalCount": 116,
       "tickets": [
+        {
+          "id": "45842000130976960",
+          "number": "358745",
+          "subject": "Hola!",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-26T16:06:37Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130976960",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000130992513",
           "number": "358739",
@@ -8522,16 +8522,6 @@
           "createdTime": "2026-09-05T22:02:46Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129827214",
           "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000129816185",
-          "number": "354713",
-          "subject": "Hola Buenas tardes",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-05T16:55:25Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129816185",
-          "assignee": "Dimitriz Rodriguez"
         },
         {
           "id": "45842000129774304",
