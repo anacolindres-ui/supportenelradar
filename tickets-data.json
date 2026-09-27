@@ -1,33 +1,85 @@
 {
-  "lastUpdated": "2026-09-27T18:21:15.217969+00:00",
+  "lastUpdated": "2026-09-27T19:14:21.334021+00:00",
   "totalOpenTickets": 72,
-  "totalClosedTickets": 3235,
+  "totalClosedTickets": 3239,
   "closedWindowDays": 30,
-  "byLocation": [],
+  "byLocation": [
+    {
+      "accountId": "45842000118815861",
+      "accountName": "BILL BURGER",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000130961807",
+          "number": "358832",
+          "subject": "Bill Burger // Cierre temporal de integraciones no funciona",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-27T18:59:05Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130961807",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000131028179",
+          "number": "358831",
+          "subject": "Llamada entrante (00:05:53) de +34622639245 ( Jorge) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-27T18:42:08Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131028179",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        }
+      ]
+    }
+  ],
   "locationIdIssues": [
     {
-      "id": "45842000131036026",
-      "number": "358829",
-      "subject": "Detalles de tu pedido",
+      "id": "45842000131016498",
+      "number": "358834",
+      "subject": "Fisch Pauli bei SocialImpactMap eintragen",
       "status": "Open",
       "channel": "Email",
-      "createdTime": "2026-09-27T17:59:24Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131036026",
-      "assignee": "",
+      "createdTime": "2026-09-27T19:13:28Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131016498",
+      "assignee": "Johan Manuel Cortissoz Posada",
       "accountName": "",
       "locationId": ""
     },
     {
-      "id": "45842000131019777",
-      "number": "358827",
-      "subject": "Hola, estoy igual que al mediodía",
+      "id": "45842000131036105",
+      "number": "358833",
+      "subject": "Solicitud de llamada de Soporte - Del mar express",
       "status": "Open",
-      "channel": "Last.app España",
-      "createdTime": "2026-09-27T17:50:31Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131019777",
+      "channel": "Email",
+      "createdTime": "2026-09-27T19:03:18Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131036105",
       "assignee": "Johan Manuel Cortissoz Posada",
-      "accountName": "SUSHIMORE OVIEDO",
+      "accountName": "",
       "locationId": ""
+    },
+    {
+      "id": "45842000131028179",
+      "number": "358831",
+      "subject": "Llamada entrante (00:05:53) de +34622639245 ( Jorge) a +34937377821 (Soporte)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-09-27T18:42:08Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131028179",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "BILL BURGER",
+      "locationId": ""
+    },
+    {
+      "id": "45842000131036026",
+      "number": "358829",
+      "subject": "Detalles de tu pedido",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-27T17:59:24Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131036026",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "",
+      "locationId": "1234"
     },
     {
       "id": "45842000131018901",
@@ -76,18 +128,6 @@
       "assignee": "Dimitriz Rodriguez",
       "accountName": "",
       "locationId": "1234"
-    },
-    {
-      "id": "45842000131022340",
-      "number": "358770",
-      "subject": "Buenas n9ches",
-      "status": "Open",
-      "channel": "Last.app México",
-      "createdTime": "2026-09-27T01:43:04Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131022340",
-      "assignee": "Johan Manuel Cortissoz Posada",
-      "accountName": "PANMEX",
-      "locationId": ""
     },
     {
       "id": "45842000130896990",
@@ -2058,18 +2098,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000130816106",
-      "number": "357917",
-      "subject": "Canceled event: Check Semana! @ Weekly from 10am to 10:45am on Friday from Fri Feb 20 to Thu Mar 5 (CET) (ingrid.monserrat@last.app)",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-22T09:50:29Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130816106",
-      "assignee": "Brayan Ricardo Fuentes Herrera",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000130817336",
       "number": "357918",
       "subject": "Canceled event: Check Semana! @ Weekly from 10am to 10:45am on Friday (CEST) (ingrid.monserrat@last.app)",
@@ -2080,6 +2108,18 @@
       "assignee": "Angie Oliveros",
       "accountName": "",
       "locationId": "1234"
+    },
+    {
+      "id": "45842000130816106",
+      "number": "357917",
+      "subject": "Canceled event: Check Semana! @ Weekly from 10am to 10:45am on Friday from Fri Feb 20 to Thu Mar 5 (CET) (ingrid.monserrat@last.app)",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-22T09:50:29Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130816106",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "",
+      "locationId": ""
     },
     {
       "id": "45842000130784831",
@@ -2178,13 +2218,13 @@
       "locationId": ""
     },
     {
-      "id": "45842000130772170",
-      "number": "357881",
-      "subject": "Synced invitation: Check Semana! @ Fri Sep 11, 2026 10am - 10:45am (CEST) (ingrid.monserrat@last.app)",
+      "id": "45842000130784285",
+      "number": "357883",
+      "subject": "Synced invitation: Check Semana! @ Fri Sep 4, 2026 10am - 10:45am (CEST) (ingrid.monserrat@last.app)",
       "status": "Closed",
       "channel": "Email",
       "createdTime": "2026-09-22T08:07:14Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130772170",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130784285",
       "assignee": "",
       "accountName": "",
       "locationId": ""
@@ -2202,13 +2242,13 @@
       "locationId": "1234"
     },
     {
-      "id": "45842000130784285",
-      "number": "357883",
-      "subject": "Synced invitation: Check Semana! @ Fri Sep 4, 2026 10am - 10:45am (CEST) (ingrid.monserrat@last.app)",
+      "id": "45842000130772170",
+      "number": "357881",
+      "subject": "Synced invitation: Check Semana! @ Fri Sep 11, 2026 10am - 10:45am (CEST) (ingrid.monserrat@last.app)",
       "status": "Closed",
       "channel": "Email",
       "createdTime": "2026-09-22T08:07:14Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130784285",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130772170",
       "assignee": "",
       "accountName": "",
       "locationId": ""
@@ -2392,21 +2432,9 @@
       "assignee": "Fernando Poza",
       "accountName": "Lemongrass Torrente",
       "locationId": ""
-    },
-    {
-      "id": "45842000130719919",
-      "number": "357809",
-      "subject": " ¡APROVECHA LA OPORTUNIDAD! PRIMER MES AL 50% ",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-21T16:43:19Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130719919",
-      "assignee": "Johan Manuel Cortissoz Posada",
-      "accountName": "",
-      "locationId": "1234"
     }
   ],
-  "locationIdIssuesTotal": 1252,
+  "locationIdIssuesTotal": 1253,
   "byContact": [
     {
       "contactId": "45842000069893143",
@@ -2433,6 +2461,34 @@
           "createdTime": "2026-09-25T08:52:10Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130972571",
           "assignee": "Javier Landaeta"
+        }
+      ]
+    },
+    {
+      "contactId": "45842000118815921",
+      "contactName": "Jorge",
+      "email": "billburgerjs@gmail.com",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000130961807",
+          "number": "358832",
+          "subject": "Bill Burger // Cierre temporal de integraciones no funciona",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-27T18:59:05Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130961807",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000131028179",
+          "number": "358831",
+          "subject": "Llamada entrante (00:05:53) de +34622639245 ( Jorge) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-27T18:42:08Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131028179",
+          "assignee": "Johan Manuel Cortissoz Posada"
         }
       ]
     },
@@ -3118,39 +3174,29 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 10,
+      "openCount": 9,
       "onHoldCount": 0,
       "closedCount": 599,
-      "totalCount": 609,
+      "totalCount": 608,
       "tickets": [
         {
-          "id": "45842000131036026",
-          "number": "358829",
-          "subject": "Detalles de tu pedido",
+          "id": "45842000131016498",
+          "number": "358834",
+          "subject": "Fisch Pauli bei SocialImpactMap eintragen",
           "status": "Open",
           "channel": "Email",
-          "createdTime": "2026-09-27T17:59:24Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131036026",
-          "assignee": ""
-        },
-        {
-          "id": "45842000131019777",
-          "number": "358827",
-          "subject": "Hola, estoy igual que al mediodía",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-27T17:50:31Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131019777",
+          "createdTime": "2026-09-27T19:13:28Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131016498",
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
-          "id": "45842000131022340",
-          "number": "358770",
-          "subject": "Buenas n9ches",
+          "id": "45842000131036105",
+          "number": "358833",
+          "subject": "Solicitud de llamada de Soporte - Del mar express",
           "status": "Open",
-          "channel": "Last.app México",
-          "createdTime": "2026-09-27T01:43:04Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131022340",
+          "channel": "Email",
+          "createdTime": "2026-09-27T19:03:18Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131036105",
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
@@ -3594,16 +3640,6 @@
           "assignee": "Brayan Ricardo Fuentes Herrera"
         },
         {
-          "id": "45842000130918043",
-          "number": "358182",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-23T12:06:51Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130918043",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
           "id": "45842000130879654",
           "number": "358183",
           "subject": "Help us improve",
@@ -3611,6 +3647,16 @@
           "channel": "Email",
           "createdTime": "2026-09-23T12:06:51Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130879654",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000130918043",
+          "number": "358182",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-23T12:06:51Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130918043",
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
@@ -3828,11 +3874,21 @@
     },
     {
       "classification": "Calls",
-      "openCount": 0,
+      "openCount": 1,
       "onHoldCount": 0,
       "closedCount": 366,
-      "totalCount": 366,
+      "totalCount": 367,
       "tickets": [
+        {
+          "id": "45842000131028179",
+          "number": "358831",
+          "subject": "Llamada entrante (00:05:53) de +34622639245 ( Jorge) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-27T18:42:08Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131028179",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000131015132",
           "number": "358828",
@@ -5278,11 +5334,31 @@
     },
     {
       "classification": "Integraciones",
-      "openCount": 1,
+      "openCount": 2,
       "onHoldCount": 4,
-      "closedCount": 187,
-      "totalCount": 192,
+      "closedCount": 189,
+      "totalCount": 195,
       "tickets": [
+        {
+          "id": "45842000130961807",
+          "number": "358832",
+          "subject": "Bill Burger // Cierre temporal de integraciones no funciona",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-27T18:59:05Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130961807",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000131019777",
+          "number": "358827",
+          "subject": "Hola, estoy igual que al mediodía",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-27T17:50:31Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131019777",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000131020329",
           "number": "358819",
@@ -5342,6 +5418,16 @@
           "createdTime": "2026-09-27T11:57:28Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130992694",
           "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000131022340",
+          "number": "358770",
+          "subject": "Buenas n9ches",
+          "status": "Closed",
+          "channel": "Last.app México",
+          "createdTime": "2026-09-27T01:43:04Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131022340",
+          "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
           "id": "45842000130990718",
@@ -5892,26 +5978,6 @@
           "createdTime": "2026-09-15T10:07:30Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130256214",
           "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000130233370",
-          "number": "356538",
-          "subject": "Buenos días",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-15T10:06:37Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130233370",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000130234905",
-          "number": "356514",
-          "subject": "GLOVO-LASTAPP (In... - @support@last.app",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-15T08:48:14Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130234905",
-          "assignee": "Angie Oliveros"
         },
         {
           "id": "45842000130213512",
@@ -8538,16 +8604,16 @@
     },
     {
       "classification": "POS :: uso general",
-      "openCount": 1,
+      "openCount": 0,
       "onHoldCount": 0,
-      "closedCount": 96,
+      "closedCount": 97,
       "totalCount": 97,
       "tickets": [
         {
           "id": "45842000131026482",
           "number": "358824",
           "subject": "hola",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Last.app España",
           "createdTime": "2026-09-27T16:49:22Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131026482",
@@ -9141,16 +9207,6 @@
           "channel": "Last.app España",
           "createdTime": "2026-09-09T14:43:29Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130005556",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000129816706",
-          "number": "354917",
-          "subject": "Hola, te escribo de pizza park Lalín. Estamos cerrados por vacaciones y una clienta hizo un pedido y lo pagó y no se dió cuenta que la fecha que le daba era para el viernes 11. Quisiera saber si podemos hacer el reintegro del dinero",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-06T18:29:05Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129816706",
           "assignee": "Dimitriz Rodriguez"
         }
       ],
@@ -13380,9 +13436,19 @@
       "classification": "SPAM",
       "openCount": 0,
       "onHoldCount": 0,
-      "closedCount": 16,
-      "totalCount": 16,
+      "closedCount": 17,
+      "totalCount": 17,
       "tickets": [
+        {
+          "id": "45842000131036026",
+          "number": "358829",
+          "subject": "Detalles de tu pedido",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-27T17:59:24Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131036026",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000130841553",
           "number": "358077",
