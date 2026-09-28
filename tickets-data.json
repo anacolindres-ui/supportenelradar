@@ -1,10 +1,147 @@
 {
-  "lastUpdated": "2026-09-28T16:22:40.655910+00:00",
-  "totalOpenTickets": 57,
+  "lastUpdated": "2026-09-28T17:17:17.487640+00:00",
+  "totalOpenTickets": 64,
   "totalClosedTickets": 3279,
   "closedWindowDays": 30,
-  "byLocation": [],
+  "byLocation": [
+    {
+      "accountId": "45842000118245167",
+      "accountName": "Caf_B Cabo",
+      "ticketCount": 3,
+      "tickets": [
+        {
+          "id": "45842000131042160",
+          "number": "359001",
+          "subject": "Llamada saliente (00:00:00) de +525597219950 (Mexico) a +525618017707 ( Sara)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-28T17:08:08Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131042160",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000131003637",
+          "number": "359000",
+          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +525618017707 ( Sara)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-28T17:07:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131003637",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000131077084",
+          "number": "358999",
+          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +525618017707 ( Sara)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-28T17:07:19Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131077084",
+          "assignee": "Harold Diaz"
+        }
+      ]
+    },
+    {
+      "accountId": "45842000103558695",
+      "accountName": "DEMO TEST MELI",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000131056897",
+          "number": "359003",
+          "subject": "Invitación actualizada: Comida mar 29 sept 2026 2pm - 3pm (GMT-6) (martin.mora@last.app)",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-28T17:08:56Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131056897",
+          "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000131066609",
+          "number": "358997",
+          "subject": "Invitación actualizada: Comida mar 29 sept 2026 2:15pm - 3:15pm (GMT-6) (martin.mora@last.app)",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-28T17:01:03Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131066609",
+          "assignee": "Harold Diaz"
+        }
+      ]
+    }
+  ],
   "locationIdIssues": [
+    {
+      "id": "45842000131056897",
+      "number": "359003",
+      "subject": "Invitación actualizada: Comida mar 29 sept 2026 2pm - 3pm (GMT-6) (martin.mora@last.app)",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-09-28T17:08:56Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131056897",
+      "assignee": "Jordy Carmona",
+      "accountName": "DEMO TEST MELI",
+      "locationId": ""
+    },
+    {
+      "id": "45842000131067130",
+      "number": "359002",
+      "subject": "Hola! Tengo una pregunta : en el sisitema tengo dos heladerías , con dos sucursales. Quiero agregar un empleado en la heladería nueva para hacer el fichaje y no me deja",
+      "status": "Open",
+      "channel": "Last.app España",
+      "createdTime": "2026-09-28T17:08:21Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131067130",
+      "assignee": "Harold Diaz",
+      "accountName": "tarragona",
+      "locationId": ""
+    },
+    {
+      "id": "45842000131042160",
+      "number": "359001",
+      "subject": "Llamada saliente (00:00:00) de +525597219950 (Mexico) a +525618017707 ( Sara)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-09-28T17:08:08Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131042160",
+      "assignee": "Harold Diaz",
+      "accountName": "Caf_B Cabo",
+      "locationId": ""
+    },
+    {
+      "id": "45842000131003637",
+      "number": "359000",
+      "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +525618017707 ( Sara)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-09-28T17:07:33Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131003637",
+      "assignee": "Harold Diaz",
+      "accountName": "Caf_B Cabo",
+      "locationId": ""
+    },
+    {
+      "id": "45842000131077084",
+      "number": "358999",
+      "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +525618017707 ( Sara)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-09-28T17:07:19Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131077084",
+      "assignee": "Harold Diaz",
+      "accountName": "Caf_B Cabo",
+      "locationId": ""
+    },
+    {
+      "id": "45842000131066609",
+      "number": "358997",
+      "subject": "Invitación actualizada: Comida mar 29 sept 2026 2:15pm - 3:15pm (GMT-6) (martin.mora@last.app)",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-09-28T17:01:03Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131066609",
+      "assignee": "Harold Diaz",
+      "accountName": "DEMO TEST MELI",
+      "locationId": ""
+    },
     {
       "id": "45842000131056772",
       "number": "358993",
@@ -105,7 +242,7 @@
       "id": "45842000131056522",
       "number": "358971",
       "subject": "Re: No carga menus en kiosk",
-      "status": "On Hold",
+      "status": "Open",
       "channel": "Email",
       "createdTime": "2026-09-28T14:40:20Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131056522",
@@ -1794,18 +1931,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000130918043",
-      "number": "358182",
-      "subject": "Help us improve",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-23T12:06:51Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130918043",
-      "assignee": "Johan Manuel Cortissoz Posada",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000130879654",
       "number": "358183",
       "subject": "Help us improve",
@@ -1813,6 +1938,18 @@
       "channel": "Email",
       "createdTime": "2026-09-23T12:06:51Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130879654",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130918043",
+      "number": "358182",
+      "subject": "Help us improve",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-23T12:06:51Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130918043",
       "assignee": "Johan Manuel Cortissoz Posada",
       "accountName": "",
       "locationId": ""
@@ -2332,82 +2469,48 @@
       "assignee": "Angie Oliveros",
       "accountName": "",
       "locationId": "1234"
-    },
-    {
-      "id": "45842000130816708",
-      "number": "357972",
-      "subject": "LastApp - glovo integration request",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-22T11:51:14Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130816708",
-      "assignee": "Javier Landaeta",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000130816461",
-      "number": "357958",
-      "subject": "Sabroson Moncada",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-22T11:31:41Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130816461",
-      "assignee": "Brayan Ricardo Fuentes Herrera",
-      "accountName": "",
-      "locationId": "1234"
-    },
-    {
-      "id": "45842000130831733",
-      "number": "357957",
-      "subject": "Re: Informes",
-      "status": "On Hold",
-      "channel": "Email",
-      "createdTime": "2026-09-22T11:30:47Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130831733",
-      "assignee": "Javier Landaeta",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000130816381",
-      "number": "357952",
-      "subject": "Re: LastApp - uber integration request",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-22T11:20:26Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130816381",
-      "assignee": "Javier Landaeta",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000130786245",
-      "number": "357947",
-      "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34617467901 ( Grego)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-09-22T11:10:54Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130786245",
-      "assignee": "Brayan Ricardo Fuentes Herrera",
-      "accountName": "EAT MY TRIP",
-      "locationId": "1234"
-    },
-    {
-      "id": "45842000130831513",
-      "number": "357945",
-      "subject": "Last.app en Europa — quién imprime detrás de cada pedido",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-22T10:55:56Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130831513",
-      "assignee": "Brayan Ricardo Fuentes Herrera",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1258,
+  "locationIdIssuesTotal": 1264,
   "byContact": [
+    {
+      "contactId": "45842000118245227",
+      "contactName": "Sara",
+      "email": "sara@cafe-b.com",
+      "ticketCount": 3,
+      "tickets": [
+        {
+          "id": "45842000131042160",
+          "number": "359001",
+          "subject": "Llamada saliente (00:00:00) de +525597219950 (Mexico) a +525618017707 ( Sara)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-28T17:08:08Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131042160",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000131003637",
+          "number": "359000",
+          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +525618017707 ( Sara)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-28T17:07:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131003637",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000131077084",
+          "number": "358999",
+          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +525618017707 ( Sara)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-28T17:07:19Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131077084",
+          "assignee": "Harold Diaz"
+        }
+      ]
+    },
     {
       "contactId": "45842000101529660",
       "contactName": "Blanca Salas Colas",
@@ -3060,11 +3163,71 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 5,
+      "openCount": 11,
       "onHoldCount": 0,
       "closedCount": 609,
-      "totalCount": 614,
+      "totalCount": 620,
       "tickets": [
+        {
+          "id": "45842000131056897",
+          "number": "359003",
+          "subject": "Invitación actualizada: Comida mar 29 sept 2026 2pm - 3pm (GMT-6) (martin.mora@last.app)",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-28T17:08:56Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131056897",
+          "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000131067130",
+          "number": "359002",
+          "subject": "Hola! Tengo una pregunta : en el sisitema tengo dos heladerías , con dos sucursales. Quiero agregar un empleado en la heladería nueva para hacer el fichaje y no me deja",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-28T17:08:21Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131067130",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000131042160",
+          "number": "359001",
+          "subject": "Llamada saliente (00:00:00) de +525597219950 (Mexico) a +525618017707 ( Sara)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-28T17:08:08Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131042160",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000131003637",
+          "number": "359000",
+          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +525618017707 ( Sara)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-28T17:07:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131003637",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000131077084",
+          "number": "358999",
+          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +525618017707 ( Sara)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-28T17:07:19Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131077084",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000131066609",
+          "number": "358997",
+          "subject": "Invitación actualizada: Comida mar 29 sept 2026 2:15pm - 3:15pm (GMT-6) (martin.mora@last.app)",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-28T17:01:03Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131066609",
+          "assignee": "Harold Diaz"
+        },
         {
           "id": "45842000131056772",
           "number": "358993",
@@ -3686,16 +3849,6 @@
           "assignee": "Brayan Ricardo Fuentes Herrera"
         },
         {
-          "id": "45842000130918043",
-          "number": "358182",
-          "subject": "Help us improve",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-23T12:06:51Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130918043",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
           "id": "45842000130879654",
           "number": "358183",
           "subject": "Help us improve",
@@ -3703,6 +3856,16 @@
           "channel": "Email",
           "createdTime": "2026-09-23T12:06:51Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130879654",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000130918043",
+          "number": "358182",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-23T12:06:51Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130918043",
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
@@ -5090,8 +5253,8 @@
     },
     {
       "classification": "Integraciones",
-      "openCount": 0,
-      "onHoldCount": 4,
+      "openCount": 1,
+      "onHoldCount": 3,
       "closedCount": 192,
       "totalCount": 196,
       "tickets": [
@@ -5109,7 +5272,7 @@
           "id": "45842000131056522",
           "number": "358971",
           "subject": "Re: No carga menus en kiosk",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-09-28T14:40:20Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131056522",
@@ -10230,11 +10393,21 @@
     },
     {
       "classification": "Admin :: Catálogos",
-      "openCount": 0,
+      "openCount": 1,
       "onHoldCount": 1,
       "closedCount": 62,
-      "totalCount": 63,
+      "totalCount": 64,
       "tickets": [
+        {
+          "id": "45842000131059493",
+          "number": "358998",
+          "subject": "Hola",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-28T17:05:14Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131059493",
+          "assignee": "Jordy Carmona"
+        },
         {
           "id": "45842000130988610",
           "number": "358716",
