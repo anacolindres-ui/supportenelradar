@@ -1,19 +1,31 @@
 {
-  "lastUpdated": "2026-09-28T19:15:22.241936+00:00",
-  "totalOpenTickets": 64,
-  "totalClosedTickets": 3288,
+  "lastUpdated": "2026-09-28T20:18:22.799996+00:00",
+  "totalOpenTickets": 62,
+  "totalClosedTickets": 3294,
   "closedWindowDays": 30,
   "byLocation": [],
   "locationIdIssues": [
     {
-      "id": "45842000131047566",
-      "number": "359017",
-      "subject": "Buenas tardes \nHablo de Café B \nEstoy teniendo problemas con mi impresora",
+      "id": "45842000131058229",
+      "number": "359022",
+      "subject": "Llamada entrante (00:05:23) de +34690226330 ( Camilo Gómez) a +34937377821 (Soporte)",
       "status": "Open",
-      "channel": "Last.app México",
-      "createdTime": "2026-09-28T18:31:15Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131047566",
+      "channel": "Phone",
+      "createdTime": "2026-09-28T20:10:23Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131058229",
       "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "BIG AL'S RESTAURANTS S.L.",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130970702",
+      "number": "359019",
+      "subject": "Llamada entrante (00:03:05) de +34616779254 ( Maria) a +34937377821 (Soporte)",
+      "status": "Closed",
+      "channel": "Phone",
+      "createdTime": "2026-09-28T19:22:05Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130970702",
+      "assignee": "Jordy Carmona",
       "accountName": "",
       "locationId": ""
     },
@@ -54,18 +66,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000131064764",
-      "number": "359008",
-      "subject": "2636523343474933.jpeg",
-      "status": "Open",
-      "channel": "Last.app España",
-      "createdTime": "2026-09-28T17:57:09Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131064764",
-      "assignee": "Brayan Ricardo Fuentes Herrera",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000131064680",
       "number": "359007",
       "subject": "Okey",
@@ -81,7 +81,7 @@
       "id": "45842000131048309",
       "number": "359005",
       "subject": "Llamada entrante (00:04:40) de +34633538256 ( +34633538256) a +34937377821 (Soporte)",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Phone",
       "createdTime": "2026-09-28T17:30:19Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131048309",
@@ -155,9 +155,9 @@
       "subject": "Erro en las promociones",
       "status": "Open",
       "channel": "Email",
-      "createdTime": "2026-09-28T15:37:06Z",
+      "createdTime": "2026-09-28T15:37:07Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131060539",
-      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "assignee": "",
       "accountName": "",
       "locationId": ""
     },
@@ -251,9 +251,9 @@
       "subject": "INTEGRACIÓN LAST - ALCORCÓN",
       "status": "Open",
       "channel": "Email",
-      "createdTime": "2026-09-28T14:37:37Z",
+      "createdTime": "2026-09-28T14:37:38Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131060310",
-      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "assignee": "",
       "accountName": "Arabish Chueca",
       "locationId": ""
     },
@@ -1926,18 +1926,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000130879654",
-      "number": "358183",
-      "subject": "Help us improve",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-23T12:06:51Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130879654",
-      "assignee": "Johan Manuel Cortissoz Posada",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000130918043",
       "number": "358182",
       "subject": "Help us improve",
@@ -1945,6 +1933,18 @@
       "channel": "Email",
       "createdTime": "2026-09-23T12:06:51Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130918043",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130879654",
+      "number": "358183",
+      "subject": "Help us improve",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-23T12:06:51Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130879654",
       "assignee": "Johan Manuel Cortissoz Posada",
       "accountName": "",
       "locationId": ""
@@ -2406,7 +2406,7 @@
       "locationId": "1234"
     }
   ],
-  "locationIdIssuesTotal": 1269,
+  "locationIdIssuesTotal": 1267,
   "byContact": [
     {
       "contactId": "45842000101529660",
@@ -2420,9 +2420,9 @@
           "subject": "Erro en las promociones",
           "status": "Open",
           "channel": "Email",
-          "createdTime": "2026-09-28T15:37:06Z",
+          "createdTime": "2026-09-28T15:37:07Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131060539",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
+          "assignee": ""
         },
         {
           "id": "45842000129620958",
@@ -2440,16 +2440,16 @@
   "byClassification": [
     {
       "classification": "Admin :: General",
-      "openCount": 2,
+      "openCount": 1,
       "onHoldCount": 0,
-      "closedCount": 739,
+      "closedCount": 740,
       "totalCount": 741,
       "tickets": [
         {
           "id": "45842000131065551",
           "number": "359013",
           "subject": "2040460389926120.jpeg",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Last.app España",
           "createdTime": "2026-09-28T18:08:52Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131065551",
@@ -3046,16 +3046,6 @@
           "assignee": "Angie Oliveros"
         },
         {
-          "id": "45842000130964167",
-          "number": "358541",
-          "subject": "Buenos días equipo. Soy Jorge de COTOTO 🐈‍⬛\nTengo al cliente CASINO NOU que ayer cerró caja y al parecer no les cuadra hoy al equipo de contabilidad. Me preguntan si es posible ver qué cantidad de bi...",
-          "status": "Closed",
-          "channel": "Last.app Distribuidores",
-          "createdTime": "2026-09-25T08:32:14Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130964167",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000129620958",
           "number": "353894",
           "subject": "Varies coses de Takawa",
@@ -3070,21 +3060,11 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 10,
+      "openCount": 8,
       "onHoldCount": 0,
       "closedCount": 611,
-      "totalCount": 621,
+      "totalCount": 619,
       "tickets": [
-        {
-          "id": "45842000131047566",
-          "number": "359017",
-          "subject": "Buenas tardes \nHablo de Café B \nEstoy teniendo problemas con mi impresora",
-          "status": "Open",
-          "channel": "Last.app México",
-          "createdTime": "2026-09-28T18:31:15Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131047566",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
         {
           "id": "45842000131060774",
           "number": "359014",
@@ -3113,16 +3093,6 @@
           "channel": "Email",
           "createdTime": "2026-09-28T17:57:18Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131060701",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000131064764",
-          "number": "359008",
-          "subject": "2636523343474933.jpeg",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-28T17:57:09Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131064764",
           "assignee": "Brayan Ricardo Fuentes Herrera"
         },
         {
@@ -3161,9 +3131,9 @@
           "subject": "Erro en las promociones",
           "status": "Open",
           "channel": "Email",
-          "createdTime": "2026-09-28T15:37:06Z",
+          "createdTime": "2026-09-28T15:37:07Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131060539",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
+          "assignee": ""
         },
         {
           "id": "45842000131065380",
@@ -3191,9 +3161,9 @@
           "subject": "INTEGRACIÓN LAST - ALCORCÓN",
           "status": "Open",
           "channel": "Email",
-          "createdTime": "2026-09-28T14:37:37Z",
+          "createdTime": "2026-09-28T14:37:38Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131060310",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
+          "assignee": ""
         },
         {
           "id": "45842000131066234",
@@ -3766,13 +3736,13 @@
           "assignee": "Brayan Ricardo Fuentes Herrera"
         },
         {
-          "id": "45842000130879654",
-          "number": "358183",
+          "id": "45842000130918043",
+          "number": "358182",
           "subject": "Help us improve",
           "status": "Closed",
           "channel": "Email",
           "createdTime": "2026-09-23T12:06:51Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130879654",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130918043",
           "assignee": "Johan Manuel Cortissoz Posada"
         }
       ],
@@ -3782,14 +3752,44 @@
       "classification": "Calls",
       "openCount": 1,
       "onHoldCount": 0,
-      "closedCount": 353,
-      "totalCount": 354,
+      "closedCount": 356,
+      "totalCount": 357,
       "tickets": [
+        {
+          "id": "45842000131058229",
+          "number": "359022",
+          "subject": "Llamada entrante (00:05:23) de +34690226330 ( Camilo Gómez) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-28T20:10:23Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131058229",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000131008783",
+          "number": "359021",
+          "subject": "Llamada entrante (00:21:23) de +34610925009 ( Cami) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-09-28T19:38:15Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131008783",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000130970702",
+          "number": "359019",
+          "subject": "Llamada entrante (00:03:05) de +34616779254 ( Maria) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-09-28T19:22:05Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130970702",
+          "assignee": "Jordy Carmona"
+        },
         {
           "id": "45842000131048309",
           "number": "359005",
           "subject": "Llamada entrante (00:04:40) de +34633538256 ( +34633538256) a +34937377821 (Soporte)",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Phone",
           "createdTime": "2026-09-28T17:30:19Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131048309",
@@ -4364,45 +4364,15 @@
           "createdTime": "2026-09-23T10:17:06Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130887226",
           "assignee": "Angie Oliveros"
-        },
-        {
-          "id": "45842000130899072",
-          "number": "358150",
-          "subject": "Llamada entrante (00:02:59) de +34676363903 ( David) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-23T10:07:05Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130899072",
-          "assignee": "Angie Oliveros"
-        },
-        {
-          "id": "45842000130887001",
-          "number": "358119",
-          "subject": "Llamada entrante (00:12:52) de +34692864382 ( Vgn) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-23T08:13:39Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130887001",
-          "assignee": "Angie Oliveros"
-        },
-        {
-          "id": "45842000130810273",
-          "number": "358081",
-          "subject": "Llamada entrante (00:00:21) de +34688716052 ( Valentin) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-22T18:43:37Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130810273",
-          "assignee": "Jordy Carmona"
         }
       ],
       "inMasterList": false
     },
     {
       "classification": "Integration Process",
-      "openCount": 2,
-      "onHoldCount": 13,
-      "closedCount": 205,
+      "openCount": 4,
+      "onHoldCount": 10,
+      "closedCount": 206,
       "totalCount": 220,
       "tickets": [
         {
@@ -4559,7 +4529,7 @@
           "id": "45842000130936704",
           "number": "358345",
           "subject": "Uber Case# 60310746-LastApp - uber integration request",
-          "status": "Closed",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-09-24T07:53:00Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130936704",
@@ -4629,7 +4599,7 @@
           "id": "45842000130925733",
           "number": "358314",
           "subject": "Uber Case# 60310706-LastApp - uber integration request",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-09-24T03:10:12Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130925733",
@@ -4679,7 +4649,7 @@
           "id": "45842000130936139",
           "number": "358309",
           "subject": "Uber Case# 60310628-LastApp - uber integration request",
-          "status": "On Hold",
+          "status": "Closed",
           "channel": "Email",
           "createdTime": "2026-09-24T02:55:28Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130936139",
@@ -5029,7 +4999,7 @@
           "id": "45842000130709159",
           "number": "357736",
           "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
-          "status": "On Hold",
+          "status": "Closed",
           "channel": "Email",
           "createdTime": "2026-09-21T12:29:53Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130709159",
@@ -5143,16 +5113,6 @@
           "channel": "Email",
           "createdTime": "2026-09-19T06:38:14Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130472182",
-          "assignee": "Raimundo Garcia"
-        },
-        {
-          "id": "45842000130467562",
-          "number": "357370",
-          "subject": "Re: LastApp - uber integration request",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-18T22:20:19Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130467562",
           "assignee": "Raimundo Garcia"
         }
       ],
@@ -5810,11 +5770,31 @@
     },
     {
       "classification": "Admin :: Impresoras",
-      "openCount": 0,
+      "openCount": 1,
       "onHoldCount": 1,
-      "closedCount": 185,
-      "totalCount": 186,
+      "closedCount": 186,
+      "totalCount": 188,
       "tickets": [
+        {
+          "id": "45842000131047566",
+          "number": "359017",
+          "subject": "Buenas tardes \nHablo de Café B \nEstoy teniendo problemas con mi impresora",
+          "status": "Closed",
+          "channel": "Last.app México",
+          "createdTime": "2026-09-28T18:31:15Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131047566",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000131064764",
+          "number": "359008",
+          "subject": "2636523343474933.jpeg",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-28T17:57:09Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131064764",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
         {
           "id": "45842000131064052",
           "number": "358961",
@@ -6414,16 +6394,6 @@
           "createdTime": "2026-09-18T14:08:54Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130455043",
           "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000130323576",
-          "number": "357117",
-          "subject": "Llamada saliente (00:00:04) de +34937377821 (Soporte) a +34690064083 (Claudio José Palazzani)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-17T18:13:59Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130323576",
-          "assignee": "Dimitriz Rodriguez"
         }
       ],
       "inMasterList": true
@@ -14479,6 +14449,36 @@
       "inMasterList": false
     },
     {
+      "classification": "POS :: Cerrar Reparto Delivery",
+      "openCount": 1,
+      "onHoldCount": 0,
+      "closedCount": 1,
+      "totalCount": 2,
+      "tickets": [
+        {
+          "id": "45842000131078054",
+          "number": "359023",
+          "subject": "PadthaiWok | Pza. Fortuny //  Activar notificaciones al correo de Cierre de reparto.",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-28T20:12:00Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131078054",
+          "assignee": ""
+        },
+        {
+          "id": "45842000130263269",
+          "number": "356695",
+          "subject": "Llamada saliente (00:01:17) de +34937377821 (Soporte) a +34722379081 ( josue)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-09-15T20:43:10Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130263269",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        }
+      ],
+      "inMasterList": true
+    },
+    {
       "classification": "POS :: Plano de Mesas",
       "openCount": 0,
       "onHoldCount": 0,
@@ -14544,26 +14544,6 @@
           "createdTime": "2026-09-07T15:42:06Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129753923",
           "assignee": "Trinidad Larrain Punti"
-        }
-      ],
-      "inMasterList": true
-    },
-    {
-      "classification": "POS :: Cerrar Reparto Delivery",
-      "openCount": 0,
-      "onHoldCount": 0,
-      "closedCount": 1,
-      "totalCount": 1,
-      "tickets": [
-        {
-          "id": "45842000130263269",
-          "number": "356695",
-          "subject": "Llamada saliente (00:01:17) de +34937377821 (Soporte) a +34722379081 ( josue)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-15T20:43:10Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130263269",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
         }
       ],
       "inMasterList": true
