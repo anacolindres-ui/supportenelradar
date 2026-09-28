@@ -1,10 +1,62 @@
 {
-  "lastUpdated": "2026-09-28T21:17:21.425777+00:00",
-  "totalOpenTickets": 62,
-  "totalClosedTickets": 3296,
+  "lastUpdated": "2026-09-28T22:18:15.295460+00:00",
+  "totalOpenTickets": 64,
+  "totalClosedTickets": 3270,
   "closedWindowDays": 30,
-  "byLocation": [],
+  "byLocation": [
+    {
+      "accountId": "45842000129042492",
+      "accountName": "Restaurante El Acuerdo",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000131065709",
+          "number": "359028",
+          "subject": "Hola\nBuen día",
+          "status": "Open",
+          "channel": "Last.app Mexico",
+          "createdTime": "2026-09-28T21:33:50Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131065709",
+          "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000129571467",
+          "number": "353825",
+          "subject": "(MX) Restaurante El Acuerdo // No puede crear otra entidad legal",
+          "status": "On Hold",
+          "channel": "Phone",
+          "createdTime": "2026-09-01T23:24:04Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129571467",
+          "assignee": "Alberto Poyato"
+        }
+      ]
+    }
+  ],
   "locationIdIssues": [
+    {
+      "id": "45842000131065709",
+      "number": "359028",
+      "subject": "Hola\nBuen día",
+      "status": "Open",
+      "channel": "Last.app Mexico",
+      "createdTime": "2026-09-28T21:33:50Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131065709",
+      "assignee": "Jordy Carmona",
+      "accountName": "Restaurante El Acuerdo",
+      "locationId": ""
+    },
+    {
+      "id": "45842000131015718",
+      "number": "359027",
+      "subject": "Llamada entrante de +34654347428 ( Oscar) a +34937377821 (Soporte)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-09-28T21:24:21Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131015718",
+      "assignee": "Jordy Carmona",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000131066812",
       "number": "359026",
@@ -1938,18 +1990,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000130918043",
-      "number": "358182",
-      "subject": "Help us improve",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-23T12:06:51Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130918043",
-      "assignee": "Johan Manuel Cortissoz Posada",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000130879654",
       "number": "358183",
       "subject": "Help us improve",
@@ -1957,6 +1997,18 @@
       "channel": "Email",
       "createdTime": "2026-09-23T12:06:51Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130879654",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000130918043",
+      "number": "358182",
+      "subject": "Help us improve",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-23T12:06:51Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130918043",
       "assignee": "Johan Manuel Cortissoz Posada",
       "accountName": "",
       "locationId": ""
@@ -2380,33 +2432,9 @@
       "assignee": "",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000130778353",
-      "number": "358010",
-      "subject": "Vale muchas gracias",
-      "status": "Closed",
-      "channel": "Last.app España",
-      "createdTime": "2026-09-22T13:37:09Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130778353",
-      "assignee": "Brayan Ricardo Fuentes Herrera",
-      "accountName": "MUFF&CO",
-      "locationId": ""
-    },
-    {
-      "id": "45842000130844330",
-      "number": "358009",
-      "subject": "Your order is confirmed!  ",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-22T13:35:54Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130844330",
-      "assignee": "",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1268,
+  "locationIdIssuesTotal": 1257,
   "byContact": [
     {
       "contactId": "45842000101529660",
@@ -2435,6 +2463,34 @@
           "assignee": "Trinidad Larrain Punti"
         }
       ]
+    },
+    {
+      "contactId": "45842000129042521",
+      "contactName": "Carlos V",
+      "email": "jorgedelrio9011@gmail.com",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000131065709",
+          "number": "359028",
+          "subject": "Hola\nBuen día",
+          "status": "Open",
+          "channel": "Last.app Mexico",
+          "createdTime": "2026-09-28T21:33:50Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131065709",
+          "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000129571467",
+          "number": "353825",
+          "subject": "(MX) Restaurante El Acuerdo // No puede crear otra entidad legal",
+          "status": "On Hold",
+          "channel": "Phone",
+          "createdTime": "2026-09-01T23:24:04Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129571467",
+          "assignee": "Alberto Poyato"
+        }
+      ]
     }
   ],
   "byClassification": [
@@ -2442,8 +2498,8 @@
       "classification": "Admin :: General",
       "openCount": 1,
       "onHoldCount": 0,
-      "closedCount": 740,
-      "totalCount": 741,
+      "closedCount": 731,
+      "totalCount": 732,
       "tickets": [
         {
           "id": "45842000131065551",
@@ -3060,11 +3116,21 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 10,
+      "openCount": 11,
       "onHoldCount": 0,
-      "closedCount": 611,
-      "totalCount": 621,
+      "closedCount": 606,
+      "totalCount": 617,
       "tickets": [
+        {
+          "id": "45842000131065709",
+          "number": "359028",
+          "subject": "Hola\nBuen día",
+          "status": "Open",
+          "channel": "Last.app Mexico",
+          "createdTime": "2026-09-28T21:33:50Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131065709",
+          "assignee": "Jordy Carmona"
+        },
         {
           "id": "45842000131066812",
           "number": "359026",
@@ -3756,13 +3822,13 @@
           "assignee": "Brayan Ricardo Fuentes Herrera"
         },
         {
-          "id": "45842000130879654",
-          "number": "358183",
+          "id": "45842000130918043",
+          "number": "358182",
           "subject": "Help us improve",
           "status": "Closed",
           "channel": "Email",
           "createdTime": "2026-09-23T12:06:51Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130879654",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130918043",
           "assignee": "Johan Manuel Cortissoz Posada"
         }
       ],
@@ -3770,11 +3836,21 @@
     },
     {
       "classification": "Calls",
-      "openCount": 0,
+      "openCount": 1,
       "onHoldCount": 0,
-      "closedCount": 356,
+      "closedCount": 355,
       "totalCount": 356,
       "tickets": [
+        {
+          "id": "45842000131015718",
+          "number": "359027",
+          "subject": "Llamada entrante de +34654347428 ( Oscar) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-28T21:24:21Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131015718",
+          "assignee": "Jordy Carmona"
+        },
         {
           "id": "45842000131008783",
           "number": "359021",
@@ -5132,8 +5208,8 @@
       "classification": "Integraciones",
       "openCount": 1,
       "onHoldCount": 3,
-      "closedCount": 192,
-      "totalCount": 196,
+      "closedCount": 191,
+      "totalCount": 195,
       "tickets": [
         {
           "id": "45842000131039850",
@@ -5782,8 +5858,8 @@
       "classification": "Admin :: Impresoras",
       "openCount": 0,
       "onHoldCount": 1,
-      "closedCount": 187,
-      "totalCount": 188,
+      "closedCount": 185,
+      "totalCount": 186,
       "tickets": [
         {
           "id": "45842000131047566",
@@ -7012,8 +7088,8 @@
       "classification": "Admin :: Integraciones",
       "openCount": 2,
       "onHoldCount": 4,
-      "closedCount": 122,
-      "totalCount": 128,
+      "closedCount": 120,
+      "totalCount": 126,
       "tickets": [
         {
           "id": "45842000131064380",
@@ -8392,8 +8468,8 @@
       "classification": "POS :: uso general",
       "openCount": 0,
       "onHoldCount": 1,
-      "closedCount": 94,
-      "totalCount": 95,
+      "closedCount": 93,
+      "totalCount": 94,
       "tickets": [
         {
           "id": "45842000131034647",
@@ -9012,8 +9088,8 @@
       "classification": "LastSHOP",
       "openCount": 0,
       "onHoldCount": 3,
-      "closedCount": 85,
-      "totalCount": 88,
+      "closedCount": 82,
+      "totalCount": 85,
       "tickets": [
         {
           "id": "45842000131020668",
@@ -10272,8 +10348,8 @@
       "classification": "Admin :: Catálogos",
       "openCount": 0,
       "onHoldCount": 1,
-      "closedCount": 63,
-      "totalCount": 64,
+      "closedCount": 62,
+      "totalCount": 63,
       "tickets": [
         {
           "id": "45842000131059493",
@@ -12702,8 +12778,8 @@
       "classification": "KDS",
       "openCount": 0,
       "onHoldCount": 1,
-      "closedCount": 19,
-      "totalCount": 20,
+      "closedCount": 18,
+      "totalCount": 19,
       "tickets": [
         {
           "id": "45842000130990630",
@@ -12893,16 +12969,6 @@
           "channel": "Email",
           "createdTime": "2026-09-02T09:44:14Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129620880",
-          "assignee": "Harold Diaz"
-        },
-        {
-          "id": "45842000129425963",
-          "number": "353244",
-          "subject": "Hola buen día",
-          "status": "Closed",
-          "channel": "Last.app México",
-          "createdTime": "2026-08-30T16:22:59Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129425963",
           "assignee": "Harold Diaz"
         }
       ],
