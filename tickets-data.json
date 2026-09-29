@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-29T20:21:01.916334+00:00",
+  "lastUpdated": "2026-09-29T21:17:51.314973+00:00",
   "totalOpenTickets": 80,
-  "totalClosedTickets": 3417,
+  "totalClosedTickets": 3418,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -60,6 +60,18 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000131140820",
+      "number": "359277",
+      "subject": "Buenas",
+      "status": "Closed",
+      "channel": "Last.app España",
+      "createdTime": "2026-09-29T20:24:14Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131140820",
+      "assignee": "Dimitriz Rodriguez",
+      "accountName": "",
+      "locationId": "1234"
+    },
     {
       "id": "45842000131122610",
       "number": "359276",
@@ -2447,21 +2459,9 @@
       "assignee": "Raimundo Garcia",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000130931469",
-      "number": "358308",
-      "subject": "Uber Case# 60310608-LastApp - uber integration request",
-      "status": "On Hold",
-      "channel": "Email",
-      "createdTime": "2026-09-24T02:53:25Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130931469",
-      "assignee": "Javier Landaeta",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1325,
+  "locationIdIssuesTotal": 1326,
   "byContact": [
     {
       "contactId": "45842000126729962",
@@ -4693,16 +4693,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000131131394",
-          "number": "359088",
-          "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-29T08:27:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131131394",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000131126538",
           "number": "359087",
           "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
@@ -4710,6 +4700,16 @@
           "channel": "Email",
           "createdTime": "2026-09-29T08:27:33Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131126538",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000131131394",
+          "number": "359088",
+          "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-29T08:27:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131131394",
           "assignee": "Alberto Poyato"
         },
         {
@@ -9969,9 +9969,19 @@
       "classification": "Otro",
       "openCount": 0,
       "onHoldCount": 1,
-      "closedCount": 73,
-      "totalCount": 74,
+      "closedCount": 74,
+      "totalCount": 75,
       "tickets": [
+        {
+          "id": "45842000131140820",
+          "number": "359277",
+          "subject": "Buenas",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-29T20:24:14Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131140820",
+          "assignee": "Dimitriz Rodriguez"
+        },
         {
           "id": "45842000131018901",
           "number": "358808",
@@ -10571,16 +10581,6 @@
           "createdTime": "2026-09-09T11:32:01Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130012735",
           "assignee": ""
-        },
-        {
-          "id": "45842000130021703",
-          "number": "355439",
-          "subject": "Payment confirmed",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-09T11:26:22Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130021703",
-          "assignee": "Ana Colindres"
         }
       ],
       "inMasterList": true
