@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-30T06:33:08.185626+00:00",
+  "lastUpdated": "2026-09-30T07:27:14.760270+00:00",
   "totalOpenTickets": 85,
-  "totalClosedTickets": 3252,
+  "totalClosedTickets": 3254,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -15,7 +15,7 @@
           "subject": "Solicitud de Push en Glovo",
           "status": "Open",
           "channel": "Email",
-          "createdTime": "2026-09-30T02:10:46Z",
+          "createdTime": "2026-09-30T02:10:47Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131162705",
           "assignee": ""
         },
@@ -88,27 +88,27 @@
   ],
   "locationIdIssues": [
     {
-      "id": "45842000131119778",
-      "number": "359298",
-      "subject": "Llamada entrante (00:05:26) de +34685432019 ( Alejandro Martinez) a +34937377821 (Soporte)",
+      "id": "45842000131163909",
+      "number": "359303",
+      "subject": "Feature request reporte de propinas por empleado",
       "status": "Open",
-      "channel": "Phone",
-      "createdTime": "2026-09-30T06:31:03Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131119778",
-      "assignee": "Angie Oliveros",
+      "channel": "Email",
+      "createdTime": "2026-09-30T07:10:13Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131163909",
+      "assignee": "",
       "accountName": "",
       "locationId": ""
     },
     {
-      "id": "45842000131132896",
-      "number": "359297",
-      "subject": "Buenos días",
+      "id": "45842000131122765",
+      "number": "359300",
+      "subject": "Buenos dias! por aqui podria preguntar por mas permisos para mi usuario de LAST?",
       "status": "Open",
       "channel": "Last.app España",
-      "createdTime": "2026-09-30T06:30:46Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131132896",
-      "assignee": "",
-      "accountName": "Galiana",
+      "createdTime": "2026-09-30T06:57:07Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131122765",
+      "assignee": "Angie Oliveros",
+      "accountName": "",
       "locationId": ""
     },
     {
@@ -143,7 +143,7 @@
       "channel": "Email",
       "createdTime": "2026-09-30T04:27:08Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131163509",
-      "assignee": "",
+      "assignee": "Angie Oliveros",
       "accountName": "",
       "locationId": ""
     },
@@ -153,7 +153,7 @@
       "subject": "Solicitud de Push en Glovo",
       "status": "Open",
       "channel": "Email",
-      "createdTime": "2026-09-30T02:10:46Z",
+      "createdTime": "2026-09-30T02:10:47Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131162705",
       "assignee": "",
       "accountName": "Cloudtown (Florencio-Madrid)",
@@ -2646,9 +2646,29 @@
       "classification": "Admin :: General",
       "openCount": 0,
       "onHoldCount": 2,
-      "closedCount": 722,
-      "totalCount": 724,
+      "closedCount": 724,
+      "totalCount": 726,
       "tickets": [
+        {
+          "id": "45842000131119778",
+          "number": "359298",
+          "subject": "Llamada entrante (00:05:26) de +34685432019 ( Alejandro Martinez) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-09-30T06:31:03Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131119778",
+          "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000131132896",
+          "number": "359297",
+          "subject": "Buenos días",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-30T06:30:46Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131132896",
+          "assignee": "Angie Oliveros"
+        },
         {
           "id": "45842000131122610",
           "number": "359276",
@@ -3230,26 +3250,6 @@
           "assignee": "Dimitriz Rodriguez"
         },
         {
-          "id": "45842000131005417",
-          "number": "358800",
-          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34665889114 ( Pablo)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-27T12:24:04Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131005417",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000130995490",
-          "number": "358799",
-          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34603821383 ( Gorka)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-27T12:23:54Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130995490",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
           "id": "45842000129664426",
           "number": "354089",
           "subject": "DUDA CONCEPTOS TICKETS",
@@ -3274,20 +3274,30 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 12,
+      "openCount": 13,
       "onHoldCount": 0,
       "closedCount": 588,
-      "totalCount": 600,
+      "totalCount": 601,
       "tickets": [
         {
-          "id": "45842000131132896",
-          "number": "359297",
-          "subject": "Buenos días",
+          "id": "45842000131163909",
+          "number": "359303",
+          "subject": "Feature request reporte de propinas por empleado",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-30T07:10:13Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131163909",
+          "assignee": ""
+        },
+        {
+          "id": "45842000131122765",
+          "number": "359300",
+          "subject": "Buenos dias! por aqui podria preguntar por mas permisos para mi usuario de LAST?",
           "status": "Open",
           "channel": "Last.app España",
-          "createdTime": "2026-09-30T06:30:46Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131132896",
-          "assignee": ""
+          "createdTime": "2026-09-30T06:57:07Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131122765",
+          "assignee": "Angie Oliveros"
         },
         {
           "id": "45842000131162894",
@@ -3307,7 +3317,7 @@
           "channel": "Email",
           "createdTime": "2026-09-30T04:27:08Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131163509",
-          "assignee": ""
+          "assignee": "Angie Oliveros"
         },
         {
           "id": "45842000131162705",
@@ -3315,7 +3325,7 @@
           "subject": "Solicitud de Push en Glovo",
           "status": "Open",
           "channel": "Email",
-          "createdTime": "2026-09-30T02:10:46Z",
+          "createdTime": "2026-09-30T02:10:47Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131162705",
           "assignee": ""
         },
@@ -4004,21 +4014,11 @@
     },
     {
       "classification": "Calls",
-      "openCount": 2,
+      "openCount": 1,
       "onHoldCount": 0,
       "closedCount": 342,
-      "totalCount": 344,
+      "totalCount": 343,
       "tickets": [
-        {
-          "id": "45842000131119778",
-          "number": "359298",
-          "subject": "Llamada entrante (00:05:26) de +34685432019 ( Alejandro Martinez) a +34937377821 (Soporte)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-09-30T06:31:03Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131119778",
-          "assignee": "Angie Oliveros"
-        },
         {
           "id": "45842000131115436",
           "number": "359254",
@@ -4770,16 +4770,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000131126538",
-          "number": "359087",
-          "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-29T08:27:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131126538",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000131131394",
           "number": "359088",
           "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
@@ -4787,6 +4777,16 @@
           "channel": "Email",
           "createdTime": "2026-09-29T08:27:33Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131131394",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000131126538",
+          "number": "359087",
+          "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-29T08:27:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131126538",
           "assignee": "Alberto Poyato"
         },
         {
