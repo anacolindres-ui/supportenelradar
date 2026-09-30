@@ -1,9 +1,56 @@
 {
-  "lastUpdated": "2026-09-30T08:26:42.085252+00:00",
-  "totalOpenTickets": 69,
-  "totalClosedTickets": 3265,
+  "lastUpdated": "2026-09-30T09:20:47.910651+00:00",
+  "totalOpenTickets": 71,
+  "totalClosedTickets": 3271,
   "closedWindowDays": 30,
   "byLocation": [
+    {
+      "accountId": "45842000066673198",
+      "accountName": "Gastronomía Cajuma SL",
+      "ticketCount": 4,
+      "tickets": [
+        {
+          "id": "45842000131107520",
+          "number": "359336",
+          "subject": "Llamada saliente (00:04:18) de +34937377821 (Soporte) a +34661101029 ( Jefferson Vargas)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-30T09:13:32Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131107520",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000131109866",
+          "number": "359332",
+          "subject": "Llamada saliente (00:01:54) de +34937377821 (Soporte) a +34661101029 ( Jefferson Vargas)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-30T09:04:49Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131109866",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000131103667",
+          "number": "359331",
+          "subject": "Llamada saliente (00:00:17) de +34937377821 (Soporte) a +34661101029 ( Jefferson Vargas)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-30T09:04:24Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131103667",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000131111635",
+          "number": "359316",
+          "subject": "Llamada saliente (00:01:00) de +34937377821 (Soporte) a +34661101029 ( Jefferson Vargas)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-30T08:29:20Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131111635",
+          "assignee": "Trinidad Larrain Punti"
+        }
+      ]
+    },
     {
       "accountId": "45842000022977149",
       "accountName": "Cloudtown (Florencio-Madrid)",
@@ -23,7 +70,7 @@
           "id": "45842000131148498",
           "number": "359189",
           "subject": "Solicitud Push integración Just eat",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Email",
           "createdTime": "2026-09-29T12:43:22Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131148498",
@@ -57,70 +104,91 @@
           "assignee": "Trinidad Larrain Punti"
         }
       ]
-    },
-    {
-      "accountId": "45842000131141084",
-      "accountName": "Ego House Madrid",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000131111572",
-          "number": "359314",
-          "subject": "Llamada saliente (00:00:03) de +34937377821 (Soporte) a +34629759796 ( Alexandre)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-09-30T08:13:55Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131111572",
-          "assignee": "Raimundo Garcia"
-        },
-        {
-          "id": "45842000131117813",
-          "number": "359313",
-          "subject": "Llamada saliente de +34937377821 (Soporte) a +34629759796 ( Alexandre)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-09-30T08:13:51Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131117813",
-          "assignee": "Raimundo Garcia"
-        }
-      ]
     }
   ],
   "locationIdIssues": [
     {
-      "id": "45842000131111572",
-      "number": "359314",
-      "subject": "Llamada saliente (00:00:03) de +34937377821 (Soporte) a +34629759796 ( Alexandre)",
+      "id": "45842000131107520",
+      "number": "359336",
+      "subject": "Llamada saliente (00:04:18) de +34937377821 (Soporte) a +34661101029 ( Jefferson Vargas)",
       "status": "Open",
       "channel": "Phone",
-      "createdTime": "2026-09-30T08:13:55Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131111572",
-      "assignee": "Raimundo Garcia",
-      "accountName": "Ego House Madrid",
+      "createdTime": "2026-09-30T09:13:32Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131107520",
+      "assignee": "Trinidad Larrain Punti",
+      "accountName": "Gastronomía Cajuma SL",
+      "locationId": ""
+    },
+    {
+      "id": "45842000131109866",
+      "number": "359332",
+      "subject": "Llamada saliente (00:01:54) de +34937377821 (Soporte) a +34661101029 ( Jefferson Vargas)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-09-30T09:04:49Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131109866",
+      "assignee": "Trinidad Larrain Punti",
+      "accountName": "Gastronomía Cajuma SL",
+      "locationId": ""
+    },
+    {
+      "id": "45842000131103667",
+      "number": "359331",
+      "subject": "Llamada saliente (00:00:17) de +34937377821 (Soporte) a +34661101029 ( Jefferson Vargas)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-09-30T09:04:24Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131103667",
+      "assignee": "Trinidad Larrain Punti",
+      "accountName": "Gastronomía Cajuma SL",
+      "locationId": ""
+    },
+    {
+      "id": "45842000131112650",
+      "number": "359330",
+      "subject": "Llamada saliente (00:01:49) de +34937377821 (Soporte) a +34674742960 ( Mikel San Vicente Fernandez)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-09-30T09:01:18Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131112650",
+      "assignee": "Fernando Poza",
+      "accountName": "Restaurante Mugarri",
+      "locationId": ""
+    },
+    {
+      "id": "45842000131170244",
+      "number": "359326",
+      "subject": "Last.app | MCP, onboarding y lo que pasa durante un servicio real",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-09-30T08:48:34Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131170244",
+      "assignee": "Angie Oliveros",
+      "accountName": "",
+      "locationId": "1234"
+    },
+    {
+      "id": "45842000131111635",
+      "number": "359316",
+      "subject": "Llamada saliente (00:01:00) de +34937377821 (Soporte) a +34661101029 ( Jefferson Vargas)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-09-30T08:29:20Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131111635",
+      "assignee": "Trinidad Larrain Punti",
+      "accountName": "Gastronomía Cajuma SL",
       "locationId": ""
     },
     {
       "id": "45842000131117813",
       "number": "359313",
       "subject": "Llamada saliente de +34937377821 (Soporte) a +34629759796 ( Alexandre)",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Phone",
       "createdTime": "2026-09-30T08:13:51Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131117813",
       "assignee": "Raimundo Garcia",
       "accountName": "Ego House Madrid",
-      "locationId": ""
-    },
-    {
-      "id": "45842000131171027",
-      "number": "359309",
-      "subject": "Hola buenos días",
-      "status": "Open",
-      "channel": "Last.app España",
-      "createdTime": "2026-09-30T08:02:09Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131171027",
-      "assignee": "Angie Oliveros",
-      "accountName": "La Abuela Gomela",
       "locationId": ""
     },
     {
@@ -487,7 +555,7 @@
       "id": "45842000131148498",
       "number": "359189",
       "subject": "Solicitud Push integración Just eat",
-      "status": "Open",
+      "status": "On Hold",
       "channel": "Email",
       "createdTime": "2026-09-29T12:43:22Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131148498",
@@ -2438,83 +2506,55 @@
       "assignee": "Angie Oliveros",
       "accountName": "",
       "locationId": "1234"
-    },
-    {
-      "id": "45842000130925877",
-      "number": "358318",
-      "subject": "Re: LastApp - uber integration request",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-24T03:20:22Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130925877",
-      "assignee": "Javier Landaeta",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000130925813",
-      "number": "358317",
-      "subject": "Re: LastApp - uber integration request",
-      "status": "On Hold",
-      "channel": "Email",
-      "createdTime": "2026-09-24T03:20:20Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130925813",
-      "assignee": "Trinidad Larrain Punti",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000130931707",
-      "number": "358316",
-      "subject": "Re: LastApp - uber integration request",
-      "status": "Open",
-      "channel": "Email",
-      "createdTime": "2026-09-24T03:20:15Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130931707",
-      "assignee": "Trinidad Larrain Punti",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000130931632",
-      "number": "358315",
-      "subject": "Uber Case# 60310752-LastApp - uber integration request",
-      "status": "On Hold",
-      "channel": "Email",
-      "createdTime": "2026-09-24T03:11:40Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130931632",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1265,
+  "locationIdIssuesTotal": 1269,
   "byContact": [
     {
-      "contactId": "45842000131141109",
-      "contactName": "Alexandre",
-      "email": "factura.egohouse@gmail.com",
-      "ticketCount": 2,
+      "contactId": "45842000106055407",
+      "contactName": "Jefferson Vargas",
+      "email": "administracion@gastronomiacajuma.es",
+      "ticketCount": 4,
       "tickets": [
         {
-          "id": "45842000131111572",
-          "number": "359314",
-          "subject": "Llamada saliente (00:00:03) de +34937377821 (Soporte) a +34629759796 ( Alexandre)",
+          "id": "45842000131107520",
+          "number": "359336",
+          "subject": "Llamada saliente (00:04:18) de +34937377821 (Soporte) a +34661101029 ( Jefferson Vargas)",
           "status": "Open",
           "channel": "Phone",
-          "createdTime": "2026-09-30T08:13:55Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131111572",
-          "assignee": "Raimundo Garcia"
+          "createdTime": "2026-09-30T09:13:32Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131107520",
+          "assignee": "Trinidad Larrain Punti"
         },
         {
-          "id": "45842000131117813",
-          "number": "359313",
-          "subject": "Llamada saliente de +34937377821 (Soporte) a +34629759796 ( Alexandre)",
+          "id": "45842000131109866",
+          "number": "359332",
+          "subject": "Llamada saliente (00:01:54) de +34937377821 (Soporte) a +34661101029 ( Jefferson Vargas)",
           "status": "Open",
           "channel": "Phone",
-          "createdTime": "2026-09-30T08:13:51Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131117813",
-          "assignee": "Raimundo Garcia"
+          "createdTime": "2026-09-30T09:04:49Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131109866",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000131103667",
+          "number": "359331",
+          "subject": "Llamada saliente (00:00:17) de +34937377821 (Soporte) a +34661101029 ( Jefferson Vargas)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-30T09:04:24Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131103667",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000131111635",
+          "number": "359316",
+          "subject": "Llamada saliente (00:01:00) de +34937377821 (Soporte) a +34661101029 ( Jefferson Vargas)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-30T08:29:20Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131111635",
+          "assignee": "Trinidad Larrain Punti"
         }
       ]
     },
@@ -2580,9 +2620,29 @@
       "classification": "Admin :: General",
       "openCount": 0,
       "onHoldCount": 2,
-      "closedCount": 727,
-      "totalCount": 729,
+      "closedCount": 730,
+      "totalCount": 732,
       "tickets": [
+        {
+          "id": "45842000131102661",
+          "number": "359333",
+          "subject": "Llamada saliente (00:00:24) de +34937377821 (Soporte) a +34674742960 ( Mikel San Vicente Fernandez)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-09-30T09:06:29Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131102661",
+          "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000131170244",
+          "number": "359326",
+          "subject": "Last.app | MCP, onboarding y lo que pasa durante un servicio real",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-30T08:48:34Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131170244",
+          "assignee": "Angie Oliveros"
+        },
         {
           "id": "45842000131137569",
           "number": "359312",
@@ -2601,6 +2661,16 @@
           "channel": "Phone",
           "createdTime": "2026-09-30T08:11:00Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131101456",
+          "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000131171027",
+          "number": "359309",
+          "subject": "Hola buenos días",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-30T08:02:09Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131171027",
           "assignee": "Angie Oliveros"
         },
         {
@@ -3154,36 +3224,6 @@
           "assignee": "Angie Oliveros"
         },
         {
-          "id": "45842000131020482",
-          "number": "358873",
-          "subject": "Buenos días, este fin de semana han habido clientes que han dicho que no les dejaba realizar pedido en lemongrass Cañada, zonas de paterna, burjassot y cañada. Yo no he visto ningún error en la config...",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-28T07:55:58Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131020482",
-          "assignee": "Angie Oliveros"
-        },
-        {
-          "id": "45842000131041157",
-          "number": "358868",
-          "subject": "Children's Smartwatch Phone from LAGENIO -- Dacy",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-28T07:06:28Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131041157",
-          "assignee": "Angie Oliveros"
-        },
-        {
-          "id": "45842000131032491",
-          "number": "358857",
-          "subject": "Buenos días! Ya os envié la foto y es en la página de inicio debajo en control de fraude, sale esto del día de ayer.",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-28T06:32:42Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131032491",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000129664426",
           "number": "354089",
           "subject": "DUDA CONCEPTOS TICKETS",
@@ -3208,40 +3248,70 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 9,
+      "openCount": 10,
       "onHoldCount": 0,
-      "closedCount": 591,
-      "totalCount": 600,
+      "closedCount": 592,
+      "totalCount": 602,
       "tickets": [
         {
-          "id": "45842000131111572",
-          "number": "359314",
-          "subject": "Llamada saliente (00:00:03) de +34937377821 (Soporte) a +34629759796 ( Alexandre)",
+          "id": "45842000131107520",
+          "number": "359336",
+          "subject": "Llamada saliente (00:04:18) de +34937377821 (Soporte) a +34661101029 ( Jefferson Vargas)",
           "status": "Open",
           "channel": "Phone",
-          "createdTime": "2026-09-30T08:13:55Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131111572",
-          "assignee": "Raimundo Garcia"
+          "createdTime": "2026-09-30T09:13:32Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131107520",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000131109866",
+          "number": "359332",
+          "subject": "Llamada saliente (00:01:54) de +34937377821 (Soporte) a +34661101029 ( Jefferson Vargas)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-30T09:04:49Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131109866",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000131103667",
+          "number": "359331",
+          "subject": "Llamada saliente (00:00:17) de +34937377821 (Soporte) a +34661101029 ( Jefferson Vargas)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-30T09:04:24Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131103667",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000131112650",
+          "number": "359330",
+          "subject": "Llamada saliente (00:01:49) de +34937377821 (Soporte) a +34674742960 ( Mikel San Vicente Fernandez)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-30T09:01:18Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131112650",
+          "assignee": "Fernando Poza"
+        },
+        {
+          "id": "45842000131111635",
+          "number": "359316",
+          "subject": "Llamada saliente (00:01:00) de +34937377821 (Soporte) a +34661101029 ( Jefferson Vargas)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-30T08:29:20Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131111635",
+          "assignee": "Trinidad Larrain Punti"
         },
         {
           "id": "45842000131117813",
           "number": "359313",
           "subject": "Llamada saliente de +34937377821 (Soporte) a +34629759796 ( Alexandre)",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Phone",
           "createdTime": "2026-09-30T08:13:51Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131117813",
           "assignee": "Raimundo Garcia"
-        },
-        {
-          "id": "45842000131171027",
-          "number": "359309",
-          "subject": "Hola buenos días",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-30T08:02:09Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131171027",
-          "assignee": "Angie Oliveros"
         },
         {
           "id": "45842000131110476",
@@ -3381,16 +3451,6 @@
           "channel": "Phone",
           "createdTime": "2026-09-29T12:54:32Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131109412",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
-          "id": "45842000131148498",
-          "number": "359189",
-          "subject": "Solicitud Push integración Just eat",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-09-29T12:43:22Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131148498",
           "assignee": "Trinidad Larrain Punti"
         },
         {
@@ -3892,16 +3952,6 @@
           "createdTime": "2026-09-25T15:43:55Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131002201",
           "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000130961223",
-          "number": "358625",
-          "subject": "Llamada saliente (00:00:08) de +525597219950 (Mexico) a +523221462620 ( Matt Wiebe)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-25T15:19:02Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130961223",
-          "assignee": "Raimundo Garcia"
         }
       ],
       "inMasterList": false
@@ -4528,11 +4578,31 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 1,
-      "onHoldCount": 15,
-      "closedCount": 217,
-      "totalCount": 233,
+      "openCount": 0,
+      "onHoldCount": 16,
+      "closedCount": 219,
+      "totalCount": 235,
       "tickets": [
+        {
+          "id": "45842000131174193",
+          "number": "359329",
+          "subject": "LastApp - glovo integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-30T08:57:45Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131174193",
+          "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000131169123",
+          "number": "359315",
+          "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-30T08:26:47Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131169123",
+          "assignee": "Angie Oliveros"
+        },
         {
           "id": "45842000131163724",
           "number": "359296",
@@ -4664,16 +4734,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000131131394",
-          "number": "359088",
-          "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-29T08:27:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131131394",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000131126538",
           "number": "359087",
           "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
@@ -4681,6 +4741,16 @@
           "channel": "Email",
           "createdTime": "2026-09-29T08:27:33Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131126538",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000131131394",
+          "number": "359088",
+          "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-29T08:27:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131131394",
           "assignee": "Alberto Poyato"
         },
         {
@@ -4967,7 +5037,7 @@
           "id": "45842000130931707",
           "number": "358316",
           "subject": "Re: LastApp - uber integration request",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Email",
           "createdTime": "2026-09-24T03:20:15Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130931707",
@@ -5264,26 +5334,6 @@
           "assignee": "Javier Landaeta"
         },
         {
-          "id": "45842000130835025",
-          "number": "357946",
-          "subject": "Uber Case# 60271921-LastApp - uber integration request",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-22T11:04:52Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130835025",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
-          "id": "45842000130784670",
-          "number": "357902",
-          "subject": "LastApp - glovo integration request",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-22T09:17:45Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130784670",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
           "id": "45842000130392060",
           "number": "356968",
           "subject": "Uber Case# 60165842-LastApp - uber integration request",
@@ -5298,8 +5348,8 @@
     },
     {
       "classification": "Admin :: Impresoras",
-      "openCount": 0,
-      "onHoldCount": 2,
+      "openCount": 1,
+      "onHoldCount": 1,
       "closedCount": 188,
       "totalCount": 190,
       "tickets": [
@@ -5547,7 +5597,7 @@
           "id": "45842000130881492",
           "number": "358353",
           "subject": "Chia Good Food // Visualización de combos en Glovo",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Phone",
           "createdTime": "2026-09-24T08:35:01Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130881492",
@@ -5929,10 +5979,20 @@
     {
       "classification": "Integraciones",
       "openCount": 0,
-      "onHoldCount": 1,
+      "onHoldCount": 2,
       "closedCount": 188,
-      "totalCount": 189,
+      "totalCount": 190,
       "tickets": [
+        {
+          "id": "45842000131148498",
+          "number": "359189",
+          "subject": "Solicitud Push integración Just eat",
+          "status": "On Hold",
+          "channel": "Email",
+          "createdTime": "2026-09-29T12:43:22Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131148498",
+          "assignee": "Trinidad Larrain Punti"
+        },
         {
           "id": "45842000131148172",
           "number": "359156",
@@ -7818,8 +7878,8 @@
     },
     {
       "classification": "Admin :: Reportes",
-      "openCount": 1,
-      "onHoldCount": 11,
+      "openCount": 4,
+      "onHoldCount": 8,
       "closedCount": 99,
       "totalCount": 111,
       "tickets": [
@@ -8097,7 +8157,7 @@
           "id": "45842000130673001",
           "number": "357683",
           "subject": "LA ARTESANA PIZZERIA Casteldefels // Propinas en el reporte final.",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Phone",
           "createdTime": "2026-09-21T10:59:13Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130673001",
@@ -8287,7 +8347,7 @@
           "id": "45842000130398423",
           "number": "357038",
           "subject": "Descuadre reporte Z",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-09-17T12:07:36Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130398423",
@@ -8497,7 +8557,7 @@
           "id": "45842000129780898",
           "number": "355127",
           "subject": "PIZZERIA DI MARA // Discrepancia entre Ventas Netas y Caja",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Phone",
           "createdTime": "2026-09-07T22:21:16Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129780898",
