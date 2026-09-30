@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-30T20:20:36.851778+00:00",
+  "lastUpdated": "2026-09-30T21:18:15.531949+00:00",
   "totalOpenTickets": 72,
-  "totalClosedTickets": 3409,
+  "totalClosedTickets": 3410,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -61,15 +61,15 @@
   ],
   "locationIdIssues": [
     {
-      "id": "45842000131208515",
-      "number": "359538",
-      "subject": "Hola he agregado estas bebidas al combo menú del día y aún no aparecen en el sistema por qué?",
+      "id": "45842000131219047",
+      "number": "359539",
+      "subject": "LastApp - glovo integration deleted",
       "status": "Open",
-      "channel": "Last.app España",
-      "createdTime": "2026-09-30T20:13:07Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131208515",
+      "channel": "Email",
+      "createdTime": "2026-09-30T20:35:45Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131219047",
       "assignee": "Dimitriz Rodriguez",
-      "accountName": "Mr. Majo_s",
+      "accountName": "",
       "locationId": ""
     },
     {
@@ -88,7 +88,7 @@
       "id": "45842000131220015",
       "number": "359527",
       "subject": "Buen dia necesito apoyo",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Last.app España",
       "createdTime": "2026-09-30T19:51:29Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131220015",
@@ -3239,26 +3239,26 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 8,
+      "openCount": 7,
       "onHoldCount": 0,
-      "closedCount": 611,
+      "closedCount": 612,
       "totalCount": 619,
       "tickets": [
         {
-          "id": "45842000131208515",
-          "number": "359538",
-          "subject": "Hola he agregado estas bebidas al combo menú del día y aún no aparecen en el sistema por qué?",
+          "id": "45842000131219047",
+          "number": "359539",
+          "subject": "LastApp - glovo integration deleted",
           "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-30T20:13:07Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131208515",
+          "channel": "Email",
+          "createdTime": "2026-09-30T20:35:45Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131219047",
           "assignee": "Dimitriz Rodriguez"
         },
         {
           "id": "45842000131220015",
           "number": "359527",
           "subject": "Buen dia necesito apoyo",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Last.app España",
           "createdTime": "2026-09-30T19:51:29Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131220015",
@@ -3913,16 +3913,6 @@
           "createdTime": "2026-09-28T11:46:05Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130954831",
           "assignee": "Raimundo Garcia"
-        },
-        {
-          "id": "45842000131051032",
-          "number": "358934",
-          "subject": "Llamada saliente (00:23:53) de +34937377821 (Soporte) a +34603919971 ( Camila)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-28T11:33:12Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131051032",
-          "assignee": "Fernando Poza"
         }
       ],
       "inMasterList": false
@@ -14748,6 +14738,46 @@
       "inMasterList": true
     },
     {
+      "classification": "Admin :: Combos",
+      "openCount": 1,
+      "onHoldCount": 0,
+      "closedCount": 2,
+      "totalCount": 3,
+      "tickets": [
+        {
+          "id": "45842000131208515",
+          "number": "359538",
+          "subject": "Hola he agregado estas bebidas al combo menú del día y aún no aparecen en el sistema por qué?",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-30T20:13:07Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131208515",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000131185284",
+          "number": "359384",
+          "subject": "Hola necesito crear un combo para  que me lo puedan activar en Uber Eats",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-30T11:29:07Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131185284",
+          "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000130699914",
+          "number": "357819",
+          "subject": "Hola de nuevo",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-21T17:44:48Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130699914",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        }
+      ],
+      "inMasterList": true
+    },
+    {
       "classification": "Feature",
       "openCount": 0,
       "onHoldCount": 0,
@@ -14783,36 +14813,6 @@
           "createdTime": "2026-08-28T14:18:27Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129422673",
           "assignee": "Trinidad Larrain Punti"
-        }
-      ],
-      "inMasterList": true
-    },
-    {
-      "classification": "Admin :: Combos",
-      "openCount": 0,
-      "onHoldCount": 0,
-      "closedCount": 2,
-      "totalCount": 2,
-      "tickets": [
-        {
-          "id": "45842000131185284",
-          "number": "359384",
-          "subject": "Hola necesito crear un combo para  que me lo puedan activar en Uber Eats",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-30T11:29:07Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131185284",
-          "assignee": "Jordy Carmona"
-        },
-        {
-          "id": "45842000130699914",
-          "number": "357819",
-          "subject": "Hola de nuevo",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-21T17:44:48Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130699914",
-          "assignee": "Johan Manuel Cortissoz Posada"
         }
       ],
       "inMasterList": true
