@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-09-30T01:36:58.643923+00:00",
-  "totalOpenTickets": 79,
+  "lastUpdated": "2026-09-30T02:30:26.703582+00:00",
+  "totalOpenTickets": 80,
   "totalClosedTickets": 3251,
   "closedWindowDays": 30,
   "byLocation": [
+    {
+      "accountId": "45842000022977149",
+      "accountName": "Cloudtown (Florencio-Madrid)",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000131162705",
+          "number": "359283",
+          "subject": "Solicitud de Push en Glovo",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-30T02:10:46Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131162705",
+          "assignee": ""
+        },
+        {
+          "id": "45842000131148498",
+          "number": "359189",
+          "subject": "Solicitud Push integración Just eat",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-29T12:43:22Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131148498",
+          "assignee": "Trinidad Larrain Punti"
+        }
+      ]
+    },
     {
       "accountId": "45842000128665023",
       "accountName": "De Pita Madre",
@@ -60,6 +87,18 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000131162705",
+      "number": "359283",
+      "subject": "Solicitud de Push en Glovo",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-09-30T02:10:46Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131162705",
+      "assignee": "",
+      "accountName": "Cloudtown (Florencio-Madrid)",
+      "locationId": ""
+    },
     {
       "id": "45842000131162545",
       "number": "359279",
@@ -2447,21 +2486,9 @@
       "assignee": "Raimundo Garcia",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000130931544",
-      "number": "358310",
-      "subject": "LastApp - didi integration request",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-24T02:59:35Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130931544",
-      "assignee": "Raimundo Garcia",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1261,
+  "locationIdIssuesTotal": 1262,
   "byContact": [
     {
       "contactId": "45842000126729962",
@@ -3247,11 +3274,21 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 8,
+      "openCount": 9,
       "onHoldCount": 0,
       "closedCount": 588,
-      "totalCount": 596,
+      "totalCount": 597,
       "tickets": [
+        {
+          "id": "45842000131162705",
+          "number": "359283",
+          "subject": "Solicitud de Push en Glovo",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-30T02:10:46Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131162705",
+          "assignee": ""
+        },
         {
           "id": "45842000131158669",
           "number": "359273",
