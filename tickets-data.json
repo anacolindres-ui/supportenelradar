@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-30T05:19:40.913887+00:00",
-  "totalOpenTickets": 81,
+  "lastUpdated": "2026-09-30T06:33:08.185626+00:00",
+  "totalOpenTickets": 85,
   "totalClosedTickets": 3252,
   "closedWindowDays": 30,
   "byLocation": [
@@ -87,6 +87,54 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000131119778",
+      "number": "359298",
+      "subject": "Llamada entrante (00:05:26) de +34685432019 ( Alejandro Martinez) a +34937377821 (Soporte)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-09-30T06:31:03Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131119778",
+      "assignee": "Angie Oliveros",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000131132896",
+      "number": "359297",
+      "subject": "Buenos días",
+      "status": "Open",
+      "channel": "Last.app España",
+      "createdTime": "2026-09-30T06:30:46Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131132896",
+      "assignee": "",
+      "accountName": "Galiana",
+      "locationId": ""
+    },
+    {
+      "id": "45842000131163724",
+      "number": "359296",
+      "subject": "LastApp - uberdirect integration request",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-09-30T06:23:00Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131163724",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000131162894",
+      "number": "359289",
+      "subject": "(No Subject)",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-09-30T05:21:54Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131162894",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000131163509",
       "number": "359288",
@@ -2438,57 +2486,9 @@
       "assignee": "Trinidad Larrain Punti",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000130931632",
-      "number": "358315",
-      "subject": "Uber Case# 60310752-LastApp - uber integration request",
-      "status": "On Hold",
-      "channel": "Email",
-      "createdTime": "2026-09-24T03:11:40Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130931632",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000130936294",
-      "number": "358313",
-      "subject": "LastApp - didi integration request",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-24T03:01:42Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130936294",
-      "assignee": "Trinidad Larrain Punti",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000130920753",
-      "number": "358312",
-      "subject": "Re: LastApp - uber integration request",
-      "status": "On Hold",
-      "channel": "Email",
-      "createdTime": "2026-09-24T03:00:29Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130920753",
-      "assignee": "Raimundo Garcia",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000130936214",
-      "number": "358311",
-      "subject": "Re: LastApp - uber integration request",
-      "status": "On Hold",
-      "channel": "Email",
-      "createdTime": "2026-09-24T03:00:25Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130936214",
-      "assignee": "Raimundo Garcia",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1262,
+  "locationIdIssuesTotal": 1266,
   "byContact": [
     {
       "contactId": "45842000126729962",
@@ -3274,11 +3274,31 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 10,
+      "openCount": 12,
       "onHoldCount": 0,
       "closedCount": 588,
-      "totalCount": 598,
+      "totalCount": 600,
       "tickets": [
+        {
+          "id": "45842000131132896",
+          "number": "359297",
+          "subject": "Buenos días",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-09-30T06:30:46Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131132896",
+          "assignee": ""
+        },
+        {
+          "id": "45842000131162894",
+          "number": "359289",
+          "subject": "(No Subject)",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-30T05:21:54Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131162894",
+          "assignee": ""
+        },
         {
           "id": "45842000131163509",
           "number": "359288",
@@ -3984,11 +4004,21 @@
     },
     {
       "classification": "Calls",
-      "openCount": 1,
+      "openCount": 2,
       "onHoldCount": 0,
       "closedCount": 342,
-      "totalCount": 343,
+      "totalCount": 344,
       "tickets": [
+        {
+          "id": "45842000131119778",
+          "number": "359298",
+          "subject": "Llamada entrante (00:05:26) de +34685432019 ( Alejandro Martinez) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-09-30T06:31:03Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131119778",
+          "assignee": "Angie Oliveros"
+        },
         {
           "id": "45842000131115436",
           "number": "359254",
@@ -4604,11 +4634,21 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 3,
+      "openCount": 4,
       "onHoldCount": 14,
       "closedCount": 215,
-      "totalCount": 232,
+      "totalCount": 233,
       "tickets": [
+        {
+          "id": "45842000131163724",
+          "number": "359296",
+          "subject": "LastApp - uberdirect integration request",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-09-30T06:23:00Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131163724",
+          "assignee": ""
+        },
         {
           "id": "45842000131163284",
           "number": "359269",
