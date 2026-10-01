@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-01T01:00:14.564372+00:00",
-  "totalOpenTickets": 71,
+  "lastUpdated": "2026-10-01T01:46:19.833506+00:00",
+  "totalOpenTickets": 72,
   "totalClosedTickets": 3274,
   "closedWindowDays": 30,
   "byLocation": [
@@ -60,6 +60,18 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000131213668",
+      "number": "359559",
+      "subject": "Uber Case# 60535758-LastApp - uber integration request",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-10-01T01:29:21Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131213668",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000131192463",
       "number": "359546",
@@ -2447,21 +2459,9 @@
       "assignee": "Trinidad Larrain Punti",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000130960915",
-      "number": "358613",
-      "subject": "Request Received",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-25T14:39:08Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130960915",
-      "assignee": "Brayan Ricardo Fuentes Herrera",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1261,
+  "locationIdIssuesTotal": 1262,
   "byContact": [
     {
       "contactId": "45842000046735453",
@@ -4529,11 +4529,21 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 10,
+      "openCount": 11,
       "onHoldCount": 15,
       "closedCount": 215,
-      "totalCount": 240,
+      "totalCount": 241,
       "tickets": [
+        {
+          "id": "45842000131213668",
+          "number": "359559",
+          "subject": "Uber Case# 60535758-LastApp - uber integration request",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-10-01T01:29:21Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131213668",
+          "assignee": ""
+        },
         {
           "id": "45842000131196802",
           "number": "359536",
