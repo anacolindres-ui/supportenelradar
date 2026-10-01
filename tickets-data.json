@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-01T20:21:18.002005+00:00",
-  "totalOpenTickets": 58,
-  "totalClosedTickets": 3419,
+  "lastUpdated": "2026-10-01T21:18:06.243779+00:00",
+  "totalOpenTickets": 60,
+  "totalClosedTickets": 3421,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -61,14 +61,38 @@
   ],
   "locationIdIssues": [
     {
-      "id": "45842000131310040",
-      "number": "359826",
-      "subject": "Hola buenas",
+      "id": "45842000131304825",
+      "number": "359836",
+      "subject": "Solicitud de llamada de Soporte - Con Xeito",
       "status": "Open",
-      "channel": "Last.app España",
-      "createdTime": "2026-10-01T19:49:22Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131310040",
+      "channel": "Email",
+      "createdTime": "2026-10-01T21:18:06Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131304825",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000131307324",
+      "number": "359835",
+      "subject": "Solicitud de llamada de Soporte - Del mar express",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-10-01T21:13:30Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131307324",
       "assignee": "Dimitriz Rodriguez",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000131304744",
+      "number": "359834",
+      "subject": "Google analytics",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-10-01T20:58:26Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131304744",
+      "assignee": "Johan Manuel Cortissoz Posada",
       "accountName": "",
       "locationId": ""
     },
@@ -2435,33 +2459,9 @@
       "assignee": "Javier Landaeta",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000131005622",
-      "number": "358896",
-      "subject": "MONO Pamplona // Posible incidencia",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-09-28T09:17:15Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131005622",
-      "assignee": "Alberto Poyato",
-      "accountName": "",
-      "locationId": "/9974df75-4041-4d2f-8a06-97ff91d4d5c1"
-    },
-    {
-      "id": "45842000131036858",
-      "number": "358894",
-      "subject": "Invitación actualizada: Grandes Cuentas - Revision Mensual Proyecto Cada mes de 11:00 a 11:30 el cuarto lunes (CEST) (ingrid.monserrat@last.app)",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-28T09:05:09Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131036858",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": "1234"
     }
   ],
-  "locationIdIssuesTotal": 1305,
+  "locationIdIssuesTotal": 1307,
   "byContact": [
     {
       "contactId": "45842000046735453",
@@ -3259,20 +3259,40 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 1,
+      "openCount": 3,
       "onHoldCount": 0,
       "closedCount": 615,
-      "totalCount": 616,
+      "totalCount": 618,
       "tickets": [
         {
-          "id": "45842000131310040",
-          "number": "359826",
-          "subject": "Hola buenas",
+          "id": "45842000131304825",
+          "number": "359836",
+          "subject": "Solicitud de llamada de Soporte - Con Xeito",
           "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-10-01T19:49:22Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131310040",
+          "channel": "Email",
+          "createdTime": "2026-10-01T21:18:06Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131304825",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000131307324",
+          "number": "359835",
+          "subject": "Solicitud de llamada de Soporte - Del mar express",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-10-01T21:13:30Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131307324",
           "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000131304744",
+          "number": "359834",
+          "subject": "Google analytics",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-10-01T20:58:26Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131304744",
+          "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
           "id": "45842000131302577",
@@ -5261,9 +5281,19 @@
       "classification": "Admin :: Impresoras",
       "openCount": 0,
       "onHoldCount": 2,
-      "closedCount": 195,
-      "totalCount": 197,
+      "closedCount": 196,
+      "totalCount": 198,
       "tickets": [
+        {
+          "id": "45842000131310040",
+          "number": "359826",
+          "subject": "Hola buenas",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-10-01T19:49:22Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131310040",
+          "assignee": "Dimitriz Rodriguez"
+        },
         {
           "id": "45842000131259226",
           "number": "359721",
@@ -5872,16 +5902,6 @@
           "channel": "Phone",
           "createdTime": "2026-09-21T16:59:14Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130745205",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
-          "id": "45842000130707331",
-          "number": "357807",
-          "subject": "Si, por no poder solucionarlo, no quería que salieran pedidos con el número de productos incorrectos",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-09-21T16:36:07Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130707331",
           "assignee": "Johan Manuel Cortissoz Posada"
         }
       ],
@@ -12031,9 +12051,19 @@
       "classification": "Admin :: Promociones",
       "openCount": 1,
       "onHoldCount": 1,
-      "closedCount": 22,
-      "totalCount": 24,
+      "closedCount": 23,
+      "totalCount": 25,
       "tickets": [
+        {
+          "id": "45842000131310139",
+          "number": "359831",
+          "subject": "Hola le escribo de jardin de guang zhou. He creado una oferta de regalo de un plato a elegir por compras superior a 30 euros con recogida en local. Pero aqui está permitiendo tener el regalo sin llegar a 30euros",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-10-01T20:34:14Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131310139",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000131276399",
           "number": "359820",
