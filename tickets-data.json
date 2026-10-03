@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-03T08:23:39.297043+00:00",
-  "totalOpenTickets": 78,
+  "lastUpdated": "2026-10-03T09:18:46.027594+00:00",
+  "totalOpenTickets": 85,
   "totalClosedTickets": 3268,
   "closedWindowDays": 30,
   "byLocation": [
@@ -52,6 +52,33 @@
       ]
     },
     {
+      "accountId": "45842000131292135",
+      "accountName": "El Alemán",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000131355038",
+          "number": "360108",
+          "subject": "Llamada saliente (00:06:10) de +34937377821 (Soporte) a +34662554493 ( Ricardo)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-10-03T09:02:27Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131355038",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000131261961",
+          "number": "360107",
+          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34662554493 ( Ricardo)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-10-03T09:01:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131261961",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        }
+      ]
+    },
+    {
       "accountId": "45842000101608301",
       "accountName": "Fisch Pauli",
       "ticketCount": 2,
@@ -75,33 +102,6 @@
           "createdTime": "2026-09-05T01:54:09Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000129774304",
           "assignee": "Trinidad Larrain Punti"
-        }
-      ]
-    },
-    {
-      "accountId": "45842000131141429",
-      "accountName": "LAVIVI",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000131259810",
-          "number": "360097",
-          "subject": "Llamada saliente (00:26:48) de +34937377821 (Soporte) a +34619853534 ( David)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-10-03T07:46:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131259810",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000131274743",
-          "number": "359967",
-          "subject": "Feature Request post formacion",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-10-02T10:55:09Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131274743",
-          "assignee": "Raimundo Garcia"
         }
       ]
     },
@@ -162,6 +162,90 @@
   ],
   "locationIdIssues": [
     {
+      "id": "45842000131352105",
+      "number": "360113",
+      "subject": "Llamada entrante de +34645787113 ( Nana Sánchez) a +34937377821 (Soporte)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-10-03T09:16:58Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131352105",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000131343376",
+      "number": "360112",
+      "subject": "Factura",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-10-03T09:15:55Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131343376",
+      "assignee": "",
+      "accountName": "Lab 84",
+      "locationId": ""
+    },
+    {
+      "id": "45842000131351202",
+      "number": "360109",
+      "subject": "Buenas como puedo sacar reporte de los productos mas vendidos del año ,",
+      "status": "Open",
+      "channel": "Last.app España",
+      "createdTime": "2026-10-03T09:07:27Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131351202",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "Alejandro Amengual",
+      "locationId": ""
+    },
+    {
+      "id": "45842000131355038",
+      "number": "360108",
+      "subject": "Llamada saliente (00:06:10) de +34937377821 (Soporte) a +34662554493 ( Ricardo)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-10-03T09:02:27Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131355038",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "El Alemán",
+      "locationId": ""
+    },
+    {
+      "id": "45842000131261961",
+      "number": "360107",
+      "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34662554493 ( Ricardo)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-10-03T09:01:33Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131261961",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "El Alemán",
+      "locationId": ""
+    },
+    {
+      "id": "45842000131337935",
+      "number": "360104",
+      "subject": "Solicitud de llamada de Soporte - Bolnuevo",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-10-03T08:54:31Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131337935",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000131335705",
+      "number": "360102",
+      "subject": "Hola buenos días, una pregunta. Lastapp no tiene opción de hacer una precuenta o cuenta provisional y que no quede registrado en sistema?",
+      "status": "Open",
+      "channel": "Last.app España",
+      "createdTime": "2026-10-03T08:26:59Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131335705",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "La Churuata by La Mechada",
+      "locationId": ""
+    },
+    {
       "id": "45842000131335630",
       "number": "360100",
       "subject": "Muy buenas sabemos algo más \nEs q me contestaron por correo q estaba activo pero no me llegan los cierres al correo … y están pasando cosas en el local las cajas han bajado y sospechamos de uno de los...",
@@ -174,18 +258,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000131259810",
-      "number": "360097",
-      "subject": "Llamada saliente (00:26:48) de +34937377821 (Soporte) a +34619853534 ( David)",
-      "status": "Open",
-      "channel": "Phone",
-      "createdTime": "2026-10-03T07:46:33Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131259810",
-      "assignee": "Brayan Ricardo Fuentes Herrera",
-      "accountName": "LAVIVI",
-      "locationId": ""
-    },
-    {
       "id": "45842000131343167",
       "number": "360095",
       "subject": "Solicitud de llamada de Soporte - LAVIVI",
@@ -193,7 +265,7 @@
       "channel": "Email",
       "createdTime": "2026-10-03T07:35:45Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131343167",
-      "assignee": "",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
       "accountName": "",
       "locationId": ""
     },
@@ -2488,81 +2560,9 @@
       "assignee": "Raimundo Garcia",
       "accountName": "La Chiviteria",
       "locationId": ""
-    },
-    {
-      "id": "45842000131127106",
-      "number": "359132",
-      "subject": "Llamada saliente de +34937377821 (Soporte) a +34619023021 ( Joaquin)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-09-29T09:55:43Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131127106",
-      "assignee": "Raimundo Garcia",
-      "accountName": "La Chiviteria",
-      "locationId": ""
-    },
-    {
-      "id": "45842000131116108",
-      "number": "359128",
-      "subject": "Llamada saliente (00:00:08) de +34937377821 (Soporte) a +34619023021 ( Joaquin)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-09-29T09:53:02Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131116108",
-      "assignee": "Raimundo Garcia",
-      "accountName": "La Chiviteria",
-      "locationId": ""
-    },
-    {
-      "id": "45842000131100257",
-      "number": "359117",
-      "subject": "Llamada saliente (00:00:52) de +34937377821 (Soporte) a +34661101029 ( Jeffer vargas.)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-09-29T09:21:48Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131100257",
-      "assignee": "Raimundo Garcia",
-      "accountName": "La Abuela Gomela",
-      "locationId": ""
-    },
-    {
-      "id": "45842000131131818",
-      "number": "359113",
-      "subject": "Pitch to the investors and corporations shaping industry, energy and mobility  ",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-29T09:06:49Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131131818",
-      "assignee": "Harold Diaz",
-      "accountName": "",
-      "locationId": "1234"
-    },
-    {
-      "id": "45842000131105124",
-      "number": "359109",
-      "subject": "Llamada saliente (00:00:36) de +34937377821 (Soporte) a +34661101029 ( Jeffer vargas.)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-09-29T08:55:32Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131105124",
-      "assignee": "Raimundo Garcia",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000131126882",
-      "number": "359107",
-      "subject": "Cobertura audiovisual para GastroForum",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-29T08:49:34Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131126882",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": "1234"
     }
   ],
-  "locationIdIssuesTotal": 1286,
+  "locationIdIssuesTotal": 1292,
   "byContact": [
     {
       "contactId": "45842000130028546",
@@ -2669,34 +2669,6 @@
       ]
     },
     {
-      "contactId": "45842000131141460",
-      "contactName": "David",
-      "email": "Lavivibar@gmail.com",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000131259810",
-          "number": "360097",
-          "subject": "Llamada saliente (00:26:48) de +34937377821 (Soporte) a +34619853534 ( David)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-10-03T07:46:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131259810",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000131274743",
-          "number": "359967",
-          "subject": "Feature Request post formacion",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-10-02T10:55:09Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131274743",
-          "assignee": "Raimundo Garcia"
-        }
-      ]
-    },
-    {
       "contactId": "45842000101608363",
       "contactName": "Ferhat Cantürk",
       "email": "cantuerk.f@gmail.com",
@@ -2749,6 +2721,34 @@
           "createdTime": "2026-09-28T18:03:46Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131075033",
           "assignee": "Javier Landaeta"
+        }
+      ]
+    },
+    {
+      "contactId": "45842000131292157",
+      "contactName": "Ricardo",
+      "email": "ricardoroymourelle@gmail.com",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000131355038",
+          "number": "360108",
+          "subject": "Llamada saliente (00:06:10) de +34937377821 (Soporte) a +34662554493 ( Ricardo)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-10-03T09:02:27Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131355038",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000131261961",
+          "number": "360107",
+          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34662554493 ( Ricardo)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-10-03T09:01:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131261961",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
         }
       ]
     },
@@ -3474,11 +3474,71 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 11,
+      "openCount": 16,
       "onHoldCount": 0,
       "closedCount": 590,
-      "totalCount": 601,
+      "totalCount": 606,
       "tickets": [
+        {
+          "id": "45842000131343376",
+          "number": "360112",
+          "subject": "Factura",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-10-03T09:15:55Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131343376",
+          "assignee": ""
+        },
+        {
+          "id": "45842000131351202",
+          "number": "360109",
+          "subject": "Buenas como puedo sacar reporte de los productos mas vendidos del año ,",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-10-03T09:07:27Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131351202",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000131355038",
+          "number": "360108",
+          "subject": "Llamada saliente (00:06:10) de +34937377821 (Soporte) a +34662554493 ( Ricardo)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-10-03T09:02:27Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131355038",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000131261961",
+          "number": "360107",
+          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34662554493 ( Ricardo)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-10-03T09:01:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131261961",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000131337935",
+          "number": "360104",
+          "subject": "Solicitud de llamada de Soporte - Bolnuevo",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-10-03T08:54:31Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131337935",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
+          "id": "45842000131335705",
+          "number": "360102",
+          "subject": "Hola buenos días, una pregunta. Lastapp no tiene opción de hacer una precuenta o cuenta provisional y que no quede registrado en sistema?",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-10-03T08:26:59Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131335705",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
         {
           "id": "45842000131335630",
           "number": "360100",
@@ -3490,16 +3550,6 @@
           "assignee": "Brayan Ricardo Fuentes Herrera"
         },
         {
-          "id": "45842000131259810",
-          "number": "360097",
-          "subject": "Llamada saliente (00:26:48) de +34937377821 (Soporte) a +34619853534 ( David)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-10-03T07:46:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131259810",
-          "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
           "id": "45842000131343167",
           "number": "360095",
           "subject": "Solicitud de llamada de Soporte - LAVIVI",
@@ -3507,7 +3557,7 @@
           "channel": "Email",
           "createdTime": "2026-10-03T07:35:45Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131343167",
-          "assignee": ""
+          "assignee": "Brayan Ricardo Fuentes Herrera"
         },
         {
           "id": "45842000131321660",
@@ -4194,11 +4244,21 @@
     },
     {
       "classification": "Calls",
-      "openCount": 1,
+      "openCount": 2,
       "onHoldCount": 0,
       "closedCount": 318,
-      "totalCount": 319,
+      "totalCount": 320,
       "tickets": [
+        {
+          "id": "45842000131352105",
+          "number": "360113",
+          "subject": "Llamada entrante de +34645787113 ( Nana Sánchez) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-10-03T09:16:58Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131352105",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
         {
           "id": "45842000131269867",
           "number": "360094",
@@ -5564,11 +5624,21 @@
     },
     {
       "classification": "Integraciones",
-      "openCount": 2,
+      "openCount": 3,
       "onHoldCount": 3,
       "closedCount": 183,
-      "totalCount": 188,
+      "totalCount": 189,
       "tickets": [
+        {
+          "id": "45842000131231837",
+          "number": "360101",
+          "subject": "Marchando Cocina // Pedido de Uber ingresa despues del horario del establecimiento",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-10-03T08:26:00Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131231837",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
         {
           "id": "45842000131267792",
           "number": "360075",
