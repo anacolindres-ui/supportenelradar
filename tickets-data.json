@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-03T18:50:16.954230+00:00",
-  "totalOpenTickets": 82,
-  "totalClosedTickets": 3307,
+  "lastUpdated": "2026-10-03T19:56:22.737837+00:00",
+  "totalOpenTickets": 79,
+  "totalClosedTickets": 3311,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -142,16 +142,28 @@
   ],
   "locationIdIssues": [
     {
+      "id": "45842000131352439",
+      "number": "360185",
+      "subject": "Llamada entrante (00:03:08) de +34652208404 ( Jesus) a +34937377821 (Soporte)",
+      "status": "Closed",
+      "channel": "Phone",
+      "createdTime": "2026-10-03T19:09:35Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131352439",
+      "assignee": "Jordy Carmona",
+      "accountName": "Liados",
+      "locationId": ""
+    },
+    {
       "id": "45842000131364635",
       "number": "360180",
       "subject": "Hola, buenas tardes, estamos teniendo inconvenientes con la impresora en Cloudtown (Ciro Street Food- Nueva Numancia Madrid) PD, ya reiniciamos, verificamos la ip y no les imprime",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Last.app España",
       "createdTime": "2026-10-03T18:21:46Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131364635",
       "assignee": "Johan Manuel Cortissoz Posada",
       "accountName": "Cloudtwon",
-      "locationId": ""
+      "locationId": "/b7bc4753-575c-42e1-bf97-ed61443f639b"
     },
     {
       "id": "45842000131370502",
@@ -169,7 +181,7 @@
       "id": "45842000131321858",
       "number": "360173",
       "subject": "buenas tardes.perfecto muchas gracias.",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Last.app España",
       "createdTime": "2026-10-03T18:02:16Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131321858",
@@ -2528,21 +2540,9 @@
       "assignee": "Raimundo Garcia",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000131117380",
-      "number": "359167",
-      "subject": "Llamada entrante (00:02:52) de +34674661401 ( Frailejones) a +34937377821 (Soporte)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-09-29T11:32:46Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131117380",
-      "assignee": "Jordy Carmona",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1302,
+  "locationIdIssuesTotal": 1303,
   "byContact": [
     {
       "contactId": "45842000101529660",
@@ -3434,21 +3434,11 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 8,
+      "openCount": 6,
       "onHoldCount": 0,
-      "closedCount": 607,
-      "totalCount": 615,
+      "closedCount": 608,
+      "totalCount": 614,
       "tickets": [
-        {
-          "id": "45842000131364635",
-          "number": "360180",
-          "subject": "Hola, buenas tardes, estamos teniendo inconvenientes con la impresora en Cloudtown (Ciro Street Food- Nueva Numancia Madrid) PD, ya reiniciamos, verificamos la ip y no les imprime",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-10-03T18:21:46Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131364635",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
         {
           "id": "45842000131370502",
           "number": "360174",
@@ -3463,7 +3453,7 @@
           "id": "45842000131321858",
           "number": "360173",
           "subject": "buenas tardes.perfecto muchas gracias.",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Last.app España",
           "createdTime": "2026-10-03T18:02:16Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131321858",
@@ -4108,16 +4098,6 @@
           "createdTime": "2026-09-30T17:15:13Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131197939",
           "assignee": "Jordy Carmona"
-        },
-        {
-          "id": "45842000131197798",
-          "number": "359487",
-          "subject": "Últimas 6 horas para tu cuota a mitad de precio",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-30T16:23:18Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131197798",
-          "assignee": "Jordy Carmona"
         }
       ],
       "inMasterList": false
@@ -4126,9 +4106,19 @@
       "classification": "Calls",
       "openCount": 0,
       "onHoldCount": 0,
-      "closedCount": 321,
-      "totalCount": 321,
+      "closedCount": 322,
+      "totalCount": 322,
       "tickets": [
+        {
+          "id": "45842000131352439",
+          "number": "360185",
+          "subject": "Llamada entrante (00:03:08) de +34652208404 ( Jesus) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-10-03T19:09:35Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131352439",
+          "assignee": "Jordy Carmona"
+        },
         {
           "id": "45842000131348180",
           "number": "360171",
@@ -4718,16 +4708,6 @@
           "createdTime": "2026-09-27T10:00:26Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130982616",
           "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000130982499",
-          "number": "358759",
-          "subject": "Llamada entrante (00:16:06) de +34694244827 ( nicolle) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-26T21:02:01Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130982499",
-          "assignee": "Harold Diaz"
         }
       ],
       "inMasterList": false
@@ -6156,9 +6136,19 @@
       "classification": "Admin :: Impresoras",
       "openCount": 1,
       "onHoldCount": 1,
-      "closedCount": 184,
-      "totalCount": 186,
+      "closedCount": 185,
+      "totalCount": 187,
       "tickets": [
+        {
+          "id": "45842000131364635",
+          "number": "360180",
+          "subject": "Hola, buenas tardes, estamos teniendo inconvenientes con la impresora en Cloudtown (Ciro Street Food- Nueva Numancia Madrid) PD, ya reiniciamos, verificamos la ip y no les imprime",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-10-03T18:21:46Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131364635",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000131330769",
           "number": "360144",
@@ -6768,16 +6758,6 @@
           "createdTime": "2026-09-22T07:13:23Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130727339",
           "assignee": "Raimundo Garcia"
-        },
-        {
-          "id": "45842000130746165",
-          "number": "357834",
-          "subject": "Llamada saliente (00:03:42) de +525597219950 (Mexico) a +5216123180133 ( mike)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-09-21T18:54:16Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130746165",
-          "assignee": "Dimitriz Rodriguez"
         }
       ],
       "inMasterList": true
@@ -8784,16 +8764,16 @@
     },
     {
       "classification": "POS :: uso general",
-      "openCount": 6,
+      "openCount": 5,
       "onHoldCount": 2,
-      "closedCount": 88,
+      "closedCount": 89,
       "totalCount": 96,
       "tickets": [
         {
           "id": "45842000131375066",
           "number": "360170",
           "subject": "Le Otto / Comanda con error de impresión.",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Last.app España",
           "createdTime": "2026-10-03T17:18:32Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131375066",
@@ -9458,16 +9438,6 @@
           "createdTime": "2026-09-14T12:09:26Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130196212",
           "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000130201587",
-          "number": "356316",
-          "subject": "Problema con el sistema de stock en Glovo y Uber Eats",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-14T11:40:56Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000130201587",
-          "assignee": "Javier Landaeta"
         }
       ],
       "inMasterList": true
@@ -12347,7 +12317,7 @@
           "channel": "Last.app España",
           "createdTime": "2026-10-03T18:36:31Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131375167",
-          "assignee": "Jordy Carmona"
+          "assignee": ""
         },
         {
           "id": "45842000131237796",
