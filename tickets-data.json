@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-03T03:28:37.336432+00:00",
-  "totalOpenTickets": 74,
+  "lastUpdated": "2026-10-03T04:23:22.417575+00:00",
+  "totalOpenTickets": 75,
   "totalClosedTickets": 3268,
   "closedWindowDays": 30,
   "byLocation": [
@@ -134,6 +134,18 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000131321660",
+      "number": "360092",
+      "subject": "Buenos dias. Tengo una web propia (carbonburgers.es) con pagos online por Stripe y quiero que los pedidos entren automáticamente en mi TPV de Last. ¿Me podéis dar acceso a la API para integrar pedidos externos (credenciales y documentación)?",
+      "status": "Open",
+      "channel": "Last.app España",
+      "createdTime": "2026-10-03T03:59:32Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131321660",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000131262770",
       "number": "360080",
@@ -2521,21 +2533,9 @@
       "assignee": "Raimundo Garcia",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000131131259",
-      "number": "359071",
-      "subject": "Re: LastApp - uber integration request",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-29T08:00:26Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131131259",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1282,
+  "locationIdIssuesTotal": 1283,
   "byContact": [
     {
       "contactId": "45842000130028546",
@@ -3419,11 +3419,21 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 8,
+      "openCount": 9,
       "onHoldCount": 0,
       "closedCount": 590,
-      "totalCount": 598,
+      "totalCount": 599,
       "tickets": [
+        {
+          "id": "45842000131321660",
+          "number": "360092",
+          "subject": "Buenos dias. Tengo una web propia (carbonburgers.es) con pagos online por Stripe y quiero que los pedidos entren automáticamente en mi TPV de Last. ¿Me podéis dar acceso a la API para integrar pedidos externos (credenciales y documentación)?",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-10-03T03:59:32Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131321660",
+          "assignee": ""
+        },
         {
           "id": "45842000131262770",
           "number": "360080",
