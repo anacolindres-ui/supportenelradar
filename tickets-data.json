@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-04T01:28:18.103571+00:00",
-  "totalOpenTickets": 80,
-  "totalClosedTickets": 3183,
+  "lastUpdated": "2026-10-04T03:03:29.435325+00:00",
+  "totalOpenTickets": 82,
+  "totalClosedTickets": 3182,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -141,6 +141,18 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000131351596",
+      "number": "360197",
+      "subject": "Hola",
+      "status": "Open",
+      "channel": "Last.app Mexico",
+      "createdTime": "2026-10-04T02:46:00Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131351596",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "Los Plebes Wings",
+      "locationId": ""
+    },
     {
       "id": "45842000131343749",
       "number": "360193",
@@ -1669,7 +1681,7 @@
       "id": "45842000131226277",
       "number": "359560",
       "subject": "Important: Updates to Our Terms & Privacy Policy",
-      "status": "Closed",
+      "status": "Open",
       "channel": "Email",
       "createdTime": "2026-10-01T02:18:30Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131226277",
@@ -2528,21 +2540,9 @@
       "assignee": "Harold Diaz",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000131112258",
-      "number": "359169",
-      "subject": "Llamada entrante (00:03:02) de +34633485476 ( Street Grill) a +34937377821 (Soporte)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-09-29T11:36:31Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131112258",
-      "assignee": "Jordy Carmona",
-      "accountName": "street grills",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1267,
+  "locationIdIssuesTotal": 1268,
   "byContact": [
     {
       "contactId": "45842000101529660",
@@ -2744,9 +2744,9 @@
   "byClassification": [
     {
       "classification": "Admin :: General",
-      "openCount": 2,
+      "openCount": 3,
       "onHoldCount": 6,
-      "closedCount": 763,
+      "closedCount": 762,
       "totalCount": 771,
       "tickets": [
         {
@@ -3390,6 +3390,16 @@
           "assignee": "Harold Diaz"
         },
         {
+          "id": "45842000131226277",
+          "number": "359560",
+          "subject": "Important: Updates to Our Terms & Privacy Policy",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-10-01T02:18:30Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131226277",
+          "assignee": "Angie Oliveros"
+        },
+        {
           "id": "45842000131174900",
           "number": "359422",
           "subject": "CONFIGURACION EN LAST APP",
@@ -3434,11 +3444,21 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 7,
+      "openCount": 8,
       "onHoldCount": 0,
       "closedCount": 588,
-      "totalCount": 595,
+      "totalCount": 596,
       "tickets": [
+        {
+          "id": "45842000131351596",
+          "number": "360197",
+          "subject": "Hola",
+          "status": "Open",
+          "channel": "Last.app Mexico",
+          "createdTime": "2026-10-04T02:46:00Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131351596",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000131343749",
           "number": "360193",
@@ -5240,16 +5260,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000131126538",
-          "number": "359087",
-          "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-09-29T08:27:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131126538",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000131131394",
           "number": "359088",
           "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
@@ -5257,6 +5267,16 @@
           "channel": "Email",
           "createdTime": "2026-09-29T08:27:33Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131131394",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000131126538",
+          "number": "359087",
+          "subject": "[Just Eat UK] Re: LastApp - flyt integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-09-29T08:27:33Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131126538",
           "assignee": "Alberto Poyato"
         },
         {
