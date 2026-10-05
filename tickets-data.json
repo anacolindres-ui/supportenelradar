@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-10-05T15:19:38.883130+00:00",
-  "totalOpenTickets": 74,
-  "totalClosedTickets": 3262,
+  "lastUpdated": "2026-10-05T16:22:08.563994+00:00",
+  "totalOpenTickets": 76,
+  "totalClosedTickets": 3267,
   "closedWindowDays": 30,
   "byLocation": [
+    {
+      "accountId": "45842000022977149",
+      "accountName": "Cloudtown (Florencio-Madrid)",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000131481384",
+          "number": "360481",
+          "subject": "Solicitud de cancelación de suscripción",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-10-05T15:22:14Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131481384",
+          "assignee": "Raimundo Garcia"
+        },
+        {
+          "id": "45842000131148498",
+          "number": "359189",
+          "subject": "Solicitud Push integración Just eat",
+          "status": "On Hold",
+          "channel": "Email",
+          "createdTime": "2026-09-29T12:43:22Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131148498",
+          "assignee": "Trinidad Larrain Punti"
+        }
+      ]
+    },
     {
       "accountId": "45842000131141429",
       "accountName": "LAVIVI",
@@ -40,7 +67,7 @@
           "id": "45842000131339198",
           "number": "360158",
           "subject": "La Casa Firewood // Importe incorrecto tras modificar pedido de Last.Shop",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Phone",
           "createdTime": "2026-10-03T14:40:57Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131339198",
@@ -115,28 +142,76 @@
   ],
   "locationIdIssues": [
     {
-      "id": "45842000131481302",
-      "number": "360478",
-      "subject": "Help us improve",
+      "id": "45842000131485013",
+      "number": "360493",
+      "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
       "status": "Open",
       "channel": "Email",
-      "createdTime": "2026-10-05T15:08:12Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131481302",
+      "createdTime": "2026-10-05T16:13:58Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131485013",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000131481712",
+      "number": "360491",
+      "subject": "Request Received",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-10-05T15:59:36Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131481712",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000131483094",
+      "number": "360490",
+      "subject": "LastApp - glovo integration request",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-10-05T15:57:30Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131483094",
       "assignee": "Harold Diaz",
       "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000131481639",
+      "number": "360488",
+      "subject": "Questions",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-10-05T15:33:56Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131481639",
+      "assignee": "Harold Diaz",
+      "accountName": "",
+      "locationId": "1234"
+    },
+    {
+      "id": "45842000131481384",
+      "number": "360481",
+      "subject": "Solicitud de cancelación de suscripción",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-10-05T15:22:14Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131481384",
+      "assignee": "Raimundo Garcia",
+      "accountName": "Cloudtown (Florencio-Madrid)",
       "locationId": ""
     },
     {
       "id": "45842000131477658",
       "number": "360477",
       "subject": "Help us improve",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Email",
-      "createdTime": "2026-10-05T15:08:11Z",
+      "createdTime": "2026-10-05T15:08:12Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131477658",
       "assignee": "Harold Diaz",
       "accountName": "",
-      "locationId": ""
+      "locationId": "1234"
     },
     {
       "id": "45842000131471964",
@@ -298,7 +373,7 @@
       "id": "45842000131437464",
       "number": "360406",
       "subject": "Re:[## 419327 ##] Integracion Yunie Group SL con Catcher",
-      "status": "Open",
+      "status": "On Hold",
       "channel": "Email",
       "createdTime": "2026-10-05T11:23:04Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131437464",
@@ -502,7 +577,7 @@
       "id": "45842000131427827",
       "number": "360323",
       "subject": "[BA] Uber Eats sin funcionar – O Mamma Mia Córdoba – revisión y escalado a Uber",
-      "status": "Open",
+      "status": "On Hold",
       "channel": "Email",
       "createdTime": "2026-10-05T07:19:21Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131427827",
@@ -1234,7 +1309,7 @@
       "id": "45842000131323908",
       "number": "360011",
       "subject": "Pedido mínimo por zona de reparto no se aplica en la tienda online — La Shawermeria (Valencia · Clariano 6)",
-      "status": "Open",
+      "status": "On Hold",
       "channel": "Email",
       "createdTime": "2026-10-02T13:36:43Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131323908",
@@ -2465,57 +2540,9 @@
       "assignee": "Harold Diaz",
       "accountName": "",
       "locationId": "1234"
-    },
-    {
-      "id": "45842000131169820",
-      "number": "359449",
-      "subject": "Tu enlace seguro a Claude.ai está aquí | 2026-09-30 15:57:28",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-30T13:57:37Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131169820",
-      "assignee": "Raimundo Garcia",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000131196164",
-      "number": "359448",
-      "subject": "Activar Verifactu",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-30T13:57:16Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131196164",
-      "assignee": "Javier Landaeta",
-      "accountName": "NAP",
-      "locationId": ""
-    },
-    {
-      "id": "45842000131100808",
-      "number": "359444",
-      "subject": "Llamada entrante (00:12:37) de +34658665453 ( Yenny Carolina De Freitas) a +34937377821 (Soporte)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-09-30T13:41:55Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131100808",
-      "assignee": "Jordy Carmona",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000131197090",
-      "number": "359440",
-      "subject": "LastApp - glovo integration deleted",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-09-30T13:33:54Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131197090",
-      "assignee": "Alberto Poyato",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1299,
+  "locationIdIssuesTotal": 1303,
   "byContact": [
     {
       "contactId": "45842000129042521",
@@ -2583,7 +2610,7 @@
           "id": "45842000131339198",
           "number": "360158",
           "subject": "La Casa Firewood // Importe incorrecto tras modificar pedido de Last.Shop",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Phone",
           "createdTime": "2026-10-03T14:40:57Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131339198",
@@ -2635,9 +2662,39 @@
       "classification": "Admin :: General",
       "openCount": 0,
       "onHoldCount": 5,
-      "closedCount": 788,
-      "totalCount": 793,
+      "closedCount": 791,
+      "totalCount": 796,
       "tickets": [
+        {
+          "id": "45842000131482063",
+          "number": "360492",
+          "subject": "Hola, sería posible que las reservas de mama Eixample me lleguen a este mail: mamalastappeixample@gmail.com y las de mama plaza España a este otro?: mamalastappplazaespanya@gmail.com",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-10-05T16:12:47Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131482063",
+          "assignee": "Dimitriz Rodriguez"
+        },
+        {
+          "id": "45842000131481639",
+          "number": "360488",
+          "subject": "Questions",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-10-05T15:33:56Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131481639",
+          "assignee": "Harold Diaz"
+        },
+        {
+          "id": "45842000131477658",
+          "number": "360477",
+          "subject": "Help us improve",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-10-05T15:08:12Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131477658",
+          "assignee": "Harold Diaz"
+        },
         {
           "id": "45842000131471964",
           "number": "360475",
@@ -3209,36 +3266,6 @@
           "assignee": "Angie Oliveros"
         },
         {
-          "id": "45842000131315742",
-          "number": "359974",
-          "subject": "Buenas tardes",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-10-02T11:30:54Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131315742",
-          "assignee": "Angie Oliveros"
-        },
-        {
-          "id": "45842000131310802",
-          "number": "359968",
-          "subject": "Hola buenas tardes que tal",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-10-02T10:56:38Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131310802",
-          "assignee": "Angie Oliveros"
-        },
-        {
-          "id": "45842000131324327",
-          "number": "359950",
-          "subject": "Request Received",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-10-02T10:15:53Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131324327",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000131255341",
           "number": "359908",
           "subject": "Pintó Sandwichito // error en Last Admin app",
@@ -3293,30 +3320,40 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 9,
-      "onHoldCount": 0,
-      "closedCount": 596,
-      "totalCount": 605,
+      "openCount": 6,
+      "onHoldCount": 1,
+      "closedCount": 597,
+      "totalCount": 604,
       "tickets": [
         {
-          "id": "45842000131481302",
-          "number": "360478",
-          "subject": "Help us improve",
+          "id": "45842000131485013",
+          "number": "360493",
+          "subject": "[Just Eat UK] Re: LastApp - flyt integration deleted",
           "status": "Open",
           "channel": "Email",
-          "createdTime": "2026-10-05T15:08:12Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131481302",
-          "assignee": "Harold Diaz"
+          "createdTime": "2026-10-05T16:13:58Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131485013",
+          "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
-          "id": "45842000131477658",
-          "number": "360477",
-          "subject": "Help us improve",
+          "id": "45842000131481712",
+          "number": "360491",
+          "subject": "Request Received",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-10-05T15:59:36Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131481712",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000131481384",
+          "number": "360481",
+          "subject": "Solicitud de cancelación de suscripción",
           "status": "Open",
           "channel": "Email",
-          "createdTime": "2026-10-05T15:08:11Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131477658",
-          "assignee": "Harold Diaz"
+          "createdTime": "2026-10-05T15:22:14Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131481384",
+          "assignee": "Raimundo Garcia"
         },
         {
           "id": "45842000131410575",
@@ -3372,7 +3409,7 @@
           "id": "45842000131437464",
           "number": "360406",
           "subject": "Re:[## 419327 ##] Integracion Yunie Group SL con Catcher",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Email",
           "createdTime": "2026-10-05T11:23:04Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131437464",
@@ -3437,16 +3474,6 @@
           "createdTime": "2026-10-05T08:17:17Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131403100",
           "assignee": "Fernando Poza"
-        },
-        {
-          "id": "45842000131427827",
-          "number": "360323",
-          "subject": "[BA] Uber Eats sin funcionar – O Mamma Mia Córdoba – revisión y escalado a Uber",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-10-05T07:19:21Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131427827",
-          "assignee": "Raimundo Garcia"
         },
         {
           "id": "45842000131426366",
@@ -3869,16 +3896,6 @@
           "assignee": "Brayan Ricardo Fuentes Herrera"
         },
         {
-          "id": "45842000131323908",
-          "number": "360011",
-          "subject": "Pedido mínimo por zona de reparto no se aplica en la tienda online — La Shawermeria (Valencia · Clariano 6)",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-10-02T13:36:43Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131323908",
-          "assignee": "Javier Landaeta"
-        },
-        {
           "id": "45842000131319725",
           "number": "360009",
           "subject": "[ShopDutyFree.es] ¿Qué tal tu iPhone 16 Pro? Cuéntanos en 1 minuto",
@@ -3977,16 +3994,6 @@
           "createdTime": "2026-10-01T17:34:49Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131302577",
           "assignee": "Brayan Ricardo Fuentes Herrera"
-        },
-        {
-          "id": "45842000131304376",
-          "number": "359806",
-          "subject": "Recordatorio curso",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-10-01T17:34:37Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131304376",
-          "assignee": "Johan Manuel Cortissoz Posada"
         }
       ],
       "inMasterList": false
@@ -4603,11 +4610,21 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 3,
+      "openCount": 4,
       "onHoldCount": 8,
       "closedCount": 245,
-      "totalCount": 256,
+      "totalCount": 257,
       "tickets": [
+        {
+          "id": "45842000131483094",
+          "number": "360490",
+          "subject": "LastApp - glovo integration request",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-10-05T15:57:30Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131483094",
+          "assignee": "Harold Diaz"
+        },
         {
           "id": "45842000131477353",
           "number": "360468",
@@ -5324,9 +5341,9 @@
     {
       "classification": "Integraciones",
       "openCount": 2,
-      "onHoldCount": 4,
+      "onHoldCount": 5,
       "closedCount": 179,
-      "totalCount": 185,
+      "totalCount": 186,
       "tickets": [
         {
           "id": "45842000131433466",
@@ -5337,6 +5354,16 @@
           "createdTime": "2026-10-05T11:08:35Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131433466",
           "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000131427827",
+          "number": "360323",
+          "subject": "[BA] Uber Eats sin funcionar – O Mamma Mia Córdoba – revisión y escalado a Uber",
+          "status": "On Hold",
+          "channel": "Email",
+          "createdTime": "2026-10-05T07:19:21Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131427827",
+          "assignee": "Raimundo Garcia"
         },
         {
           "id": "45842000131347599",
@@ -7903,11 +7930,21 @@
     },
     {
       "classification": "Admin :: Reportes",
-      "openCount": 0,
+      "openCount": 1,
       "onHoldCount": 8,
       "closedCount": 92,
-      "totalCount": 100,
+      "totalCount": 101,
       "tickets": [
+        {
+          "id": "45842000131434422",
+          "number": "360483",
+          "subject": "Boccone Giorgio // Facturas a clientes aparecen con error \"Null\"",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-10-05T15:23:56Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131434422",
+          "assignee": "Javier Landaeta"
+        },
         {
           "id": "45842000131431748",
           "number": "360464",
@@ -8593,10 +8630,10 @@
     },
     {
       "classification": "LastSHOP",
-      "openCount": 3,
-      "onHoldCount": 3,
+      "openCount": 1,
+      "onHoldCount": 6,
       "closedCount": 88,
-      "totalCount": 94,
+      "totalCount": 95,
       "tickets": [
         {
           "id": "45842000131432791",
@@ -8672,7 +8709,7 @@
           "id": "45842000131339198",
           "number": "360158",
           "subject": "La Casa Firewood // Importe incorrecto tras modificar pedido de Last.Shop",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Phone",
           "createdTime": "2026-10-03T14:40:57Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131339198",
@@ -8709,6 +8746,16 @@
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
+          "id": "45842000131323908",
+          "number": "360011",
+          "subject": "Pedido mínimo por zona de reparto no se aplica en la tienda online — La Shawermeria (Valencia · Clariano 6)",
+          "status": "On Hold",
+          "channel": "Email",
+          "createdTime": "2026-10-02T13:36:43Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131323908",
+          "assignee": "Javier Landaeta"
+        },
+        {
           "id": "45842000131165070",
           "number": "359265",
           "subject": "Hola, este cliente no puede elegir quitar ese código de descuento y aplicar otro",
@@ -8722,7 +8769,7 @@
           "id": "45842000131148343",
           "number": "359185",
           "subject": "Incidencia con la Shop",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Email",
           "createdTime": "2026-09-29T12:29:58Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131148343",
@@ -13535,9 +13582,19 @@
       "classification": "Admin :: métodos de pago/cajones",
       "openCount": 0,
       "onHoldCount": 0,
-      "closedCount": 14,
-      "totalCount": 14,
+      "closedCount": 15,
+      "totalCount": 15,
       "tickets": [
+        {
+          "id": "45842000131428734",
+          "number": "360489",
+          "subject": "buenas tardes, tengo un problema con la apertura del cajon",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-10-05T15:48:38Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131428734",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000131263806",
           "number": "360168",
