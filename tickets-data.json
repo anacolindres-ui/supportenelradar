@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-06T04:23:03.586149+00:00",
-  "totalOpenTickets": 80,
+  "lastUpdated": "2026-10-06T05:19:35.995731+00:00",
+  "totalOpenTickets": 81,
   "totalClosedTickets": 3240,
   "closedWindowDays": 30,
   "byLocation": [
@@ -141,6 +141,18 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000131494001",
+      "number": "360557",
+      "subject": "Uber Case# 60639760-LastApp - uber integration request",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-10-06T04:47:05Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131494001",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000131490355",
       "number": "360550",
@@ -1213,7 +1225,7 @@
       "id": "45842000131337538",
       "number": "360071",
       "subject": "Ayuda con soporte/cafeb",
-      "status": "On Hold",
+      "status": "Open",
       "channel": "Email",
       "createdTime": "2026-10-02T20:29:08Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131337538",
@@ -2528,21 +2540,9 @@
       "assignee": "Jordy Carmona",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000131187390",
-      "number": "359507",
-      "subject": "Llamada entrante (00:06:00) de +34679889934 ( Juan Carlos) a +34937377821 (Soporte)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-09-30T18:15:45Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131187390",
-      "assignee": "Jordy Carmona",
-      "accountName": "Botanas Quart",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1290,
+  "locationIdIssuesTotal": 1291,
   "byContact": [
     {
       "contactId": "45842000101529660",
@@ -4638,11 +4638,21 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 3,
+      "openCount": 4,
       "onHoldCount": 9,
       "closedCount": 246,
-      "totalCount": 258,
+      "totalCount": 259,
       "tickets": [
+        {
+          "id": "45842000131494001",
+          "number": "360557",
+          "subject": "Uber Case# 60639760-LastApp - uber integration request",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-10-06T04:47:05Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131494001",
+          "assignee": ""
+        },
         {
           "id": "45842000131490031",
           "number": "360525",
@@ -6058,8 +6068,8 @@
     },
     {
       "classification": "Admin :: Impresoras",
-      "openCount": 1,
-      "onHoldCount": 2,
+      "openCount": 2,
+      "onHoldCount": 1,
       "closedCount": 171,
       "totalCount": 174,
       "tickets": [
@@ -6197,7 +6207,7 @@
           "id": "45842000131337538",
           "number": "360071",
           "subject": "Ayuda con soporte/cafeb",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-10-02T20:29:08Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131337538",
