@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-06T00:51:21.261743+00:00",
-  "totalOpenTickets": 84,
+  "lastUpdated": "2026-10-06T01:34:05.620570+00:00",
+  "totalOpenTickets": 86,
   "totalClosedTickets": 3235,
   "closedWindowDays": 30,
   "byLocation": [
@@ -141,6 +141,30 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000131483759",
+      "number": "360547",
+      "subject": "No hemos podido renovar tu suscripción a Prime",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-10-06T01:11:08Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131483759",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000131485507",
+      "number": "360546",
+      "subject": "Chat perdido: #31456 | Last | User asks: 'How much does the plans cost?'. Knowledge base search for pricing returned irrelevant articles (modifiers); no clear public pricing article found. Need support/sales to provide current plan pricing and options for",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-10-06T01:08:21Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131485507",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000131475739",
       "number": "360540",
@@ -2516,33 +2540,9 @@
       "assignee": "Jordy Carmona",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000131177898",
-      "number": "359510",
-      "subject": "Hola buenas tardes",
-      "status": "Closed",
-      "channel": "Last.app España",
-      "createdTime": "2026-09-30T18:44:59Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131177898",
-      "assignee": "Dimitriz Rodriguez",
-      "accountName": "",
-      "locationId": "1234"
-    },
-    {
-      "id": "45842000131172511",
-      "number": "359509",
-      "subject": "Si",
-      "status": "Closed",
-      "channel": "Last.app España",
-      "createdTime": "2026-09-30T18:25:48Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131172511",
-      "assignee": "Jordy Carmona",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1291,
+  "locationIdIssuesTotal": 1293,
   "byContact": [
     {
       "contactId": "45842000101529660",
@@ -3376,11 +3376,31 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 8,
+      "openCount": 10,
       "onHoldCount": 1,
       "closedCount": 587,
-      "totalCount": 596,
+      "totalCount": 598,
       "tickets": [
+        {
+          "id": "45842000131483759",
+          "number": "360547",
+          "subject": "No hemos podido renovar tu suscripción a Prime",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-10-06T01:11:08Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131483759",
+          "assignee": ""
+        },
+        {
+          "id": "45842000131485507",
+          "number": "360546",
+          "subject": "Chat perdido: #31456 | Last | User asks: 'How much does the plans cost?'. Knowledge base search for pricing returned irrelevant articles (modifiers); no clear public pricing article found. Need support/sales to provide current plan pricing and options for",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-10-06T01:08:21Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131485507",
+          "assignee": ""
+        },
         {
           "id": "45842000131475739",
           "number": "360540",
