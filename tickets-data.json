@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-10T09:19:15.205438+00:00",
-  "totalOpenTickets": 70,
+  "lastUpdated": "2026-10-10T10:17:34.167376+00:00",
+  "totalOpenTickets": 71,
   "totalClosedTickets": 3319,
   "closedWindowDays": 30,
   "byLocation": [
@@ -445,7 +445,7 @@
       "id": "45842000131788166",
       "number": "361530",
       "subject": "La Shawermeria — clientes que no pueden introducir la dirección de entrega en la tienda online",
-      "status": "On Hold",
+      "status": "Open",
       "channel": "Email",
       "createdTime": "2026-10-09T14:26:22Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131788166",
@@ -1942,18 +1942,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000131575671",
-      "number": "360862",
-      "subject": "LastApp - glovo integration deleted",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-10-07T05:30:10Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131575671",
-      "assignee": "Alberto Poyato",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000131582269",
       "number": "360860",
       "subject": "LastApp - glovo integration deleted",
@@ -1961,6 +1949,18 @@
       "channel": "Email",
       "createdTime": "2026-10-07T05:30:10Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131582269",
+      "assignee": "Alberto Poyato",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000131575671",
+      "number": "360862",
+      "subject": "LastApp - glovo integration deleted",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-10-07T05:30:10Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131575671",
       "assignee": "Alberto Poyato",
       "accountName": "",
       "locationId": ""
@@ -2688,11 +2688,21 @@
   "byClassification": [
     {
       "classification": "Admin :: General",
-      "openCount": 0,
+      "openCount": 1,
       "onHoldCount": 2,
       "closedCount": 764,
-      "totalCount": 766,
+      "totalCount": 767,
       "tickets": [
+        {
+          "id": "45842000131845074",
+          "number": "361646",
+          "subject": "Tasca láska Malagueta // Consulta sobre gestión de depósitos reembolsables por paelleras",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-10-10T09:27:58Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131845074",
+          "assignee": ""
+        },
         {
           "id": "45842000131813064",
           "number": "361636",
@@ -5694,16 +5704,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000131502200",
-          "number": "360580",
-          "subject": "Request Received",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-10-06T05:30:18Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131502200",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000131494388",
           "number": "360581",
           "subject": "Request Received",
@@ -5721,6 +5721,16 @@
           "channel": "Email",
           "createdTime": "2026-10-06T05:30:18Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131494442",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000131502200",
+          "number": "360580",
+          "subject": "Request Received",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-10-06T05:30:18Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131502200",
           "assignee": "Alberto Poyato"
         },
         {
@@ -9338,8 +9348,8 @@
     },
     {
       "classification": "LastSHOP",
-      "openCount": 0,
-      "onHoldCount": 2,
+      "openCount": 1,
+      "onHoldCount": 1,
       "closedCount": 94,
       "totalCount": 96,
       "tickets": [
@@ -9367,7 +9377,7 @@
           "id": "45842000131788166",
           "number": "361530",
           "subject": "La Shawermeria — clientes que no pueden introducir la dirección de entrega en la tienda online",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-10-09T14:26:22Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131788166",
