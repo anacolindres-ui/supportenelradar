@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-10T02:32:29.807637+00:00",
-  "totalOpenTickets": 73,
+  "lastUpdated": "2026-10-10T03:24:52.722390+00:00",
+  "totalOpenTickets": 74,
   "totalClosedTickets": 3310,
   "closedWindowDays": 30,
   "byLocation": [
@@ -123,7 +123,7 @@
           "subject": "Problema con un cliente",
           "status": "Open",
           "channel": "Email",
-          "createdTime": "2026-10-10T02:31:24Z",
+          "createdTime": "2026-10-10T02:31:25Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131830001",
           "assignee": "Brayan Ricardo Fuentes Herrera"
         },
@@ -169,12 +169,24 @@
   ],
   "locationIdIssues": [
     {
+      "id": "45842000131830137",
+      "number": "361626",
+      "subject": "Uber Case# 60734679-LastApp - uber integration request",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-10-10T03:04:23Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131830137",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
       "id": "45842000131830001",
       "number": "361624",
       "subject": "Problema con un cliente",
       "status": "Open",
       "channel": "Email",
-      "createdTime": "2026-10-10T02:31:24Z",
+      "createdTime": "2026-10-10T02:31:25Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131830001",
       "assignee": "Brayan Ricardo Fuentes Herrera",
       "accountName": "Los Plebes Wings",
@@ -2555,21 +2567,9 @@
       "assignee": "Dimitriz Rodriguez",
       "accountName": "",
       "locationId": "1234"
-    },
-    {
-      "id": "45842000131546193",
-      "number": "360711",
-      "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34640173924 ( Juan Carlos)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-10-06T12:23:44Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131546193",
-      "assignee": "Dimitriz Rodriguez",
-      "accountName": "Boca Bestia",
-      "locationId": "1234"
     }
   ],
-  "locationIdIssuesTotal": 1284,
+  "locationIdIssuesTotal": 1285,
   "byContact": [
     {
       "contactId": "45842000131141190",
@@ -2639,7 +2639,7 @@
           "subject": "Problema con un cliente",
           "status": "Open",
           "channel": "Email",
-          "createdTime": "2026-10-10T02:31:24Z",
+          "createdTime": "2026-10-10T02:31:25Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131830001",
           "assignee": "Brayan Ricardo Fuentes Herrera"
         },
@@ -3394,7 +3394,7 @@
           "subject": "Problema con un cliente",
           "status": "Open",
           "channel": "Email",
-          "createdTime": "2026-10-10T02:31:24Z",
+          "createdTime": "2026-10-10T02:31:25Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131830001",
           "assignee": "Brayan Ricardo Fuentes Herrera"
         },
@@ -4743,11 +4743,21 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 7,
+      "openCount": 8,
       "onHoldCount": 3,
       "closedCount": 256,
-      "totalCount": 266,
+      "totalCount": 267,
       "tickets": [
+        {
+          "id": "45842000131830137",
+          "number": "361626",
+          "subject": "Uber Case# 60734679-LastApp - uber integration request",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-10-10T03:04:23Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131830137",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
         {
           "id": "45842000131787722",
           "number": "361556",
@@ -5729,16 +5739,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000131493757",
-          "number": "360591",
-          "subject": "Request Received",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-10-06T05:30:22Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131493757",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000131505405",
           "number": "360592",
           "subject": "Request Received",
@@ -5746,6 +5746,16 @@
           "channel": "Email",
           "createdTime": "2026-10-06T05:30:22Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131505405",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000131493757",
+          "number": "360591",
+          "subject": "Request Received",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-10-06T05:30:22Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131493757",
           "assignee": "Alberto Poyato"
         },
         {
@@ -5779,16 +5789,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000131494442",
-          "number": "360583",
-          "subject": "Request Received",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-10-06T05:30:18Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131494442",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000131494388",
           "number": "360581",
           "subject": "Request Received",
@@ -5796,6 +5796,16 @@
           "channel": "Email",
           "createdTime": "2026-10-06T05:30:18Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131494388",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000131494442",
+          "number": "360583",
+          "subject": "Request Received",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-10-06T05:30:18Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131494442",
           "assignee": "Alberto Poyato"
         },
         {
