@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-10T08:23:42.794596+00:00",
-  "totalOpenTickets": 71,
-  "totalClosedTickets": 3318,
+  "lastUpdated": "2026-10-10T09:19:15.205438+00:00",
+  "totalOpenTickets": 70,
+  "totalClosedTickets": 3319,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -157,13 +157,13 @@
       "id": "45842000131813064",
       "number": "361636",
       "subject": "elmonodelapila y 7 personas más han añadido contenido a sus historias recientemente",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Email",
       "createdTime": "2026-10-10T06:50:16Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131813064",
-      "assignee": "",
+      "assignee": "Harold Diaz",
       "accountName": "",
-      "locationId": ""
+      "locationId": "1234"
     },
     {
       "id": "45842000131863005",
@@ -1930,13 +1930,13 @@
       "locationId": ""
     },
     {
-      "id": "45842000131582269",
-      "number": "360860",
+      "id": "45842000131575669",
+      "number": "360861",
       "subject": "LastApp - glovo integration deleted",
       "status": "Closed",
       "channel": "Email",
       "createdTime": "2026-10-07T05:30:10Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131582269",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131575669",
       "assignee": "Alberto Poyato",
       "accountName": "",
       "locationId": ""
@@ -1954,13 +1954,13 @@
       "locationId": ""
     },
     {
-      "id": "45842000131575669",
-      "number": "360861",
+      "id": "45842000131582269",
+      "number": "360860",
       "subject": "LastApp - glovo integration deleted",
       "status": "Closed",
       "channel": "Email",
       "createdTime": "2026-10-07T05:30:10Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131575669",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131582269",
       "assignee": "Alberto Poyato",
       "accountName": "",
       "locationId": ""
@@ -2690,9 +2690,19 @@
       "classification": "Admin :: General",
       "openCount": 0,
       "onHoldCount": 2,
-      "closedCount": 763,
-      "totalCount": 765,
+      "closedCount": 764,
+      "totalCount": 766,
       "tickets": [
+        {
+          "id": "45842000131813064",
+          "number": "361636",
+          "subject": "elmonodelapila y 7 personas más han añadido contenido a sus historias recientemente",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-10-10T06:50:16Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131813064",
+          "assignee": "Harold Diaz"
+        },
         {
           "id": "45842000131863005",
           "number": "361632",
@@ -3294,16 +3304,6 @@
           "assignee": "Angie Oliveros"
         },
         {
-          "id": "45842000131590523",
-          "number": "360992",
-          "subject": "Hola!!",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-10-07T12:00:19Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131590523",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000131242826",
           "number": "359622",
           "subject": "Pedidos anticipados/programados SHOP",
@@ -3318,10 +3318,10 @@
     },
     {
       "classification": "Sin clasificar",
-      "openCount": 12,
+      "openCount": 11,
       "onHoldCount": 0,
       "closedCount": 582,
-      "totalCount": 594,
+      "totalCount": 593,
       "tickets": [
         {
           "id": "45842000131813244",
@@ -3331,16 +3331,6 @@
           "channel": "Email",
           "createdTime": "2026-10-10T08:17:39Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131813244",
-          "assignee": ""
-        },
-        {
-          "id": "45842000131813064",
-          "number": "361636",
-          "subject": "elmonodelapila y 7 personas más han añadido contenido a sus historias recientemente",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-10-10T06:50:16Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131813064",
           "assignee": ""
         },
         {
@@ -5634,16 +5624,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000131505665",
-          "number": "360605",
-          "subject": "Request Received",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-10-06T05:30:44Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131505665",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000131505769",
           "number": "360606",
           "subject": "Request Received",
@@ -5651,6 +5631,16 @@
           "channel": "Email",
           "createdTime": "2026-10-06T05:30:44Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131505769",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000131505665",
+          "number": "360605",
+          "subject": "Request Received",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-10-06T05:30:44Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131505665",
           "assignee": "Alberto Poyato"
         },
         {
@@ -5704,16 +5694,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000131494442",
-          "number": "360583",
-          "subject": "Request Received",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-10-06T05:30:18Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131494442",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000131502200",
           "number": "360580",
           "subject": "Request Received",
@@ -5731,6 +5711,16 @@
           "channel": "Email",
           "createdTime": "2026-10-06T05:30:18Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131494388",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000131494442",
+          "number": "360583",
+          "subject": "Request Received",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-10-06T05:30:18Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131494442",
           "assignee": "Alberto Poyato"
         },
         {
