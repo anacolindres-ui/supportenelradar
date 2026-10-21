@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-21T18:22:43.589854+00:00",
-  "totalOpenTickets": 36,
-  "totalClosedTickets": 3518,
+  "lastUpdated": "2026-10-21T19:14:53.280044+00:00",
+  "totalOpenTickets": 31,
+  "totalClosedTickets": 3524,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -34,34 +34,10 @@
   ],
   "locationIdIssues": [
     {
-      "id": "45842000132363629",
-      "number": "363884",
-      "subject": "Hola",
-      "status": "Open",
-      "channel": "Last.app Mexico",
-      "createdTime": "2026-10-21T18:05:53Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132363629",
-      "assignee": "Mr. Lasty",
-      "accountName": "Los Plebes Wings",
-      "locationId": ""
-    },
-    {
-      "id": "45842000132371571",
-      "number": "363883",
-      "subject": "Hola Last, tengo una consulta. \nComo puedo poner la enumeración en los tickets?",
-      "status": "Open",
-      "channel": "Last.app España",
-      "createdTime": "2026-10-21T18:05:16Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132371571",
-      "assignee": "Angie Oliveros",
-      "accountName": "La bodega",
-      "locationId": ""
-    },
-    {
       "id": "45842000132404418",
       "number": "363882",
       "subject": "Llamada entrante (00:15:50) de +34683632437 ( Ignacio Aranciaga) a +34937377821 (Soporte)",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Phone",
       "createdTime": "2026-10-21T17:39:37Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132404418",
@@ -289,7 +265,7 @@
       "id": "45842000132411221",
       "number": "363847",
       "subject": "Llamada saliente (00:40:09) de +34937377821 (Soporte) a +34603801994 (. Paula)",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Phone",
       "createdTime": "2026-10-21T14:09:20Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132411221",
@@ -2432,38 +2408,34 @@
       "assignee": "Alberto Poyato",
       "accountName": "",
       "locationId": ""
+    },
+    {
+      "id": "45842000132296990",
+      "number": "363501",
+      "subject": "Hi Alessandro, here is Customized paper packaging information",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-10-20T09:32:45Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132296990",
+      "assignee": "Alberto Poyato",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000132296918",
+      "number": "363498",
+      "subject": "Activa tu Tarjeta Pasta Ami y empieza a ahorrar",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-10-20T09:16:06Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132296918",
+      "assignee": "Fernando Poza",
+      "accountName": "",
+      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1545,
+  "locationIdIssuesTotal": 1543,
   "byContact": [
-    {
-      "contactId": "45842000041433967",
-      "contactName": "Ignacio Aranciaga",
-      "email": "nacho@pimenton.io",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000132404418",
-          "number": "363882",
-          "subject": "Llamada entrante (00:15:50) de +34683632437 ( Ignacio Aranciaga) a +34937377821 (Soporte)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-10-21T17:39:37Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132404418",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000132413422",
-          "number": "363867",
-          "subject": "Lemongrass Salera // Error integración con Glovo",
-          "status": "On Hold",
-          "channel": "Phone",
-          "createdTime": "2026-10-21T15:30:51Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132413422",
-          "assignee": "Raimundo Garcia"
-        }
-      ]
-    },
     {
       "contactId": "45842000127068342",
       "contactName": "Lemongrass Torrente",
@@ -2524,31 +2496,11 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 16,
+      "openCount": 13,
       "onHoldCount": 3,
-      "closedCount": 866,
-      "totalCount": 885,
+      "closedCount": 867,
+      "totalCount": 883,
       "tickets": [
-        {
-          "id": "45842000132363629",
-          "number": "363884",
-          "subject": "Hola",
-          "status": "Open",
-          "channel": "Last.app Mexico",
-          "createdTime": "2026-10-21T18:05:53Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132363629",
-          "assignee": "Mr. Lasty"
-        },
-        {
-          "id": "45842000132371571",
-          "number": "363883",
-          "subject": "Hola Last, tengo una consulta. \nComo puedo poner la enumeración en los tickets?",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-10-21T18:05:16Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132371571",
-          "assignee": "Angie Oliveros"
-        },
         {
           "id": "45842000132434215",
           "number": "363881",
@@ -2653,7 +2605,7 @@
           "id": "45842000132411221",
           "number": "363847",
           "subject": "Llamada saliente (00:40:09) de +34937377821 (Soporte) a +34603801994 (. Paula)",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Phone",
           "createdTime": "2026-10-21T14:09:20Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132411221",
@@ -3250,16 +3202,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000132308377",
-          "number": "363698",
-          "subject": "[TEST live-e2e 20261020203022] safe to delete",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-10-20T20:30:25Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132308377",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000132333205",
           "number": "363663",
           "subject": "Last App API",
@@ -3326,9 +3268,29 @@
       "classification": "Admin :: General",
       "openCount": 0,
       "onHoldCount": 0,
-      "closedCount": 717,
-      "totalCount": 717,
+      "closedCount": 719,
+      "totalCount": 719,
       "tickets": [
+        {
+          "id": "45842000132363629",
+          "number": "363884",
+          "subject": "Hola",
+          "status": "Closed",
+          "channel": "Last.app Mexico",
+          "createdTime": "2026-10-21T18:05:53Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132363629",
+          "assignee": "Angie Oliveros"
+        },
+        {
+          "id": "45842000132371571",
+          "number": "363883",
+          "subject": "Hola Last, tengo una consulta. \nComo puedo poner la enumeración en los tickets?",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-10-21T18:05:16Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132371571",
+          "assignee": "Angie Oliveros"
+        },
         {
           "id": "45842000132436016",
           "number": "363873",
@@ -3908,42 +3870,32 @@
           "createdTime": "2026-10-17T12:30:47Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132176175",
           "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000132189132",
-          "number": "363042",
-          "subject": "Buenas! Ayer ponemos una nuevo pantalla y ahora el dataphono no funciona el la impresora también",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-10-17T12:09:25Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132189132",
-          "assignee": "Angie Oliveros"
-        },
-        {
-          "id": "45842000132189032",
-          "number": "363041",
-          "subject": "Buenas tardes, por favor hacer push en Cloudtown (Chicken Grilled Manresa) PD, en la marca Ay mamita bowls de Glovo",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-10-17T11:36:54Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132189032",
-          "assignee": "Angie Oliveros"
         }
       ],
       "inMasterList": true
     },
     {
       "classification": "Calls",
-      "openCount": 2,
+      "openCount": 1,
       "onHoldCount": 0,
-      "closedCount": 339,
-      "totalCount": 341,
+      "closedCount": 341,
+      "totalCount": 342,
       "tickets": [
+        {
+          "id": "45842000132399453",
+          "number": "363886",
+          "subject": "Llamada entrante (00:02:34) de +34618560544 ( Twin Bros Burger) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-10-21T18:44:19Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132399453",
+          "assignee": "Angie Oliveros"
+        },
         {
           "id": "45842000132404418",
           "number": "363882",
           "subject": "Llamada entrante (00:15:50) de +34683632437 ( Ignacio Aranciaga) a +34937377821 (Soporte)",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Phone",
           "createdTime": "2026-10-21T17:39:37Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132404418",
@@ -4538,26 +4490,6 @@
           "createdTime": "2026-10-18T10:40:31Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132219169",
           "assignee": "Angie Oliveros"
-        },
-        {
-          "id": "45842000132180245",
-          "number": "363083",
-          "subject": "Llamada entrante (00:07:33) de +34697464512 ( +34697464512) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-10-17T18:39:48Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132180245",
-          "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000132171315",
-          "number": "363081",
-          "subject": "Llamada entrante (00:02:51) de +34616852000 ( Leticia Moreno) a +34937377821 (Soporte)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-10-17T17:55:38Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132171315",
-          "assignee": "Dimitriz Rodriguez"
         }
       ],
       "inMasterList": false
@@ -5814,16 +5746,16 @@
     },
     {
       "classification": "Integraciones",
-      "openCount": 2,
+      "openCount": 1,
       "onHoldCount": 4,
-      "closedCount": 163,
+      "closedCount": 164,
       "totalCount": 169,
       "tickets": [
         {
           "id": "45842000132369852",
           "number": "363878",
           "subject": "🫠🫠🫠🫠",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Last.app España",
           "createdTime": "2026-10-21T17:11:31Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132369852",
@@ -6468,16 +6400,6 @@
           "createdTime": "2026-10-09T13:07:23Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131766872",
           "assignee": "Dimitriz Rodriguez"
-        },
-        {
-          "id": "45842000131744882",
-          "number": "361369",
-          "subject": "Marruzella arcos",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-10-09T00:03:55Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131744882",
-          "assignee": ""
         }
       ],
       "inMasterList": true
