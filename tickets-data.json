@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-22T03:22:10.917848+00:00",
-  "totalOpenTickets": 30,
+  "lastUpdated": "2026-10-22T04:20:26.454099+00:00",
+  "totalOpenTickets": 31,
   "totalClosedTickets": 3402,
   "closedWindowDays": 30,
   "byLocation": [
@@ -60,6 +60,18 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000132436451",
+      "number": "363934",
+      "subject": "Uber Case# 61016405-LastApp - uber integration request",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-10-22T04:05:26Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132436451",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000132436327",
       "number": "363931",
@@ -2447,21 +2459,9 @@
       "assignee": "Alberto Poyato",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000132319179",
-      "number": "363560",
-      "subject": "JCDEP-477 LastApp - flyt integration request",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-10-20T11:49:27Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132319179",
-      "assignee": "Fernando Poza",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1506,
+  "locationIdIssuesTotal": 1507,
   "byContact": [
     {
       "contactId": "45842000127068342",
@@ -4541,11 +4541,21 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 1,
+      "openCount": 2,
       "onHoldCount": 1,
       "closedCount": 248,
-      "totalCount": 250,
+      "totalCount": 251,
       "tickets": [
+        {
+          "id": "45842000132436451",
+          "number": "363934",
+          "subject": "Uber Case# 61016405-LastApp - uber integration request",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-10-22T04:05:26Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132436451",
+          "assignee": ""
+        },
         {
           "id": "45842000132433330",
           "number": "363869",
