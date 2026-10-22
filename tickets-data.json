@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-21T23:16:29.142232+00:00",
-  "totalOpenTickets": 31,
-  "totalClosedTickets": 3399,
+  "lastUpdated": "2026-10-22T00:46:10.604481+00:00",
+  "totalOpenTickets": 30,
+  "totalClosedTickets": 3401,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -61,14 +61,26 @@
   ],
   "locationIdIssues": [
     {
+      "id": "45842000132439045",
+      "number": "363929",
+      "subject": "Urgent: Railway Security Disclosure - Rotate Credentials",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-10-22T00:04:14Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132439045",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
       "id": "45842000132402531",
       "number": "363928",
       "subject": "El usuario indica que no le aparece la sección de Imagen/Fotografía al editar un plato/producto en el admin de Last.app (admin.last.app). Ya se le indicó que pruebe desde Menú/Productos (https://admin.last.app/menu/items), pero confirma que en el...",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Chat",
       "createdTime": "2026-10-21T23:09:17Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132402531",
-      "assignee": "",
+      "assignee": "Angie Oliveros",
       "accountName": "",
       "locationId": ""
     },
@@ -76,11 +88,11 @@
       "id": "45842000132436207",
       "number": "363927",
       "subject": "Chat perdido: 31779",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Email",
       "createdTime": "2026-10-21T23:08:23Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132436207",
-      "assignee": "",
+      "assignee": "Angie Oliveros",
       "accountName": "",
       "locationId": ""
     },
@@ -92,7 +104,7 @@
       "channel": "Phone",
       "createdTime": "2026-10-21T22:07:59Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132413617",
-      "assignee": "",
+      "assignee": "Angie Oliveros",
       "accountName": "",
       "locationId": ""
     },
@@ -308,7 +320,7 @@
       "channel": "Last.app España",
       "createdTime": "2026-10-21T20:06:43Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132363790",
-      "assignee": "Dimitriz Rodriguez",
+      "assignee": "Mr. Lasty",
       "accountName": "",
       "locationId": ""
     },
@@ -2447,21 +2459,9 @@
       "assignee": "Fernando Poza",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000132320329",
-      "number": "363558",
-      "subject": "JCDEP-477 LastApp - flyt integration request",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-10-20T11:44:26Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132320329",
-      "assignee": "Trinidad Larrain Punti",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1504,
+  "locationIdIssuesTotal": 1505,
   "byContact": [
     {
       "contactId": "45842000127068342",
@@ -2551,30 +2551,40 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 12,
+      "openCount": 11,
       "onHoldCount": 4,
-      "closedCount": 852,
-      "totalCount": 868,
+      "closedCount": 854,
+      "totalCount": 869,
       "tickets": [
+        {
+          "id": "45842000132439045",
+          "number": "363929",
+          "subject": "Urgent: Railway Security Disclosure - Rotate Credentials",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-10-22T00:04:14Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132439045",
+          "assignee": ""
+        },
         {
           "id": "45842000132402531",
           "number": "363928",
           "subject": "El usuario indica que no le aparece la sección de Imagen/Fotografía al editar un plato/producto en el admin de Last.app (admin.last.app). Ya se le indicó que pruebe desde Menú/Productos (https://admin.last.app/menu/items), pero confirma que en el...",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Chat",
           "createdTime": "2026-10-21T23:09:17Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132402531",
-          "assignee": ""
+          "assignee": "Angie Oliveros"
         },
         {
           "id": "45842000132436207",
           "number": "363927",
           "subject": "Chat perdido: 31779",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Email",
           "createdTime": "2026-10-21T23:08:23Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132436207",
-          "assignee": ""
+          "assignee": "Angie Oliveros"
         },
         {
           "id": "45842000132406629",
@@ -2654,7 +2664,7 @@
           "channel": "Last.app España",
           "createdTime": "2026-10-21T20:06:43Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132363790",
-          "assignee": "Dimitriz Rodriguez"
+          "assignee": "Mr. Lasty"
         },
         {
           "id": "45842000132365667",
@@ -3227,16 +3237,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000132402010",
-          "number": "363733",
-          "subject": "El usuario solicita nuevamente contactar con soporte. Ya hay incidencia abierta por discrepancia de descuentos 20/10 (panel 122,90€ vs Z 54,50€). Reabrir/abrir chat para seguimiento con soporte.\norganization: VOLGA\nlocation: VOLGA",
-          "status": "Closed",
-          "channel": "Chat",
-          "createdTime": "2026-10-21T07:54:00Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132402010",
-          "assignee": "Javier Landaeta"
-        },
-        {
           "id": "45842000132369047",
           "number": "363732",
           "subject": "Hola,He detectado una discrepancia entre el informe Z impreso y el panel de administración en el importe de los descuentos del día 20/10. En el programa figuran descuentos por un total de 122,90 €, mientras que en el informe Z impreso aparecen 54,50 €.",
@@ -3245,16 +3245,6 @@
           "createdTime": "2026-10-21T07:52:55Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132369047",
           "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000132352174",
-          "number": "363729",
-          "subject": "Discrepancia descuentos 20/10: panel 122,90€ vs Informe Z impreso 54,50€",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-10-21T07:49:06Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132352174",
-          "assignee": "Trinidad Larrain Punti"
         },
         {
           "id": "45842000132333205",
@@ -3944,7 +3934,7 @@
           "channel": "Phone",
           "createdTime": "2026-10-21T22:07:59Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132413617",
-          "assignee": ""
+          "assignee": "Angie Oliveros"
         },
         {
           "id": "45842000132401432",
