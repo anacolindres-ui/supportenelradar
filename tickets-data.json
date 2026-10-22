@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-22T05:19:31.379448+00:00",
-  "totalOpenTickets": 40,
-  "totalClosedTickets": 3402,
+  "lastUpdated": "2026-10-22T06:30:42.926560+00:00",
+  "totalOpenTickets": 44,
+  "totalClosedTickets": 3401,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -60,6 +60,42 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000132459001",
+      "number": "363950",
+      "subject": "Buenos días",
+      "status": "Open",
+      "channel": "Last.app España",
+      "createdTime": "2026-10-22T06:24:51Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132459001",
+      "assignee": "",
+      "accountName": "Galiana",
+      "locationId": ""
+    },
+    {
+      "id": "45842000132432755",
+      "number": "363946",
+      "subject": "LastApp - glovo integration deleted",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-10-22T05:30:10Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132432755",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000132435720",
+      "number": "363945",
+      "subject": "LastApp - glovo integration deleted",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-10-22T05:30:08Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132435720",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000132439311",
       "number": "363944",
@@ -2423,45 +2459,9 @@
       "assignee": "Fernando Poza",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000132304295",
-      "number": "363600",
-      "subject": "Gracias a ti",
-      "status": "Closed",
-      "channel": "Last.app España",
-      "createdTime": "2026-10-20T13:19:11Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132304295",
-      "assignee": "",
-      "accountName": "CocoVail Beer Garden S.L.",
-      "locationId": ""
-    },
-    {
-      "id": "45842000132300319",
-      "number": "363599",
-      "subject": "Llamada entrante (00:01:27) de +34910741386 ( Alcobendas) a +34937377821 (Soporte)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-10-20T13:16:21Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132300319",
-      "assignee": "Alberto Poyato",
-      "accountName": "Miss Sushi Alcobendas",
-      "locationId": ""
-    },
-    {
-      "id": "45842000132320740",
-      "number": "363598",
-      "subject": "Cantidades duplicadas en KDS Cocina – JORGE DEMO / R037",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-10-20T13:16:19Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132320740",
-      "assignee": "Alberto Poyato",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1516,
+  "locationIdIssuesTotal": 1519,
   "byContact": [
     {
       "contactId": "45842000127068342",
@@ -2551,11 +2551,41 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 13,
+      "openCount": 16,
       "onHoldCount": 4,
       "closedCount": 855,
-      "totalCount": 872,
+      "totalCount": 875,
       "tickets": [
+        {
+          "id": "45842000132459001",
+          "number": "363950",
+          "subject": "Buenos días",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-10-22T06:24:51Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132459001",
+          "assignee": ""
+        },
+        {
+          "id": "45842000132432755",
+          "number": "363946",
+          "subject": "LastApp - glovo integration deleted",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-10-22T05:30:10Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132432755",
+          "assignee": ""
+        },
+        {
+          "id": "45842000132435720",
+          "number": "363945",
+          "subject": "LastApp - glovo integration deleted",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-10-22T05:30:08Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132435720",
+          "assignee": ""
+        },
         {
           "id": "45842000132439108",
           "number": "363936",
@@ -7161,9 +7191,9 @@
     },
     {
       "classification": "POS :: uso general",
-      "openCount": 1,
+      "openCount": 2,
       "onHoldCount": 0,
-      "closedCount": 108,
+      "closedCount": 107,
       "totalCount": 109,
       "tickets": [
         {
@@ -7720,7 +7750,7 @@
           "id": "45842000131612852",
           "number": "361117",
           "subject": "O Boteco Brasil // Cliente  con identificación PO no permite crear cliente/factura",
-          "status": "Closed",
+          "status": "Open",
           "channel": "Phone",
           "createdTime": "2026-10-07T21:05:37Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131612852",
@@ -7775,6 +7805,16 @@
           "createdTime": "2026-10-06T15:56:15Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131508512",
           "assignee": "Jordy Carmona"
+        },
+        {
+          "id": "45842000131547287",
+          "number": "360743",
+          "subject": "Llamada saliente de +34937377821 (Soporte) a +34655407495 (SOFIA, The Confy)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-10-06T13:54:13Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000131547287",
+          "assignee": "Javier Landaeta"
         }
       ],
       "inMasterList": true
