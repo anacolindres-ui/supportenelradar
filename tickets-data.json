@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-24T15:15:25.110495+00:00",
-  "totalOpenTickets": 36,
-  "totalClosedTickets": 3557,
+  "lastUpdated": "2026-10-24T16:18:10.440783+00:00",
+  "totalOpenTickets": 33,
+  "totalClosedTickets": 3561,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -67,36 +67,21 @@
           "assignee": ""
         }
       ]
-    },
-    {
-      "accountId": "45842000130316098",
-      "accountName": "Rostisseria Rubí",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000132594291",
-          "number": "364500",
-          "subject": "Lo de la frecuencia de mi entidad que significa?",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-10-24T13:59:00Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132594291",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
-          "id": "45842000132594029",
-          "number": "364452",
-          "subject": "Hola! Los pagos cuando los recibiré los de los pedidos hechos online y pagados a través de online",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-10-24T09:52:32Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132594029",
-          "assignee": "Mr. Lasty"
-        }
-      ]
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000132594455",
+      "number": "364509",
+      "subject": "Vale",
+      "status": "Closed",
+      "channel": "Last.app España",
+      "createdTime": "2026-10-24T16:01:57Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132594455",
+      "assignee": "Brayan Ricardo Fuentes Herrera",
+      "accountName": "Rostisseria Rubí",
+      "locationId": ""
+    },
     {
       "id": "45842000132596545",
       "number": "364504",
@@ -149,7 +134,7 @@
       "id": "45842000132594291",
       "number": "364500",
       "subject": "Lo de la frecuencia de mi entidad que significa?",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Last.app España",
       "createdTime": "2026-10-24T13:59:00Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132594291",
@@ -305,11 +290,11 @@
       "id": "45842000132594172",
       "number": "364482",
       "subject": "Hola, lemongrass Ribera. La integración con cheerfy y last está fallando",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Last.app España",
       "createdTime": "2026-10-24T12:45:37Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132594172",
-      "assignee": "Mr. Lasty",
+      "assignee": "Johan Manuel Cortissoz Posada",
       "accountName": "",
       "locationId": ""
     },
@@ -2484,21 +2469,9 @@
       "assignee": "Dimitriz Rodriguez",
       "accountName": "Nera.",
       "locationId": ""
-    },
-    {
-      "id": "45842000132507990",
-      "number": "364152",
-      "subject": "Re: LastApp - uber integration request",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-10-22T20:00:31Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132507990",
-      "assignee": "",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1779,
+  "locationIdIssuesTotal": 1780,
   "byContact": [
     {
       "contactId": "45842000124397963",
@@ -2537,44 +2510,26 @@
           "assignee": ""
         }
       ]
-    },
-    {
-      "contactId": "45842000129951140",
-      "contactName": "Sara Ruiz Bort",
-      "email": "Sararuizzb@gmail.com",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000132594291",
-          "number": "364500",
-          "subject": "Lo de la frecuencia de mi entidad que significa?",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-10-24T13:59:00Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132594291",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
-          "id": "45842000132594029",
-          "number": "364452",
-          "subject": "Hola! Los pagos cuando los recibiré los de los pedidos hechos online y pagados a través de online",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-10-24T09:52:32Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132594029",
-          "assignee": "Mr. Lasty"
-        }
-      ]
     }
   ],
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 22,
+      "openCount": 20,
       "onHoldCount": 2,
-      "closedCount": 1034,
-      "totalCount": 1058,
+      "closedCount": 1037,
+      "totalCount": 1059,
       "tickets": [
+        {
+          "id": "45842000132594455",
+          "number": "364509",
+          "subject": "Vale",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-10-24T16:01:57Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132594455",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
         {
           "id": "45842000132596545",
           "number": "364504",
@@ -2609,7 +2564,7 @@
           "id": "45842000132594291",
           "number": "364500",
           "subject": "Lo de la frecuencia de mi entidad que significa?",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Last.app España",
           "createdTime": "2026-10-24T13:59:00Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132594291",
@@ -2699,11 +2654,11 @@
           "id": "45842000132594172",
           "number": "364482",
           "subject": "Hola, lemongrass Ribera. La integración con cheerfy y last está fallando",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Last.app España",
           "createdTime": "2026-10-24T12:45:37Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132594172",
-          "assignee": "Mr. Lasty"
+          "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
           "id": "45842000132589374",
@@ -3306,16 +3261,6 @@
           "assignee": "Raimundo Garcia"
         },
         {
-          "id": "45842000132573508",
-          "number": "364334",
-          "subject": "natsz es alguien a quien quizás conozcas",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-10-23T14:06:52Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132573508",
-          "assignee": ""
-        },
-        {
           "id": "45842000132525755",
           "number": "364330",
           "subject": "OK, gracias",
@@ -3324,26 +3269,6 @@
           "createdTime": "2026-10-23T13:51:55Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132525755",
           "assignee": "Mr. Lasty"
-        },
-        {
-          "id": "45842000132536386",
-          "number": "364324",
-          "subject": "Llamada saliente (00:06:01) de +34937377821 (Soporte) a +34681121297 (  34681121297)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-10-23T13:38:21Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132536386",
-          "assignee": "Raimundo Garcia"
-        },
-        {
-          "id": "45842000132550468",
-          "number": "364321",
-          "subject": "one line ICP",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-10-23T13:31:17Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132550468",
-          "assignee": "Alberto Poyato"
         },
         {
           "id": "45842000132552134",
@@ -4670,9 +4595,9 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 1,
+      "openCount": 0,
       "onHoldCount": 0,
-      "closedCount": 278,
+      "closedCount": 279,
       "totalCount": 279,
       "tickets": [
         {
@@ -5274,16 +5199,6 @@
           "createdTime": "2026-10-20T17:00:31Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132339068",
           "assignee": ""
-        },
-        {
-          "id": "45842000132144417",
-          "number": "362847",
-          "subject": "Uber Case# 60896715-LastApp - uber integration request",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-10-16T11:39:41Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132144417",
-          "assignee": "Johan Manuel Cortissoz Posada"
         }
       ],
       "inMasterList": false
