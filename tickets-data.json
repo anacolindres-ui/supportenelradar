@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-26T06:41:24.581537+00:00",
-  "totalOpenTickets": 43,
+  "lastUpdated": "2026-10-26T07:37:09.006698+00:00",
+  "totalOpenTickets": 45,
   "totalClosedTickets": 3463,
   "closedWindowDays": 30,
   "byLocation": [
@@ -104,9 +104,60 @@
           "assignee": ""
         }
       ]
+    },
+    {
+      "accountId": "45842000126515370",
+      "accountName": "Los Plebes Wings",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000132634057",
+          "number": "364658",
+          "subject": "No me deja",
+          "status": "Open",
+          "channel": "Last.app Mexico",
+          "createdTime": "2026-10-26T06:51:07Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132634057",
+          "assignee": ""
+        },
+        {
+          "id": "45842000132601960",
+          "number": "364649",
+          "subject": "Hola buenas noches, disculpa sabes cómo podemos cancelar el Stripe Connect",
+          "status": "Open",
+          "channel": "Last.app Mexico",
+          "createdTime": "2026-10-26T02:17:31Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132601960",
+          "assignee": "Mr. Lasty"
+        }
+      ]
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000132614987",
+      "number": "364659",
+      "subject": "Error 500 al crear pedido mediante API - Miss sushi",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-10-26T07:01:00Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132614987",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000132634057",
+      "number": "364658",
+      "subject": "No me deja",
+      "status": "Open",
+      "channel": "Last.app Mexico",
+      "createdTime": "2026-10-26T06:51:07Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132634057",
+      "assignee": "",
+      "accountName": "Los Plebes Wings",
+      "locationId": ""
+    },
     {
       "id": "45842000132624598",
       "number": "364656",
@@ -2482,33 +2533,9 @@
       "assignee": "Johan Manuel Cortissoz Posada",
       "accountName": "Cototo Wifi - Distribucion",
       "locationId": ""
-    },
-    {
-      "id": "45842000132552273",
-      "number": "364295",
-      "subject": "Llamada saliente (00:02:12) de +34937377821 (Soporte) a +34658549974 ( Ptw Boulevard)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-10-23T12:22:06Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132552273",
-      "assignee": "Fernando Poza",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000132586157",
-      "number": "364293",
-      "subject": "¡Tu pedido está confirmado!  ",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-10-23T12:17:01Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132586157",
-      "assignee": "",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 1803,
+  "locationIdIssuesTotal": 1805,
   "byContact": [
     {
       "contactId": "45842000032294756",
@@ -2559,6 +2586,34 @@
       ]
     },
     {
+      "contactId": "45842000126515401",
+      "contactName": "Brian Maldonado",
+      "email": "Brianlennonx@gmail.com",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000132634057",
+          "number": "364658",
+          "subject": "No me deja",
+          "status": "Open",
+          "channel": "Last.app Mexico",
+          "createdTime": "2026-10-26T06:51:07Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132634057",
+          "assignee": ""
+        },
+        {
+          "id": "45842000132601960",
+          "number": "364649",
+          "subject": "Hola buenas noches, disculpa sabes cómo podemos cancelar el Stripe Connect",
+          "status": "Open",
+          "channel": "Last.app Mexico",
+          "createdTime": "2026-10-26T02:17:31Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132601960",
+          "assignee": "Mr. Lasty"
+        }
+      ]
+    },
+    {
       "contactId": "45842000114090243",
       "contactName": "Ricardo Paredes Gómez",
       "email": "ricardo.r.paredes@gmail.com",
@@ -2590,11 +2645,31 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 24,
+      "openCount": 26,
       "onHoldCount": 0,
       "closedCount": 1070,
-      "totalCount": 1094,
+      "totalCount": 1096,
       "tickets": [
+        {
+          "id": "45842000132614987",
+          "number": "364659",
+          "subject": "Error 500 al crear pedido mediante API - Miss sushi",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-10-26T07:01:00Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132614987",
+          "assignee": ""
+        },
+        {
+          "id": "45842000132634057",
+          "number": "364658",
+          "subject": "No me deja",
+          "status": "Open",
+          "channel": "Last.app Mexico",
+          "createdTime": "2026-10-26T06:51:07Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132634057",
+          "assignee": ""
+        },
         {
           "id": "45842000132624598",
           "number": "364656",
