@@ -1,9 +1,46 @@
 {
-  "lastUpdated": "2026-10-27T02:26:45.573321+00:00",
-  "totalOpenTickets": 68,
+  "lastUpdated": "2026-10-27T03:22:21.703323+00:00",
+  "totalOpenTickets": 69,
   "totalClosedTickets": 3686,
   "closedWindowDays": 30,
   "byLocation": [
+    {
+      "accountId": "45842000126515370",
+      "accountName": "Los Plebes Wings",
+      "ticketCount": 3,
+      "tickets": [
+        {
+          "id": "45842000132676703",
+          "number": "365070",
+          "subject": "A ver, ya estoy aquí en tienda Online",
+          "status": "Open",
+          "channel": "Last.app Mexico",
+          "createdTime": "2026-10-27T03:11:07Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132676703",
+          "assignee": "Mr. Lasty"
+        },
+        {
+          "id": "45842000132634057",
+          "number": "364658",
+          "subject": "No me deja",
+          "status": "Open",
+          "channel": "Last.app Mexico",
+          "createdTime": "2026-10-26T06:51:07Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132634057",
+          "assignee": "Mr. Lasty"
+        },
+        {
+          "id": "45842000132601960",
+          "number": "364649",
+          "subject": "Hola buenas noches, disculpa sabes cómo podemos cancelar el Stripe Connect",
+          "status": "Open",
+          "channel": "Last.app Mexico",
+          "createdTime": "2026-10-26T02:17:31Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132601960",
+          "assignee": "Mr. Lasty"
+        }
+      ]
+    },
     {
       "accountId": "45842000022977149",
       "accountName": "Cloudtown (Florencio-Madrid)",
@@ -86,33 +123,6 @@
       ]
     },
     {
-      "accountId": "45842000126515370",
-      "accountName": "Los Plebes Wings",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000132634057",
-          "number": "364658",
-          "subject": "No me deja",
-          "status": "Open",
-          "channel": "Last.app Mexico",
-          "createdTime": "2026-10-26T06:51:07Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132634057",
-          "assignee": "Mr. Lasty"
-        },
-        {
-          "id": "45842000132601960",
-          "number": "364649",
-          "subject": "Hola buenas noches, disculpa sabes cómo podemos cancelar el Stripe Connect",
-          "status": "Open",
-          "channel": "Last.app Mexico",
-          "createdTime": "2026-10-26T02:17:31Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132601960",
-          "assignee": "Mr. Lasty"
-        }
-      ]
-    },
-    {
       "accountId": "45842000000594001",
       "accountName": "MISS SUSHI S.L.",
       "ticketCount": 2,
@@ -168,6 +178,18 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000132676703",
+      "number": "365070",
+      "subject": "A ver, ya estoy aquí en tienda Online",
+      "status": "Open",
+      "channel": "Last.app Mexico",
+      "createdTime": "2026-10-27T03:11:07Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132676703",
+      "assignee": "Mr. Lasty",
+      "accountName": "Los Plebes Wings",
+      "locationId": ""
+    },
     {
       "id": "45842000132676619",
       "number": "365068",
@@ -2555,22 +2577,48 @@
       "assignee": "Angie Oliveros",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000132652343",
-      "number": "364821",
-      "subject": "Solicitud de llamada de Soporte - KIMCHIBOWL",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-10-26T15:21:01Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132652343",
-      "assignee": "",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 2088,
+  "locationIdIssuesTotal": 2089,
   "byContact": [
+    {
+      "contactId": "45842000126515401",
+      "contactName": "Brian Maldonado",
+      "email": "Brianlennonx@gmail.com",
+      "ticketCount": 3,
+      "tickets": [
+        {
+          "id": "45842000132676703",
+          "number": "365070",
+          "subject": "A ver, ya estoy aquí en tienda Online",
+          "status": "Open",
+          "channel": "Last.app Mexico",
+          "createdTime": "2026-10-27T03:11:07Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132676703",
+          "assignee": "Mr. Lasty"
+        },
+        {
+          "id": "45842000132634057",
+          "number": "364658",
+          "subject": "No me deja",
+          "status": "Open",
+          "channel": "Last.app Mexico",
+          "createdTime": "2026-10-26T06:51:07Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132634057",
+          "assignee": "Mr. Lasty"
+        },
+        {
+          "id": "45842000132601960",
+          "number": "364649",
+          "subject": "Hola buenas noches, disculpa sabes cómo podemos cancelar el Stripe Connect",
+          "status": "Open",
+          "channel": "Last.app Mexico",
+          "createdTime": "2026-10-26T02:17:31Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132601960",
+          "assignee": "Mr. Lasty"
+        }
+      ]
+    },
     {
       "contactId": "45842000078128005",
       "contactName": "Karla",
@@ -2606,34 +2654,6 @@
           "createdTime": "2026-10-26T10:24:25Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132548818",
           "assignee": "Alberto Poyato"
-        }
-      ]
-    },
-    {
-      "contactId": "45842000126515401",
-      "contactName": "Brian Maldonado",
-      "email": "Brianlennonx@gmail.com",
-      "ticketCount": 2,
-      "tickets": [
-        {
-          "id": "45842000132634057",
-          "number": "364658",
-          "subject": "No me deja",
-          "status": "Open",
-          "channel": "Last.app Mexico",
-          "createdTime": "2026-10-26T06:51:07Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132634057",
-          "assignee": "Mr. Lasty"
-        },
-        {
-          "id": "45842000132601960",
-          "number": "364649",
-          "subject": "Hola buenas noches, disculpa sabes cómo podemos cancelar el Stripe Connect",
-          "status": "Open",
-          "channel": "Last.app Mexico",
-          "createdTime": "2026-10-26T02:17:31Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132601960",
-          "assignee": "Mr. Lasty"
         }
       ]
     },
@@ -2753,11 +2773,21 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 41,
+      "openCount": 42,
       "onHoldCount": 7,
       "closedCount": 1233,
-      "totalCount": 1281,
+      "totalCount": 1282,
       "tickets": [
+        {
+          "id": "45842000132676703",
+          "number": "365070",
+          "subject": "A ver, ya estoy aquí en tienda Online",
+          "status": "Open",
+          "channel": "Last.app Mexico",
+          "createdTime": "2026-10-27T03:11:07Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132676703",
+          "assignee": "Mr. Lasty"
+        },
         {
           "id": "45842000132676619",
           "number": "365068",
