@@ -1,46 +1,9 @@
 {
-  "lastUpdated": "2026-10-27T03:22:21.703323+00:00",
-  "totalOpenTickets": 69,
-  "totalClosedTickets": 3686,
+  "lastUpdated": "2026-10-27T04:21:24.999997+00:00",
+  "totalOpenTickets": 67,
+  "totalClosedTickets": 3689,
   "closedWindowDays": 30,
   "byLocation": [
-    {
-      "accountId": "45842000126515370",
-      "accountName": "Los Plebes Wings",
-      "ticketCount": 3,
-      "tickets": [
-        {
-          "id": "45842000132676703",
-          "number": "365070",
-          "subject": "A ver, ya estoy aquí en tienda Online",
-          "status": "Open",
-          "channel": "Last.app Mexico",
-          "createdTime": "2026-10-27T03:11:07Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132676703",
-          "assignee": "Mr. Lasty"
-        },
-        {
-          "id": "45842000132634057",
-          "number": "364658",
-          "subject": "No me deja",
-          "status": "Open",
-          "channel": "Last.app Mexico",
-          "createdTime": "2026-10-26T06:51:07Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132634057",
-          "assignee": "Mr. Lasty"
-        },
-        {
-          "id": "45842000132601960",
-          "number": "364649",
-          "subject": "Hola buenas noches, disculpa sabes cómo podemos cancelar el Stripe Connect",
-          "status": "Open",
-          "channel": "Last.app Mexico",
-          "createdTime": "2026-10-26T02:17:31Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132601960",
-          "assignee": "Mr. Lasty"
-        }
-      ]
-    },
     {
       "accountId": "45842000022977149",
       "accountName": "Cloudtown (Florencio-Madrid)",
@@ -179,14 +142,26 @@
   ],
   "locationIdIssues": [
     {
+      "id": "45842000132689128",
+      "number": "365073",
+      "subject": "Hola, te escribo del restaurante Casa elefante de Polanco. No se envía en automático la comanda dé UberEATS a la impresora y no aparece el botón de “comandar tampoco",
+      "status": "Closed",
+      "channel": "Last.app Mexico",
+      "createdTime": "2026-10-27T03:52:02Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132689128",
+      "assignee": "Johan Manuel Cortissoz Posada",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
       "id": "45842000132676703",
       "number": "365070",
       "subject": "A ver, ya estoy aquí en tienda Online",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Last.app Mexico",
       "createdTime": "2026-10-27T03:11:07Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132676703",
-      "assignee": "Mr. Lasty",
+      "assignee": "Johan Manuel Cortissoz Posada",
       "accountName": "Los Plebes Wings",
       "locationId": ""
     },
@@ -2565,60 +2540,10 @@
       "assignee": "Alberto Poyato",
       "accountName": "KIMCHIBOWL",
       "locationId": ""
-    },
-    {
-      "id": "45842000132629254",
-      "number": "364822",
-      "subject": "Llamada entrante (00:01:35) de +34689996599 ( Lemongrass Torrente) a +34937377821 (Soporte)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-10-26T15:24:31Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132629254",
-      "assignee": "Angie Oliveros",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 2089,
+  "locationIdIssuesTotal": 2090,
   "byContact": [
-    {
-      "contactId": "45842000126515401",
-      "contactName": "Brian Maldonado",
-      "email": "Brianlennonx@gmail.com",
-      "ticketCount": 3,
-      "tickets": [
-        {
-          "id": "45842000132676703",
-          "number": "365070",
-          "subject": "A ver, ya estoy aquí en tienda Online",
-          "status": "Open",
-          "channel": "Last.app Mexico",
-          "createdTime": "2026-10-27T03:11:07Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132676703",
-          "assignee": "Mr. Lasty"
-        },
-        {
-          "id": "45842000132634057",
-          "number": "364658",
-          "subject": "No me deja",
-          "status": "Open",
-          "channel": "Last.app Mexico",
-          "createdTime": "2026-10-26T06:51:07Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132634057",
-          "assignee": "Mr. Lasty"
-        },
-        {
-          "id": "45842000132601960",
-          "number": "364649",
-          "subject": "Hola buenas noches, disculpa sabes cómo podemos cancelar el Stripe Connect",
-          "status": "Open",
-          "channel": "Last.app Mexico",
-          "createdTime": "2026-10-26T02:17:31Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132601960",
-          "assignee": "Mr. Lasty"
-        }
-      ]
-    },
     {
       "contactId": "45842000078128005",
       "contactName": "Karla",
@@ -2773,20 +2698,30 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 42,
+      "openCount": 40,
       "onHoldCount": 7,
-      "closedCount": 1233,
-      "totalCount": 1282,
+      "closedCount": 1236,
+      "totalCount": 1283,
       "tickets": [
+        {
+          "id": "45842000132689128",
+          "number": "365073",
+          "subject": "Hola, te escribo del restaurante Casa elefante de Polanco. No se envía en automático la comanda dé UberEATS a la impresora y no aparece el botón de “comandar tampoco",
+          "status": "Closed",
+          "channel": "Last.app Mexico",
+          "createdTime": "2026-10-27T03:52:02Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132689128",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
         {
           "id": "45842000132676703",
           "number": "365070",
           "subject": "A ver, ya estoy aquí en tienda Online",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Last.app Mexico",
           "createdTime": "2026-10-27T03:11:07Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132676703",
-          "assignee": "Mr. Lasty"
+          "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
           "id": "45842000132676619",
@@ -3499,26 +3434,6 @@
           "assignee": "Harold Diaz"
         },
         {
-          "id": "45842000132673078",
-          "number": "364932",
-          "subject": "Buenas",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-10-26T18:53:54Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132673078",
-          "assignee": "Mr. Lasty"
-        },
-        {
-          "id": "45842000132654634",
-          "number": "364929",
-          "subject": "Hola",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-10-26T18:52:49Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132654634",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000132664602",
           "number": "364924",
           "subject": "Solicitud de llamada de Soporte - KENTO LA ELIANA",
@@ -3706,16 +3621,6 @@
           "channel": "Last.app Mexico",
           "createdTime": "2026-10-26T06:51:07Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132634057",
-          "assignee": "Mr. Lasty"
-        },
-        {
-          "id": "45842000132601960",
-          "number": "364649",
-          "subject": "Hola buenas noches, disculpa sabes cómo podemos cancelar el Stripe Connect",
-          "status": "Open",
-          "channel": "Last.app Mexico",
-          "createdTime": "2026-10-26T02:17:31Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132601960",
           "assignee": "Mr. Lasty"
         },
         {
