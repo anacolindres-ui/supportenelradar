@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-29T09:15:24.494618+00:00",
+  "lastUpdated": "2026-10-29T10:13:52.364611+00:00",
   "totalOpenTickets": 100,
-  "totalClosedTickets": 3999,
+  "totalClosedTickets": 4008,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -62,80 +62,6 @@
       ]
     },
     {
-      "accountId": "45842000000594001",
-      "accountName": "MISS SUSHI S.L.",
-      "ticketCount": 3,
-      "tickets": [
-        {
-          "id": "45842000132906340",
-          "number": "365878",
-          "subject": "Listado de promociones ha desaparecido",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-10-29T09:08:50Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132906340",
-          "assignee": ""
-        },
-        {
-          "id": "45842000132637858",
-          "number": "364781",
-          "subject": "Uber en Miss sushi Avenida de brasil.",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-10-26T13:55:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132637858",
-          "assignee": "Fernando Poza"
-        },
-        {
-          "id": "45842000132605866",
-          "number": "364600",
-          "subject": "RE: Hora de reservas Pikaro Las palmas.",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-10-25T13:59:06Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132605866",
-          "assignee": "Alberto Poyato"
-        }
-      ]
-    },
-    {
-      "accountId": "45842000132823020",
-      "accountName": "Pizzeria Malandra",
-      "ticketCount": 3,
-      "tickets": [
-        {
-          "id": "45842000132888044",
-          "number": "365872",
-          "subject": "Llamada saliente (00:00:08) de +34937377821 (Soporte) a +34609342015 ( Francois Nahuel Gómez)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-10-29T08:50:28Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132888044",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000132885032",
-          "number": "365871",
-          "subject": "Llamada saliente (00:00:03) de +34937377821 (Soporte) a +34609342015 ( Francois Nahuel Gómez)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-10-29T08:50:02Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132885032",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000132901028",
-          "number": "365870",
-          "subject": "Llamada saliente (00:00:03) de +34937377821 (Soporte) a +34609342015 ( Francois Nahuel Gómez)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-10-29T08:49:58Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132901028",
-          "assignee": "Alberto Poyato"
-        }
-      ]
-    },
-    {
       "accountId": "45842000079263240",
       "accountName": "Last.app",
       "ticketCount": 2,
@@ -161,18 +87,180 @@
           "assignee": ""
         }
       ]
+    },
+    {
+      "accountId": "45842000000594001",
+      "accountName": "MISS SUSHI S.L.",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000132906340",
+          "number": "365878",
+          "subject": "Listado de promociones ha desaparecido",
+          "status": "On Hold",
+          "channel": "Email",
+          "createdTime": "2026-10-29T09:08:50Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132906340",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000132605866",
+          "number": "364600",
+          "subject": "RE: Hora de reservas Pikaro Las palmas.",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-10-25T13:59:06Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132605866",
+          "assignee": "Alberto Poyato"
+        }
+      ]
+    },
+    {
+      "accountId": "45842000131141722",
+      "accountName": "Repoyo",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000132891117",
+          "number": "365888",
+          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34682273692 ( Mario)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-10-29T09:47:34Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132891117",
+          "assignee": "Javier Landaeta"
+        },
+        {
+          "id": "45842000132797218",
+          "number": "365599",
+          "subject": "Llamada entrante (00:02:25) de +34682273692 ( Mario) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-10-28T11:08:11Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132797218",
+          "assignee": "Alberto Poyato"
+        }
+      ]
     }
   ],
   "locationIdIssues": [
     {
+      "id": "45842000132899056",
+      "number": "365896",
+      "subject": "Llamada entrante de +34943490710 ( +34943490710) a +34937377821 (Soporte)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-10-29T10:06:28Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132899056",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000132906489",
+      "number": "365895",
+      "subject": "No hemos podido renovar tu suscripción a Prime",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-10-29T09:56:34Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132906489",
+      "assignee": "Alberto Poyato",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000132884063",
+      "number": "365894",
+      "subject": "Llamada saliente (00:08:18) de +34937377821 (Soporte) a +34943490710 ( +34943490710)",
+      "status": "Closed",
+      "channel": "Phone",
+      "createdTime": "2026-10-29T09:55:32Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132884063",
+      "assignee": "Alberto Poyato",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000132897069",
+      "number": "365891",
+      "subject": "Llamada saliente (00:01:17) de +34937377821 (Soporte) a +34943490710 ( +34943490710)",
+      "status": "Closed",
+      "channel": "Phone",
+      "createdTime": "2026-10-29T09:54:02Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132897069",
+      "assignee": "Alberto Poyato",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000132907061",
+      "number": "365890",
+      "subject": "Llamada entrante (00:14:46) de +34722387482 ( Saborearte) a +34937377821 (Soporte)",
+      "status": "Closed",
+      "channel": "Phone",
+      "createdTime": "2026-10-29T09:53:34Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132907061",
+      "assignee": "Fernando Poza",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000132882059",
+      "number": "365889",
+      "subject": "Buen día, si activo esta herramienta tendrá un coste mensual? Solo por asegurarme 😅",
+      "status": "Open",
+      "channel": "Last.app España",
+      "createdTime": "2026-10-29T09:51:25Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132882059",
+      "assignee": "Fernando Poza",
+      "accountName": "La Churuata by La Mechada",
+      "locationId": ""
+    },
+    {
+      "id": "45842000132891117",
+      "number": "365888",
+      "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34682273692 ( Mario)",
+      "status": "Open",
+      "channel": "Phone",
+      "createdTime": "2026-10-29T09:47:34Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132891117",
+      "assignee": "Javier Landaeta",
+      "accountName": "Repoyo",
+      "locationId": ""
+    },
+    {
+      "id": "45842000132918057",
+      "number": "365887",
+      "subject": "Hola buenos dias",
+      "status": "Closed",
+      "channel": "Last.app España",
+      "createdTime": "2026-10-29T09:44:10Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132918057",
+      "assignee": "Fernando Poza",
+      "accountName": "BAKA VIEJA BILBAO",
+      "locationId": ""
+    },
+    {
+      "id": "45842000132906408",
+      "number": "365884",
+      "subject": "JCDEP-1144 LastApp - flyt integration request",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-10-29T09:21:14Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132906408",
+      "assignee": "Alberto Poyato",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
       "id": "45842000132906340",
       "number": "365878",
       "subject": "Listado de promociones ha desaparecido",
-      "status": "Open",
+      "status": "On Hold",
       "channel": "Email",
       "createdTime": "2026-10-29T09:08:50Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132906340",
-      "assignee": "",
+      "assignee": "Alberto Poyato",
       "accountName": "MISS SUSHI S.L.",
       "locationId": ""
     },
@@ -216,7 +304,7 @@
       "id": "45842000132885032",
       "number": "365871",
       "subject": "Llamada saliente (00:00:03) de +34937377821 (Soporte) a +34609342015 ( Francois Nahuel Gómez)",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Phone",
       "createdTime": "2026-10-29T08:50:02Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132885032",
@@ -228,7 +316,7 @@
       "id": "45842000132901028",
       "number": "365870",
       "subject": "Llamada saliente (00:00:03) de +34937377821 (Soporte) a +34609342015 ( Francois Nahuel Gómez)",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Phone",
       "createdTime": "2026-10-29T08:49:58Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132901028",
@@ -240,11 +328,11 @@
       "id": "45842000132881020",
       "number": "365867",
       "subject": "Buenos días!!!\nQuería haceros una pregunta, es posible una pequeña formación ya q a pesar de llevar un año con la aplicación y haberla usado hace un tiempo en otro restaurante, los chicos no la tienen...",
-      "status": "Open",
+      "status": "Closed",
       "channel": "Last.app España",
       "createdTime": "2026-10-29T08:35:38Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132881020",
-      "assignee": "Mr. Lasty",
+      "assignee": "Fernando Poza",
       "accountName": "",
       "locationId": ""
     },
@@ -897,18 +985,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000132831562",
-      "number": "365769",
-      "subject": "JCDEP-946 LastApp - flyt integration request",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-10-28T16:03:13Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132831562",
-      "assignee": "Alberto Poyato",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000132829981",
       "number": "365770",
       "subject": "JCDEP-945 LastApp - flyt integration request",
@@ -916,6 +992,18 @@
       "channel": "Email",
       "createdTime": "2026-10-28T16:03:13Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132829981",
+      "assignee": "Alberto Poyato",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000132831562",
+      "number": "365769",
+      "subject": "JCDEP-946 LastApp - flyt integration request",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-10-28T16:03:13Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132831562",
       "assignee": "Alberto Poyato",
       "accountName": "",
       "locationId": ""
@@ -2159,12 +2247,12 @@
     {
       "id": "45842000132806285",
       "number": "365630",
-      "subject": "Llamada entrante de +34660350679 (Javier Javier Fdez) a +34937377821 (Soporte)",
-      "status": "Closed",
+      "subject": "Seguimiento de su llamada: Incidencia en cierre de caja solucionada",
+      "status": "Open",
       "channel": "Phone",
       "createdTime": "2026-10-28T11:43:44Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132806285",
-      "assignee": "",
+      "assignee": "Alberto Poyato",
       "accountName": "Pizzas Fly",
       "locationId": ""
     },
@@ -2455,117 +2543,9 @@
       "assignee": "Ana Colindres",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000132805184",
-      "number": "365600",
-      "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34682273692 ( Mario)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-10-28T11:10:11Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132805184",
-      "assignee": "Alberto Poyato",
-      "accountName": "Repoyo",
-      "locationId": ""
-    },
-    {
-      "id": "45842000132797218",
-      "number": "365599",
-      "subject": "Llamada entrante (00:02:25) de +34682273692 ( Mario) a +34937377821 (Soporte)",
-      "status": "Open",
-      "channel": "Phone",
-      "createdTime": "2026-10-28T11:08:11Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132797218",
-      "assignee": "Alberto Poyato",
-      "accountName": "Repoyo",
-      "locationId": ""
-    },
-    {
-      "id": "45842000132811172",
-      "number": "365598",
-      "subject": "Llamada entrante (00:02:09) de +34683632437 ( Ignacio Aranciaga) a +34937377821 (Soporte)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-10-28T11:07:59Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132811172",
-      "assignee": "Dimitriz Rodriguez",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000132778896",
-      "number": "365597",
-      "subject": "Scale your startup into Germany",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-10-28T11:07:36Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132778896",
-      "assignee": "Dimitriz Rodriguez",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000132796226",
-      "number": "365596",
-      "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34682273692 ( Mario)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-10-28T11:07:34Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132796226",
-      "assignee": "Alberto Poyato",
-      "accountName": "Repoyo",
-      "locationId": ""
-    },
-    {
-      "id": "45842000132782453",
-      "number": "365595",
-      "subject": "Hola, buenas! Tenemos novedades del fallo de Uber Eats y Last.app",
-      "status": "Open",
-      "channel": "Last.app España",
-      "createdTime": "2026-10-28T11:07:30Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132782453",
-      "assignee": "Trinidad Larrain Punti",
-      "accountName": "Zoco",
-      "locationId": ""
-    },
-    {
-      "id": "45842000132778830",
-      "number": "365594",
-      "subject": "Solicitud de llamada de Soporte - REPOYO",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-10-28T11:06:04Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132778830",
-      "assignee": "",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000132778767",
-      "number": "365593",
-      "subject": "JCDEP-1058 Re:[## 365402 ##] Problema integración",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-10-28T11:04:33Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132778767",
-      "assignee": "Trinidad Larrain Punti",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000132784255",
-      "number": "365592",
-      "subject": "Llamada entrante (00:01:21) de +34654170584 ( Pituka & Petaka) a +34937377821 (Soporte)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-10-28T11:04:08Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132784255",
-      "assignee": "Alberto Poyato",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 2574,
+  "locationIdIssuesTotal": 2583,
   "byContact": [
     {
       "contactId": "45842000107314561",
@@ -2622,120 +2602,6 @@
           "createdTime": "2026-10-26T21:18:13Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132694077",
           "assignee": "Trinidad Larrain Punti"
-        }
-      ]
-    },
-    {
-      "contactId": "45842000068394138",
-      "contactName": "Ana LW",
-      "email": "",
-      "ticketCount": 3,
-      "tickets": [
-        {
-          "id": "45842000132881020",
-          "number": "365867",
-          "subject": "Buenos días!!!\nQuería haceros una pregunta, es posible una pequeña formación ya q a pesar de llevar un año con la aplicación y haberla usado hace un tiempo en otro restaurante, los chicos no la tienen...",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-10-29T08:35:38Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132881020",
-          "assignee": "Mr. Lasty"
-        },
-        {
-          "id": "45842000132853622",
-          "number": "365826",
-          "subject": "No, no apareció mensaje y en la versión anterior si avisaba antes. Debería ser así, avisando",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-10-28T19:33:49Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132853622",
-          "assignee": ""
-        },
-        {
-          "id": "45842000132853186",
-          "number": "365790",
-          "subject": "Claro, no se completó porq la app no nos dejó",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-10-28T17:24:52Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132853186",
-          "assignee": "Mr. Lasty"
-        }
-      ]
-    },
-    {
-      "contactId": "45842000132823051",
-      "contactName": "Francois Nahuel Gomez",
-      "email": "franncisco.gomezes@gmail.com",
-      "ticketCount": 3,
-      "tickets": [
-        {
-          "id": "45842000132888044",
-          "number": "365872",
-          "subject": "Llamada saliente (00:00:08) de +34937377821 (Soporte) a +34609342015 ( Francois Nahuel Gómez)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-10-29T08:50:28Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132888044",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000132885032",
-          "number": "365871",
-          "subject": "Llamada saliente (00:00:03) de +34937377821 (Soporte) a +34609342015 ( Francois Nahuel Gómez)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-10-29T08:50:02Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132885032",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000132901028",
-          "number": "365870",
-          "subject": "Llamada saliente (00:00:03) de +34937377821 (Soporte) a +34609342015 ( Francois Nahuel Gómez)",
-          "status": "Open",
-          "channel": "Phone",
-          "createdTime": "2026-10-29T08:49:58Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132901028",
-          "assignee": "Alberto Poyato"
-        }
-      ]
-    },
-    {
-      "contactId": "45842000032294756",
-      "contactName": "Javier Avendaño",
-      "email": "javier.it@misssushi.es",
-      "ticketCount": 3,
-      "tickets": [
-        {
-          "id": "45842000132906340",
-          "number": "365878",
-          "subject": "Listado de promociones ha desaparecido",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-10-29T09:08:50Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132906340",
-          "assignee": ""
-        },
-        {
-          "id": "45842000132637858",
-          "number": "364781",
-          "subject": "Uber en Miss sushi Avenida de brasil.",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-10-26T13:55:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132637858",
-          "assignee": "Fernando Poza"
-        },
-        {
-          "id": "45842000132605866",
-          "number": "364600",
-          "subject": "RE: Hora de reservas Pikaro Las palmas.",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-10-25T13:59:06Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132605866",
-          "assignee": "Alberto Poyato"
         }
       ]
     },
@@ -2806,6 +2672,62 @@
       ]
     },
     {
+      "contactId": "45842000068394138",
+      "contactName": "Ana LW",
+      "email": "",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000132853622",
+          "number": "365826",
+          "subject": "No, no apareció mensaje y en la versión anterior si avisaba antes. Debería ser así, avisando",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-10-28T19:33:49Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132853622",
+          "assignee": ""
+        },
+        {
+          "id": "45842000132853186",
+          "number": "365790",
+          "subject": "Claro, no se completó porq la app no nos dejó",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-10-28T17:24:52Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132853186",
+          "assignee": "Mr. Lasty"
+        }
+      ]
+    },
+    {
+      "contactId": "45842000032294756",
+      "contactName": "Javier Avendaño",
+      "email": "javier.it@misssushi.es",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000132906340",
+          "number": "365878",
+          "subject": "Listado de promociones ha desaparecido",
+          "status": "On Hold",
+          "channel": "Email",
+          "createdTime": "2026-10-29T09:08:50Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132906340",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000132605866",
+          "number": "364600",
+          "subject": "RE: Hora de reservas Pikaro Las palmas.",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-10-25T13:59:06Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132605866",
+          "assignee": "Alberto Poyato"
+        }
+      ]
+    },
+    {
       "contactId": "45842000073400563",
       "contactName": "Joana",
       "email": "j.k.chacon@hotmail.com",
@@ -2860,25 +2782,113 @@
           "assignee": "Alberto Poyato"
         }
       ]
+    },
+    {
+      "contactId": "45842000131141747",
+      "contactName": "Mario",
+      "email": "mariocaabeirostrecker@gmail.com",
+      "ticketCount": 2,
+      "tickets": [
+        {
+          "id": "45842000132891117",
+          "number": "365888",
+          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34682273692 ( Mario)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-10-29T09:47:34Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132891117",
+          "assignee": "Javier Landaeta"
+        },
+        {
+          "id": "45842000132797218",
+          "number": "365599",
+          "subject": "Llamada entrante (00:02:25) de +34682273692 ( Mario) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-10-28T11:08:11Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132797218",
+          "assignee": "Alberto Poyato"
+        }
+      ]
     }
   ],
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 74,
-      "onHoldCount": 3,
-      "closedCount": 1529,
-      "totalCount": 1606,
+      "openCount": 71,
+      "onHoldCount": 4,
+      "closedCount": 1537,
+      "totalCount": 1612,
       "tickets": [
+        {
+          "id": "45842000132906489",
+          "number": "365895",
+          "subject": "No hemos podido renovar tu suscripción a Prime",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-10-29T09:56:34Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132906489",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000132884063",
+          "number": "365894",
+          "subject": "Llamada saliente (00:08:18) de +34937377821 (Soporte) a +34943490710 ( +34943490710)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-10-29T09:55:32Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132884063",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000132897069",
+          "number": "365891",
+          "subject": "Llamada saliente (00:01:17) de +34937377821 (Soporte) a +34943490710 ( +34943490710)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-10-29T09:54:02Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132897069",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000132882059",
+          "number": "365889",
+          "subject": "Buen día, si activo esta herramienta tendrá un coste mensual? Solo por asegurarme 😅",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-10-29T09:51:25Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132882059",
+          "assignee": "Fernando Poza"
+        },
+        {
+          "id": "45842000132891117",
+          "number": "365888",
+          "subject": "Llamada saliente (00:00:00) de +34937377821 (Soporte) a +34682273692 ( Mario)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-10-29T09:47:34Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132891117",
+          "assignee": "Javier Landaeta"
+        },
+        {
+          "id": "45842000132918057",
+          "number": "365887",
+          "subject": "Hola buenos dias",
+          "status": "Closed",
+          "channel": "Last.app España",
+          "createdTime": "2026-10-29T09:44:10Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132918057",
+          "assignee": "Fernando Poza"
+        },
         {
           "id": "45842000132906340",
           "number": "365878",
           "subject": "Listado de promociones ha desaparecido",
-          "status": "Open",
+          "status": "On Hold",
           "channel": "Email",
           "createdTime": "2026-10-29T09:08:50Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132906340",
-          "assignee": ""
+          "assignee": "Alberto Poyato"
         },
         {
           "id": "45842000132900084",
@@ -2904,7 +2914,7 @@
           "id": "45842000132885032",
           "number": "365871",
           "subject": "Llamada saliente (00:00:03) de +34937377821 (Soporte) a +34609342015 ( Francois Nahuel Gómez)",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Phone",
           "createdTime": "2026-10-29T08:50:02Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132885032",
@@ -2914,7 +2924,7 @@
           "id": "45842000132901028",
           "number": "365870",
           "subject": "Llamada saliente (00:00:03) de +34937377821 (Soporte) a +34609342015 ( Francois Nahuel Gómez)",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Phone",
           "createdTime": "2026-10-29T08:49:58Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132901028",
@@ -2924,11 +2934,11 @@
           "id": "45842000132881020",
           "number": "365867",
           "subject": "Buenos días!!!\nQuería haceros una pregunta, es posible una pequeña formación ya q a pesar de llevar un año con la aplicación y haberla usado hace un tiempo en otro restaurante, los chicos no la tienen...",
-          "status": "Open",
+          "status": "Closed",
           "channel": "Last.app España",
           "createdTime": "2026-10-29T08:35:38Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132881020",
-          "assignee": "Mr. Lasty"
+          "assignee": "Fernando Poza"
         },
         {
           "id": "45842000132879114",
@@ -3621,26 +3631,6 @@
           "assignee": "Dimitriz Rodriguez"
         },
         {
-          "id": "45842000132830403",
-          "number": "365708",
-          "subject": "Registro de pedidos de Uber Eats 16 y 17 de octubre",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-10-28T14:10:43Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132830403",
-          "assignee": "Raimundo Garcia"
-        },
-        {
-          "id": "45842000132785575",
-          "number": "365702",
-          "subject": "Llamada saliente (00:00:40) de +34937377821 (Soporte) a +34606167146 ( Xavier)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-10-28T14:00:20Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132785575",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
           "id": "45842000132830225",
           "number": "365700",
           "subject": "Solicitud de llamada de Soporte - REPOYO",
@@ -3649,56 +3639,6 @@
           "createdTime": "2026-10-28T13:58:41Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132830225",
           "assignee": ""
-        },
-        {
-          "id": "45842000132790601",
-          "number": "365699",
-          "subject": "Llamada saliente (00:14:10) de +34937377821 (Soporte) a +34636053385 ( Alejandro)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-10-28T13:57:10Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132790601",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000132800499",
-          "number": "365697",
-          "subject": "826139880592996.jpeg",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-10-28T13:55:46Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132800499",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000132829500",
-          "number": "365693",
-          "subject": "Solicitud de Push para marca El Delicioso Latino",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-10-28T13:44:15Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132829500",
-          "assignee": "Eric Nikolic Fraguela"
-        },
-        {
-          "id": "45842000132792450",
-          "number": "365685",
-          "subject": "Llamada saliente (00:01:39) de +34937377821 (Soporte) a +34631668490 ( 34631668490)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-10-28T13:10:17Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132792450",
-          "assignee": "Alberto Poyato"
-        },
-        {
-          "id": "45842000132795583",
-          "number": "365683",
-          "subject": "Llamada saliente (00:10:03) de +34937377821 (Soporte) a +34606167146 ( Xavier)",
-          "status": "Closed",
-          "channel": "Phone",
-          "createdTime": "2026-10-28T13:09:20Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132795583",
-          "assignee": "Alberto Poyato"
         },
         {
           "id": "45842000132817385",
@@ -3991,16 +3931,6 @@
           "assignee": "Trinidad Larrain Punti"
         },
         {
-          "id": "45842000132693673",
-          "number": "365088",
-          "subject": "Buen día",
-          "status": "Open",
-          "channel": "Last.app España",
-          "createdTime": "2026-10-27T07:30:51Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132693673",
-          "assignee": ""
-        },
-        {
           "id": "45842000132689128",
           "number": "365073",
           "subject": "Hola, te escribo del restaurante Casa elefante de Polanco. No se envía en automático la comanda dé UberEATS a la impresora y no aparece el botón de “comandar tampoco",
@@ -4109,16 +4039,6 @@
           "createdTime": "2026-10-26T14:43:57Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132642666",
           "assignee": "Raimundo Garcia"
-        },
-        {
-          "id": "45842000132637858",
-          "number": "364781",
-          "subject": "Uber en Miss sushi Avenida de brasil.",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-10-26T13:55:33Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132637858",
-          "assignee": "Fernando Poza"
         },
         {
           "id": "45842000132642243",
@@ -4231,6 +4151,16 @@
           "assignee": ""
         },
         {
+          "id": "45842000132036018",
+          "number": "362274",
+          "subject": "A new loyalty capability for your offering: 85+ million members",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-10-14T09:29:19Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132036018",
+          "assignee": "Brayan Ricardo Fuentes Herrera"
+        },
+        {
           "id": "45842000128317919",
           "number": "348090",
           "subject": "Integración - Taguara - Lastapp - Flipdish",
@@ -4245,11 +4175,31 @@
     },
     {
       "classification": "Calls",
-      "openCount": 11,
+      "openCount": 13,
       "onHoldCount": 0,
       "closedCount": 620,
-      "totalCount": 631,
+      "totalCount": 633,
       "tickets": [
+        {
+          "id": "45842000132899056",
+          "number": "365896",
+          "subject": "Llamada entrante de +34943490710 ( +34943490710) a +34937377821 (Soporte)",
+          "status": "Open",
+          "channel": "Phone",
+          "createdTime": "2026-10-29T10:06:28Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132899056",
+          "assignee": ""
+        },
+        {
+          "id": "45842000132907061",
+          "number": "365890",
+          "subject": "Llamada entrante (00:14:46) de +34722387482 ( Saborearte) a +34937377821 (Soporte)",
+          "status": "Closed",
+          "channel": "Phone",
+          "createdTime": "2026-10-29T09:53:34Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132907061",
+          "assignee": "Fernando Poza"
+        },
         {
           "id": "45842000132846213",
           "number": "365818",
@@ -4723,12 +4673,12 @@
         {
           "id": "45842000132806285",
           "number": "365630",
-          "subject": "Llamada entrante de +34660350679 (Javier Javier Fdez) a +34937377821 (Soporte)",
-          "status": "Closed",
+          "subject": "Seguimiento de su llamada: Incidencia en cierre de caja solucionada",
+          "status": "Open",
           "channel": "Phone",
           "createdTime": "2026-10-28T11:43:44Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132806285",
-          "assignee": ""
+          "assignee": "Alberto Poyato"
         },
         {
           "id": "45842000132790302",
@@ -5587,9 +5537,19 @@
       "classification": "Integration Process",
       "openCount": 6,
       "onHoldCount": 0,
-      "closedCount": 290,
-      "totalCount": 296,
+      "closedCount": 291,
+      "totalCount": 297,
       "tickets": [
+        {
+          "id": "45842000132906408",
+          "number": "365884",
+          "subject": "JCDEP-1144 LastApp - flyt integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-10-29T09:21:14Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132906408",
+          "assignee": "Alberto Poyato"
+        },
         {
           "id": "45842000132912119",
           "number": "365873",
@@ -6021,16 +5981,6 @@
           "assignee": ""
         },
         {
-          "id": "45842000132686884",
-          "number": "365144",
-          "subject": "JCDEP-945 LastApp - flyt integration request",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-10-27T09:17:18Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132686884",
-          "assignee": ""
-        },
-        {
           "id": "45842000132696800",
           "number": "365145",
           "subject": "JCDEP-947 LastApp - flyt integration request",
@@ -6038,6 +5988,16 @@
           "channel": "Email",
           "createdTime": "2026-10-27T09:17:18Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132696800",
+          "assignee": ""
+        },
+        {
+          "id": "45842000132686884",
+          "number": "365144",
+          "subject": "JCDEP-945 LastApp - flyt integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-10-27T09:17:18Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132686884",
           "assignee": ""
         },
         {
@@ -6239,16 +6199,6 @@
           "createdTime": "2026-10-23T13:42:59Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132576514",
           "assignee": "Raimundo Garcia"
-        },
-        {
-          "id": "45842000132576444",
-          "number": "364326",
-          "subject": "Uber Case# 61081631-LastApp - uber integration request",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-10-23T13:41:01Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132576444",
-          "assignee": "Alberto Poyato"
         }
       ],
       "inMasterList": false
