@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-29T03:16:23.277800+00:00",
-  "totalOpenTickets": 100,
+  "lastUpdated": "2026-10-29T04:16:38.407928+00:00",
+  "totalOpenTickets": 101,
   "totalClosedTickets": 3989,
   "closedWindowDays": 30,
   "byLocation": [
@@ -90,6 +90,18 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000132866267",
+      "number": "365854",
+      "subject": "Uber Case# 61212272-LastApp - uber integration request",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-10-29T04:08:26Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132866267",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000132847793",
       "number": "365849",
@@ -703,18 +715,6 @@
       "locationId": ""
     },
     {
-      "id": "45842000132831562",
-      "number": "365769",
-      "subject": "JCDEP-946 LastApp - flyt integration request",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-10-28T16:03:13Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132831562",
-      "assignee": "Alberto Poyato",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
       "id": "45842000132829981",
       "number": "365770",
       "subject": "JCDEP-945 LastApp - flyt integration request",
@@ -722,6 +722,18 @@
       "channel": "Email",
       "createdTime": "2026-10-28T16:03:13Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132829981",
+      "assignee": "Alberto Poyato",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000132831562",
+      "number": "365769",
+      "subject": "JCDEP-946 LastApp - flyt integration request",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-10-28T16:03:13Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132831562",
       "assignee": "Alberto Poyato",
       "accountName": "",
       "locationId": ""
@@ -2477,21 +2489,9 @@
       "assignee": "Mr. Lasty",
       "accountName": "El Arriero",
       "locationId": ""
-    },
-    {
-      "id": "45842000132781355",
-      "number": "365581",
-      "subject": "Buenos días, podéis informarme si está solucionado el tema de Uber en la aplicación?",
-      "status": "Closed",
-      "channel": "Last.app España",
-      "createdTime": "2026-10-28T10:35:37Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132781355",
-      "assignee": "Trinidad Larrain Punti",
-      "accountName": "Yin Yang",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 2564,
+  "locationIdIssuesTotal": 2565,
   "byContact": [
     {
       "contactId": "45842000107314561",
@@ -5395,11 +5395,21 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 7,
+      "openCount": 8,
       "onHoldCount": 0,
       "closedCount": 287,
-      "totalCount": 294,
+      "totalCount": 295,
       "tickets": [
+        {
+          "id": "45842000132866267",
+          "number": "365854",
+          "subject": "Uber Case# 61212272-LastApp - uber integration request",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-10-29T04:08:26Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132866267",
+          "assignee": ""
+        },
         {
           "id": "45842000132847495",
           "number": "365822",
@@ -5451,16 +5461,6 @@
           "assignee": "Raimundo Garcia"
         },
         {
-          "id": "45842000132831562",
-          "number": "365769",
-          "subject": "JCDEP-946 LastApp - flyt integration request",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-10-28T16:03:13Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132831562",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000132829981",
           "number": "365770",
           "subject": "JCDEP-945 LastApp - flyt integration request",
@@ -5468,6 +5468,16 @@
           "channel": "Email",
           "createdTime": "2026-10-28T16:03:13Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132829981",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000132831562",
+          "number": "365769",
+          "subject": "JCDEP-946 LastApp - flyt integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-10-28T16:03:13Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132831562",
           "assignee": "Alberto Poyato"
         },
         {
