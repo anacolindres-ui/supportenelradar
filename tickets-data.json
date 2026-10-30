@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-30T03:16:29.791350+00:00",
-  "totalOpenTickets": 107,
+  "lastUpdated": "2026-10-30T04:15:53.059684+00:00",
+  "totalOpenTickets": 108,
   "totalClosedTickets": 3958,
   "closedWindowDays": 30,
   "byLocation": [
@@ -164,6 +164,18 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000132939880",
+      "number": "366081",
+      "subject": "Uber Case# 61249209-LastApp - uber integration request",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-10-30T04:02:55Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132939880",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000132943039",
       "number": "366076",
@@ -2551,21 +2563,9 @@
       "assignee": "Brayan Ricardo Fuentes Herrera",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000132789584",
-      "number": "365737",
-      "subject": "Llamada saliente (00:00:20) de +34937377821 (Soporte) a +34643060968 ( Luigi)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-10-28T14:43:55Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132789584",
-      "assignee": "Raimundo Garcia",
-      "accountName": "SANTA NAPOLI",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 2635,
+  "locationIdIssuesTotal": 2636,
   "byContact": [
     {
       "contactId": "45842000107314561",
@@ -5663,11 +5663,21 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 6,
+      "openCount": 7,
       "onHoldCount": 0,
       "closedCount": 282,
-      "totalCount": 288,
+      "totalCount": 289,
       "tickets": [
+        {
+          "id": "45842000132939880",
+          "number": "366081",
+          "subject": "Uber Case# 61249209-LastApp - uber integration request",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-10-30T04:02:55Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132939880",
+          "assignee": ""
+        },
         {
           "id": "45842000132934685",
           "number": "366044",
@@ -5779,16 +5789,6 @@
           "assignee": "Raimundo Garcia"
         },
         {
-          "id": "45842000132831562",
-          "number": "365769",
-          "subject": "JCDEP-946 LastApp - flyt integration request",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-10-28T16:03:13Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132831562",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000132829981",
           "number": "365770",
           "subject": "JCDEP-945 LastApp - flyt integration request",
@@ -5796,6 +5796,16 @@
           "channel": "Email",
           "createdTime": "2026-10-28T16:03:13Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132829981",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000132831562",
+          "number": "365769",
+          "subject": "JCDEP-946 LastApp - flyt integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-10-28T16:03:13Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132831562",
           "assignee": "Alberto Poyato"
         },
         {
