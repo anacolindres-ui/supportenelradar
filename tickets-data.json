@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-31T18:12:53.335033+00:00",
-  "totalOpenTickets": 157,
-  "totalClosedTickets": 4029,
+  "lastUpdated": "2026-10-31T19:08:44.157799+00:00",
+  "totalOpenTickets": 159,
+  "totalClosedTickets": 4028,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -309,6 +309,18 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000132972750",
+      "number": "366486",
+      "subject": "Podéis hacer del menú Macas nuevo en paseo de la Florida y Macas Alcalá",
+      "status": "Open",
+      "channel": "Last.app España",
+      "createdTime": "2026-10-31T19:05:05Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132972750",
+      "assignee": "",
+      "accountName": "FABRICA CHEF",
+      "locationId": ""
+    },
     {
       "id": "45842000132989910",
       "number": "366484",
@@ -2696,21 +2708,9 @@
       "assignee": "Alberto Poyato",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000132874842",
-      "number": "366169",
-      "subject": "Llamada entrante (00:04:30) de +34601465931 ( 34601465931) a +34937377821 (Soporte)",
-      "status": "Closed",
-      "channel": "Phone",
-      "createdTime": "2026-10-30T09:54:37Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132874842",
-      "assignee": "Javier Landaeta",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 2835,
+  "locationIdIssuesTotal": 2836,
   "byContact": [
     {
       "contactId": "45842000132974964",
@@ -3266,11 +3266,21 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 121,
+      "openCount": 122,
       "onHoldCount": 1,
       "closedCount": 1687,
-      "totalCount": 1809,
+      "totalCount": 1810,
       "tickets": [
+        {
+          "id": "45842000132972750",
+          "number": "366486",
+          "subject": "Podéis hacer del menú Macas nuevo en paseo de la Florida y Macas Alcalá",
+          "status": "Open",
+          "channel": "Last.app España",
+          "createdTime": "2026-10-31T19:05:05Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132972750",
+          "assignee": ""
+        },
         {
           "id": "45842000132989910",
           "number": "366484",
@@ -6446,9 +6456,9 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 13,
+      "openCount": 14,
       "onHoldCount": 0,
-      "closedCount": 264,
+      "closedCount": 263,
       "totalCount": 277,
       "tickets": [
         {
@@ -6555,7 +6565,7 @@
           "id": "45842000132939880",
           "number": "366081",
           "subject": "Uber Case# 61249209-LastApp - uber integration request",
-          "status": "Closed",
+          "status": "Open",
           "channel": "Email",
           "createdTime": "2026-10-30T04:02:55Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132939880",
@@ -7032,16 +7042,6 @@
           "assignee": ""
         },
         {
-          "id": "45842000132686884",
-          "number": "365144",
-          "subject": "JCDEP-945 LastApp - flyt integration request",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-10-27T09:17:18Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132686884",
-          "assignee": ""
-        },
-        {
           "id": "45842000132696800",
           "number": "365145",
           "subject": "JCDEP-947 LastApp - flyt integration request",
@@ -7049,6 +7049,16 @@
           "channel": "Email",
           "createdTime": "2026-10-27T09:17:18Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132696800",
+          "assignee": ""
+        },
+        {
+          "id": "45842000132686884",
+          "number": "365144",
+          "subject": "JCDEP-945 LastApp - flyt integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-10-27T09:17:18Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132686884",
           "assignee": ""
         },
         {
@@ -7169,6 +7179,16 @@
           "channel": "Email",
           "createdTime": "2026-10-25T22:00:29Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132616927",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000132616863",
+          "number": "364636",
+          "subject": "LastApp - glovo integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-10-25T21:52:52Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132616863",
           "assignee": "Trinidad Larrain Punti"
         },
         {
