@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-31T03:13:00.671421+00:00",
-  "totalOpenTickets": 137,
+  "lastUpdated": "2026-10-31T04:13:26.836619+00:00",
+  "totalOpenTickets": 138,
   "totalClosedTickets": 3996,
   "closedWindowDays": 30,
   "byLocation": [
@@ -309,6 +309,18 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000132966979",
+      "number": "366402",
+      "subject": "Uber Case# 61277498-LastApp - uber integration request",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-10-31T03:33:39Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132966979",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000132986469",
       "number": "366399",
@@ -2614,13 +2626,13 @@
       "locationId": ""
     },
     {
-      "id": "45842000132946285",
-      "number": "366104",
-      "subject": "JCDEP-1260 LastApp - flyt integration deleted",
+      "id": "45842000132945296",
+      "number": "366106",
+      "subject": "JCDEP-1261 LastApp - flyt integration deleted",
       "status": "Closed",
       "channel": "Email",
       "createdTime": "2026-10-30T06:31:19Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132946285",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132945296",
       "assignee": "",
       "accountName": "",
       "locationId": ""
@@ -2638,25 +2650,13 @@
       "locationId": ""
     },
     {
-      "id": "45842000132945296",
-      "number": "366106",
-      "subject": "JCDEP-1261 LastApp - flyt integration deleted",
+      "id": "45842000132946285",
+      "number": "366104",
+      "subject": "JCDEP-1260 LastApp - flyt integration deleted",
       "status": "Closed",
       "channel": "Email",
       "createdTime": "2026-10-30T06:31:19Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132945296",
-      "assignee": "",
-      "accountName": "",
-      "locationId": ""
-    },
-    {
-      "id": "45842000132944221",
-      "number": "366102",
-      "subject": "JCDEP-1259 LastApp - flyt integration deleted",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-10-30T06:31:18Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132944221",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132946285",
       "assignee": "",
       "accountName": "",
       "locationId": ""
@@ -2669,6 +2669,18 @@
       "channel": "Email",
       "createdTime": "2026-10-30T06:31:18Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132936870",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
+    {
+      "id": "45842000132944221",
+      "number": "366102",
+      "subject": "JCDEP-1259 LastApp - flyt integration deleted",
+      "status": "Closed",
+      "channel": "Email",
+      "createdTime": "2026-10-30T06:31:18Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132944221",
       "assignee": "",
       "accountName": "",
       "locationId": ""
@@ -2696,21 +2708,9 @@
       "assignee": "",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000132946222",
-      "number": "366099",
-      "subject": "JCDEP-1255 LastApp - flyt integration deleted",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-10-30T06:31:17Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132946222",
-      "assignee": "",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 2788,
+  "locationIdIssuesTotal": 2789,
   "byContact": [
     {
       "contactId": "45842000107314561",
@@ -4074,16 +4074,6 @@
           "assignee": "Fernando Poza"
         },
         {
-          "id": "45842000132936811",
-          "number": "366096",
-          "subject": "LastApp - glovo integration deleted",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-10-30T06:30:35Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132936811",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
           "id": "45842000132946039",
           "number": "366094",
           "subject": "LastApp - glovo integration deleted",
@@ -4091,6 +4081,16 @@
           "channel": "Email",
           "createdTime": "2026-10-30T06:30:35Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132946039",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000132936811",
+          "number": "366096",
+          "subject": "LastApp - glovo integration deleted",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-10-30T06:30:35Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132936811",
           "assignee": "Trinidad Larrain Punti"
         },
         {
@@ -6218,11 +6218,21 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 8,
+      "openCount": 9,
       "onHoldCount": 0,
       "closedCount": 265,
-      "totalCount": 273,
+      "totalCount": 274,
       "tickets": [
+        {
+          "id": "45842000132966979",
+          "number": "366402",
+          "subject": "Uber Case# 61277498-LastApp - uber integration request",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-10-31T03:33:39Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132966979",
+          "assignee": ""
+        },
         {
           "id": "45842000132966208",
           "number": "366308",
@@ -6764,16 +6774,6 @@
           "assignee": ""
         },
         {
-          "id": "45842000132686884",
-          "number": "365144",
-          "subject": "JCDEP-945 LastApp - flyt integration request",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-10-27T09:17:18Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132686884",
-          "assignee": ""
-        },
-        {
           "id": "45842000132696800",
           "number": "365145",
           "subject": "JCDEP-947 LastApp - flyt integration request",
@@ -6781,6 +6781,16 @@
           "channel": "Email",
           "createdTime": "2026-10-27T09:17:18Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132696800",
+          "assignee": ""
+        },
+        {
+          "id": "45842000132686884",
+          "number": "365144",
+          "subject": "JCDEP-945 LastApp - flyt integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-10-27T09:17:18Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132686884",
           "assignee": ""
         },
         {
