@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-03T05:12:38.568513+00:00",
-  "totalOpenTickets": 123,
+  "lastUpdated": "2026-11-03T06:19:56.280414+00:00",
+  "totalOpenTickets": 124,
   "totalClosedTickets": 4076,
   "closedWindowDays": 30,
   "byLocation": [
@@ -238,6 +238,18 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000133087001",
+      "number": "366893",
+      "subject": "Uber Case# 61350896-LastApp - uber integration request",
+      "status": "Open",
+      "channel": "Email",
+      "createdTime": "2026-11-03T05:25:08Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000133087001",
+      "assignee": "",
+      "accountName": "",
+      "locationId": ""
+    },
     {
       "id": "45842000133069363",
       "number": "366888",
@@ -2625,21 +2637,9 @@
       "assignee": "Trinidad Larrain Punti",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000133000243",
-      "number": "366503",
-      "subject": "DiaInternacionalDe - Newsletter n.291. Semana del 02/11/2026 al 08/11/2026",
-      "status": "Closed",
-      "channel": "Email",
-      "createdTime": "2026-10-31T23:56:26Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000133000243",
-      "assignee": "",
-      "accountName": "",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 2977,
+  "locationIdIssuesTotal": 2978,
   "byContact": [
     {
       "contactId": "45842000103895454",
@@ -3883,16 +3883,6 @@
           "assignee": "Fernando Poza"
         },
         {
-          "id": "45842000132936811",
-          "number": "366096",
-          "subject": "LastApp - glovo integration deleted",
-          "status": "Open",
-          "channel": "Email",
-          "createdTime": "2026-10-30T06:30:35Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132936811",
-          "assignee": "Trinidad Larrain Punti"
-        },
-        {
           "id": "45842000132946039",
           "number": "366094",
           "subject": "LastApp - glovo integration deleted",
@@ -3900,6 +3890,16 @@
           "channel": "Email",
           "createdTime": "2026-10-30T06:30:35Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132946039",
+          "assignee": "Trinidad Larrain Punti"
+        },
+        {
+          "id": "45842000132936811",
+          "number": "366096",
+          "subject": "LastApp - glovo integration deleted",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-10-30T06:30:35Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132936811",
           "assignee": "Trinidad Larrain Punti"
         },
         {
@@ -5897,11 +5897,21 @@
     },
     {
       "classification": "Integration Process",
-      "openCount": 4,
+      "openCount": 5,
       "onHoldCount": 0,
       "closedCount": 280,
-      "totalCount": 284,
+      "totalCount": 285,
       "tickets": [
+        {
+          "id": "45842000133087001",
+          "number": "366893",
+          "subject": "Uber Case# 61350896-LastApp - uber integration request",
+          "status": "Open",
+          "channel": "Email",
+          "createdTime": "2026-11-03T05:25:08Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000133087001",
+          "assignee": ""
+        },
         {
           "id": "45842000133067487",
           "number": "366866",
@@ -5913,16 +5923,6 @@
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
-          "id": "45842000133052990",
-          "number": "366827",
-          "subject": "JCDEP-949 LastApp - flyt integration request",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-11-02T17:11:51Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000133052990",
-          "assignee": "Johan Manuel Cortissoz Posada"
-        },
-        {
           "id": "45842000133054872",
           "number": "366826",
           "subject": "JCDEP-948 LastApp - flyt integration request",
@@ -5930,6 +5930,16 @@
           "channel": "Email",
           "createdTime": "2026-11-02T17:11:51Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000133054872",
+          "assignee": "Johan Manuel Cortissoz Posada"
+        },
+        {
+          "id": "45842000133052990",
+          "number": "366827",
+          "subject": "JCDEP-949 LastApp - flyt integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-11-02T17:11:51Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000133052990",
           "assignee": "Johan Manuel Cortissoz Posada"
         },
         {
@@ -6303,16 +6313,6 @@
           "assignee": "Raimundo Garcia"
         },
         {
-          "id": "45842000132829981",
-          "number": "365770",
-          "subject": "JCDEP-945 LastApp - flyt integration request",
-          "status": "Closed",
-          "channel": "Email",
-          "createdTime": "2026-10-28T16:03:13Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132829981",
-          "assignee": "Alberto Poyato"
-        },
-        {
           "id": "45842000132831562",
           "number": "365769",
           "subject": "JCDEP-946 LastApp - flyt integration request",
@@ -6320,6 +6320,16 @@
           "channel": "Email",
           "createdTime": "2026-10-28T16:03:13Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132831562",
+          "assignee": "Alberto Poyato"
+        },
+        {
+          "id": "45842000132829981",
+          "number": "365770",
+          "subject": "JCDEP-945 LastApp - flyt integration request",
+          "status": "Closed",
+          "channel": "Email",
+          "createdTime": "2026-10-28T16:03:13Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000132829981",
           "assignee": "Alberto Poyato"
         },
         {
