@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-10T01:12:00.993464+00:00",
+  "lastUpdated": "2026-11-10T02:16:31.112419+00:00",
   "totalOpenTickets": 240,
-  "totalClosedTickets": 4350,
+  "totalClosedTickets": 4351,
   "closedWindowDays": 30,
   "byLocation": [
     {
@@ -608,6 +608,18 @@
     }
   ],
   "locationIdIssues": [
+    {
+      "id": "45842000133492214",
+      "number": "368811",
+      "subject": "Holaaaa",
+      "status": "Closed",
+      "channel": "Last.app Mexico",
+      "createdTime": "2026-11-10T01:33:29Z",
+      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000133492214",
+      "assignee": "Dimitriz Rodriguez",
+      "accountName": "Los Plebes Wings",
+      "locationId": ""
+    },
     {
       "id": "45842000133495057",
       "number": "368808",
@@ -2856,7 +2868,7 @@
       "id": "45842000133379371",
       "number": "368523",
       "subject": "El usuario solicita repetidamente un informe de facturación mensual dividido por tienda. Ya se generó un Excel con filas por mes+tienda (facturacion_mensual_2026_por_tienda.xlsx), pero parece que lo que necesita es un formato matriz/pivote (meses...",
-      "status": "On Hold",
+      "status": "Open",
       "channel": "Chat",
       "createdTime": "2026-11-08T21:27:27Z",
       "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000133379371",
@@ -2995,21 +3007,9 @@
       "assignee": "Dimitriz Rodriguez",
       "accountName": "",
       "locationId": ""
-    },
-    {
-      "id": "45842000133412208",
-      "number": "368511",
-      "subject": "Hola",
-      "status": "Closed",
-      "channel": "Last.app España",
-      "createdTime": "2026-11-08T18:53:20Z",
-      "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000133412208",
-      "assignee": "Johan Manuel Cortissoz Posada",
-      "accountName": "Restaurante Souvenir Madrid",
-      "locationId": ""
     }
   ],
-  "locationIdIssuesTotal": 3892,
+  "locationIdIssuesTotal": 3893,
   "byContact": [
     {
       "contactId": "45842000087821610",
@@ -3895,11 +3895,21 @@
   "byClassification": [
     {
       "classification": "Sin clasificar",
-      "openCount": 189,
-      "onHoldCount": 4,
-      "closedCount": 2472,
-      "totalCount": 2665,
+      "openCount": 190,
+      "onHoldCount": 3,
+      "closedCount": 2473,
+      "totalCount": 2666,
       "tickets": [
+        {
+          "id": "45842000133492214",
+          "number": "368811",
+          "subject": "Holaaaa",
+          "status": "Closed",
+          "channel": "Last.app Mexico",
+          "createdTime": "2026-11-10T01:33:29Z",
+          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000133492214",
+          "assignee": "Dimitriz Rodriguez"
+        },
         {
           "id": "45842000133495057",
           "number": "368808",
@@ -4761,16 +4771,6 @@
           "assignee": "Alberto Poyato"
         },
         {
-          "id": "45842000133432266",
-          "number": "368625",
-          "subject": "1767906184319450.jpeg",
-          "status": "Closed",
-          "channel": "Last.app España",
-          "createdTime": "2026-11-09T11:07:12Z",
-          "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000133432266",
-          "assignee": "Angie Oliveros"
-        },
-        {
           "id": "45842000133463297",
           "number": "368624",
           "subject": "Llamada saliente (00:00:05) de +34937377821 (Soporte) a +34622236760 ( Debby's Good Veggie Food)",
@@ -4894,7 +4894,7 @@
           "id": "45842000133379371",
           "number": "368523",
           "subject": "El usuario solicita repetidamente un informe de facturación mensual dividido por tienda. Ya se generó un Excel con filas por mes+tienda (facturacion_mensual_2026_por_tienda.xlsx), pero parece que lo que necesita es un formato matriz/pivote (meses...",
-          "status": "On Hold",
+          "status": "Open",
           "channel": "Chat",
           "createdTime": "2026-11-08T21:27:27Z",
           "url": "https://desk.last.app/support/lastapp/ShowHomePage.do#Cases/dv/45842000133379371",
